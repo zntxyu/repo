@@ -47,19 +47,3 @@ Description: keepsolid vpn lifetime active the best vpn no dns leaks much better
 Author: stem grade
 Name: keepsolid
 
-Package: com.gfp.powerloghelperdfix
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: opa334
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.gfp.powerloghelperdfix_1.0_iphoneos-arm.deb
-Size: 5356
-MD5sum: d21564b74fd3a8c2be98781494bdfbf4
-SHA1: 2f494fbcf803ab04a760ba6750f405e22be50432
-SHA256: 23b5e337ad8ad7f038d4bcd790207b593da64e25e9c5276560c51b17b39f695c
-Section: Tweaks
-Description: Block tweak injection into powerlogHelperd!
-Author: opa334
-Name: powerlogHelperdFix
-
