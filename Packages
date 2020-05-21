@@ -1,36 +1,3 @@
-Package: ch.mdaus.sylph
-Version: 1.3~Beta.1
-Architecture: iphoneos-arm
-Maintainer: Max Dausch <max.dausch@gmail.com>
-Installed-Size: 400
-Depends: mobilesubstrate, ch.mdaus.utils (>= 0.0.4)
-Filename: ./debs/ch.mdaus.sylph_1.3~Beta.1_iphoneos-arm.deb
-Size: 72262
-MD5sum: 93bf285b77c3ceefd518556529f85aa7
-SHA1: 80654e2ce4cb590eca01fba1d0ce3ed421b09fc3
-SHA256: f6ad90a74003c529b0132da62fd5d50435a622482e8a8f44c144217aabb97318
-Section: Tweaks
-Description: Customize your LS music player
-Author: Max Dausch <max.dausch@gmail.com>
-Depiction: http://repo.daus.ch/depictions/?p=ch.mdaus.sylph
-Name: Sylph
-
-Package: ch.mdaus.utils
-Version: 0.0.4
-Architecture: iphoneos-arm
-Maintainer: Maxwell Dausch <max.dausch@gmail.com>
-Installed-Size: 236
-Filename: ./debs/ch.mdaus.utils_0.0.4_iphoneos-arm.deb
-Size: 13304
-MD5sum: c9e92bdaa35583767938a7b9dac53fae
-SHA1: 2eea9c551eb3fa660a54b06fb49f67cdc754c37c
-SHA256: 30ed3901941278ee5e0521a8c2815a0432a3ba12d6e101614dec93fc1b195eac
-Section: System
-Description: A collection of common functions for my tweaks. More documentation will be coming soon.
-Tag: role::developer
-Author: Maxwell Dausch <max.dausch@gmail.com>
-Name: MDausch Utils
-
 Package: com.180.keepsolid
 Version: 0.0.1
 Architecture: iphoneos-arm
