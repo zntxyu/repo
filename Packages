@@ -1,0 +1,16 @@
+Package: com.180.keepsolid
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Installed-Size: 408
+Depends: mobilesubstrate
+Filename: ./debs/180.keepsolid_0.0.1.deb
+Size: 31744
+MD5sum: 0a778ae0cfea8f8591a0e3d5763323d1
+SHA1: be96d7285b95665ddc19c0020f6ab10b10324121
+SHA256: 5ad9a3064c197ba104024f2b63e3181d88d3dee0bc49ed5a85289c4c95c5ee40
+Section: Tweaks
+Description: keepsolid vpn lifetime active the best vpn no dns leaks much better that betternet vpn
+Author: stem grade
+Name: keepsolid
+
