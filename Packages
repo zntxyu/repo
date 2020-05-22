@@ -70,6 +70,22 @@ Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.haoict.facebooknoads
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.haoict.facebooknoads_0.0.1_iphoneos-arm.deb
+Size: 3556
+MD5sum: 7abc9edc2d418f6a37983a857e0e76c4
+SHA1: 32e0ad1922eb10bd895864e2df013d3eb0b94e44
+SHA256: 8268d12e675a324a6e57a2b48865b4069960a9206d2c96fb5585b484ab590d61
+Section: Tweaks
+Description: Hide Ads on Facebook app
+Author: Hao Nguyen
+Name: Facebook No Ads
+
 Package: com.julioverne.spotilife
 Version: 1.1a
 Architecture: iphoneos-arm
@@ -102,6 +118,22 @@ Section: Tweaks
 Description: Get rid of the "fat" iOS 13 Volume HUD state
 Author: level3tjg
 Name: SlimVolumeHUD
+
+Package: com.michael.appleturboboost
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/com.michael.appleturboboost_0.5.1_iphoneos-arm.deb
+Size: 1936
+MD5sum: 44144c0b5e81a0de66a9a7233b0d3841
+SHA1: 9b150e8975a2b270e59f1607a2dfb6b4fc5ab64c
+SHA256: cd002db26cdd4863cee68ebfd75a32dffc1659eb9e16a3a2478202522a2da2c2
+Section: Tweaks
+Description: Turbo Boost Your Apple!
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
 
 Package: com.opa334.powerloghelperdfix
 Version: 1.0
@@ -188,4 +220,25 @@ Icon: https://ios.jjolano.me/assets/me.jjolano.shadow/icon.png
 Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
 Name: Shadow
 Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+
+Package: net.angelxwind.appsyncunified
+Version: 76.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/net.angelxwind.appsyncunified_76.0_iphoneos-arm.deb
+Size: 42050
+MD5sum: 929ecb7a6ee19fa8023fb75e615533a9
+SHA1: f02380793e8f9dffbfede00c49ad4dc4ad9e9023
+SHA256: df94944dd2a032342eeeefa6c738c82bde4c9868e1b4b3fdc7fa2154b773a0f4
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
 
