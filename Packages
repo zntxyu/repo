@@ -50,6 +50,24 @@ Description: keepsolid vpn lifetime active the best vpn no dns leaks much better
 Author: stem grade
 Name: keepsolid
 
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.10
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.10_iphoneos-ar.deb
+Size: 608126
+MD5sum: cdb73a24e5db29a6259cde92aacfaa89
+SHA1: cfcafb1f2e2d313832e9c0e4ba665c3f6c1b5ddf
+SHA256: eeafa26d468f43a4019cefa93dc03516b71edc09479d986bf3f89b5860688ae2
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
 Package: com.exile90.icleanerpro
 Version: 7.8.2
 Architecture: iphoneos-arm
@@ -85,6 +103,24 @@ Section: Tweaks
 Description: Hide Ads on Facebook app
 Author: Hao Nguyen
 Name: Facebook No Ads
+
+Package: com.julioverne.cydown
+Version: 7.1.0
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.cydown_7.1.0_iphoneos-arm.deb
+Size: 4325614
+MD5sum: abfcd6c91010d2ffc72575a5afa59d96
+SHA1: 8a319c42088dd119d506c40648ce6304dc342dbd
+SHA256: e7c908c61d146c2d22e68db6488162111ef62b8fa61c2de1744c977ec7f5a138
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
 
 Package: com.julioverne.spotilife
 Version: 1.1a
@@ -200,6 +236,21 @@ Section: Tweaks
 Description: Filza crack
 Author: xia0z
 Name: xkfilza
+
+Package: com.yourepo.jpet26.youtubetools1
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Justin Petkovic <justinpetkovic1994@outlook.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.jpet26.youtubetools1_4.0_iphoneos-arm.deb
+Size: 21378
+MD5sum: 82b00c00f9721e92ad2046d43a74fe24
+SHA1: 70a7161a9cca20fb79a432f077bcd5e65ce7faf3
+SHA256: d6cf54e23dfad95c93c1d30abb0b9f6d8532146dc6689de4fb9c2c0018feaa40
+Section: Tweaks
+Description: Essential toolbox for YouTube app.
+Author: Justin Petkovic <justinpetkovic1994@outlook.com>
+Name: YouTube Tools
 
 Package: me.jjolano.shadow
 Version: 2.0.20
