@@ -34,22 +34,6 @@ Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.c
 Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
 Name: Eyeplugs
 
-Package: com.180.keepsolid
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: stem grade
-Installed-Size: 408
-Depends: mobilesubstrate
-Filename: ./debs/com.180.keepsolid_0.0.1_iphoneos-arm.deb
-Size: 43004
-MD5sum: 51ca5059b43ab36f06ddc9306b07fc68
-SHA1: f15570d76bbc0e1dc3a0242625b765e37eae70d0
-SHA256: 986b9764eb1ba61d8d47657f0619b2e8ac4dec72b0157ba6660f9c9135ddd9c6
-Section: Tweaks
-Description: Vpn Umlimited Hack
-Author: stem grade
-Name: Vpn Umlimited Hack
-
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.10
 Architecture: iphoneos-arm
