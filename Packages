@@ -205,17 +205,17 @@ Author: subdiox
 Name: StoreSwitcher 2
 
 Package: com.tigisoftware.filza
-Version: 3.7.5-10
+Version: 3.7.5-12
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Installed-Size: 31148
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/com.tigisoftware.filza_3.7.5-10_iphoneos-arm.deb
-Size: 12803772
-MD5sum: 452faaa12ef0f82f7ae945206bf1bf85
-SHA1: 7e3ee265d1d2f4aef2b544610777d8150205f75e
-SHA256: 0d19d7c872ce94f0610dc09925a2b47c4fca5647ddcf6b02716f483225f63232
+Filename: ./debs/com.tigisoftware.filza_3.7.5-12_iphoneos-arm.deb
+Size: 12805160
+MD5sum: 3a0acb2e8d0d988ba7da143b7e022d77
+SHA1: f7a4e41e0543e49d7b10d4bfd8c8a681ecef42b4
+SHA256: 52302ca6a114cd10bf6b6a55d60ded8dc8969de91a8196d4a54556e0fab69c54
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
