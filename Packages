@@ -41,14 +41,14 @@ Maintainer: stem grade
 Installed-Size: 408
 Depends: mobilesubstrate
 Filename: ./debs/com.180.keepsolid_0.0.1_iphoneos-arm.deb
-Size: 31744
-MD5sum: 0a778ae0cfea8f8591a0e3d5763323d1
-SHA1: be96d7285b95665ddc19c0020f6ab10b10324121
-SHA256: 5ad9a3064c197ba104024f2b63e3181d88d3dee0bc49ed5a85289c4c95c5ee40
+Size: 43004
+MD5sum: 51ca5059b43ab36f06ddc9306b07fc68
+SHA1: f15570d76bbc0e1dc3a0242625b765e37eae70d0
+SHA256: 986b9764eb1ba61d8d47657f0619b2e8ac4dec72b0157ba6660f9c9135ddd9c6
 Section: Tweaks
-Description: keepsolid vpn lifetime active the best vpn no dns leaks much better that betternet vpn
+Description: Vpn Umlimited Hack
 Author: stem grade
-Name: keepsolid
+Name: Vpn Umlimited Hack
 
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.10
@@ -128,15 +128,15 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: mobilesubstrate
 Filename: ./debs/com.julioverne.spotilife_1.1a_iphoneos-arm.deb
-Size: 201134
-MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
-SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
-SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
+Size: 201160
+MD5sum: 176e38f681542c0616625b665e6ed343
+SHA1: e8aecca4e33b9b932990b1ad0d39ba53ebd28a5a
+SHA256: 6d0a1b3dea8a126ded3e0dd2282eed58f8f3c5a1552217b0ea001da05767a6ab
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
 Author: julioverne
-Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+Depiction: Spotiflife去广告开启最高音质
 Name: Spotilife
 
 Package: com.level3tjg.slimvolumehud
