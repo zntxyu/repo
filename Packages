@@ -250,19 +250,15 @@ Architecture: iphoneos-arm
 Maintainer: jjolano <jjolano@me.com>
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
 Filename: ./debs/me.jjolano.shadow_2.0.20_iphoneos-arm.deb
-Size: 250054
-MD5sum: 05ae8facd56cc46b72837c4e95145874
-SHA1: 390069d1be05fec40d119f554faf26655688df92
-SHA256: 9235941ea8fbe40adde9a172701e9a381b65111e13291147f070698477da6d25
+Size: 249998
+MD5sum: e173f3068d9fe07f69c3f98dcde5ba70
+SHA1: 2a6f02e529616cdc010a0b3fb9dbf143c1cc3919
+SHA256: e11640d50eafd72a1b8b3a7124b8eab0c386baf77173618dd91221dc82ae7303
 Section: Tweaks
 Homepage: https://shuga.co/
 Description: A lightweight general jailbreak detection bypass.
 Author: jjolano <jjolano@me.com>
-Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.shadow.html
-Icon: https://ios.jjolano.me/assets/me.jjolano.shadow/icon.png
-Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
 Name: Shadow
-Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
 
 Package: net.angelxwind.appsyncunified
 Version: 76.0
