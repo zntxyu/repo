@@ -24,15 +24,30 @@ Installed-Size: 488
 Pre-Depends: firmware (>= 9.0)
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debs/ca.kirara.voltage_1.6.2_iphoneos-arm.deb
-Size: 33422
-MD5sum: 5bbd1a15b08c58ea6c167b10d9cb0702
-SHA1: a2bc621d66090bd34abf7f64dec5153e6e7e8971
-SHA256: 1e9bd7a8f89c59d291217dd09b3ba7b8b92b9715f9e260f1c9eb82eb75df7337
+Size: 55750
+MD5sum: 50081c04bec5d426e55de551caa6d43d
+SHA1: 0f5b043f8748a39af3bbbf74485d4839fe63d3ea
+SHA256: 72ce07bbc6aaeb65d84ba0a11b4211745b2b7f334e8bf4e26c2d8a4eb0ab07fa
 Section: Tweaks
 Description: suppress banners in apps
 Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
-Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
 Name: Eyeplugs
+
+Package: com.180.keepsolid
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Installed-Size: 408
+Depends: mobilesubstrate
+Filename: ./debs/com.180.keepsolid_0.0.1_iphoneos-arm.deb
+Size: 43004
+MD5sum: 51ca5059b43ab36f06ddc9306b07fc68
+SHA1: f15570d76bbc0e1dc3a0242625b765e37eae70d0
+SHA256: 986b9764eb1ba61d8d47657f0619b2e8ac4dec72b0157ba6660f9c9135ddd9c6
+Section: Tweaks
+Description: Vpn Umlimited Hack
+Author: stem grade
+Name: Vpn Umlimited Hack
 
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.10
@@ -94,15 +109,13 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.cydown_7.1.0_iphoneos-arm.deb
-Size: 4325614
-MD5sum: abfcd6c91010d2ffc72575a5afa59d96
-SHA1: 8a319c42088dd119d506c40648ce6304dc342dbd
-SHA256: e7c908c61d146c2d22e68db6488162111ef62b8fa61c2de1744c977ec7f5a138
+Size: 4325562
+MD5sum: 3ee4304a49e10813794e128fada092e1
+SHA1: 0cb8d273769dba03fb5ae8dc23d6231902783d29
+SHA256: fa2a732a8d8618a50b6119c4da082b1645322708f75068ef027f13973b373b26
 Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne <julioverne@me.com>
-Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
@@ -112,15 +125,13 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: mobilesubstrate
 Filename: ./debs/com.julioverne.spotilife_1.1a_iphoneos-arm.deb
-Size: 201160
-MD5sum: 176e38f681542c0616625b665e6ed343
-SHA1: e8aecca4e33b9b932990b1ad0d39ba53ebd28a5a
-SHA256: 6d0a1b3dea8a126ded3e0dd2282eed58f8f3c5a1552217b0ea001da05767a6ab
+Size: 201080
+MD5sum: 9803ef7aafc5fe269a56a6a03f9bdfd8
+SHA1: 732ea2ea4a991c26e713064346e8be9b55713ba2
+SHA256: 76d51b7030bff47a5214b433f0fb873cad4f36acac76490b36de99fb2d1a5938
 Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
 Author: julioverne
-Depiction: Spotiflife去广告开启最高音质
 Name: Spotilife
 
 Package: com.level3tjg.slimvolumehud
@@ -162,15 +173,14 @@ Maintainer: opa334
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.opa334.powerloghelperdfix_1.0_iphoneos-arm.deb
-Size: 3344
-MD5sum: 05378ef29b1af1723a1ef69a146e17f8
-SHA1: 28afd1239a2fbd18da6efffba7ae25dc11a4539e
-SHA256: 2e3fe2a753ae5514b1f81cb322c3736ecb5109256f47beaa3532aaff134b79d5
+Size: 5354
+MD5sum: 59437d32ebf5beb1355a8cce8054a9d0
+SHA1: eba77ad89c6f8adecc1f9e7bf30057b19cc0d033
+SHA256: b01c216789ff4a735f0335d4d4e1f58f628e08b3b8737fda338333554e6e4ba2
 Section: Tweaks
 Description: Block tweak injection into powerlogHelperd!
 Author: opa334
-Depiction: https://opa334.github.io/depic/powerlogHelperdFix/index.html
-Name: powerlogHelperdFix
+Name: PowerlogHelperdFix
 
 Package: com.subdiox.storeswitcher2
 Version: 1.0.3
