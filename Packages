@@ -250,12 +250,11 @@ Architecture: iphoneos-arm
 Maintainer: jjolano <jjolano@me.com>
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
 Filename: ./debs/me.jjolano.shadow_2.0.20_iphoneos-arm.deb
-Size: 249998
-MD5sum: e173f3068d9fe07f69c3f98dcde5ba70
-SHA1: 2a6f02e529616cdc010a0b3fb9dbf143c1cc3919
-SHA256: e11640d50eafd72a1b8b3a7124b8eab0c386baf77173618dd91221dc82ae7303
+Size: 249976
+MD5sum: 332ca526c2dcdeeb62cf754fc4bda7f8
+SHA1: a6d70fddf2c6b599c673d110cfe8915661270643
+SHA256: 989d911f3993ca3054df9bb1b1b66f45206d7619502e0e6c817dd2ae33d34f14
 Section: Tweaks
-Homepage: https://shuga.co/
 Description: A lightweight general jailbreak detection bypass.
 Author: jjolano <jjolano@me.com>
 Name: Shadow
@@ -270,12 +269,11 @@ Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.ap
 Replaces: us.hackulo.appsync50
 Provides: appsync
 Filename: ./debs/net.angelxwind.appsyncunified_76.0_iphoneos-arm.deb
-Size: 64100
-MD5sum: e894082b4ef1b51ab5ce6afc18058810
-SHA1: 8472df801321dddb65e192c72378aa157c182dd6
-SHA256: 8fe24369613b60801dd94fdd9c5d4a8f9d927989029134104a4faa284b0191d1
+Size: 64084
+MD5sum: 52438b5175072df888176649d17016b2
+SHA1: 82f3e0b28afb8d6567bd0a13ef7546df3a2eacd2
+SHA256: d551271d16314ecb30cce7869f98d00536dad457edc22925bcd7ac36c9c920ad
 Section: Tweaks
-Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Name: AppSync Unified
