@@ -67,6 +67,23 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
 
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.10
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.10_iphoneos-arm.deb
+Size: 605990
+MD5sum: b5a824830475f5199a2fbbd65029bee3
+SHA1: 46e3371d3cfca1f6827a61753394949002e25eb0
+SHA256: 64984bd6d4bfe3ad77b49a87a53f52cd4634cac491547d9c3618ddbcfef632d9
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Name: AppStore++
+
 Package: com.exile90.icleanerpro
 Version: 7.8.2
 Architecture: iphoneos-arm
@@ -75,15 +92,14 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/com.exile90.icleanerpro_7.8.2_iphoneos-arm.deb
-Size: 6557578
-MD5sum: 2967fdbb6c3c65b7a1d00523136e7b58
-SHA1: 0eed6fcaf5e77dc5338e5b9da01d0e8786d662f1
-SHA256: 4e2f3600be5bc7253bdc890fe156d75a2e697a6e5404f549a01f65917d01f8c4
+Size: 9658594
+MD5sum: 5b2b350b9ad009f58d0a6ffef722960f
+SHA1: 6661b411536c51f12a96984d48ef37e49f47b390
+SHA256: a9323fd94440169ac7da83cd05569b96eb721e83ba034b521fb4dde0421f5e5b
 Section: Utilities
 Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
@@ -276,14 +292,13 @@ Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.ap
 Replaces: us.hackulo.appsync50
 Provides: appsync
 Filename: ./debs/net.angelxwind.appsyncunified_76.0_iphoneos-arm.deb
-Size: 42050
-MD5sum: 929ecb7a6ee19fa8023fb75e615533a9
-SHA1: f02380793e8f9dffbfede00c49ad4dc4ad9e9023
-SHA256: df94944dd2a032342eeeefa6c738c82bde4c9868e1b4b3fdc7fa2154b773a0f4
+Size: 64100
+MD5sum: e894082b4ef1b51ab5ce6afc18058810
+SHA1: 8472df801321dddb65e192c72378aa157c182dd6
+SHA256: 8fe24369613b60801dd94fdd9c5d4a8f9d927989029134104a4faa284b0191d1
 Section: Tweaks
 Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
 Name: AppSync Unified
 
