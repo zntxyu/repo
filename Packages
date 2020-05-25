@@ -235,20 +235,22 @@ Description: Vpn Umlimited Hack
 Author: stem grade
 Name: Vpn Umlimited Hack
 
-Package: zntxyu.YouTube.Tools
-Version: 4.0
+Package: zntxyu.YouTubeKiller
+Version: 3.2-5
 Architecture: iphoneos-arm
-Maintainer: Justin Petkovic
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.YouTube.Tools_4.0_iphoneos-arm.deb
-Size: 31696
-MD5sum: b57970d7bb10f2e83fd2dec50be89ccb
-SHA1: 7dc309f22a4d32474eda4af2f396be7fd049ce77
-SHA256: 0422ddece85a4bc3daee7f715b8ee76bc78f4a2dc787cab92240aaaba684412c
+Maintainer: iKG_HD <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
+Conflicts: zntxyu.YouTubeKiller, com.yourepo.ikghd.youtubekiller
+Filename: ./debs/zntxyu.YouTubeKiller_3.2-5_iphoneos-arm.deb
+Size: 193358
+MD5sum: 5546029f9187156d9d3f087157704249
+SHA1: 8d4e18f4c8cd49ae6405813a49eb27db3932751a
+SHA256: d826ab97d52622cc8954f9f07f3238cb89c0437531c4e2483378a5477dcf9b2f
 Section: Tweaks
-Description: Essential toolbox for YouTube app.
-Author: Justin Petkovic
-Name: YouTube Tools
+Description: Requested On Twitter !...
+Author: iKG_HD <ikg_hd@bk.ru>
+Depiction: YouTubeKiller
+Name: YouTubeKiller
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.2
