@@ -127,22 +127,22 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
 Name: Filza File Manager
 
-Package: zntxyu.Flex3.Beta86
-Version: 1:3~Beta86
+Package: zntxyu.Flex3
+Version: Beta86
 Architecture: iphoneos-arm
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/zntxyu.Flex3.Beta86_1_3~Beta86_iphoneos-arm.deb
-Size: 14920778
-MD5sum: bea93019b8bebd1470ae407c74eb701d
-SHA1: 76cbb5e283cd9f05e1917c6c4474885e1bfb167e
-SHA256: 8d0c72710a2f1b8dac57695aff6222998987263ddc3290c55396a2ef354e2e0b
+Filename: ./debs/zntxyu.Flex3_Beta86_iphoneos-arm.deb
+Size: 14920762
+MD5sum: 98cec60b20321528f89f3c7480d171a7
+SHA1: 9fab85d81f142f5e4b335d297042c6298867c1fc
+SHA256: 98266786583ede54fe8c903aa5167a0011fafe1169320287ec7ef4d6d62eace4
 Section: Tweaks
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
-Name: Flex3 Beta86
+Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
 
 Package: zntxyu.PowerlogHelperdFix
