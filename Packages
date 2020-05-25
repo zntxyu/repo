@@ -251,17 +251,17 @@ Author: Justin Petkovic
 Name: YouTube Tools
 
 Package: zntxyu.iCleaner.Pro
-Version: 7.8.2k
+Version: 7.8.2
 Architecture: iphoneos-arm
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/zntxyu.iCleaner.Pro_7.8.2k_iphoneos-arm.deb
-Size: 9706326
-MD5sum: dcd17ee5c82056bf7ed7a88556434469
-SHA1: affaee20cbe4a7ca90eafa9d64c80aad1162cad0
-SHA256: 3c5d7f9ad8bbe3d81f58e14c02bef6cc0da73bc6bd65cc5d3345de8c2201338b
+Filename: ./debs/zntxyu.iCleaner.Pro_7.8.2_iphoneos-arm.deb
+Size: 9658584
+MD5sum: a00317e43fe1f4bc912049ecd8005cc2
+SHA1: ccb30de00e853acd91986d519cc37914c7a20165
+SHA256: cfd9852becdd8eb980fde765d0a2bdd4b4dc906493ceab4f72bd6bdca59f1fdc
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
