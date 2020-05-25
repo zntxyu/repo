@@ -149,16 +149,16 @@ Author: level3tjg
 Name: SlimVolumeHUD
 
 Package: com.michael.appleturboboost
-Version: 0.5.1
+Version: 0.5.2
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
 Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.5.1_iphoneos-arm.deb
-Size: 1936
-MD5sum: 44144c0b5e81a0de66a9a7233b0d3841
-SHA1: 9b150e8975a2b270e59f1607a2dfb6b4fc5ab64c
-SHA256: cd002db26cdd4863cee68ebfd75a32dffc1659eb9e16a3a2478202522a2da2c2
+Filename: ./debs/com.michael.appleturboboost_0.5.2_iphoneos-arm.deb
+Size: 1968
+MD5sum: b9e0d79e965fa253f58e452dc69f1b5c
+SHA1: 080eb7fe71b8316f97ec07955edb6469bc2fa918
+SHA256: 28fe1dd9a4942820376fca82cbb4ec75d98ee09421ea472220e67fd3f998b241
 Section: Tweaks
 Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
@@ -277,4 +277,22 @@ Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Name: AppSync Unified
+
+Package: ru.rejail.icleanerpro
+Version: 7.8.2k
+Architecture: iphoneos-arm
+Installed-Size: 24761
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/ru.rejail.icleanerpro_7.8.2k_iphoneos-arm.deb
+Size: 9706300
+MD5sum: 66f1820e4271fa99fda19c4ffaa7a92b
+SHA1: 87abcef5bebc99c8e9d2052938bfa49140b8d130
+SHA256: bd9ec9c0b84ced44aa2c75d1e861d357d5e1965420b1ddc3b2748bb3a75a4b03
+Section: Utilities
+Description: iCleanerPro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
 
