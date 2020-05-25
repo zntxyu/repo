@@ -16,6 +16,25 @@ Author: John Coates
 Name: Flex 3 Beta
 Recommended: com.rpetrich.rocketbootstrap
 
+Package: GitHub.zntxyu.icleanerpro
+Version: 7.8.2k
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/GitHub.zntxyu.icleanerpro_7.8.2k_iphoneos-arm.deb
+Size: 9706354
+MD5sum: 74c645ad1ccab3a765343b8ad72c5779
+SHA1: 116af5b4891a0ea36a0dff7b8b77b954d9d37943
+SHA256: 66f84b80bfdd7e6666217b311edc437a9f6634a858afc6e85c61141a2af19d73
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
 Package: ca.kirara.voltage
 Version: 1.6.2
 Architecture: iphoneos-arm
@@ -277,22 +296,4 @@ Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Name: AppSync Unified
-
-Package: ru.rejail.icleanerpro
-Version: 7.8.2k
-Architecture: iphoneos-arm
-Installed-Size: 24761
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/ru.rejail.icleanerpro_7.8.2k_iphoneos-arm.deb
-Size: 9706300
-MD5sum: 66f1820e4271fa99fda19c4ffaa7a92b
-SHA1: 87abcef5bebc99c8e9d2052938bfa49140b8d130
-SHA256: bd9ec9c0b84ced44aa2c75d1e861d357d5e1965420b1ddc3b2748bb3a75a4b03
-Section: Utilities
-Description: iCleanerPro
-Author: Ivano Bilenchi <support@ib-soft.net>
-Icon: file:///Applications/iCleaner.app/Icon.png
-Name: iCleaner Pro
 
