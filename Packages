@@ -85,25 +85,6 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3
 Author: CokePokes
 Name: AppStore++
 
-Package: com.exile90.icleanerpro
-Version: 7.8.2
-Architecture: iphoneos-arm
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/com.exile90.icleanerpro_7.8.2_iphoneos-arm.deb
-Size: 9658594
-MD5sum: 5b2b350b9ad009f58d0a6ffef722960f
-SHA1: 6661b411536c51f12a96984d48ef37e49f47b390
-SHA256: a9323fd94440169ac7da83cd05569b96eb721e83ba034b521fb4dde0421f5e5b
-Section: Utilities
-Homepage: http://ib-soft.net/icleaner
-Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
-Icon: file:///Applications/iCleaner.app/Icon.png
-Name: iCleaner Pro
-
 Package: com.haoict.facebooknoads
 Version: 0.0.1
 Architecture: iphoneos-arm
