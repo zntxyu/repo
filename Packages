@@ -1,153 +1,3 @@
-Package: Flex3beta
-Version: 1:3~Beta86
-Architecture: iphoneos-arm
-Maintainer: John Coates
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/flex3beta_3~Beta86_iphoneos-arm.deb
-Size: 14920824
-MD5sum: fce34ff53b10f6733df7f449902cb227
-SHA1: 4d9f3723c104e256500b03e0ba7af8b38e4f1a4f
-SHA256: 2a2367571f9abbd270fd2f6d79b23244dc1bc885272ed26f1b07f4bb8dbd3b88
-Section: Tweaks
-Description: Develop your own tweaks and share them on the Flex Community Cloud
-Author: John Coates
-Name: Flex 3 Beta
-Recommended: com.rpetrich.rocketbootstrap
-
-Package: GitHub.zntxyu.icleanerpro
-Version: 7.8.2k
-Architecture: iphoneos-arm
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/GitHub.zntxyu.icleanerpro_7.8.2k_iphoneos-arm.deb
-Size: 9706354
-MD5sum: 74c645ad1ccab3a765343b8ad72c5779
-SHA1: 116af5b4891a0ea36a0dff7b8b77b954d9d37943
-SHA256: 66f84b80bfdd7e6666217b311edc437a9f6634a858afc6e85c61141a2af19d73
-Section: Utilities
-Homepage: http://ib-soft.net/icleaner
-Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
-Icon: file:///Applications/iCleaner.app/Icon.png
-Name: iCleaner Pro
-
-Package: ca.kirara.voltage
-Version: 1.6.2
-Architecture: iphoneos-arm
-Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
-Installed-Size: 488
-Pre-Depends: firmware (>= 9.0)
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/ca.kirara.voltage_1.6.2_iphoneos-arm.deb
-Size: 55750
-MD5sum: 50081c04bec5d426e55de551caa6d43d
-SHA1: 0f5b043f8748a39af3bbbf74485d4839fe63d3ea
-SHA256: 72ce07bbc6aaeb65d84ba0a11b4211745b2b7f334e8bf4e26c2d8a4eb0ab07fa
-Section: Tweaks
-Description: suppress banners in apps
-Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
-Name: Eyeplugs
-
-Package: com.180.keepsolid
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: stem grade
-Installed-Size: 408
-Depends: mobilesubstrate
-Filename: ./debs/com.180.keepsolid_0.0.1_iphoneos-arm.deb
-Size: 43004
-MD5sum: 51ca5059b43ab36f06ddc9306b07fc68
-SHA1: f15570d76bbc0e1dc3a0242625b765e37eae70d0
-SHA256: 986b9764eb1ba61d8d47657f0619b2e8ac4dec72b0157ba6660f9c9135ddd9c6
-Section: Tweaks
-Description: Vpn Umlimited Hack
-Author: stem grade
-Name: Vpn Umlimited Hack
-
-Package: com.cokepokes.appstoreplusplus
-Version: 0.9.10
-Architecture: iphoneos-arm
-Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.10_iphoneos-arm.deb
-Size: 605990
-MD5sum: b5a824830475f5199a2fbbd65029bee3
-SHA1: 46e3371d3cfca1f6827a61753394949002e25eb0
-SHA256: 64984bd6d4bfe3ad77b49a87a53f52cd4634cac491547d9c3618ddbcfef632d9
-Section: Tweaks
-Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
-Author: CokePokes
-Name: AppStore++
-
-Package: com.haoict.facebooknoads
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Hao Nguyen
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.haoict.facebooknoads_0.0.1_iphoneos-arm.deb
-Size: 3556
-MD5sum: 7abc9edc2d418f6a37983a857e0e76c4
-SHA1: 32e0ad1922eb10bd895864e2df013d3eb0b94e44
-SHA256: 8268d12e675a324a6e57a2b48865b4069960a9206d2c96fb5585b484ab590d61
-Section: Tweaks
-Description: Hide Ads on Facebook app
-Author: Hao Nguyen
-Name: Facebook No Ads
-
-Package: com.julioverne.cydown
-Version: 7.1.0
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/com.julioverne.cydown_7.1.0_iphoneos-arm.deb
-Size: 4325562
-MD5sum: 3ee4304a49e10813794e128fada092e1
-SHA1: 0cb8d273769dba03fb5ae8dc23d6231902783d29
-SHA256: fa2a732a8d8618a50b6119c4da082b1645322708f75068ef027f13973b373b26
-Section: Tweaks
-Description: Cydia Download Manager & Extra Features!
-Author: julioverne <julioverne@me.com>
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown
-
-Package: com.julioverne.spotilife
-Version: 1.1a
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debs/com.julioverne.spotilife_1.1a_iphoneos-arm.deb
-Size: 201080
-MD5sum: 9803ef7aafc5fe269a56a6a03f9bdfd8
-SHA1: 732ea2ea4a991c26e713064346e8be9b55713ba2
-SHA256: 76d51b7030bff47a5214b433f0fb873cad4f36acac76490b36de99fb2d1a5938
-Section: Tweaks
-Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
-Author: julioverne
-Name: Spotilife
-
-Package: com.level3tjg.slimvolumehud
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: level3tjg
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.level3tjg.slimvolumehud_0.0.1_iphoneos-arm.deb
-Size: 2524
-MD5sum: e81df6b12ef65b48e7be6a9837bd8388
-SHA1: c1d1aeedacd166a0d716204d2748f2446f82969d
-SHA256: 9fd5cdb70dfabec4335b1493e055ee12d9bb94c5fdc71dc90ffc36e69d3f7496
-Section: Tweaks
-Description: Get rid of the "fat" iOS 13 Volume HUD state
-Author: level3tjg
-Name: SlimVolumeHUD
-
 Package: com.michael.appleturboboost
 Version: 0.5.2
 Architecture: iphoneos-arm
@@ -164,117 +14,257 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
-Package: com.opa334.powerloghelperdfix
-Version: 1.0
+Package: zntxyu.AppStore++
+Version: 0.9.10
 Architecture: iphoneos-arm
-Maintainer: opa334
-Installed-Size: 152
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/zntxyu.AppStore++_0.9.10_iphoneos-arm.deb
+Size: 605962
+MD5sum: 8b1d1ccae91669f42dc27db046c96435
+SHA1: 1c7e1f600d9de42aefd2cc2e12dd430083186172
+SHA256: 0a1c2b26b53ce8a683f12f231763da3ba03b1e94dc117b6b4986e842af57a948
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Name: AppStore++
+
+Package: zntxyu.AppSync.Unified
+Version: 76.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/zntxyu.AppSync.Unified_76.0_iphoneos-arm.deb
+Size: 64076
+MD5sum: 9a9d3da4da060a332341b84092d73ce8
+SHA1: dd50f3fc10e5cfb0aef9c2690ba3840d4d9e4cfc
+SHA256: a57c941d5e4d1cc9579ae617b8b872885ca7121ad04a554f36c42dc9b916bc0d
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Name: AppSync Unified
+
+Package: zntxyu.Cydown
+Version: 7.1.0
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debs/zntxyu.Cydown_7.1.0_iphoneos-arm.deb
+Size: 4325570
+MD5sum: 08d6bebf5345bb7df1094bd68176d6c9
+SHA1: 5a40f5a5c051265411e34922d6ec18cc74d2f294
+SHA256: fbd0b49dca560709cfec13d311cbe78dfdb60a79a13d13bc7da651b98024d1b0
+Section: Tweaks
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne <julioverne@me.com>
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+
+Package: zntxyu.Eyeplugs
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/zntxyu.Eyeplugs_1.6.2_iphoneos-arm.deb
+Size: 55736
+MD5sum: de7953dbb00a96e4c49ea09a378f68f8
+SHA1: 35b98facfcdcc03e6b18d5ed20634f8c355e99e4
+SHA256: 4723cf891cbb38dbd6f29f3f1ae6f8f362fd7962605a4644573d08460af47ff7
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Name: Eyeplugs
+
+Package: zntxyu.Facebook.NoAds
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
 Depends: mobilesubstrate
-Filename: ./debs/com.opa334.powerloghelperdfix_1.0_iphoneos-arm.deb
-Size: 5354
-MD5sum: 59437d32ebf5beb1355a8cce8054a9d0
-SHA1: eba77ad89c6f8adecc1f9e7bf30057b19cc0d033
-SHA256: b01c216789ff4a735f0335d4d4e1f58f628e08b3b8737fda338333554e6e4ba2
+Filename: ./debs/zntxyu.Facebook.NoAds_0.0.1_iphoneos-arm.deb
+Size: 5570
+MD5sum: 6c1d39ae201f01540524405ed7e01049
+SHA1: a49ad3f7c357df70b1f6b19af4fc425adb36a6cb
+SHA256: 56b747dfd2e0c8572f3ca800272735ff63f39adee4b80e0025a144246a5c2911
 Section: Tweaks
-Description: Block tweak injection into powerlogHelperd!
-Author: opa334
-Name: PowerlogHelperdFix
+Description: Hide Ads on Facebook app
+Author: Hao Nguyen
+Name: Facebook No Ads
 
-Package: com.subdiox.storeswitcher2
-Version: 1.0.3
+Package: zntxyu.Filza.Crack
+Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
-Maintainer: subdiox
-Installed-Size: 276
-Depends: firmware (>= 11), mobilesubstrate
-Filename: ./debs/com.subdiox.storeswitcher2_1.0.3_iphoneos-arm.deb
-Size: 20946
-MD5sum: 2f98ea7a4d8d354f5bdcf1b4a762f395
-SHA1: fed8d56ad542c5810e90a917754045e20a734182
-SHA256: 9bad409898d7322c6cb007aaa70287f8f66e7a708fb6b8ab23df41b5fce86717
+Maintainer: xia0z
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Filza.Crack_0.0.1-23+debug_iphoneos-arm.deb
+Size: 5612
+MD5sum: 523c7fe70fe4193bb30de1e1a2410d7d
+SHA1: d73ff1977463ee6496fa3efb6d968f22e2bc8896
+SHA256: e398a1b7a89e1c4539a4609639e72defeb8cd7c78349a7c4a722c1e5f4275962
 Section: Tweaks
-Description: Adds a button to switch account in App Store account page on iOS 11+.
-Author: subdiox
-Name: StoreSwitcher 2
+Description: Filza Crack
+Author: xia0z
+Name: Filza Crack
 
-Package: com.tigisoftware.filza
+Package: zntxyu.Filza.File.Manager
 Version: 3.7.5-12
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
-Installed-Size: 31148
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/com.tigisoftware.filza_3.7.5-12_iphoneos-arm.deb
+Filename: ./debs/zntxyu.Filza.File.Manager_3.7.5-12_iphoneos-arm.deb
 Size: 12805160
-MD5sum: 3a0acb2e8d0d988ba7da143b7e022d77
-SHA1: f7a4e41e0543e49d7b10d4bfd8c8a681ecef42b4
-SHA256: 52302ca6a114cd10bf6b6a55d60ded8dc8969de91a8196d4a54556e0fab69c54
+MD5sum: 82cd4e3e763c29dfaac1577ea6c546a8
+SHA1: c0da471315921426cb8fd6b72e7cb69c4fbe9f81
+SHA256: 50c5ca378f85a6dcc16d40854ad5b55968bf1b57c930879c6cdb7ee39df390a5
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
 Name: Filza File Manager
 
-Package: com.xia0z.xkfilza
-Version: 0.0.1-23+debug
+Package: zntxyu.Flex3.Beta86
+Version: 1:3~Beta86
 Architecture: iphoneos-arm
-Maintainer: xia0z
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.xia0z.xkfilza_0.0.1-23+debug_iphoneos-arm.deb
-Size: 3510
-MD5sum: c2ff02e596ae81c2442eb4019f539085
-SHA1: 784c6058e620040b4bd89af5dec5b9a1986752c8
-SHA256: bc1639e0c7603fb4dbf64a7ac5f1542a22259a507a22e628c08866d1d200207d
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/zntxyu.Flex3.Beta86_1_3~Beta86_iphoneos-arm.deb
+Size: 14920778
+MD5sum: bea93019b8bebd1470ae407c74eb701d
+SHA1: 76cbb5e283cd9f05e1917c6c4474885e1bfb167e
+SHA256: 8d0c72710a2f1b8dac57695aff6222998987263ddc3290c55396a2ef354e2e0b
 Section: Tweaks
-Description: Filza crack
-Author: xia0z
-Name: xkfilza
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex3 Beta86
+Recommended: com.rpetrich.rocketbootstrap
 
-Package: com.yourepo.jpet26.youtubetools1
-Version: 4.0
+Package: zntxyu.PowerlogHelperdFix
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Justin Petkovic <justinpetkovic1994@outlook.com>
+Maintainer: opa334
 Depends: mobilesubstrate
-Filename: ./debs/com.yourepo.jpet26.youtubetools1_4.0_iphoneos-arm.deb
-Size: 21378
-MD5sum: 82b00c00f9721e92ad2046d43a74fe24
-SHA1: 70a7161a9cca20fb79a432f077bcd5e65ce7faf3
-SHA256: d6cf54e23dfad95c93c1d30abb0b9f6d8532146dc6689de4fb9c2c0018feaa40
+Filename: ./debs/zntxyu.PowerlogHelperdFix_1.0_iphoneos-arm.deb
+Size: 5332
+MD5sum: dc18295541f9942fffbc37de9f3f6e11
+SHA1: 7c4c55c6b65e7d0140c8a5fd7c81deeb63dfc96d
+SHA256: 0f0dc81657b3fae0b10fd9cdd1df402de9c8e0eeb5b654b5e75310520f00f480
 Section: Tweaks
-Description: Essential toolbox for YouTube app.
-Author: Justin Petkovic <justinpetkovic1994@outlook.com>
-Name: YouTube Tools
+Description: Block tweak injection into powerlogHelperd!
+Author: opa334
+Name: PowerlogHelperdFix
 
-Package: me.jjolano.shadow
+Package: zntxyu.Shadow
 Version: 2.0.20
 Architecture: iphoneos-arm
 Maintainer: jjolano <jjolano@me.com>
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./debs/me.jjolano.shadow_2.0.20_iphoneos-arm.deb
-Size: 249976
-MD5sum: 332ca526c2dcdeeb62cf754fc4bda7f8
-SHA1: a6d70fddf2c6b599c673d110cfe8915661270643
-SHA256: 989d911f3993ca3054df9bb1b1b66f45206d7619502e0e6c817dd2ae33d34f14
+Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
+Size: 249980
+MD5sum: d761652795a1fdfc5c0260c5825d3ae9
+SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
+SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
 Section: Tweaks
 Description: A lightweight general jailbreak detection bypass.
 Author: jjolano <jjolano@me.com>
 Name: Shadow
 
-Package: net.angelxwind.appsyncunified
-Version: 76.0
+Package: zntxyu.SlimVolumeHUD
+Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: Karen/あけみ <karen@akemi.ai>
-Installed-Size: 496
-Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
-Replaces: us.hackulo.appsync50
-Provides: appsync
-Filename: ./debs/net.angelxwind.appsyncunified_76.0_iphoneos-arm.deb
-Size: 64084
-MD5sum: 52438b5175072df888176649d17016b2
-SHA1: 82f3e0b28afb8d6567bd0a13ef7546df3a2eacd2
-SHA256: d551271d16314ecb30cce7869f98d00536dad457edc22925bcd7ac36c9c920ad
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.SlimVolumeHUD_0.0.1_iphoneos-arm.deb
+Size: 3768
+MD5sum: 555fd83191901e6718d2c3451e4b6f26
+SHA1: 4b5a83472b96ff389f20fcc996c5664d2edd39b2
+SHA256: c80f54a8e4e9a1dcaa1279a72daec0f22d1b059adf8c71cc7af645758fd33c36
 Section: Tweaks
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
-Name: AppSync Unified
+Description: Get rid of the "fat" iOS 13 Volume HUD state
+Author: level3tjg
+Name: SlimVolumeHUD
+
+Package: zntxyu.Spotilife
+Version: 1.1a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Spotilife_1.1a_iphoneos-arm.deb
+Size: 201080
+MD5sum: 1a5de3c0930ff975dbf54fd4fc946714
+SHA1: 758290b576db4ba7d866ef4aaf175804d9edea2c
+SHA256: 5dbd37a8be3bf9aca5b1d8e16ed598fa3abe43ea0143a7ab59ea700caa7bfd00
+Section: Tweaks
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Name: Spotilife
+
+Package: zntxyu.StoreSwitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/zntxyu.StoreSwitcher2_1.0.3_iphoneos-arm.deb
+Size: 45830
+MD5sum: 2298c90d45c048fa5589a317cbb232b7
+SHA1: 52d6218ad98ca53383e056d3546dfef8abef00de
+SHA256: 74cbbbbecc29e8c144e330174c65725d8c4f3ae8d9f95b5c16ea63b33d7ec4a4
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
+
+Package: zntxyu.Vpn.Umlimited.Hack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Vpn.Umlimited.Hack_0.0.1_iphoneos-arm.deb
+Size: 42988
+MD5sum: d403597ea5739b43123549b21673b419
+SHA1: ab211d0e03f6b024ec3f308c2ae371549c5550ca
+SHA256: 8425eaf875ac98dfaba415998cbad96714ad40458ca8968a618c3ce48882e47c
+Section: Tweaks
+Description: Vpn Umlimited Hack
+Author: stem grade
+Name: Vpn Umlimited Hack
+
+Package: zntxyu.YouTube.Tools
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Justin Petkovic
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.YouTube.Tools_4.0_iphoneos-arm.deb
+Size: 31696
+MD5sum: b57970d7bb10f2e83fd2dec50be89ccb
+SHA1: 7dc309f22a4d32474eda4af2f396be7fd049ce77
+SHA256: 0422ddece85a4bc3daee7f715b8ee76bc78f4a2dc787cab92240aaaba684412c
+Section: Tweaks
+Description: Essential toolbox for YouTube app.
+Author: Justin Petkovic
+Name: YouTube Tools
+
+Package: zntxyu.iCleaner.Pro
+Version: 7.8.2k
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/zntxyu.iCleaner.Pro_7.8.2k_iphoneos-arm.deb
+Size: 9706326
+MD5sum: dcd17ee5c82056bf7ed7a88556434469
+SHA1: affaee20cbe4a7ca90eafa9d64c80aad1162cad0
+SHA256: 3c5d7f9ad8bbe3d81f58e14c02bef6cc0da73bc6bd65cc5d3345de8c2201338b
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
 
