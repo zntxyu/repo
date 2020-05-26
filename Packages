@@ -168,10 +168,10 @@ Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer
 Provides: com.matchstic.Extender-Installer
 Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14442210
-MD5sum: e6bdba39ba5af8e4507dc31b33323212
-SHA1: 8557bb2a504a9dd6ccdd586a559fd5b53377c083
-SHA256: 1171657bc84bec05b1b4792597fe95afbc8e0f2b331dd8f7f094d29795d0e2ce
+Size: 14391676
+MD5sum: 48d6aa59b0b2af1092dfd68d507daf7a
+SHA1: 5a0bcba95ead1024a839a8774192a20f3ad0683d
+SHA256: 147baa841fac6791cde681031950c83ac3f51c0563c370b797e73b14e87a055d
 Section: System
 Priority: optional
 Description: Re-sign applications on your device
