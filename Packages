@@ -255,21 +255,6 @@ Description: Vpn Umlimited Hack
 Author: stem grade
 Name: Vpn Umlimited Hack
 
-Package: zntxyu.YKAdb
-Version: 1.5+debug
-Architecture: iphoneos-arm
-Maintainer: iKG_HD <ikg_hd@bk.ru>
-Conflicts: com.appweleux.repo.adblockxi, com.trappledestek.adblockplus
-Filename: ./debs/zntxyu.YKAdb_1.5+debug_iphoneos-arm.deb
-Size: 8368
-MD5sum: c9baa251b9a8212360096affb76debc6
-SHA1: 93768d54206ee58aae7694f2433df45a100c114d
-SHA256: 05d52ea061eb8b8a74aebcaf8273fb937a45c6a215c6693f3b41de9c1c4b4354
-Section: Tweaks
-Description: Support for YouTubeKiller ad's
-Author: iKG_HD <ikg_hd@bk.ru>
-Name: YKAdb
-
 Package: zntxyu.YTKS
 Version: 3.2-6
 Architecture: iphoneos-arm
