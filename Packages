@@ -31,6 +31,24 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3
 Author: CokePokes
 Name: AppStore++
 
+Package: zntxyu.AppSync.Unified
+Version: 76.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/zntxyu.Appsync.Unified_76.0_iphoneos-arm.deb
+Size: 64076
+MD5sum: 9a9d3da4da060a332341b84092d73ce8
+SHA1: dd50f3fc10e5cfb0aef9c2690ba3840d4d9e4cfc
+SHA256: a57c941d5e4d1cc9579ae617b8b872885ca7121ad04a554f36c42dc9b916bc0d
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Name: AppSync Unified
+
 Package: zntxyu.Cydown
 Version: 7.1.0
 Architecture: iphoneos-arm
@@ -236,6 +254,21 @@ Section: Tweaks
 Description: Vpn Umlimited Hack
 Author: stem grade
 Name: Vpn Umlimited Hack
+
+Package: zntxyu.YKAdb
+Version: 1.5+debug
+Architecture: iphoneos-arm
+Maintainer: iKG_HD <ikg_hd@bk.ru>
+Conflicts: com.appweleux.repo.adblockxi, com.trappledestek.adblockplus
+Filename: ./debs/zntxyu.YKAdb_1.5+debug_iphoneos-arm.deb
+Size: 8368
+MD5sum: c9baa251b9a8212360096affb76debc6
+SHA1: 93768d54206ee58aae7694f2433df45a100c114d
+SHA256: 05d52ea061eb8b8a74aebcaf8273fb937a45c6a215c6693f3b41de9c1c4b4354
+Section: Tweaks
+Description: Support for YouTubeKiller ad's
+Author: iKG_HD <ikg_hd@bk.ru>
+Name: YKAdb
 
 Package: zntxyu.YouTubeKiller
 Version: 3.2-5
