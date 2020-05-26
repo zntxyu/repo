@@ -270,21 +270,21 @@ Description: Support for YouTubeKiller ad's
 Author: iKG_HD <ikg_hd@bk.ru>
 Name: YKAdb
 
-Package: zntxyu.YouTubeKiller
-Version: 3.2-5
+Package: zntxyu.YTKS
+Version: 3.2-6
 Architecture: iphoneos-arm
 Maintainer: iKG_HD <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
 Conflicts: zntxyu.YouTubeKiller, com.yourepo.ikghd.youtubekiller
-Filename: ./debs/zntxyu.YouTubeKiller_3.2-5_iphoneos-arm.deb
-Size: 193330
-MD5sum: 0f3f2d63e2fb6c784bb19cbadbd705ff
-SHA1: 42c493c47affe542ea38abbc0ff44aeccb71cbc9
-SHA256: e8951ce8253710bfd33101c2692a8bbae655c2988aa8c8015bb9af98df99866d
+Filename: ./debs/zntxyu.YTKS_3.2-6_iphoneos-arm.deb
+Size: 197472
+MD5sum: 1f8bdc3dfd3a230e8a2ded3d1478a18a
+SHA1: 6f9d546fe969659487a92e682227d0d379b9f6e4
+SHA256: d4b30607b1526e0da0776c5bad30fb39fbe2aaff51e354f44c3edba857bfff2d
 Section: Tweaks
-Description: YouTubeKiller
+Description: YouTube Tools
 Author: iKG_HD <ikg_hd@bk.ru>
-Name: YouTubeKiller
+Name: YTKS
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.2
