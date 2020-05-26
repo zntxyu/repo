@@ -37,10 +37,10 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/zntxyu.Cydown_7.1.0_iphoneos-arm.deb
-Size: 4417584
-MD5sum: 22604292931872dd1114c6f185c01084
-SHA1: 1e7ce2b63582422230f8b02f1ee5615fb2ba7fc9
-SHA256: 3b2977f7b862ccf5ae067e6d0e231506e449dfa98c98b948499766dde1787a35
+Size: 4325570
+MD5sum: 08d6bebf5345bb7df1094bd68176d6c9
+SHA1: 5a40f5a5c051265411e34922d6ec18cc74d2f294
+SHA256: fbd0b49dca560709cfec13d311cbe78dfdb60a79a13d13bc7da651b98024d1b0
 Section: Tweaks
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne <julioverne@me.com>
@@ -54,10 +54,10 @@ Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gma
 Pre-Depends: firmware (>= 9.0)
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debs/zntxyu.Eyeplugs_1.6.2_iphoneos-arm.deb
-Size: 56612
-MD5sum: 288af9c42b5e220eb5009ef7c2af6cda
-SHA1: 3919cf5278539f56e4a9665137ab8727e4e63fc9
-SHA256: 9e6a72412477a8e24bbd9273710388f398c6cbe0f6bf57b1670882516175af92
+Size: 55736
+MD5sum: de7953dbb00a96e4c49ea09a378f68f8
+SHA1: 35b98facfcdcc03e6b18d5ed20634f8c355e99e4
+SHA256: 4723cf891cbb38dbd6f29f3f1ae6f8f362fd7962605a4644573d08460af47ff7
 Section: Tweaks
 Description: suppress banners in apps
 Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
@@ -117,10 +117,10 @@ Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmwa
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: ./debs/zntxyu.Flex3_Beta86_iphoneos-arm.deb
-Size: 14975562
-MD5sum: d3700538e74b4eb83fa8ebb98b3120a8
-SHA1: 58732033ddf4927343dce644a084a01af124e036
-SHA256: 2baa490e136dd965123f1609ccbfd6530b53b58c2e3a3eaf9afdccb6ddfb6c8e
+Size: 14920762
+MD5sum: 98cec60b20321528f89f3c7480d171a7
+SHA1: 9fab85d81f142f5e4b335d297042c6298867c1fc
+SHA256: 98266786583ede54fe8c903aa5167a0011fafe1169320287ec7ef4d6d62eace4
 Section: Tweaks
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
@@ -168,10 +168,10 @@ Architecture: iphoneos-arm
 Maintainer: jjolano <jjolano@me.com>
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
 Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
-Size: 253204
-MD5sum: 3c619950212697384e0171413d52a473
-SHA1: 554be5e77497d3a8544db6d405002dcc9021eb78
-SHA256: 73aecf689c25f415bee6982a4628d31c32796f6466492d8d1815fea88bd5f8e3
+Size: 249980
+MD5sum: d761652795a1fdfc5c0260c5825d3ae9
+SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
+SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
 Section: Tweaks
 Description: A lightweight general jailbreak detection bypass.
 Author: jjolano <jjolano@me.com>
