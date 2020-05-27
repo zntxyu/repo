@@ -44,19 +44,6 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3
 Author: CokePokes
 Name: AppStore++
 
-Package: zntxyu.AppStore++
-Version: 1.1-2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.AppStore++_1.1-2_iphoneos-arm.deb
-Size: 25728
-MD5sum: 584007f15a85256b7c2d9ab13779487b
-SHA1: 3c22293ebb084b8b0504c5cca4d792017251100e
-SHA256: 68dcf8404a4d8368d51a01673999976b22ead37700d20690247669d16f5d7fab
-Section: Tweaks
-Author: Netskao
-Name: AppStore++ CN
-
 Package: zntxyu.AppSync.Unified
 Version: 76.0
 Architecture: iphoneos-arm
