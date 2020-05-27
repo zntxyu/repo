@@ -255,21 +255,35 @@ Description: Vpn Umlimited Hack
 Author: stem grade
 Name: Vpn Umlimited Hack
 
-Package: zntxyu.YTKS
-Version: 3.2-6
+Package: zntxyu.YTHDUnlocker
+Version: 0.0~beta1a
 Architecture: iphoneos-arm
-Maintainer: iKG_HD <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
-Conflicts: zntxyu.YouTubeKiller, com.yourepo.ikghd.youtubekiller
-Filename: ./debs/zntxyu.YTKS_3.2-6_iphoneos-arm.deb
-Size: 197472
-MD5sum: 1f8bdc3dfd3a230e8a2ded3d1478a18a
-SHA1: 6f9d546fe969659487a92e682227d0d379b9f6e4
-SHA256: d4b30607b1526e0da0776c5bad30fb39fbe2aaff51e354f44c3edba857bfff2d
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.YTHDUnlocker_0.0~beta1a_iphoneos-arm.deb
+Size: 70646
+MD5sum: 4495e4afc2a8c841531a871f35dcbc29
+SHA1: b6e8115fa96b1ac8b65902c12d76ac47e203a459
+SHA256: 4d4ae4a4ab19a0ada490bfda9fbc1ce44d26e0d440a3e6e94986acbbddf2e00c
 Section: Tweaks
-Description: YouTube Tools
-Author: iKG_HD <ikg_hd@bk.ru>
-Name: YTKS
+Description: Unlocks HD Videos in YouTube App
+Author: julioverne
+Name: YTHDUnlocker
+
+Package: zntxyu.YouTube.Tools
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Justin Petkovic
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.YouTube.Tools_4.0_iphoneos-arm.deb
+Size: 31692
+MD5sum: 08f7ebca9e6500e5860ea4f585d77935
+SHA1: 3c56d97fb9b8e4b765f87a15c6566954dbf46cfe
+SHA256: 875916a82182d381ed4d613219f8f38f1e58a6a804af12a028215c447f95b285
+Section: Tweaks
+Description: Essential toolbox for YouTube app.
+Author: Justin Petkovic
+Name: YouTube Tools
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.2
