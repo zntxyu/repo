@@ -102,11 +102,11 @@ Architecture: iphoneos-arm
 Maintainer: xia0z
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.Filza.Crack_0.0.1-23+debug_iphoneos-arm.deb
-Size: 5612
-MD5sum: 523c7fe70fe4193bb30de1e1a2410d7d
-SHA1: d73ff1977463ee6496fa3efb6d968f22e2bc8896
-SHA256: e398a1b7a89e1c4539a4609639e72defeb8cd7c78349a7c4a722c1e5f4275962
-Section: Tweaks
+Size: 5622
+MD5sum: 33c9fc221470fed8798f8687df08a935
+SHA1: a8cb81e9b36403753a1e177cca9f69c015e0856c
+SHA256: 13800f05a6e58d9df5a30e34030673308ba9e9a540dff5f720d32ee744d497be
+Section: 破解
 Description: Filza Crack
 Author: xia0z
 Name: Filza Crack
@@ -144,6 +144,62 @@ Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
+
+Package: zntxyu.Kwyy.Crack
+Version: 2.2-3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Kwyy.Crack_2.2-3_iphoneos-arm.deb
+Size: 69618
+MD5sum: 52e24eccb799024852ca77b3094c42a1
+SHA1: 9158169b25ad6e67b73984fc9e82c0650c12d7dc
+SHA256: 992d069cbd70612796b9b9be708c04b8fef5d5a544cd21446352d0d3e389bb8a
+Section: 破解
+Description: 机酷我音乐开启全功能，全音乐可下载，VIP皮肤随便用，解锁海外限制，去除多处广告等。
+Author: 7Loopy
+Name: 酷我音乐 Crack
+
+Package: zntxyu.MIX.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
+Size: 69110
+MD5sum: ca4473d0e72dd7ff64a390294ff67a6d
+SHA1: 5d23d4127d5b7c68efbdeafcabd7c31b6254ff27
+SHA256: 3251b17956db054b0fd20eabe1a8d0de4fa2d8d71060f380f088b984ecacfb6b
+Section: 破解
+Description: MIX滤镜大师开启全滤镜下载权限和全功能。
+Author: 7Loopy
+Name: MIX滤镜大师 Crack
+
+Package: zntxyu.PTJ.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
+Size: 68564
+MD5sum: 1a30eaa6d33c882f6b68bcc1d899ed47
+SHA1: 52cec0385d9882c352f67d8753b0c408e86a59d1
+SHA256: 5f4383302120b3351a0644b110a4a48459d641cf3ef67cee76bc6088543328bb
+Section: 破解
+Description: 拼图酱开启高级权限。
+Author: 7Loopy
+Name: 拼图酱 Crack
+
+Package: zntxyu.PicsArt.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
+Size: 69202
+MD5sum: 3a2fb68c3e4edce7c890b263ce9bc788
+SHA1: 15aac6de212b6b6dafa488a76b71ba83f6e28898
+SHA256: 67fb33cbe64eacbbb24e2c1253092d885910410070a1c408b297fe374a864a87
+Section: 破解
+Description: PicsArt美易开启高级权限。
+Author: 7Loopy
+Name: PicsArt美易 Crack
 
 Package: zntxyu.PowerlogHelperdFix
 Version: 1.0
@@ -216,11 +272,11 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.Spotilife_1.1a_iphoneos-arm.deb
-Size: 201080
-MD5sum: 1a5de3c0930ff975dbf54fd4fc946714
-SHA1: 758290b576db4ba7d866ef4aaf175804d9edea2c
-SHA256: 5dbd37a8be3bf9aca5b1d8e16ed598fa3abe43ea0143a7ab59ea700caa7bfd00
-Section: Tweaks
+Size: 201088
+MD5sum: 7347ed1a5d71ce7991e0ebc7a04c1df4
+SHA1: dbdcdd420649f735b410ac61a5d91824f8f55f96
+SHA256: a4539eaa473de5e050eb9bd55667ae9bc3914c873d0f528e06637fd572c71bce
+Section: 破解
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
 Author: julioverne
 Name: Spotilife
@@ -240,17 +296,45 @@ Description: Adds a button to switch account in App Store account page on iOS 11
 Author: subdiox
 Name: StoreSwitcher 2
 
+Package: zntxyu.TurboVPN.Crack
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.TurboVPN.Crack_1.0_iphoneos-arm.deb
+Size: 14814
+MD5sum: 0a20199229ecdfcff9c8f884c2ed8ce2
+SHA1: 78c310c948c0f65ff4ae0859846b835c31f97abd
+SHA256: 91a909b5c2ceffd9bc0d0c0d710ade528e23fe2a9d54ca1ffb05d50e501db58e
+Section: 破解
+Description: TurboVPN开启所有线路，去除中国地区使用限制。
+Author: 7Loopy
+Name: TurboVPN Crack
+
+Package: zntxyu.VPN.Master.Crack
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.VPN.Master.Crack_1.1_iphoneos-arm.deb
+Size: 15058
+MD5sum: 8653e845806bbda6554b4be4a07f1057
+SHA1: 4bd3abc2c0691def04eda42526a01ec867a690d2
+SHA256: bf41767f4c169ce8b4463ba6de5901895c725872bc8530b0e8354b7c47004952
+Section: 破解
+Description: VPN Master开启所有线路，去除中国地区限制。
+Author: 7Loopy
+Name: VPN Master Crack
+
 Package: zntxyu.Vpn.Umlimited.Hack
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: stem grade
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.Vpn.Umlimited.Hack_0.0.1_iphoneos-arm.deb
-Size: 42988
-MD5sum: d403597ea5739b43123549b21673b419
-SHA1: ab211d0e03f6b024ec3f308c2ae371549c5550ca
-SHA256: 8425eaf875ac98dfaba415998cbad96714ad40458ca8968a618c3ce48882e47c
-Section: Tweaks
+Size: 42996
+MD5sum: a3346f248a275da631ead91077865726
+SHA1: cbb7e441b66a9ebd5f783c4a264019ab62669837
+SHA256: f29921a6200ea940c54f17306e283a79ac8490fbf157e05f402e640f8d0bc1f0
+Section: 破解
 Description: Vpn Umlimited Hack
 Author: stem grade
 Name: Vpn Umlimited Hack
