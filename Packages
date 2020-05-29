@@ -14,6 +14,20 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
+Package: zntxyu.A-Bypass
+Version: 1.0.7
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/zntxyu.A-Bypass_1.0.7_iphoneos-arm.deb
+Size: 54018
+MD5sum: 813d0bf623c949f7f3e990b4ccee0055
+SHA1: 3977b494db84d9be744f43f74707f8c6656ed6cc
+SHA256: a672795664537dae390a984524c132343da99c4650035dcd241192b8753c6ff8
+Section: Tweaks
+Description: Super Jailbreak detection bypass!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Bypass
+
 Package: zntxyu.AppStore++
 Version: 0.9.10
 Architecture: iphoneos-arm
@@ -145,20 +159,6 @@ Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
 
-Package: zntxyu.Kwyy.Crack
-Version: 2.2-3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Kwyy.Crack_2.2-3_iphoneos-arm.deb
-Size: 69622
-MD5sum: fa90f84dfac78db5938bd01bfe8dbf49
-SHA1: 35af47e33e46c23a88b78f4ef308682562b033ad
-SHA256: c5f9efcc19763d22953c7af5458b505811811ef483141e15ecece7177352abc5
-Section: Tweaks
-Description: 机酷我音乐开启全功能，全音乐可下载，VIP皮肤随便用，解锁海外限制，去除多处广告等。
-Author: 7Loopy
-Name: 酷我音乐 Crack
-
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -200,56 +200,6 @@ Section: Tweaks
 Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
-
-Package: zntxyu.PowerlogHelperdFix
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: opa334
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PowerlogHelperdFix_1.0_iphoneos-arm.deb
-Size: 5332
-MD5sum: dc18295541f9942fffbc37de9f3f6e11
-SHA1: 7c4c55c6b65e7d0140c8a5fd7c81deeb63dfc96d
-SHA256: 0f0dc81657b3fae0b10fd9cdd1df402de9c8e0eeb5b654b5e75310520f00f480
-Section: Tweaks
-Description: Block tweak injection into powerlogHelperd!
-Author: opa334
-Name: PowerlogHelperdFix
-
-Package: zntxyu.ReProvision
-Version: 0.5.2~EOL
-Architecture: iphoneos-arm
-Maintainer: Matt Clarke <matt@incendo.ws>
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14391676
-MD5sum: 48d6aa59b0b2af1092dfd68d507daf7a
-SHA1: 5a0bcba95ead1024a839a8774192a20f3ad0683d
-SHA256: 147baa841fac6791cde681031950c83ac3f51c0563c370b797e73b14e87a055d
-Section: System
-Priority: optional
-Description: Re-sign applications on your device
-Author: Matt Clarke <matt@incendo.ws>
-Dev: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Name: ReProvision
-
-Package: zntxyu.Shadow
-Version: 2.0.20
-Architecture: iphoneos-arm
-Maintainer: jjolano <jjolano@me.com>
-Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
-Size: 249980
-MD5sum: d761652795a1fdfc5c0260c5825d3ae9
-SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
-SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
-Section: Tweaks
-Description: A lightweight general jailbreak detection bypass.
-Author: jjolano <jjolano@me.com>
-Name: Shadow
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
@@ -296,20 +246,6 @@ Description: Adds a button to switch account in App Store account page on iOS 11
 Author: subdiox
 Name: StoreSwitcher 2
 
-Package: zntxyu.TurboVPN.Crack
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.TurboVPN.Crack_1.0_iphoneos-arm.deb
-Size: 14814
-MD5sum: 42b502b3f2c7aa4681ad75ad85de111f
-SHA1: 8a55175cb5b1967fca12a16fc3546d388720953c
-SHA256: 484766ff33021978769c208cf7e1793c301fd18ab4f785e8fd614f6d988dd890
-Section: Tweaks
-Description: TurboVPN开启所有线路，去除中国地区使用限制。
-Author: 7Loopy
-Name: Turbo VPN Crack
-
 Package: zntxyu.VPN.Master.Crack
 Version: 1.1
 Architecture: iphoneos-arm
@@ -338,21 +274,6 @@ Section: Tweaks
 Description: Vpn Umlimited Crack
 Author: stem grade
 Name: Vpn Umlimited Crack
-
-Package: zntxyu.YTHDUnlocker
-Version: 0.0~beta1a
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.YTHDUnlocker_0.0~beta1a_iphoneos-arm.deb
-Size: 70646
-MD5sum: 4495e4afc2a8c841531a871f35dcbc29
-SHA1: b6e8115fa96b1ac8b65902c12d76ac47e203a459
-SHA256: 4d4ae4a4ab19a0ada490bfda9fbc1ce44d26e0d440a3e6e94986acbbddf2e00c
-Section: Tweaks
-Description: Unlocks HD Videos in YouTube App
-Author: julioverne
-Name: YTHDUnlocker
 
 Package: zntxyu.YouTube.Tools
 Version: 4.0
