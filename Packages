@@ -142,17 +142,17 @@ Author: TIGI Software
 Name: Filza File Manager
 
 Package: zntxyu.Flex3
-Version: Beta86
+Version: Beta90
 Architecture: iphoneos-arm
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/zntxyu.Flex3_Beta86_iphoneos-arm.deb
-Size: 14920762
-MD5sum: 98cec60b20321528f89f3c7480d171a7
-SHA1: 9fab85d81f142f5e4b335d297042c6298867c1fc
-SHA256: 98266786583ede54fe8c903aa5167a0011fafe1169320287ec7ef4d6d62eace4
+Filename: ./debs/zntxyu.Flex3_Beta90_iphoneos-arm.deb
+Size: 14071306
+MD5sum: 282125190418278b267a9d974cb096e9
+SHA1: 5386474905b11084a3218502ed409f2fbf46c4f9
+SHA256: 743612caff4fab3d0c1a25738893a926756702c8473c7866a7e44c2c741489a2
 Section: Tweaks
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
@@ -200,26 +200,6 @@ Section: Tweaks
 Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
-
-Package: zntxyu.ReProvision
-Version: 0.5.2~EOL
-Architecture: iphoneos-arm
-Maintainer: Matt Clarke <matt@incendo.ws>
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14391676
-MD5sum: 48d6aa59b0b2af1092dfd68d507daf7a
-SHA1: 5a0bcba95ead1024a839a8774192a20f3ad0683d
-SHA256: 147baa841fac6791cde681031950c83ac3f51c0563c370b797e73b14e87a055d
-Section: System
-Priority: optional
-Description: Re-sign applications on your device
-Author: Matt Clarke <matt@incendo.ws>
-Dev: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Name: ReProvision
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
