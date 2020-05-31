@@ -63,6 +63,37 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Name: AppSync Unified
 
+Package: zntxyu.CarrieCcrack-Global
+Version: 3.1.4
+Architecture: iphoneos-arm
+Maintainer: iTweakiOS <itweakios@yahoo.com.com>
+Pre-Depends: firmware (>= 11)
+Depends: zntxyu.CommCenter.Patch
+Filename: ./debs/zntxyu.CarrieCcrack-Global_3.1.4_iphoneos-arm.deb
+Size: 4564808
+MD5sum: 6ad70ff1a19de00c610a1e602cb14f07
+SHA1: b7871b74e7254a7f8e5af6c467ef481fa1911039
+SHA256: f34150187a9255dc87bc2b71d2d44f83b8773518b1e0849aa2842d1012ef4a19
+Section: Tweaks
+Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
+Author: iTweakiOS <itweakios@yahoo.com>
+Name: CarrierCrack-Global
+
+Package: zntxyu.CommCenter.Patch
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <itweakios@yahoo.com>
+Depends: mobilesubstrate, firmware (>=10.0)
+Filename: ./debs/zntxyu.CommCenter.Patch_4.0.1_iphoneos-arm.deb
+Size: 44272
+MD5sum: eb0a6bdd7124860efe6f3030edf2e56b
+SHA1: c51a2a91a8a356fb0f0170294c8cc4919194e3c9
+SHA256: 27b3bf8a7e4a0619c27ed1a69d5c749625db6c370798b132b8dd31f86dc05802
+Section: Tweaks
+Description: Carrier bundle verification bypass
+Author: Pwn20wnd <itweakios@yahoo.com>
+Name: CommCenter Patch
+
 Package: zntxyu.Cydown
 Version: 7.1.0
 Architecture: iphoneos-arm
