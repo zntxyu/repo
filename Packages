@@ -327,17 +327,17 @@ Author: stem grade
 Name: Vpn Umlimited Crack
 
 Package: zntxyu.iCleaner.Pro
-Version: 7.8.2
+Version: 7.8.3~beta1
 Architecture: iphoneos-arm
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/zntxyu.iCleaner.Pro_7.8.2_iphoneos-arm.deb
-Size: 9658584
-MD5sum: a00317e43fe1f4bc912049ecd8005cc2
-SHA1: ccb30de00e853acd91986d519cc37914c7a20165
-SHA256: cfd9852becdd8eb980fde765d0a2bdd4b4dc906493ceab4f72bd6bdca59f1fdc
+Filename: ./debs/zntxyu.iCleaner.Pro_7.8.3~beta1_iphoneos-arm.deb
+Size: 9503032
+MD5sum: 5f1f37bee82d023b97170ebf260ccb12
+SHA1: d5258cb40911064b3aa1a9afe5640f76159cdde5
+SHA256: 8d885369219d619e7c7db023779bc7c26c11094b59d96e3f46013f9a6ad83f2a
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
