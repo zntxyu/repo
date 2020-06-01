@@ -74,6 +74,23 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3
 Author: CokePokes
 Name: AppStore++
 
+Package: zntxyu.AppStore++
+Version: 0.9.11
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/zntxyu.AppStore++_0.9.11_iphoneos-arm.deb
+Size: 612712
+MD5sum: 15e9ab6a3aad7534c5a7080ce1a02afd
+SHA1: c263994730a9856057e079dd0600f7255b42bb38
+SHA256: a35b95b80b8ff2a3f9f5255672a06248c6c5b24610a13fee28c370cfb8d685c2
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
+Author: CokePokes
+Name: AppStore++
+
 Package: zntxyu.AppSync.Unified
 Version: 76.0
 Architecture: iphoneos-arm
@@ -354,6 +371,21 @@ Section: Tweaks
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: subdiox
 Name: StoreSwitcher 2
+
+Package: zntxyu.Surge4.Crack
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: Potatso
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Surge4.Crack_0.0.1-8+debug_iphoneos-arm.deb
+Size: 10076
+MD5sum: a9b053c90ad0112719ceb2ecac02a4fc
+SHA1: aa51fe0fb6ad9cddb3e679a965d0982c09f81f3a
+SHA256: fb8b8d1578958c3e096323e7051bc8e3d7db246ab5e40300a4dee63e375f86af
+Section: Tweaks
+Description: Surge Crack.
+Author: Potatso
+Name: Surge4 Crack
 
 Package: zntxyu.VPN.Master.Crack
 Version: 1.1
