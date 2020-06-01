@@ -43,6 +43,20 @@ Description: Super Jailbreak detection bypass!
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Bypass
 
+Package: zntxyu.Allow.KeyBoard
+Version: 1.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Allow.KeyBoard_1.5_iphoneos-arm.deb
+Size: 9110
+MD5sum: abdee671b7bc3751a2f66e618104e5f6
+SHA1: dce8e061e8c256a8ca37ce7e919b4613c1561d31
+SHA256: 65085b65bf010eb29acefbeb8c5093a71b1a04ba46588a8437c5421a0e338514
+Section: System
+Description: Allow third-party keyboards to gain priority authority
+Author: iBreak <ibreak2019@qq.com>
+Name: Allow.KeyBoard
+
 Package: zntxyu.AppStore++
 Version: 0.9.10
 Architecture: iphoneos-arm
@@ -247,6 +261,21 @@ Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
 
+Package: zntxyu.PowerlogHelperdFix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PowerlogHelperdFix_1.0_iphoneos-arm.deb
+Size: 5332
+MD5sum: dc18295541f9942fffbc37de9f3f6e11
+SHA1: 7c4c55c6b65e7d0140c8a5fd7c81deeb63dfc96d
+SHA256: 0f0dc81657b3fae0b10fd9cdd1df402de9c8e0eeb5b654b5e75310520f00f480
+Section: Tweaks
+Description: Block tweak injection into powerlogHelperd!
+Author: opa334
+Name: PowerlogHelperdFix
+
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
 Architecture: iphoneos-arm
@@ -296,6 +325,20 @@ Section: Tweaks
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
 Author: julioverne
 Name: Spotilife
+
+Package: zntxyu.StatusBar.Arise
+Version: 1.0.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.StatusBar.Arise_1.0.2_iphoneos-arm.deb
+Size: 6222
+MD5sum: 54212aea88ac007505d6f7ee2cf1acbf
+SHA1: 958ad5b51908397db099821b1768610d09c13c90
+SHA256: 13d30a553a697b33c43a220dcd3bf24b21d5614750f7572939497c52fc5afd5c
+Section: Tweaks
+Description: Open Multitask/Folder Display Status Bar
+Author: iBreak <ibreak2019@qq.com>
+Name: StatusBar.Arise
 
 Package: zntxyu.StoreSwitcher2
 Version: 1.0.3
