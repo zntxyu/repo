@@ -14,6 +14,21 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
+Package: com.spark.libsparkapplist
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Spark
+Filename: ./debs/com.spark.libsparkapplist_1.0.9_iphoneos-arm.deb
+Size: 54684
+MD5sum: f35b026bd668c93073c2fe2bac43b7e6
+SHA1: 1782be9974ec24a8db26ddb247a740276c4dda36
+SHA256: 1ed6296a2ba130c481e5f7c30a7ac346164b2eef1a74ada9513a226d946737df
+Section: System
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Name: libSparkAppList
+
 Package: zntxyu.A-Bypass
 Version: 1.0.7
 Architecture: iphoneos-arm
@@ -343,18 +358,4 @@ Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
-
-Package: zntxyu.libSparkAppList
-Version: 1.0.9
-Architecture: iphoneos-arm
-Maintainer: Spark
-Filename: ./debs/zntxyu.libSparkAppList_1.0.9_iphoneos-arm.deb
-Size: 54660
-MD5sum: 96c3b9f63c9908af9ec2242a83628d5f
-SHA1: 0db6b646ffd291e9bce1a2a1ffb4932868d93574
-SHA256: e8ed1a0497cae0d1e54d5dbe9daefc8854fdf077c0d269c43c5c8ad5249358dd
-Section: System
-Description: AppList alternative
-Author: Spark
-Name: libSparkAppList
 
