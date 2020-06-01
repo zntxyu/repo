@@ -344,3 +344,17 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: zntxyu.libSparkAppList
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Spark
+Filename: ./debs/zntxyu.libSparkAppList_1.0.9_iphoneos-arm.deb
+Size: 54660
+MD5sum: 96c3b9f63c9908af9ec2242a83628d5f
+SHA1: 0db6b646ffd291e9bce1a2a1ffb4932868d93574
+SHA256: e8ed1a0497cae0d1e54d5dbe9daefc8854fdf077c0d269c43c5c8ad5249358dd
+Section: System
+Description: AppList alternative
+Author: Spark
+Name: libSparkAppList
+
