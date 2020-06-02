@@ -1,0 +1,492 @@
+Package: com.michael.appleturboboost
+Version: 0.5.2
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/com.michael.appleturboboost_0.5.2_iphoneos-arm.deb
+Size: 1968
+MD5sum: b9e0d79e965fa253f58e452dc69f1b5c
+SHA1: 080eb7fe71b8316f97ec07955edb6469bc2fa918
+SHA256: 28fe1dd9a4942820376fca82cbb4ec75d98ee09421ea472220e67fd3f998b241
+Section: Tweaks
+Description: Turbo Boost Your Apple!
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
+
+Package: com.spark.libsparkapplist
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Spark
+Filename: ./debs/com.spark.libsparkapplist_1.0.9_iphoneos-arm.deb
+Size: 54684
+MD5sum: f35b026bd668c93073c2fe2bac43b7e6
+SHA1: 1782be9974ec24a8db26ddb247a740276c4dda36
+SHA256: 1ed6296a2ba130c481e5f7c30a7ac346164b2eef1a74ada9513a226d946737df
+Section: System
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Name: libSparkAppList
+
+Package: zntxyu.A-Bypass
+Version: 1.0.7
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/zntxyu.A-Bypass_1.0.7_iphoneos-arm.deb
+Size: 54018
+MD5sum: 813d0bf623c949f7f3e990b4ccee0055
+SHA1: 3977b494db84d9be744f43f74707f8c6656ed6cc
+SHA256: a672795664537dae390a984524c132343da99c4650035dcd241192b8753c6ff8
+Section: Tweaks
+Description: Super Jailbreak detection bypass!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Bypass
+
+Package: zntxyu.Allow.KeyBoard
+Version: 1.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Allow.KeyBoard_1.5_iphoneos-arm.deb
+Size: 9110
+MD5sum: abdee671b7bc3751a2f66e618104e5f6
+SHA1: dce8e061e8c256a8ca37ce7e919b4613c1561d31
+SHA256: 65085b65bf010eb29acefbeb8c5093a71b1a04ba46588a8437c5421a0e338514
+Section: System
+Description: Allow third-party keyboards to gain priority authority
+Author: iBreak <ibreak2019@qq.com>
+Name: Allow.KeyBoard
+
+Package: zntxyu.AppStore++
+Version: 0.9.11
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/zntxyu.AppStore++_0.9.11_iphoneos-arm.deb
+Size: 612712
+MD5sum: 15e9ab6a3aad7534c5a7080ce1a02afd
+SHA1: c263994730a9856057e079dd0600f7255b42bb38
+SHA256: a35b95b80b8ff2a3f9f5255672a06248c6c5b24610a13fee28c370cfb8d685c2
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
+Author: CokePokes
+Name: AppStore++
+
+Package: zntxyu.AppSync.Unified
+Version: 76.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/zntxyu.Appsync.Unified_76.0_iphoneos-arm.deb
+Size: 64076
+MD5sum: 9a9d3da4da060a332341b84092d73ce8
+SHA1: dd50f3fc10e5cfb0aef9c2690ba3840d4d9e4cfc
+SHA256: a57c941d5e4d1cc9579ae617b8b872885ca7121ad04a554f36c42dc9b916bc0d
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Name: AppSync Unified
+
+Package: zntxyu.CarrieCcrack-Global
+Version: 3.1.4
+Architecture: iphoneos-arm
+Maintainer: iTweakiOS <itweakios@yahoo.com.com>
+Pre-Depends: firmware (>= 11)
+Depends: zntxyu.CommCenter.Patch
+Filename: ./debs/zntxyu.CarrieCcrack-Global_3.1.4_iphoneos-arm.deb
+Size: 4564808
+MD5sum: 6ad70ff1a19de00c610a1e602cb14f07
+SHA1: b7871b74e7254a7f8e5af6c467ef481fa1911039
+SHA256: f34150187a9255dc87bc2b71d2d44f83b8773518b1e0849aa2842d1012ef4a19
+Section: Tweaks
+Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
+Author: iTweakiOS <itweakios@yahoo.com>
+Name: CarrierCrack-Global
+
+Package: zntxyu.CommCenter.Patch
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <itweakios@yahoo.com>
+Depends: mobilesubstrate, firmware (>=10.0)
+Filename: ./debs/zntxyu.CommCenter.Patch_4.0.1_iphoneos-arm.deb
+Size: 44272
+MD5sum: eb0a6bdd7124860efe6f3030edf2e56b
+SHA1: c51a2a91a8a356fb0f0170294c8cc4919194e3c9
+SHA256: 27b3bf8a7e4a0619c27ed1a69d5c749625db6c370798b132b8dd31f86dc05802
+Section: Tweaks
+Description: Carrier bundle verification bypass
+Author: Pwn20wnd <itweakios@yahoo.com>
+Name: CommCenter Patch
+
+Package: zntxyu.Cydown
+Version: 7.1.0
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debs/zntxyu.Cydown_7.1.0_iphoneos-arm.deb
+Size: 4325570
+MD5sum: 08d6bebf5345bb7df1094bd68176d6c9
+SHA1: 5a40f5a5c051265411e34922d6ec18cc74d2f294
+SHA256: fbd0b49dca560709cfec13d311cbe78dfdb60a79a13d13bc7da651b98024d1b0
+Section: Tweaks
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne <julioverne@me.com>
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+
+Package: zntxyu.Eyeplugs
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/zntxyu.Eyeplugs_1.6.2_iphoneos-arm.deb
+Size: 55736
+MD5sum: de7953dbb00a96e4c49ea09a378f68f8
+SHA1: 35b98facfcdcc03e6b18d5ed20634f8c355e99e4
+SHA256: 4723cf891cbb38dbd6f29f3f1ae6f8f362fd7962605a4644573d08460af47ff7
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Name: Eyeplugs
+
+Package: zntxyu.Facebook.NoAds
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Facebook.NoAds_0.0.1_iphoneos-arm.deb
+Size: 5570
+MD5sum: 6c1d39ae201f01540524405ed7e01049
+SHA1: a49ad3f7c357df70b1f6b19af4fc425adb36a6cb
+SHA256: 56b747dfd2e0c8572f3ca800272735ff63f39adee4b80e0025a144246a5c2911
+Section: Tweaks
+Description: Hide Ads on Facebook app
+Author: Hao Nguyen
+Name: Facebook No Ads
+
+Package: zntxyu.Filza.Crack
+Version: 0.0.1-23+debug
+Architecture: iphoneos-arm
+Maintainer: xia0z
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Filza.Crack_0.0.1-23+debug_iphoneos-arm.deb
+Size: 5610
+MD5sum: 5355b71d361fdd49fa8468063b7dc433
+SHA1: 00d2696ae4c5944adebb61e48ca1077e03f8592a
+SHA256: e1619034d4f0e482f5738f577c9e7b6965985996e8a6f933ba67c4c121aa3533
+Section: Tweaks
+Description: Filza Crack
+Author: xia0z
+Name: Filza Crack
+
+Package: zntxyu.Filza.File.Manager
+Version: 3.7.6-6
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/zntxyu.Filza.File.Manager_3.7.6-6_iphoneos-arm.deb
+Size: 12805616
+MD5sum: cb98f3124c7e4e36e917fc37cab00eca
+SHA1: 2159384b65814ddfc83c2c6e3b8e2ed9e463bb7c
+SHA256: c2cfd5b4ab9700d16ca670848a6348ce6081e351060bf8a0b80f0dd23fd2f85c
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: TIGI Software
+Name: Filza File Manager
+
+Package: zntxyu.Flex3
+Version: Beta90
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/zntxyu.Flex3_Beta90_iphoneos-arm.deb
+Size: 14071306
+MD5sum: 282125190418278b267a9d974cb096e9
+SHA1: 5386474905b11084a3218502ed409f2fbf46c4f9
+SHA256: 743612caff4fab3d0c1a25738893a926756702c8473c7866a7e44c2c741489a2
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex3
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: zntxyu.Kwyy.Crack
+Version: 2.2-3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Kwyy.Crack_2.2-3_iphoneos-arm.deb
+Size: 69622
+MD5sum: fa90f84dfac78db5938bd01bfe8dbf49
+SHA1: 35af47e33e46c23a88b78f4ef308682562b033ad
+SHA256: c5f9efcc19763d22953c7af5458b505811811ef483141e15ecece7177352abc5
+Section: Tweaks
+Description: 机酷我音乐开启全功能，全音乐可下载，VIP皮肤随便用，解锁海外限制，去除多处广告等。
+Author: 7Loopy
+Name: 酷我音乐 Crack
+
+Package: zntxyu.LocalIPAStore
+Version: 1.5-1x
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/zntxyu.LocalIPAStore_1.5-1x_iphoneos-arm.deb
+Size: 70922
+MD5sum: 0c7bec81bca3fd13c9b94c92b08b5015
+SHA1: fd07b4b6679d13426f5c0ed9167a18a24b72befa
+SHA256: b9789b2b599df9e7b2de698fa01019c214bfc5def646d76aff092d558f40df2a
+Section: Tweaks
+Description: 内购破解。
+Author: anondev
+Name: LocalIAPStore
+
+Package: zntxyu.MIX.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
+Size: 69106
+MD5sum: 08251042ba3cfa9f378012e512885c88
+SHA1: aaa1ad2a50ba6e57c6e012828173bf3761247c09
+SHA256: 5652add5f9322afeeb395cc3f9e619b850cc67b58733bd2695b779ea544850f9
+Section: Tweaks
+Description: MIX滤镜大师开启全滤镜下载权限和全功能。
+Author: 7Loopy
+Name: MIX滤镜大师 Crack
+
+Package: zntxyu.PTJ.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
+Size: 68558
+MD5sum: 399697ace885efab250c28cbff8e3348
+SHA1: 1a10edd24fd4b321002db9ae0fdd6c699b603e4e
+SHA256: 5b20c08e8a2386039def718e02bff4b62839c125cc27427a421b5614db4de769
+Section: Tweaks
+Description: 拼图酱开启高级权限。
+Author: 7Loopy
+Name: 拼图酱 Crack
+
+Package: zntxyu.PicsArt.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
+Size: 69198
+MD5sum: 01bf436d96a942f85aeddbba17e50055
+SHA1: d4fca141b3f1fff91490cf2dd01748e68095f143
+SHA256: fe7a7da83d41b31e24c9fe52a396fef6c8bcb9894e1e2f47379423c622abe4b7
+Section: Tweaks
+Description: PicsArt美易开启高级权限。
+Author: 7Loopy
+Name: PicsArt美易 Crack
+
+Package: zntxyu.PowerlogHelperdFix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PowerlogHelperdFix_1.0_iphoneos-arm.deb
+Size: 5332
+MD5sum: dc18295541f9942fffbc37de9f3f6e11
+SHA1: 7c4c55c6b65e7d0140c8a5fd7c81deeb63dfc96d
+SHA256: 0f0dc81657b3fae0b10fd9cdd1df402de9c8e0eeb5b654b5e75310520f00f480
+Section: Tweaks
+Description: Block tweak injection into powerlogHelperd!
+Author: opa334
+Name: PowerlogHelperdFix
+
+Package: zntxyu.ReProvision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14391676
+MD5sum: 48d6aa59b0b2af1092dfd68d507daf7a
+SHA1: 5a0bcba95ead1024a839a8774192a20f3ad0683d
+SHA256: 147baa841fac6791cde681031950c83ac3f51c0563c370b797e73b14e87a055d
+Section: System
+Priority: optional
+Description: Re-sign applications on your device
+Author: Matt Clarke <matt@incendo.ws>
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision
+
+Package: zntxyu.Shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
+Size: 249980
+MD5sum: d761652795a1fdfc5c0260c5825d3ae9
+SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
+SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
+Section: Tweaks
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Name: Shadow
+
+Package: zntxyu.SlimVolumeHUD
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.SlimVolumeHUD_0.0.1_iphoneos-arm.deb
+Size: 3768
+MD5sum: 555fd83191901e6718d2c3451e4b6f26
+SHA1: 4b5a83472b96ff389f20fcc996c5664d2edd39b2
+SHA256: c80f54a8e4e9a1dcaa1279a72daec0f22d1b059adf8c71cc7af645758fd33c36
+Section: Tweaks
+Description: Get rid of the "fat" iOS 13 Volume HUD state
+Author: level3tjg
+Name: SlimVolumeHUD
+
+Package: zntxyu.Spotilife
+Version: 1.1a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Spotilife_1.1a_iphoneos-arm.deb
+Size: 201082
+MD5sum: 3d87919cd9c9991057a5972387bfa6f9
+SHA1: 8c1ccfd1690b55529328c9c8586b1183cf277f0d
+SHA256: 75631a283a4772b73f5e98f379a23a3a52aef08950e9ef0de54f8a0b78d088f2
+Section: Tweaks
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Name: Spotilife
+
+Package: zntxyu.StatusBar.Arise
+Version: 1.0.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.StatusBar.Arise_1.0.2_iphoneos-arm.deb
+Size: 6222
+MD5sum: 54212aea88ac007505d6f7ee2cf1acbf
+SHA1: 958ad5b51908397db099821b1768610d09c13c90
+SHA256: 13d30a553a697b33c43a220dcd3bf24b21d5614750f7572939497c52fc5afd5c
+Section: Tweaks
+Description: Open Multitask/Folder Display Status Bar
+Author: iBreak <ibreak2019@qq.com>
+Name: StatusBar.Arise
+
+Package: zntxyu.StoreSwitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/zntxyu.StoreSwitcher2_1.0.3_iphoneos-arm.deb
+Size: 45830
+MD5sum: 2298c90d45c048fa5589a317cbb232b7
+SHA1: 52d6218ad98ca53383e056d3546dfef8abef00de
+SHA256: 74cbbbbecc29e8c144e330174c65725d8c4f3ae8d9f95b5c16ea63b33d7ec4a4
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
+
+Package: zntxyu.Surge4.Crack
+Version: 0.0.1-9+debug
+Architecture: iphoneos-arm
+Maintainer: Potatso
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Surge4.Crack_0.0.1-9+debug_iphoneos-arm.deb
+Size: 10126
+MD5sum: 2b60c2c26e02e729db2e7e960f7ecfbe
+SHA1: 963c258a1ef3c758569b4847ac372cea240bc838
+SHA256: f3da0127b2298a383537230caded86d7b9c2c1b1add5dd9e6e919f0950e3bd58
+Section: Tweaks
+Description: Surge Crack.
+Author: Potatso
+Name: Surge4 Crack
+
+Package: zntxyu.VPN.Master.Crack
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.VPN.Master.Crack_1.1_iphoneos-arm.deb
+Size: 15054
+MD5sum: 12d75b62b72a522a45da79da9c4e5122
+SHA1: b1e2dac278eaa66287b7e6168ae80008d11c345e
+SHA256: b607770d4a29b8763db9347f71a2ed4492549c6fe7c77ae2a3348cf9026d3ea5
+Section: Tweaks
+Description: VPN Master开启所有线路，去除中国地区限制。
+Author: 7Loopy
+Name: VPN Master Crack
+
+Package: zntxyu.Vpn.Umlimited.Crack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Vpn.Umlimited.Crack_0.0.1_iphoneos-arm.deb
+Size: 42984
+MD5sum: cf1a9d71908a1339bd245b4ccbe4ec97
+SHA1: 7cf00e4880de354117be6a2db2e4798bdf6ae8be
+SHA256: 90bd80c600d8b1c4ee1c0779dfb0766e084707cd5d936cfd2d2ae5b22e6fda8a
+Section: Tweaks
+Description: Vpn Umlimited Crack
+Author: stem grade
+Name: Vpn Umlimited Crack
+
+Package: zntxyu.YTHDUnlocker
+Version: 0.0~beta1a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.YTHDUnlocker_0.0~beta1a_iphoneos-arm.deb
+Size: 70646
+MD5sum: 4495e4afc2a8c841531a871f35dcbc29
+SHA1: b6e8115fa96b1ac8b65902c12d76ac47e203a459
+SHA256: 4d4ae4a4ab19a0ada490bfda9fbc1ce44d26e0d440a3e6e94986acbbddf2e00c
+Section: Tweaks
+Description: Unlocks HD Videos in YouTube App
+Author: julioverne
+Name: YTHDUnlocker
+
+Package: zntxyu.YouTube.Tools
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Justin Petkovic
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.YouTube.Tools_4.0_iphoneos-arm.deb
+Size: 31692
+MD5sum: 08f7ebca9e6500e5860ea4f585d77935
+SHA1: 3c56d97fb9b8e4b765f87a15c6566954dbf46cfe
+SHA256: 875916a82182d381ed4d613219f8f38f1e58a6a804af12a028215c447f95b285
+Section: Tweaks
+Description: Essential toolbox for YouTube app.
+Author: Justin Petkovic
+Name: YouTube Tools
+
+Package: zntxyu.iCleaner.Pro
+Version: 7.8.3~beta1
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/zntxyu.iCleaner.Pro_7.8.3~beta1_iphoneos-arm.deb
+Size: 9503032
+MD5sum: 5f1f37bee82d023b97170ebf260ccb12
+SHA1: d5258cb40911064b3aa1a9afe5640f76159cdde5
+SHA256: 8d885369219d619e7c7db023779bc7c26c11094b59d96e3f46013f9a6ad83f2a
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
