@@ -453,21 +453,6 @@ Description: Unlocks HD Videos in YouTube App
 Author: julioverne
 Name: YTHDUnlocker
 
-Package: zntxyu.YueHei+Panton
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zntxyu
-Depends: firmware (>= 13.0)
-Filename: ./debs/zntxyu.YueHei+Panton_1.0_iphoneos-arm.deb
-Size: 39964670
-MD5sum: 6235e0cc622d006ec3a79e9f411e8349
-SHA1: 4d69241c193121f3adf6a1228385c55955a3166c
-SHA256: 65cb606ae0db11b81f30da93e93de97f78696160b0a1e7dcf0d664bc452382aa
-Section: System
-Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
-Author: zntxyu
-Name: Font-悦黑+Panton
-
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3~beta1
 Architecture: iphoneos-arm
