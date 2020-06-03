@@ -180,17 +180,15 @@ Name: CyDown 简体中文包
 Package: zntxyu.Cydown
 Version: 7.1.0
 Architecture: iphoneos-arm
-Maintainer: Julio
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/zntxyu.Cydown_7.1.0_iphoneos-arm.deb
-Size: 4325570
-MD5sum: 08d6bebf5345bb7df1094bd68176d6c9
-SHA1: 5a40f5a5c051265411e34922d6ec18cc74d2f294
-SHA256: fbd0b49dca560709cfec13d311cbe78dfdb60a79a13d13bc7da651b98024d1b0
+Size: 4417570
+MD5sum: 6a03d563462c4f42b3c7ce9b894305ef
+SHA1: 56fa3eff769e86ced05b38f85a1f10bd71ea2a4e
+SHA256: 7c799065b47d5cabf123323213e55423d63464e1f9d45bb9e6fe55031824798a
 Section: Tweaks
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne <julioverne@me.com>
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
 Package: zntxyu.Eyeplugs
@@ -375,21 +373,19 @@ Name: PowerlogHelperdFix
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
 Architecture: iphoneos-arm
-Maintainer: Matt Clarke <matt@incendo.ws>
 Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer
 Provides: com.matchstic.Extender-Installer
 Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14391676
-MD5sum: f0932e7745977e446fbebeb49f3641c0
-SHA1: 7380d6ef6355effa23fa8ec93c3f5b615da2ba89
-SHA256: af1caa97cb2d4ac37d41e0ddd046bf71fd1c7bfd64254705d99a38be37604796
+Size: 14391648
+MD5sum: 658cf82e02f112a3138f62a698505142
+SHA1: 6717ca26feb3005ee474fc745460af2e017bc1af
+SHA256: ee674b2ab01c7224cb1d0a6680fa1691b03e0143489403b69df828c66022dd7d
 Section: Utilities
 Priority: optional
 Description: Re-sign applications on your device
 Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Name: ReProvision
 
 Package: zntxyu.Shadow
@@ -553,6 +549,21 @@ Description: Essential toolbox for YouTube app.
 Author: Justin Petkovic
 Name: YouTube Tools
 
+Package: zntxyu.YueHei+Panton
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zntxyu
+Depends: firmware (>= 13.0)
+Filename: ./debs/zntxyu.YueHei+Panton_1.0_iphoneos-arm.deb
+Size: 39964670
+MD5sum: 6235e0cc622d006ec3a79e9f411e8349
+SHA1: 4d69241c193121f3adf6a1228385c55955a3166c
+SHA256: 65cb606ae0db11b81f30da93e93de97f78696160b0a1e7dcf0d664bc452382aa
+Section: System
+Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
+Author: zntxyu
+Name: Font-悦黑+Panton
+
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3~beta1
 Architecture: iphoneos-arm
@@ -570,19 +581,4 @@ Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
-
-Package: zntxyu.yuehei+panton
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zntxyu
-Depends: firmware (>= 13.0)
-Filename: ./debs/zntxyu.yuehei+panton_1.0_iphoneos-arm.deb
-Size: 39964684
-MD5sum: eb52e29d585b0b3e7c61f52fa7252d98
-SHA1: 9ea526011f2a95555b00570b6966043cab23c908
-SHA256: adc6b232a61a0e0e8f0a768bb9f681bcbcab89d64ae111c25c67e07077268f35
-Section: System
-Description: 悦黑+panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
-Author: zntxyu
-Name: Font-悦黑+panton
 
