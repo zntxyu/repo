@@ -504,18 +504,3 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
-Package: zntxyu.yuehei+panton
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zntxyu
-Depends: firmware (>= 13.0)
-Filename: ./debs/zntxyu.yuehei+panton_1.0_iphoneos-arm.deb
-Size: 39964780
-MD5sum: 57c83215a775a9d4cbd5c1ea60a6ed92
-SHA1: 23ecd8d1ce834bcd0dbfa06dc16dbc9ddf54e4dc
-SHA256: 45a9981d3f64c8d5dd43700221787208d751d94b9a87d4eb652493032dd87c21
-Section: System
-Description: 悦黑+panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
-Author: zntxyu
-Name: Font-悦黑+panton
-
