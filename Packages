@@ -29,6 +29,19 @@ Tag: role::developer
 Author: Spark
 Name: libSparkAppList
 
+Package: zntxyu.3DTools.CN
+Version: 1.0.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zntxyu.3DTools.CN_1.0.5_iphoneos-arm.deb
+Size: 2286
+MD5sum: df3de137d59f7f0eff766f4b4583a8de
+SHA1: 4b6c594d57476886f9a75c3db52d0547767f21f1
+SHA256: 2b74e05790d43d8320bf66028c6b411eef34d7cb52d9852197de69704a4c7f37
+Section: Tweaks
+Author: zntxyu
+Name: 3DTools 简体中文包
+
 Package: zntxyu.A-Bypass
 Version: 1.0.7
 Architecture: iphoneos-arm
@@ -73,6 +86,20 @@ Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
 Author: CokePokes
 Name: AppStore++
+
+Package: zntxyu.AppStore++.CN
+Version: 1.1-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.AppStore++.CN_1.1-2_iphoneos-arm.deb
+Size: 25768
+MD5sum: e3be12c450fac19c7059f981e90cd64c
+SHA1: f2e28ac9a9df505aa6077c7796db106dd6222c57
+SHA256: dfa26601cc3c390d79e1759254dba192aaf70d4bc7eaae1a4275966c9ce8326c
+Section: Tweaks
+Description: AppStore++ 简体中文包
+Author: Netskao
+Name: AppStore++ 简体中文包
 
 Package: zntxyu.AppSync.Unified
 Version: 76.0
@@ -136,6 +163,19 @@ Section: Tweaks
 Description: Carrier bundle verification bypass
 Author: Pwn20wnd <itweakios@yahoo.com>
 Name: CommCenter Patch
+
+Package: zntxyu.CyDown.CN
+Version: 7.1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.CyDown.CN_7.1.0_iphoneos-arm.deb
+Size: 96548
+MD5sum: e5f56d1f3f27f50f53c5e9829c83b788
+SHA1: d1726e465b8ea82d823062012a2fdb62912696cd
+SHA256: 3a00241b7afb86967f9bdbfd816de286dbe4c102c2eeca6f734860a7059fd583
+Section: Tweaks
+Author: Sandy0&7Loopy
+Name: CyDown 简体中文包
 
 Package: zntxyu.Cydown
 Version: 7.1.0
@@ -232,6 +272,20 @@ Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
+
+Package: zntxyu.Flex3.CN
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Flex3.CN_1.1-1_iphoneos-arm.deb
+Size: 54288
+MD5sum: 33ece23d1410a63475a7bb918980522c
+SHA1: 18930185fe06fa59f59bd231c64c3f801205bda8
+SHA256: dd65422a06b0f4a74ff75cff6c4d39cf7328f10430319855fe4468732189a764
+Section: Tweaks
+Description: Flex3 简体中文包
+Author: Netskao
+Name: Flex3 简体中文包
 
 Package: zntxyu.Kwyy.Crack
 Version: 2.2-3
@@ -352,6 +406,19 @@ Section: Tweaks
 Description: A lightweight general jailbreak detection bypass.
 Author: jjolano <jjolano@me.com>
 Name: Shadow
+
+Package: zntxyu.Shuffle.CN
+Version: 1.2.8
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Shuffle.CN_1.2.8_iphoneos-arm.deb
+Size: 7192
+MD5sum: 8a04a465de26153e252bd3869c7da71d
+SHA1: da9d30642f5d7508c53262f4131a6c00eb9f90e6
+SHA256: 77b3abfcb4fe7c0113ad24cd57e0ee44070f28a925fff55332b32d10e8a7c588
+Section: Tweaks
+Author: zntxyu
+Name: Shuffle 简体中文包
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
