@@ -29,6 +29,20 @@ Tag: role::developer
 Author: Spark
 Name: libSparkAppList
 
+Package: zntxyu.3DTools.CN
+Version: 1.0.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.3DTools.CN_1.0.5_iphoneos-arm.deb
+Size: 2284
+MD5sum: ca61ccdfe81024554395ac1801430569
+SHA1: 59c036900f57bf00b5ea0b5d289ab67a34b80dbf
+SHA256: f9cc1ef1fd4d7c7dcac20d8c336cd2bd992ea57cfc86312c229c9b28e6d1a346
+Section: Localization
+Description: 3DTools 简体中文包
+Author: zntxyu
+Name: 3DTools 简体中文包
+
 Package: zntxyu.A-Bypass
 Version: 1.0.7
 Architecture: iphoneos-arm
@@ -136,6 +150,20 @@ Section: Tweaks
 Description: Carrier bundle verification bypass
 Author: Pwn20wnd <itweakios@yahoo.com>
 Name: CommCenter Patch
+
+Package: zntxyu.CyDown.CN
+Version: 7.1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.CyDown.CN_7.1.0_iphoneos-arm.deb
+Size: 96574
+MD5sum: 00f6ba321c095e2d50b5995d0ecd0126
+SHA1: c7018080e172f89696c8879f6b5ddea45fb79c8e
+SHA256: 81485b57838298c836ba61d2243736a618d202baedb6a47f61303b5f39f0a877
+Section: Localization
+Description: Flex3 简体中文包
+Author: Sandy0&7Loopy
+Name: CyDown 简体中文包
 
 Package: zntxyu.Cydown
 Version: 7.1.0
@@ -363,6 +391,20 @@ Description: A lightweight general jailbreak detection bypass.
 Author: jjolano <jjolano@me.com>
 Name: Shadow
 
+Package: zntxyu.Shuffle.CN
+Version: 1.2.8
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Shuffle.CN_1.2.8_iphoneos-arm.deb
+Size: 7210
+MD5sum: a2480bba95ce2671d149431d24bbe7fa
+SHA1: 1ab26d79bd17868f24306fd349c5a285025c9c1d
+SHA256: dd184ed4c529299de9aa784cfe2203f47b1be41aa462d8b38746003a549c19d7
+Section: Localization
+Description: Shuffle 简体中文包
+Author: zntxyu
+Name: Shuffle 简体中文包
+
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -452,6 +494,21 @@ Section: Tweaks
 Description: Unlocks HD Videos in YouTube App
 Author: julioverne
 Name: YTHDUnlocker
+
+Package: zntxyu.YueHei+Panton
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zntxyu
+Depends: firmware (>= 13.0)
+Filename: ./debs/zntxyu.YueHei+Panton_1.0_iphoneos-arm.deb
+Size: 39964670
+MD5sum: 6235e0cc622d006ec3a79e9f411e8349
+SHA1: 4d69241c193121f3adf6a1228385c55955a3166c
+SHA256: 65cb606ae0db11b81f30da93e93de97f78696160b0a1e7dcf0d664bc452382aa
+Section: System
+Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
+Author: zntxyu
+Name: Font-悦黑+Panton
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3~beta1
