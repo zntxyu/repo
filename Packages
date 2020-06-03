@@ -182,17 +182,16 @@ Name: CyDown
 Package: zntxyu.Eyeplugs
 Version: 1.6.2
 Architecture: iphoneos-arm
-Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
 Pre-Depends: firmware (>= 9.0)
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debs/zntxyu.Eyeplugs_1.6.2_iphoneos-arm.deb
-Size: 55736
-MD5sum: de7953dbb00a96e4c49ea09a378f68f8
-SHA1: 35b98facfcdcc03e6b18d5ed20634f8c355e99e4
-SHA256: 4723cf891cbb38dbd6f29f3f1ae6f8f362fd7962605a4644573d08460af47ff7
+Size: 55686
+MD5sum: 1460ab9c468183de7107c4fc46e5fd49
+SHA1: b019b3314896c98d5ac60ebef1dd3d748933590b
+SHA256: 3f49741f150757c84a995ae205f5c382e249755eb2a471cceab38fd6b0a20de3
 Section: Tweaks
 Description: suppress banners in apps
-Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Author: Summer Triangle
 Name: Eyeplugs
 
 Package: zntxyu.Eyeplugs.CN
@@ -200,10 +199,10 @@ Version: 1.6.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.Eyeplugs.CN_1.6.2_iphoneos-arm.deb
-Size: 1944
-MD5sum: 88d94f89ba6221d17f82584c32c4b482
-SHA1: dc76e7a6d22c7291c59b8cb9e258c5052b3e1ca8
-SHA256: 381af5f3f0a98125f8a221fbe7237b3ffd40dd6523e4b40c269b5ae175105266
+Size: 1962
+MD5sum: c6d4d52b65a2794bab9fdd2d9620e63e
+SHA1: cbae72ab7a650181a156f19e19302de0985c9558
+SHA256: 06c7b895a5a028b509a1bfd0527fc8a5837f92cfbeabe546b9dc8f1bb9e75804
 Section: Localization
 Description: Eyeplugs 简体中文包
 Author: Zntxyu
