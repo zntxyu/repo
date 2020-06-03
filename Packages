@@ -60,6 +60,20 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
 Author: CokePokes
 Name: AppStore++
 
+Package: zntxyu.AppStore++.CN
+Version: 1.1-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.AppStore++.CN_1.1-2_iphoneos-arm.deb
+Size: 25772
+MD5sum: 11368ef35587308931306bbf04ce178a
+SHA1: 8ebf196d03508eb0023d820424f146d1ee55b080
+SHA256: 4253db2a0588aaf4da305a3b3327b9e38b48be7d58c5cb57c6241301896ea48c
+Section: Localization
+Description: AppStore++ 简体中文包
+Author: Netskao
+Name: AppStore++ 简体中文包
+
 Package: zntxyu.AppSync.Unified
 Version: 76.0
 Architecture: iphoneos-arm
@@ -216,6 +230,20 @@ Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
+
+Package: zntxyu.Flex3.CN
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Flex3.CN_1.1-1_iphoneos-arm.deb
+Size: 54290
+MD5sum: 52852e484a9c530bbc08700b04a7a57f
+SHA1: 94c6a72d6dee8a5172cc45ba4c58fe9c79b12c4b
+SHA256: 16f7581a5ac24a52430c5fd3368ec28965efbba5eececbcdc20adcc075248cca
+Section: Localization
+Description: Flex3 简体中文包
+Author: Netskao
+Name: Flex3 简体中文包
 
 Package: zntxyu.Kwyy.Crack
 Version: 2.2-3
