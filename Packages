@@ -29,6 +29,20 @@ Tag: role::developer
 Author: Spark
 Name: libSparkAppList
 
+Package: zntxyu.3DTools.CN
+Version: 1.0.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.3DTools.CN_1.0.5_iphoneos-arm.deb
+Size: 2288
+MD5sum: 55f13ad0b8c2b4018e92bd4154960437
+SHA1: 67525b46ea6d80b5eeb01d948a889b4ff36e0142
+SHA256: 9be5f34b2f1083a5f9c9d5be8fe046c4740d7362f838dd0fecd353bd2ee0e9e0
+Section: Localization
+Description: 3DTools 简体中文包
+Author: Zntxyu
+Name: 3DTools 简体中文包
+
 Package: zntxyu.A-Bypass
 Version: 1.0.7
 Architecture: iphoneos-arm
@@ -376,6 +390,20 @@ Section: Tweaks
 Description: A lightweight general jailbreak detection bypass.
 Author: jjolano <jjolano@me.com>
 Name: Shadow
+
+Package: zntxyu.Shuffle.CN
+Version: 1.2.8
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Shuffle.CN_1.2.8_iphoneos-arm.deb
+Size: 7212
+MD5sum: d23b79e3d4f04f890b9f4b783d048129
+SHA1: 526d3a14649b554264f83e19b2bcc916718c634b
+SHA256: a018abf2206d8d3a73c3dfdce955fadc8dc28c205bc0db3fe2d0bca759031d51
+Section: Localization
+Description: Shuffle 简体中文包
+Author: Zntxyu
+Name: Shuffle 简体中文包
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
