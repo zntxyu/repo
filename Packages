@@ -97,11 +97,11 @@ Version: 1.5.3-2k
 Architecture: iphoneos-arm
 Conflicts: com.tigisoftware.appdatamanager
 Filename: ./debs/zntxyu.Apps.Manager_1.5.3-2k_iphoneos-arm.deb
-Size: 1918184
-MD5sum: 15e726818f87c11edf44837346f8627c
-SHA1: 6b0a733cbbfcd515740e049d574bd60e94e7c30b
-SHA256: d7cbdb0c8ece1e180fb8b6cd9594d236479f04ebd0bed67d8249e6174aa6ec49
-Section: Tweaks
+Size: 1918196
+MD5sum: 231089d28f3fc3c4bbabaade51c845a3
+SHA1: 8ebc09141e5a67b71523eb2b3c4030945926f401
+SHA256: 04ff8befdba6fc309f46571b72fa402c437a3644141192ee929bf4daae51dae9
+Section: Utilities
 Description: Apps Manager是一款抹除应用数据，备份还原应用数据的神器，此版本为破解版。
 Author: TIGI Software
 Name: Apps Manager
@@ -223,11 +223,11 @@ Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmwa
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: ./debs/zntxyu.Flex3_Beta90_iphoneos-arm.deb
-Size: 14071306
-MD5sum: 282125190418278b267a9d974cb096e9
-SHA1: 5386474905b11084a3218502ed409f2fbf46c4f9
-SHA256: 743612caff4fab3d0c1a25738893a926756702c8473c7866a7e44c2c741489a2
-Section: Tweaks
+Size: 14071308
+MD5sum: e4544a963b0aa4eb0f76de136c23b412
+SHA1: 2d026962285cbd3261ba27759a1ee0abc7b2640b
+SHA256: 3c6fdca9f8dec9b824867051813adc74e6672f2d0e1a55147904627db1876e60
+Section: Utilities
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
 Name: Flex3
@@ -327,10 +327,10 @@ Replaces: com.matchstic.Extender-Installer
 Provides: com.matchstic.Extender-Installer
 Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
 Size: 14391676
-MD5sum: 48d6aa59b0b2af1092dfd68d507daf7a
-SHA1: 5a0bcba95ead1024a839a8774192a20f3ad0683d
-SHA256: 147baa841fac6791cde681031950c83ac3f51c0563c370b797e73b14e87a055d
-Section: System
+MD5sum: f0932e7745977e446fbebeb49f3641c0
+SHA1: 7380d6ef6355effa23fa8ec93c3f5b615da2ba89
+SHA256: af1caa97cb2d4ac37d41e0ddd046bf71fd1c7bfd64254705d99a38be37604796
+Section: Utilities
 Priority: optional
 Description: Re-sign applications on your device
 Author: Matt Clarke <matt@incendo.ws>
@@ -503,4 +503,19 @@ Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
+
+Package: zntxyu.yuehei+panton
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zntxyu
+Depends: firmware (>= 13.0)
+Filename: ./debs/zntxyu.yuehei+panton_1.0_iphoneos-arm.deb
+Size: 39964780
+MD5sum: 57c83215a775a9d4cbd5c1ea60a6ed92
+SHA1: 23ecd8d1ce834bcd0dbfa06dc16dbc9ddf54e4dc
+SHA256: 45a9981d3f64c8d5dd43700221787208d751d94b9a87d4eb652493032dd87c21
+Section: System
+Description: 悦黑+panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
+Author: zntxyu
+Name: Font-悦黑+panton
 
