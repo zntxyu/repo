@@ -200,16 +200,16 @@ Author: xia0z
 Name: Filza Crack
 
 Package: zntxyu.Filza.File.Manager
-Version: 3.7.6-6
+Version: 3.7.6-20
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/zntxyu.Filza.File.Manager_3.7.6-6_iphoneos-arm.deb
-Size: 12805616
-MD5sum: cb98f3124c7e4e36e917fc37cab00eca
-SHA1: 2159384b65814ddfc83c2c6e3b8e2ed9e463bb7c
-SHA256: c2cfd5b4ab9700d16ca670848a6348ce6081e351060bf8a0b80f0dd23fd2f85c
+Filename: ./debs/zntxyu.Filza.File.Manager_3.7.6-20_iphoneos-arm.deb
+Size: 12811326
+MD5sum: 8e91b2d513f7b72429efffe5fe428980
+SHA1: a57f53f6aff1d2d2dc83b65ae4d8e7dcf96f4edc
+SHA256: d318aa6493f82ec40cebd8aadecc2e117149416ad6cf655a97dd71a11c670c4f
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
