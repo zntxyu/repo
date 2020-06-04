@@ -332,12 +332,13 @@ Name: ReProvision
 Package: zntxyu.Rocket.Instagram.NoAds
 Version: 0.0.2
 Architecture: iphoneos-arm
-Depends: Tweaks
+Depends: mobilesubstrate
 Filename: ./debs/zntxyu.Rocket.Instagram.NoAds_0.0.2_iphoneos-arm.deb
-Size: 147594
-MD5sum: 140c8326b630c94875f66355fc6c21fc
-SHA1: 89bb8d17a6fad2e884c13252c02bb8e62d6974a9
-SHA256: ddf6dc7693fa9c1da2784ea841974909ee912888e20186c4e16ac27fc1ad0fc2
+Size: 147608
+MD5sum: 478ec90b0897ffb70c96e6a8877496a8
+SHA1: 1e735a0e468535b189adb20ca29e1402b9cf48f9
+SHA256: 4cd32211e54de28eb22c67aa03ed44a28757da2b33c1a54953bc79a1008862ac
+Section: Tweaks
 Description: Rocket for Instagram NoAds
 Author: stemgrade
 Name: Rocket for Instagram NoAds
