@@ -324,6 +324,48 @@ Description: 内购破解。
 Author: anondev
 Name: LocalIAPStore
 
+Package: zntxyu.MIX.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
+Size: 69106
+MD5sum: 08251042ba3cfa9f378012e512885c88
+SHA1: aaa1ad2a50ba6e57c6e012828173bf3761247c09
+SHA256: 5652add5f9322afeeb395cc3f9e619b850cc67b58733bd2695b779ea544850f9
+Section: Tweaks
+Description: MIX滤镜大师开启全滤镜下载权限和全功能。
+Author: 7Loopy
+Name: MIX滤镜大师 Crack
+
+Package: zntxyu.PTJ.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
+Size: 68558
+MD5sum: 399697ace885efab250c28cbff8e3348
+SHA1: 1a10edd24fd4b321002db9ae0fdd6c699b603e4e
+SHA256: 5b20c08e8a2386039def718e02bff4b62839c125cc27427a421b5614db4de769
+Section: Tweaks
+Description: 拼图酱开启高级权限。
+Author: 7Loopy
+Name: 拼图酱 Crack
+
+Package: zntxyu.PicsArt.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
+Size: 69198
+MD5sum: 01bf436d96a942f85aeddbba17e50055
+SHA1: d4fca141b3f1fff91490cf2dd01748e68095f143
+SHA256: fe7a7da83d41b31e24c9fe52a396fef6c8bcb9894e1e2f47379423c622abe4b7
+Section: Tweaks
+Description: PicsArt美易开启高级权限。
+Author: 7Loopy
+Name: PicsArt美易 Crack
+
 Package: zntxyu.Prysm+Quart.CN
 Version: 0.0.2-1
 Architecture: iphoneos-arm
