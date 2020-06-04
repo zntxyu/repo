@@ -134,37 +134,6 @@ Description: BottomControlX 简体中文包
 Author: Zntxyu
 Name: BottomControlX 简体中文包
 
-Package: zntxyu.CarrieCcrack-Global
-Version: 3.1.4
-Architecture: iphoneos-arm
-Maintainer: iTweakiOS <itweakios@yahoo.com.com>
-Pre-Depends: firmware (>= 11)
-Depends: zntxyu.CommCenter.Patch
-Filename: ./debs/zntxyu.CarrieCcrack-Global_3.1.4_iphoneos-arm.deb
-Size: 4564808
-MD5sum: 6ad70ff1a19de00c610a1e602cb14f07
-SHA1: b7871b74e7254a7f8e5af6c467ef481fa1911039
-SHA256: f34150187a9255dc87bc2b71d2d44f83b8773518b1e0849aa2842d1012ef4a19
-Section: Tweaks
-Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
-Author: iTweakiOS <itweakios@yahoo.com>
-Name: CarrierCrack-Global
-
-Package: zntxyu.CommCenter.Patch
-Version: 4.0.1
-Architecture: iphoneos-arm
-Maintainer: Pwn20wnd <itweakios@yahoo.com>
-Depends: mobilesubstrate, firmware (>=10.0)
-Filename: ./debs/zntxyu.CommCenter.Patch_4.0.1_iphoneos-arm.deb
-Size: 44272
-MD5sum: eb0a6bdd7124860efe6f3030edf2e56b
-SHA1: c51a2a91a8a356fb0f0170294c8cc4919194e3c9
-SHA256: 27b3bf8a7e4a0619c27ed1a69d5c749625db6c370798b132b8dd31f86dc05802
-Section: Tweaks
-Description: Carrier bundle verification bypass
-Author: Pwn20wnd <itweakios@yahoo.com>
-Name: CommCenter Patch
-
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
 Architecture: iphoneos-arm
@@ -359,6 +328,19 @@ Description: Re-sign applications on your device
 Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
+
+Package: zntxyu.Rocket.Instagram.NoAds
+Version: 0.0.2
+Architecture: iphoneos-arm
+Depends: Tweaks
+Filename: ./debs/zntxyu.Rocket.Instagram.NoAds_0.0.2_iphoneos-arm.deb
+Size: 147594
+MD5sum: 140c8326b630c94875f66355fc6c21fc
+SHA1: 89bb8d17a6fad2e884c13252c02bb8e62d6974a9
+SHA256: ddf6dc7693fa9c1da2784ea841974909ee912888e20186c4e16ac27fc1ad0fc2
+Description: Rocket for Instagram NoAds
+Author: stemgrade
+Name: Rocket for Instagram NoAds
 
 Package: zntxyu.Shuffle.CN
 Version: 1.2.8
