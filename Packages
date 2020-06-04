@@ -366,6 +366,21 @@ Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
 
+Package: zntxyu.PowerlogHelperdFix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PowerlogHelperdFix_1.0_iphoneos-arm.deb
+Size: 5332
+MD5sum: dc18295541f9942fffbc37de9f3f6e11
+SHA1: 7c4c55c6b65e7d0140c8a5fd7c81deeb63dfc96d
+SHA256: 0f0dc81657b3fae0b10fd9cdd1df402de9c8e0eeb5b654b5e75310520f00f480
+Section: Tweaks
+Description: Block tweak injection into powerlogHelperd!
+Author: opa334
+Name: PowerlogHelperdFix
+
 Package: zntxyu.Prysm+Quart.CN
 Version: 0.0.2-1
 Architecture: iphoneos-arm
