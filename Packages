@@ -57,6 +57,19 @@ Description: Super Jailbreak detection bypass!
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Bypass
 
+Package: zntxyu.AdBlock++
+Version: 1.4.1-2
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.AdBlock++_1.4.1-2_iphoneos-arm.deb
+Size: 8262
+MD5sum: a26972ebdec770562082f2425d6fc097
+SHA1: 23bbdc38504587c8d649a828ab6c3437b060c30a
+SHA256: 51d8b094a4b48551aad1cfe5c0b9a7601cfbe6cab4f8fff9a05e9a5db6bd7b90
+Section: Tweaks
+Description: AdBlock++
+Author: ReJail
+Name: AdBlock++
+
 Package: zntxyu.AppStore++
 Version: 0.9.11
 Architecture: iphoneos-arm
@@ -133,6 +146,20 @@ Section: Localization
 Description: BottomControlX 简体中文包
 Author: Zntxyu
 Name: BottomControlX 简体中文包
+
+Package: zntxyu.Cercube.for.YouTube
+Version: 5.1.18k
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, zntxyu.AdBlock++
+Filename: ./debs/zntxyu.Cercube.for.YouTube_5.1.18k_iphoneos-arm.deb
+Size: 5632306
+MD5sum: b5f50477bcca82b2a86986dc68742094
+SHA1: 55460845e79e99c7f8d7f6bf40b9d175041eb50a
+SHA256: d9f3d40978060f2bba540bcf23a2fb511d3e0e5b5602088ab013a9346c19b02f
+Section: Tweaks
+Description: Cercube for YouTube
+Author: Majd Alfhaily
+Name: Cercube for YouTube
 
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
