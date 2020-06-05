@@ -133,6 +133,20 @@ Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for ins
 Author: TIGI Software
 Name: Apps Manager
 
+Package: zntxyu.Assistant13
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Assistant13_1.1-1+debug_iphoneos-arm.deb
+Size: 88810
+MD5sum: d290bbe00e9fe66cdf951dd0217a0ad7
+SHA1: bef39e4c7356d9c0bd05b1d34df2692f27de19b3
+SHA256: 586b1674061063bc85d436ef17cb7403f7e2fdd121feb2d466bcb17dd571d52b
+Section: Tweaks
+Author: lzsxcl
+Name: Assistant13
+
 Package: zntxyu.BottomControlX.CN
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -160,6 +174,34 @@ Section: Tweaks
 Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
+
+Package: zntxyu.Choicy
+Version: 1.2.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist
+Filename: ./debs/zntxyu.Choicy_1.2.1_iphoneos-arm.deb
+Size: 146872
+MD5sum: bc031eab7fdd817f165a00214b6de699
+SHA1: c64a08bb2beb7d0f85ae40f400d244891299cc28
+SHA256: f33f4644def6c997073219a0ffa0ee33108f6c2b2bf6547317169acdea48e891
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334
+Name: Choicy
+
+Package: zntxyu.Choicy.CN
+Version: 1.2.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Choicy.CN_1.2.1_iphoneos-arm.deb
+Size: 2362
+MD5sum: 485a98e57b0a7c3995d8d162ad985307
+SHA1: 87b62600467983c5bad159a532cbddad40757983
+SHA256: e56430dcb4f76dfd446aedf15995852878a298705ad85b081824c25c10e88b2b
+Section: Localization
+Description: Choicy 简体中文包
+Author: Zntxyu
+Name: Choicy 简体中文包
 
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
@@ -296,6 +338,34 @@ Description: Flex3 简体中文包
 Author: Netskao
 Name: Flex3 简体中文包
 
+Package: zntxyu.HalFiPad
+Version: 3.2.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/zntxyu.HalFiPad_3.2.0_iphoneos-arm.deb
+Size: 66236
+MD5sum: 34e9054a1fdbe0b743f08fbbef07efb4
+SHA1: 9142310e94b7bf07bb398fefd53b70033261d3a1
+SHA256: 06b576222f10e075bae59c762616e855b7a0468cdd44a6fcc4559d735fddbab4
+Section: Tweaks
+Description: iPhone 11 gestures, iPad features, many unique features.
+Author: Hius
+Name: HalFiPad
+
+Package: zntxyu.IAP26
+Version: 0.0.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.IAP26_0.0.2_iphoneos-arm.deb
+Size: 14696
+MD5sum: 526def0fc1b86a9d0470586a72e15f11
+SHA1: 37c3609c2ab832c3141497611bcbfe1f9a92c335
+SHA256: 746d8f522c2f69eddf714a37a8c56e76212122787d1f5fa31570c0c47e0ec6da
+Section: Tweaks
+Description: iOS最强本地内购插件！
+Author: JustinPet26
+Name: iAP26
+
 Package: zntxyu.Kalm.CN
 Version: 1.4.1
 Architecture: iphoneos-arm
@@ -427,6 +497,35 @@ Description: Rocket for Instagram NoAds
 Author: stemgrade
 Name: Rocket for Instagram NoAds
 
+Package: zntxyu.Shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
+Size: 249980
+MD5sum: d761652795a1fdfc5c0260c5825d3ae9
+SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
+SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
+Section: Tweaks
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Name: Shadow
+
+Package: zntxyu.Shadow.CN
+Version: 2.0.20
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Shadow.CN_2.0.20_iphoneos-arm.deb
+Size: 4718
+MD5sum: 49fe4515e4afb4dae72a0902577b1da3
+SHA1: e186fce44eb4550f4526619bebb9bf31e4fb9e09
+SHA256: a7bb292a877c4c52a95c1db20a7710375b450c969eebcfc3244f0622674d5e65
+Section: Localization
+Description: Shadow 简体中文包
+Author: Zntxyu
+Name: Shadow 简体中文包
+
 Package: zntxyu.Shuffle.CN
 Version: 1.2.8
 Architecture: iphoneos-arm
@@ -486,6 +585,21 @@ Description: Adds a button to switch account in App Store account page on iOS 11
 Author: subdiox
 Name: StoreSwitcher 2
 
+Package: zntxyu.Surge4.Crack
+Version: 0.0.1-9+debug
+Architecture: iphoneos-arm
+Maintainer: Potatso
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Surge4.Crack_0.0.1-9+debug_iphoneos-arm.deb
+Size: 10126
+MD5sum: 2b60c2c26e02e729db2e7e960f7ecfbe
+SHA1: 963c258a1ef3c758569b4847ac372cea240bc838
+SHA256: f3da0127b2298a383537230caded86d7b9c2c1b1add5dd9e6e919f0950e3bd58
+Section: Tweaks
+Description: Surge Crack.
+Author: Potatso
+Name: Surge4 Crack
+
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -500,6 +614,21 @@ Section: Tweaks
 Description: Vpn Umlimited Crack
 Author: stem grade
 Name: Vpn Umlimited Crack
+
+Package: zntxyu.YTHDUnlocker
+Version: 0.0~beta1a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.YTHDUnlocker_0.0~beta1a_iphoneos-arm.deb
+Size: 70646
+MD5sum: 4495e4afc2a8c841531a871f35dcbc29
+SHA1: b6e8115fa96b1ac8b65902c12d76ac47e203a459
+SHA256: 4d4ae4a4ab19a0ada490bfda9fbc1ce44d26e0d440a3e6e94986acbbddf2e00c
+Section: Tweaks
+Description: Unlocks HD Videos in YouTube App
+Author: julioverne
+Name: YTHDUnlocker
 
 Package: zntxyu.YueHei+Panton
 Version: 1.0
