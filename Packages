@@ -162,6 +162,20 @@ Description: BottomControlX 简体中文包
 Author: Zntxyu
 Name: BottomControlX 简体中文包
 
+Package: zntxyu.CacheClearerX
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/zntxyu.CacheClearerX_1.1_iphoneos-arm.deb
+Size: 1002080
+MD5sum: 8b0cd3a88e8ee32de369f99d892d4086
+SHA1: f6ad5dc14d33a115b498af33c1a6731cf668f414
+SHA256: a9d395fcda6a78e311223253c1bd1180a06dda52026c70848fd826f23fc298b2
+Section: Tweaks
+Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
+Author: alex_png
+Name: CacheClearerX
+
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
