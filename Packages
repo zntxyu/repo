@@ -139,11 +139,12 @@ Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.Assistant13_1.1-1+debug_iphoneos-arm.deb
-Size: 88810
-MD5sum: d290bbe00e9fe66cdf951dd0217a0ad7
-SHA1: bef39e4c7356d9c0bd05b1d34df2692f27de19b3
-SHA256: 586b1674061063bc85d436ef17cb7403f7e2fdd121feb2d466bcb17dd571d52b
+Size: 88856
+MD5sum: 0c9ae3e1c418a5c54e155915032835f4
+SHA1: bd4302896da52ff5d165a5a02a3200641acea6d5
+SHA256: 47406331a8fc075c3ddb5cd26b822653631cb5ca00345fce8733443e7089aedc
 Section: Tweaks
+Description: 防误触的X手势。
 Author: lzsxcl
 Name: Assistant13
 
