@@ -134,15 +134,15 @@ Author: TIGI Software
 Name: Apps Manager
 
 Package: zntxyu.Assistant13
-Version: 1.1-1+debug
+Version: 1.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Assistant13_1.1-1+debug_iphoneos-arm.deb
-Size: 88856
-MD5sum: 0c9ae3e1c418a5c54e155915032835f4
-SHA1: bd4302896da52ff5d165a5a02a3200641acea6d5
-SHA256: 47406331a8fc075c3ddb5cd26b822653631cb5ca00345fce8733443e7089aedc
+Filename: ./debs/zntxyu.Assistant13_1.1-2+debug_iphoneos-arm.deb
+Size: 88310
+MD5sum: 2c7688e3c6c76f0775f0ddf695959e0e
+SHA1: bf5fd9becf417a0777fb68e273d3f1ef522fe3d6
+SHA256: c0e14c0da02c0838b4aa191b5e5dd08b241af65c8767bf9cae2f9f615028941d
 Section: Tweaks
 Description: 防误触的X手势。
 Author: lzsxcl
@@ -161,6 +161,19 @@ Section: Localization
 Description: BottomControlX 简体中文包
 Author: Zntxyu
 Name: BottomControlX 简体中文包
+
+Package: zntxyu.CC.Plus
+Version: 0.4.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/zntxyu.CC.Plus_0.4.1_iphoneos-arm.deb
+Size: 523010
+MD5sum: c648c4f1b3eed6fec726841bb313d227
+SHA1: a7589a76f1d60411002b3a620715df311a923ece
+SHA256: 11169fec7407d53a12b322b1c86c52ccd00f690a314e50cbd210370a5b617056
+Section: Development
+Author: lzsxcl
+Name: CC Plus
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
@@ -571,20 +584,6 @@ Section: Tweaks
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: subdiox
 Name: StoreSwitcher 2
-
-Package: zntxyu.Super.Vip
-Version: 1.5.8
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, com.creaturecoding.libcspreferences, preferenceloader
-Filename: ./debs/zntxyu.Super.Vip_1.5.8_iphoneos-arm.deb
-Size: 1608124
-MD5sum: e308488959cb8b4a701e0d6596007d77
-SHA1: fe629b2262edbcf3943ec49696d35c985efe69b5
-SHA256: be40442369a84e223e87a624ce90fbfaa80402f7dcb304fb2548230ada73b3e1
-Section: Tweaks
-Description: Super Vip
-Author: Super
-Name: Super Vip
 
 Package: zntxyu.Vpn.Master.Crack
 Version: 1.0.0
