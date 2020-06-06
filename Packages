@@ -162,20 +162,6 @@ Description: BottomControlX 简体中文包
 Author: Zntxyu
 Name: BottomControlX 简体中文包
 
-Package: zntxyu.CacheClearerX
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/zntxyu.CacheClearerX_1.1_iphoneos-arm.deb
-Size: 1002080
-MD5sum: 8b0cd3a88e8ee32de369f99d892d4086
-SHA1: f6ad5dc14d33a115b498af33c1a6731cf668f414
-SHA256: a9d395fcda6a78e311223253c1bd1180a06dda52026c70848fd826f23fc298b2
-Section: Tweaks
-Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
-Author: alex_png
-Name: CacheClearerX
-
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
@@ -352,20 +338,6 @@ Section: Localization
 Description: Flex3 简体中文包
 Author: Netskao
 Name: Flex3 简体中文包
-
-Package: zntxyu.HalFiPad
-Version: 3.2.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/zntxyu.HalFiPad_3.2.0_iphoneos-arm.deb
-Size: 66236
-MD5sum: 34e9054a1fdbe0b743f08fbbef07efb4
-SHA1: 9142310e94b7bf07bb398fefd53b70033261d3a1
-SHA256: 06b576222f10e075bae59c762616e855b7a0468cdd44a6fcc4559d735fddbab4
-Section: Tweaks
-Description: iPhone 11 gestures, iPad features, many unique features.
-Author: Hius
-Name: HalFiPad
 
 Package: zntxyu.IAP26
 Version: 0.0.2
@@ -600,20 +572,33 @@ Description: Adds a button to switch account in App Store account page on iOS 11
 Author: subdiox
 Name: StoreSwitcher 2
 
-Package: zntxyu.Surge4.Crack
-Version: 0.0.1-9+debug
+Package: zntxyu.Super.Vip
+Version: 1.5.8
 Architecture: iphoneos-arm
-Maintainer: Potatso
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Surge4.Crack_0.0.1-9+debug_iphoneos-arm.deb
-Size: 10126
-MD5sum: 2b60c2c26e02e729db2e7e960f7ecfbe
-SHA1: 963c258a1ef3c758569b4847ac372cea240bc838
-SHA256: f3da0127b2298a383537230caded86d7b9c2c1b1add5dd9e6e919f0950e3bd58
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences, preferenceloader
+Filename: ./debs/zntxyu.Super.Vip_1.5.8_iphoneos-arm.deb
+Size: 1608124
+MD5sum: e308488959cb8b4a701e0d6596007d77
+SHA1: fe629b2262edbcf3943ec49696d35c985efe69b5
+SHA256: be40442369a84e223e87a624ce90fbfaa80402f7dcb304fb2548230ada73b3e1
 Section: Tweaks
-Description: Surge Crack.
-Author: Potatso
-Name: Surge4 Crack
+Description: Super Vip
+Author: Super
+Name: Super Vip
+
+Package: zntxyu.Vpn.Master.Crack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/zntxyu.Vpn.Master.Crack_1.0.0_iphoneos-arm.deb
+Size: 23612
+MD5sum: d43191bcd749ae4805a96c8f612cbfa8
+SHA1: e591e0125e0aefdd1db9139f83936ad01c48a819
+SHA256: 540606043e08dc60aabd601832e88f7e560849b911d5a9b8c35937d33d304dc1
+Section: Tweaks
+Description: Vpn Master Crack
+Author: Zntxyu
+Name: Vpn Master Crack
 
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
