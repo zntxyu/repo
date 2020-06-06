@@ -134,15 +134,15 @@ Author: TIGI Software
 Name: Apps Manager
 
 Package: zntxyu.Assistant13
-Version: 1.1-1+debug
+Version: 1.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Assistant13_1.1-1+debug_iphoneos-arm.deb
-Size: 88856
-MD5sum: 0c9ae3e1c418a5c54e155915032835f4
-SHA1: bd4302896da52ff5d165a5a02a3200641acea6d5
-SHA256: 47406331a8fc075c3ddb5cd26b822653631cb5ca00345fce8733443e7089aedc
+Filename: ./debs/zntxyu.Assistant13_1.1-2+debug_iphoneos-arm.deb
+Size: 88310
+MD5sum: 2c7688e3c6c76f0775f0ddf695959e0e
+SHA1: bf5fd9becf417a0777fb68e273d3f1ef522fe3d6
+SHA256: c0e14c0da02c0838b4aa191b5e5dd08b241af65c8767bf9cae2f9f615028941d
 Section: Tweaks
 Description: 防误触的X手势。
 Author: lzsxcl
@@ -613,21 +613,6 @@ Section: Tweaks
 Description: Vpn Umlimited Crack
 Author: stem grade
 Name: Vpn Umlimited Crack
-
-Package: zntxyu.YTHDUnlocker
-Version: 0.0~beta1a
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.YTHDUnlocker_0.0~beta1a_iphoneos-arm.deb
-Size: 70646
-MD5sum: 4495e4afc2a8c841531a871f35dcbc29
-SHA1: b6e8115fa96b1ac8b65902c12d76ac47e203a459
-SHA256: 4d4ae4a4ab19a0ada490bfda9fbc1ce44d26e0d440a3e6e94986acbbddf2e00c
-Section: Tweaks
-Description: Unlocks HD Videos in YouTube App
-Author: julioverne
-Name: YTHDUnlocker
 
 Package: zntxyu.YueHei+Panton
 Version: 1.0
