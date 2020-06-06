@@ -166,6 +166,20 @@ Package: zntxyu.CC.Plus
 Version: 0.4.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/zntxyu.CC.Plus_0.4.1_iphoneos-arm(1).deb
+Size: 523058
+MD5sum: 990651734eb619a10ff43c5d2b80c936
+SHA1: 6e36d294cbae75eb70b03ce49613de845a6c56d2
+SHA256: 6d60e258af5528a2986f3b1f84ca70c6f08d23eab3fecafd4dec64842d038c55
+Section: Development
+Description: 控制中心整合。
+Author: lzsxcl
+Name: CC Plus
+
+Package: zntxyu.CC.Plus
+Version: 0.4.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Filename: ./debs/zntxyu.CC.Plus_0.4.1_iphoneos-arm.deb
 Size: 523010
 MD5sum: c648c4f1b3eed6fec726841bb313d227
