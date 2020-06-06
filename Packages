@@ -166,26 +166,13 @@ Package: zntxyu.CC.Plus
 Version: 0.4.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/zntxyu.CC.Plus_0.4.1_iphoneos-arm(1).deb
-Size: 523058
-MD5sum: 990651734eb619a10ff43c5d2b80c936
-SHA1: 6e36d294cbae75eb70b03ce49613de845a6c56d2
-SHA256: 6d60e258af5528a2986f3b1f84ca70c6f08d23eab3fecafd4dec64842d038c55
-Section: Development
+Filename: ./debs/zntxyu.CC.Plus_0.4.1_iphoneos-arm-1.deb
+Size: 523052
+MD5sum: f79872cc3b2de5a7d4c57d2dfece88cc
+SHA1: c7c8b6b696828a82f60ed2a6357c2d70df7d9ac2
+SHA256: 15168b731261e44a95a90eb2de55933b59174cd80412605ff7e97aa551c45af9
+Section: Tweaks
 Description: 控制中心整合。
-Author: lzsxcl
-Name: CC Plus
-
-Package: zntxyu.CC.Plus
-Version: 0.4.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/zntxyu.CC.Plus_0.4.1_iphoneos-arm.deb
-Size: 523010
-MD5sum: c648c4f1b3eed6fec726841bb313d227
-SHA1: a7589a76f1d60411002b3a620715df311a923ece
-SHA256: 11169fec7407d53a12b322b1c86c52ccd00f690a314e50cbd210370a5b617056
-Section: Development
 Author: lzsxcl
 Name: CC Plus
 
@@ -598,6 +585,19 @@ Section: Tweaks
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: subdiox
 Name: StoreSwitcher 2
+
+Package: zntxyu.Veexillum
+Version: 2.0.0
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.Veexillum_2.0.0_iphoneos-arm.deb
+Size: 39180478
+MD5sum: bcead810fac2241910e7912ca73c3a24
+SHA1: 4038e8a8fe49c0341895cd9b3ffb61d80c0826b2
+SHA256: a428a9cc51e6ee644ee35cd2f785214f05355c76a7fa5eb3946db41fcca78d79
+Section: Themes
+Description: Viola is a beautiful, simple & modern theme for iOS!
+Author: XG
+Name: Veexillum
 
 Package: zntxyu.Vpn.Master.Crack
 Version: 1.0.0
