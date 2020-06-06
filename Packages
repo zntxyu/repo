@@ -29,6 +29,22 @@ Tag: role::developer
 Author: Spark
 Name: libSparkAppList
 
+Package: com.spark.libsparkcolourpicker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 424
+Filename: ./debs/com.spark.libsparkcolourpicker_1.0.0_iphoneos-arm.deb
+Size: 67184
+MD5sum: 9de6b4755f7be8d290ff08219f69e8b3
+SHA1: 32f13ea4f1750c3288ffb811b59bf488bcf874e7
+SHA256: 3c9a8a287ad7fe71c8fccef97be0c89c9a76587fb7e35ace3ff3c934230f2aa3
+Section: System
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Tag: role::developer
+Author: Spark
+Name: libsparkcolourpicker
+
 Package: zntxyu.3DTools.CN
 Version: 1.0.5
 Architecture: iphoneos-arm
@@ -394,6 +410,20 @@ Section: Tweaks
 Description: 内购破解。
 Author: anondev
 Name: LocalIAPStore
+
+Package: zntxyu.Lynx.CN
+Version: 1.4.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Lynx.CN_1.4.3_iphoneos-arm.deb
+Size: 13800
+MD5sum: e9870a6f2c10f7ec811c9b7c1eaf87d3
+SHA1: 98f754b5daeaf4aa109da16a21ff54ae37a26190
+SHA256: 1510f998f2515f7e2d11ab2c4dcb6a3a8e52f46a2c873cc6e62df8fa44315437
+Section: Localization
+Description: Lynx 简体中文包
+Author: Zntxyu
+Name: Lynx 简体中文包
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
