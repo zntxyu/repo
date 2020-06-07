@@ -14,6 +14,20 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
+Package: zntxyu.3DTools.CN
+Version: 1.0.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.3DTools.CN_1.0.5_iphoneos-arm.deb
+Size: 2288
+MD5sum: 55f13ad0b8c2b4018e92bd4154960437
+SHA1: 67525b46ea6d80b5eeb01d948a889b4ff36e0142
+SHA256: 9be5f34b2f1083a5f9c9d5be8fe046c4740d7362f838dd0fecd353bd2ee0e9e0
+Section: Localization
+Description: 3DTools 简体中文包
+Author: Zntxyu
+Name: 3DTools 简体中文包
+
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
