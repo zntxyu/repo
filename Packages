@@ -282,20 +282,6 @@ Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
 
-Package: zntxyu.LocalIPAStore
-Version: 1.5-1x
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyu.LocalIPAStore_1.5-1x_iphoneos-arm.deb
-Size: 70922
-MD5sum: 0c7bec81bca3fd13c9b94c92b08b5015
-SHA1: fd07b4b6679d13426f5c0ed9167a18a24b72befa
-SHA256: b9789b2b599df9e7b2de698fa01019c214bfc5def646d76aff092d558f40df2a
-Section: Tweaks
-Description: 内购破解。
-Author: anondev
-Name: LocalIAPStore
-
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -338,21 +324,6 @@ Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
 
-Package: zntxyu.PowerlogHelperdFix
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: opa334
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PowerlogHelperdFix_1.0_iphoneos-arm.deb
-Size: 5332
-MD5sum: dc18295541f9942fffbc37de9f3f6e11
-SHA1: 7c4c55c6b65e7d0140c8a5fd7c81deeb63dfc96d
-SHA256: 0f0dc81657b3fae0b10fd9cdd1df402de9c8e0eeb5b654b5e75310520f00f480
-Section: Tweaks
-Description: Block tweak injection into powerlogHelperd!
-Author: opa334
-Name: PowerlogHelperdFix
-
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
 Architecture: iphoneos-arm
@@ -370,20 +341,6 @@ Description: Re-sign applications on your device
 Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
-
-Package: zntxyu.Rocket.Instagram.NoAds
-Version: 0.0.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Rocket.Instagram.NoAds_0.0.2_iphoneos-arm.deb
-Size: 147608
-MD5sum: 478ec90b0897ffb70c96e6a8877496a8
-SHA1: 1e735a0e468535b189adb20ca29e1402b9cf48f9
-SHA256: 4cd32211e54de28eb22c67aa03ed44a28757da2b33c1a54953bc79a1008862ac
-Section: Tweaks
-Description: Rocket for Instagram NoAds
-Author: stemgrade
-Name: Rocket for Instagram NoAds
 
 Package: zntxyu.Shadow
 Version: 2.0.20
@@ -413,20 +370,6 @@ Section: Localization
 Description: Shadow 简体中文包
 Author: Zntxyu
 Name: Shadow 简体中文包
-
-Package: zntxyu.Shuffle.CN
-Version: 1.2.8
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Shuffle.CN_1.2.8_iphoneos-arm.deb
-Size: 7212
-MD5sum: d23b79e3d4f04f890b9f4b783d048129
-SHA1: 526d3a14649b554264f83e19b2bcc916718c634b
-SHA256: a018abf2206d8d3a73c3dfdce955fadc8dc28c205bc0db3fe2d0bca759031d51
-Section: Localization
-Description: Shuffle 简体中文包
-Author: Zntxyu
-Name: Shuffle 简体中文包
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
