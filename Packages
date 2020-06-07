@@ -14,6 +14,21 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
+Package: com.spark.libsparkapplist
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Spark
+Filename: ./debs/com.spark.libsparkapplist_1.0.9_iphoneos-arm.deb
+Size: 54684
+MD5sum: f35b026bd668c93073c2fe2bac43b7e6
+SHA1: 1782be9974ec24a8db26ddb247a740276c4dda36
+SHA256: 1ed6296a2ba130c481e5f7c30a7ac346164b2eef1a74ada9513a226d946737df
+Section: System
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Name: libSparkAppList
+
 Package: zntxyu.3DTools.CN
 Version: 1.0.5
 Architecture: iphoneos-arm
@@ -104,20 +119,6 @@ Section: Tweaks
 Description: 防误触的X手势。
 Author: lzsxcl
 Name: Assistant13
-
-Package: zntxyu.CC.Plus
-Version: 0.4.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/zntxyu.CC.Plus_0.4.2_iphoneos-arm.deb
-Size: 546982
-MD5sum: 58228417aaf5485f18bfd4c20772689e
-SHA1: f2d85df2a50d6c061e29277f0ba8869fd2c13fa5
-SHA256: 669185c5d4132392a775117f83db381a111af435968222fcbdfc706179e27b8a
-Section: Tweaks
-Description: 控制中心整合。
-Author: lzsxcl
-Name: CC Plus
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
