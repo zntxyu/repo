@@ -92,14 +92,14 @@ Author: lzsxcl
 Name: Assistant13
 
 Package: zntxyu.CC.Plus
-Version: 0.4.1
+Version: 0.4.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/zntxyu.CC.Plus_0.4.1_iphoneos-arm.deb
+Filename: ./debs/zntxyu.CC.Plus_0.4.2_iphoneos-arm.deb
 Size: 546982
-MD5sum: 2c1bdcdb6f42b601bc0b9400b6129ae2
-SHA1: c310d599bb1c995d08aa1f61baac71673ee6a33a
-SHA256: ae0e44dd6d157b176104df297568600d5f0ce8685134126bd27ab0a7ad52796b
+MD5sum: 58228417aaf5485f18bfd4c20772689e
+SHA1: f2d85df2a50d6c061e29277f0ba8869fd2c13fa5
+SHA256: 669185c5d4132392a775117f83db381a111af435968222fcbdfc706179e27b8a
 Section: Tweaks
 Description: 控制中心整合。
 Author: lzsxcl
