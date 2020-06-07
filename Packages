@@ -14,65 +14,6 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
-Package: com.spark.libsparkapplist
-Version: 1.0.9
-Architecture: iphoneos-arm
-Maintainer: Spark
-Filename: ./debs/com.spark.libsparkapplist_1.0.9_iphoneos-arm.deb
-Size: 54684
-MD5sum: f35b026bd668c93073c2fe2bac43b7e6
-SHA1: 1782be9974ec24a8db26ddb247a740276c4dda36
-SHA256: 1ed6296a2ba130c481e5f7c30a7ac346164b2eef1a74ada9513a226d946737df
-Section: System
-Description: AppList alternative
-Tag: role::developer
-Author: Spark
-Name: libSparkAppList
-
-Package: com.spark.libsparkcolourpicker
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 424
-Filename: ./debs/com.spark.libsparkcolourpicker_1.0.0_iphoneos-arm.deb
-Size: 67184
-MD5sum: 9de6b4755f7be8d290ff08219f69e8b3
-SHA1: 32f13ea4f1750c3288ffb811b59bf488bcf874e7
-SHA256: 3c9a8a287ad7fe71c8fccef97be0c89c9a76587fb7e35ace3ff3c934230f2aa3
-Section: System
-Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
-Tag: role::developer
-Author: Spark
-Name: libsparkcolourpicker
-
-Package: zntxyu.3DTools.CN
-Version: 1.0.5
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.3DTools.CN_1.0.5_iphoneos-arm.deb
-Size: 2288
-MD5sum: 55f13ad0b8c2b4018e92bd4154960437
-SHA1: 67525b46ea6d80b5eeb01d948a889b4ff36e0142
-SHA256: 9be5f34b2f1083a5f9c9d5be8fe046c4740d7362f838dd0fecd353bd2ee0e9e0
-Section: Localization
-Description: 3DTools 简体中文包
-Author: Zntxyu
-Name: 3DTools 简体中文包
-
-Package: zntxyu.A-Bypass
-Version: 1.0.7
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
-Filename: ./debs/zntxyu.A-Bypass_1.0.7_iphoneos-arm.deb
-Size: 54018
-MD5sum: 813d0bf623c949f7f3e990b4ccee0055
-SHA1: 3977b494db84d9be744f43f74707f8c6656ed6cc
-SHA256: a672795664537dae390a984524c132343da99c4650035dcd241192b8753c6ff8
-Section: Tweaks
-Description: Super Jailbreak detection bypass!
-Author: Baw Appie <pp121324@gmail.com>
-Name: A-Bypass
-
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -102,20 +43,6 @@ Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
 Author: CokePokes
 Name: AppStore++
-
-Package: zntxyu.AppStore++.CN
-Version: 1.1-2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.AppStore++.CN_1.1-2_iphoneos-arm.deb
-Size: 25772
-MD5sum: 11368ef35587308931306bbf04ce178a
-SHA1: 8ebf196d03508eb0023d820424f146d1ee55b080
-SHA256: 4253db2a0588aaf4da305a3b3327b9e38b48be7d58c5cb57c6241301896ea48c
-Section: Localization
-Description: AppStore++ 简体中文包
-Author: Netskao
-Name: AppStore++ 简体中文包
 
 Package: zntxyu.AppSync.Unified
 Version: 76.0
@@ -163,20 +90,6 @@ Section: Tweaks
 Description: 防误触的X手势。
 Author: lzsxcl
 Name: Assistant13
-
-Package: zntxyu.BottomControlX.CN
-Version: 1.3.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.BottomControlX.CN_1.3.1_iphoneos-arm.deb
-Size: 11864
-MD5sum: 0973746bfa40defbd072bdfb8f906eeb
-SHA1: 4517cc0269c30044ddc5ee5fd44ed5f409019281
-SHA256: 280f69f7dae9e5e22642f7eb824149e2b35ffcee246c331b9f7400aa72285562
-Section: Localization
-Description: BottomControlX 简体中文包
-Author: Zntxyu
-Name: BottomControlX 简体中文包
 
 Package: zntxyu.CC.Plus
 Version: 0.4.1
@@ -355,20 +268,6 @@ Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
 
-Package: zntxyu.Flex3.CN
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Flex3.CN_1.1-1_iphoneos-arm.deb
-Size: 54290
-MD5sum: 52852e484a9c530bbc08700b04a7a57f
-SHA1: 94c6a72d6dee8a5172cc45ba4c58fe9c79b12c4b
-SHA256: 16f7581a5ac24a52430c5fd3368ec28965efbba5eececbcdc20adcc075248cca
-Section: Localization
-Description: Flex3 简体中文包
-Author: Netskao
-Name: Flex3 简体中文包
-
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -383,20 +282,6 @@ Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
 
-Package: zntxyu.Kalm.CN
-Version: 1.4.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Kalm.CN_1.4.1_iphoneos-arm.deb
-Size: 7374
-MD5sum: 9bd73d0be5091f4865474e537d29855d
-SHA1: 49570116652017f53c7e166487a97aaadb8f1a3f
-SHA256: 84712acdae27c20a309a9e96ae52e9f12d8c47006e94cc23aefd2b636ed8844b
-Section: Localization
-Description: Kalm 简体中文包
-Author: Zntxyu
-Name: Kalm 简体中文包
-
 Package: zntxyu.LocalIPAStore
 Version: 1.5-1x
 Architecture: iphoneos-arm
@@ -410,20 +295,6 @@ Section: Tweaks
 Description: 内购破解。
 Author: anondev
 Name: LocalIAPStore
-
-Package: zntxyu.Lynx.CN
-Version: 1.4.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Lynx.CN_1.4.3_iphoneos-arm.deb
-Size: 13800
-MD5sum: e9870a6f2c10f7ec811c9b7c1eaf87d3
-SHA1: 98f754b5daeaf4aa109da16a21ff54ae37a26190
-SHA256: 1510f998f2515f7e2d11ab2c4dcb6a3a8e52f46a2c873cc6e62df8fa44315437
-Section: Localization
-Description: Lynx 简体中文包
-Author: Zntxyu
-Name: Lynx 简体中文包
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
@@ -481,20 +352,6 @@ Section: Tweaks
 Description: Block tweak injection into powerlogHelperd!
 Author: opa334
 Name: PowerlogHelperdFix
-
-Package: zntxyu.Prysm+Quart.CN
-Version: 0.0.2-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Prysm+Quart.CN_0.0.2-1_iphoneos-arm.deb
-Size: 290132
-MD5sum: 94241224e80bf46eda74cf770ad34069
-SHA1: 616ef42a995cc4e29482d52f53066a36c23207cd
-SHA256: ea668550db432f36549ff38801cc461deba33634994d1aaa30f5c38e69b8b457
-Section: Localization
-Description: Prysm&Quart 简体中文包
-Author: lenglengyu
-Name: Prysm&Quart 简体中文包
 
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
@@ -632,6 +489,34 @@ Section: Tweaks
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: subdiox
 Name: StoreSwitcher 2
+
+Package: zntxyu.Sylph
+Version: 1.3~Beta.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, zntxyu.Utils (>= 0.0.4)
+Filename: ./debs/zntxyu.Sylph_1.3~Beta.1_iphoneos-arm.deb
+Size: 99230
+MD5sum: 1551c9d0d6f4462865975b7ed9da148d
+SHA1: 4d1b3ff48eab07ce31aa0c2d5092375c35023c72
+SHA256: 2090d987f4f0a24879b55979866f61f89254f99cdd2f4e3c01f20890a8af4fda
+Section: Tweaks
+Description: Customize your LS music player
+Author: Max Dausch
+Name: Sylph
+
+Package: zntxyu.Utils
+Version: 0.0.4
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.Utils_0.0.4_iphoneos-arm.deb
+Size: 24852
+MD5sum: 03b341bd70c7eaf480b81b428910c7e5
+SHA1: 1407b80fa51697a7588c9a1f3d49adee588c4121
+SHA256: c984e32d71349752c25eb0e4d8e0eb76efcb71027dfa60cb370d8690d2ee2674
+Section: System
+Description: A collection of common functions for my tweaks. More documentation will be coming soon.
+Tag: role::developer
+Author: Maxwell Dausch
+Name: MDausch Utils
 
 Package: zntxyu.Veexillum
 Version: 2.0.0
