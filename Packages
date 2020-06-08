@@ -73,6 +73,20 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
 Author: CokePokes
 Name: AppStore++
 
+Package: zntxyu.AppStore++.CN
+Version: 1.1-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.AppStore++.CN_1.1-2_iphoneos-arm.deb
+Size: 25772
+MD5sum: 11368ef35587308931306bbf04ce178a
+SHA1: 8ebf196d03508eb0023d820424f146d1ee55b080
+SHA256: 4253db2a0588aaf4da305a3b3327b9e38b48be7d58c5cb57c6241301896ea48c
+Section: Localization
+Description: AppStore++ 简体中文包
+Author: Netskao
+Name: AppStore++ 简体中文包
+
 Package: zntxyu.AppSync.Unified
 Version: 76.0
 Architecture: iphoneos-arm
@@ -119,6 +133,20 @@ Section: Tweaks
 Description: 防误触的X手势。
 Author: lzsxcl
 Name: Assistant13
+
+Package: zntxyu.BottomControlX.CN
+Version: 1.3.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.BottomControlX.CN_1.3.1_iphoneos-arm.deb
+Size: 11864
+MD5sum: 0973746bfa40defbd072bdfb8f906eeb
+SHA1: 4517cc0269c30044ddc5ee5fd44ed5f409019281
+SHA256: 280f69f7dae9e5e22642f7eb824149e2b35ffcee246c331b9f7400aa72285562
+Section: Localization
+Description: BottomControlX 简体中文包
+Author: Zntxyu
+Name: BottomControlX 简体中文包
 
 Package: zntxyu.CarrieCcrack-Global
 Version: 3.1.4
@@ -314,6 +342,20 @@ Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
 
+Package: zntxyu.Flex3.CN
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Flex3.CN_1.1-1_iphoneos-arm.deb
+Size: 54290
+MD5sum: 52852e484a9c530bbc08700b04a7a57f
+SHA1: 94c6a72d6dee8a5172cc45ba4c58fe9c79b12c4b
+SHA256: 16f7581a5ac24a52430c5fd3368ec28965efbba5eececbcdc20adcc075248cca
+Section: Localization
+Description: Flex3 简体中文包
+Author: Netskao
+Name: Flex3 简体中文包
+
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -327,62 +369,6 @@ Section: Tweaks
 Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
-
-Package: zntxyu.LowBatteryBanner
-Version: 1.0.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.LowBatteryBanner_1.0.2_iphoneos-arm.deb
-Size: 12708
-MD5sum: d960785ca553415b624cefc4c69c67e3
-SHA1: 470339d89dc37fbf0d9b98c593d422285cac0df3
-SHA256: 53412508fcd66bdd15e38372231e3a059abf99069f14e928e729cd0ce7fdeea8
-Section: Tweaks
-Description: Replace low power alert with a banner notification!
-Author: Spark
-Name: LowBatteryBanner
-
-Package: zntxyu.MIX.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
-Size: 69106
-MD5sum: 08251042ba3cfa9f378012e512885c88
-SHA1: aaa1ad2a50ba6e57c6e012828173bf3761247c09
-SHA256: 5652add5f9322afeeb395cc3f9e619b850cc67b58733bd2695b779ea544850f9
-Section: Tweaks
-Description: MIX滤镜大师开启全滤镜下载权限和全功能。
-Author: 7Loopy
-Name: MIX滤镜大师 Crack
-
-Package: zntxyu.PTJ.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
-Size: 68558
-MD5sum: 399697ace885efab250c28cbff8e3348
-SHA1: 1a10edd24fd4b321002db9ae0fdd6c699b603e4e
-SHA256: 5b20c08e8a2386039def718e02bff4b62839c125cc27427a421b5614db4de769
-Section: Tweaks
-Description: 拼图酱开启高级权限。
-Author: 7Loopy
-Name: 拼图酱 Crack
-
-Package: zntxyu.PicsArt.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
-Size: 69198
-MD5sum: 01bf436d96a942f85aeddbba17e50055
-SHA1: d4fca141b3f1fff91490cf2dd01748e68095f143
-SHA256: fe7a7da83d41b31e24c9fe52a396fef6c8bcb9894e1e2f47379423c622abe4b7
-Section: Tweaks
-Description: PicsArt美易开启高级权限。
-Author: 7Loopy
-Name: PicsArt美易 Crack
 
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
@@ -430,6 +416,20 @@ Section: Localization
 Description: Shadow 简体中文包
 Author: Zntxyu
 Name: Shadow 简体中文包
+
+Package: zntxyu.Shuffle.CN
+Version: 1.2.8
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Shuffle.CN_1.2.8_iphoneos-arm.deb
+Size: 7212
+MD5sum: d23b79e3d4f04f890b9f4b783d048129
+SHA1: 526d3a14649b554264f83e19b2bcc916718c634b
+SHA256: a018abf2206d8d3a73c3dfdce955fadc8dc28c205bc0db3fe2d0bca759031d51
+Section: Localization
+Description: Shuffle 简体中文包
+Author: Zntxyu
+Name: Shuffle 简体中文包
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
@@ -533,20 +533,6 @@ Section: Themes
 Description: Viola is a beautiful, simple & modern theme for iOS!
 Author: XG
 Name: Veexillum
-
-Package: zntxyu.Vpn.Master.Crack
-Version: 1.0.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/zntxyu.Vpn.Master.Crack_1.0.0_iphoneos-arm.deb
-Size: 23612
-MD5sum: d43191bcd749ae4805a96c8f612cbfa8
-SHA1: e591e0125e0aefdd1db9139f83936ad01c48a819
-SHA256: 540606043e08dc60aabd601832e88f7e560849b911d5a9b8c35937d33d304dc1
-Section: Tweaks
-Description: Vpn Master Crack
-Author: Zntxyu
-Name: Vpn Master Crack
 
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
