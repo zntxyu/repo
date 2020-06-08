@@ -395,10 +395,10 @@ Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/zntxyu.SnowBoard_1.3.3~Beta3_iphoneos-arm.deb
-Size: 2142478
-MD5sum: 4abe69c6b3790566360da59e2df17d73
-SHA1: 000989acc6519f8e80635b90337b42f55d07835a
-SHA256: 336346b9b637592a4b4dfd84699f44b865c2b326c71c174a824b1b3e8f429754
+Size: 2212544
+MD5sum: 5f32039dcf40e78bab79be0e6e5ffbbf
+SHA1: 148ff2e90f7dc347902b4537803890820843d1cc
+SHA256: 96c1a5bd25781c49537ee5b462ad816bdab53118ebe213bd24eed20c0a4a131c
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
@@ -504,6 +504,19 @@ Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
+
+Package: zntxyu.ZntxyuforSB
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.ZntxyuforSB_1.0_iphoneos-arm.deb
+Size: 111082
+MD5sum: 7561f01c2a07df276acff01096263876
+SHA1: 143ae866b285b10d0d10e5e73f68d8442d848d6c
+SHA256: 23ddbae7c89ef1c4fd79b4f9a671955e9497f77dbe012ba137f4d5beda33d872
+Section: Themes (Status Bar)
+Description: Status bar theme but in a form of lines.
+Author: Zntxyu
+Name: Zntxyu for Status Bar
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3k
