@@ -120,6 +120,22 @@ Description: 防误触的X手势。
 Author: lzsxcl
 Name: Assistant13
 
+Package: zntxyu.CarrieCcrack-Global
+Version: 3.1.4
+Architecture: iphoneos-arm
+Maintainer: iTweakiOS <itweakios@yahoo.com.com>
+Pre-Depends: firmware (>= 11)
+Depends: zntxyu.CommCenter.Patch
+Filename: ./debs/zntxyu.CarrieCcrack-Global_3.1.4_iphoneos-arm.deb
+Size: 4564808
+MD5sum: 6ad70ff1a19de00c610a1e602cb14f07
+SHA1: b7871b74e7254a7f8e5af6c467ef481fa1911039
+SHA256: f34150187a9255dc87bc2b71d2d44f83b8773518b1e0849aa2842d1012ef4a19
+Section: Tweaks
+Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
+Author: iTweakiOS <itweakios@yahoo.com>
+Name: CarrierCrack-Global
+
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
@@ -135,32 +151,47 @@ Author: Majd Alfhaily
 Name: Cercube for YouTube
 
 Package: zntxyu.Choicy
-Version: 1.2.1
+Version: 1.2.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, applist
-Filename: ./debs/zntxyu.Choicy_1.2.1_iphoneos-arm.deb
-Size: 146872
-MD5sum: bc031eab7fdd817f165a00214b6de699
-SHA1: c64a08bb2beb7d0f85ae40f400d244891299cc28
-SHA256: f33f4644def6c997073219a0ffa0ee33108f6c2b2bf6547317169acdea48e891
+Filename: ./debs/zntxyu.Choicy_1.2.2_iphoneos-arm.deb
+Size: 146788
+MD5sum: de00b47bda6452c778e2680fb5c3b82e
+SHA1: 9f16904dc4b80fd671f39d3e650ae83d4c62dc6f
+SHA256: 8b798703df21aa8b3a351685ba45de8f5393cc8bbd968d4850b80047a05310fc
 Section: Tweaks
 Description: Advanced Tweak Configuration!
 Author: opa334
 Name: Choicy
 
 Package: zntxyu.Choicy.CN
-Version: 1.2.1
+Version: 1.2.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Choicy.CN_1.2.1_iphoneos-arm.deb
-Size: 2362
-MD5sum: 485a98e57b0a7c3995d8d162ad985307
-SHA1: 87b62600467983c5bad159a532cbddad40757983
-SHA256: e56430dcb4f76dfd446aedf15995852878a298705ad85b081824c25c10e88b2b
+Filename: ./debs/zntxyu.Choicy.CN_1.2.2_iphoneos-arm.deb
+Size: 2364
+MD5sum: d3c1257abde78e19d3caa2422ede0b53
+SHA1: c70731395c18394cd24a14a9ccff03016bf1c5c4
+SHA256: 9046f5163f5d08bbf099b9ded9983e5dc67ad63876d3ee00839c12a5c3bfde9d
 Section: Localization
 Description: Choicy 简体中文包
 Author: Zntxyu
 Name: Choicy 简体中文包
+
+Package: zntxyu.CommCenter.Patch
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <itweakios@yahoo.com>
+Depends: mobilesubstrate, firmware (>=10.0)
+Filename: ./debs/zntxyu.CommCenter.Patch_4.0.1_iphoneos-arm.deb
+Size: 44272
+MD5sum: eb0a6bdd7124860efe6f3030edf2e56b
+SHA1: c51a2a91a8a356fb0f0170294c8cc4919194e3c9
+SHA256: 27b3bf8a7e4a0619c27ed1a69d5c749625db6c370798b132b8dd31f86dc05802
+Section: Tweaks
+Description: Carrier bundle verification bypass
+Author: Pwn20wnd <itweakios@yahoo.com>
+Name: CommCenter Patch
 
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
@@ -296,6 +327,20 @@ Section: Tweaks
 Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
+
+Package: zntxyu.LowBatteryBanner
+Version: 1.0.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.LowBatteryBanner_1.0.2_iphoneos-arm.deb
+Size: 12708
+MD5sum: d960785ca553415b624cefc4c69c67e3
+SHA1: 470339d89dc37fbf0d9b98c593d422285cac0df3
+SHA256: 53412508fcd66bdd15e38372231e3a059abf99069f14e928e729cd0ce7fdeea8
+Section: Tweaks
+Description: Replace low power alert with a banner notification!
+Author: Spark
+Name: LowBatteryBanner
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
@@ -480,10 +525,10 @@ Package: zntxyu.Veexillum
 Version: 2.0.0
 Architecture: iphoneos-arm
 Filename: ./debs/zntxyu.Veexillum_2.0.0_iphoneos-arm.deb
-Size: 39180478
-MD5sum: bcead810fac2241910e7912ca73c3a24
-SHA1: 4038e8a8fe49c0341895cd9b3ffb61d80c0826b2
-SHA256: a428a9cc51e6ee644ee35cd2f785214f05355c76a7fa5eb3946db41fcca78d79
+Size: 39149126
+MD5sum: ac260f421686b5471c495209f0c4f804
+SHA1: 2a1992a2c00d3f38835ee3ec92d38309255803ea
+SHA256: 4224b3dd4c8ec7c16cf44608e10ab85d68bebc7172e530da84b10ad7d713491b
 Section: Themes
 Description: Viola is a beautiful, simple & modern theme for iOS!
 Author: XG
@@ -534,14 +579,14 @@ Author: zntxyu
 Name: Font-悦黑+Panton
 
 Package: zntxyu.iCleaner.Pro
-Version: 7.8.3~beta1k
+Version: 7.8.3k
 Architecture: iphoneos-arm
 Depends: firmware (>= 4.0), findutils, apt | apt7
-Filename: ./debs/zntxyu.iCleaner.Pro_7.8.3~beta1k_iphoneos-arm.deb
-Size: 7023954
-MD5sum: 5dc6ddba49734ce2ccf7f4e0595d46b4
-SHA1: 62ba569ccb4d8a02ea0f7d82b15142e732742dbe
-SHA256: 6c4e439a3d73fa8f8a6e4e5651e5a0b43ab36c673841578d3f0e7515ec7e23af
+Filename: ./debs/zntxyu.iCleaner.Pro_7.8.3k_iphoneos-arm.deb
+Size: 7023756
+MD5sum: e76adc887dacc9be7438e2af4a434ad3
+SHA1: c3d39771c78024bbaa448cef8daa1bee993650ce
+SHA256: 5117e3ffe47f59761327446b765139fdb510e064dc705e965f4ca4bf9cf5c481
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi
