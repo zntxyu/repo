@@ -43,6 +43,20 @@ Description: 3DTools 简体中文包
 Author: Zntxyu
 Name: 3DTools 简体中文包
 
+Package: zntxyu.A-Bypass
+Version: 1.0.7
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/zntxyu.A-Bypass_1.0.7_iphoneos-arm.deb
+Size: 54018
+MD5sum: 813d0bf623c949f7f3e990b4ccee0055
+SHA1: 3977b494db84d9be744f43f74707f8c6656ed6cc
+SHA256: a672795664537dae390a984524c132343da99c4650035dcd241192b8753c6ff8
+Section: Tweaks
+Description: Super Jailbreak detection bypass!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Bypass
+
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -148,22 +162,6 @@ Description: BottomControlX 简体中文包
 Author: Zntxyu
 Name: BottomControlX 简体中文包
 
-Package: zntxyu.CarrieCcrack-Global
-Version: 3.1.4
-Architecture: iphoneos-arm
-Maintainer: iTweakiOS <itweakios@yahoo.com.com>
-Pre-Depends: firmware (>= 11)
-Depends: zntxyu.CommCenter.Patch
-Filename: ./debs/zntxyu.CarrieCcrack-Global_3.1.4_iphoneos-arm.deb
-Size: 4564808
-MD5sum: 6ad70ff1a19de00c610a1e602cb14f07
-SHA1: b7871b74e7254a7f8e5af6c467ef481fa1911039
-SHA256: f34150187a9255dc87bc2b71d2d44f83b8773518b1e0849aa2842d1012ef4a19
-Section: Tweaks
-Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
-Author: iTweakiOS <itweakios@yahoo.com>
-Name: CarrierCrack-Global
-
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
@@ -177,49 +175,6 @@ Section: Tweaks
 Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
-
-Package: zntxyu.Choicy
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, applist
-Filename: ./debs/zntxyu.Choicy_1.2.2_iphoneos-arm.deb
-Size: 146788
-MD5sum: de00b47bda6452c778e2680fb5c3b82e
-SHA1: 9f16904dc4b80fd671f39d3e650ae83d4c62dc6f
-SHA256: 8b798703df21aa8b3a351685ba45de8f5393cc8bbd968d4850b80047a05310fc
-Section: Tweaks
-Description: Advanced Tweak Configuration!
-Author: opa334
-Name: Choicy
-
-Package: zntxyu.Choicy.CN
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Choicy.CN_1.2.2_iphoneos-arm.deb
-Size: 2364
-MD5sum: d3c1257abde78e19d3caa2422ede0b53
-SHA1: c70731395c18394cd24a14a9ccff03016bf1c5c4
-SHA256: 9046f5163f5d08bbf099b9ded9983e5dc67ad63876d3ee00839c12a5c3bfde9d
-Section: Localization
-Description: Choicy 简体中文包
-Author: Zntxyu
-Name: Choicy 简体中文包
-
-Package: zntxyu.CommCenter.Patch
-Version: 4.0.1
-Architecture: iphoneos-arm
-Maintainer: Pwn20wnd <itweakios@yahoo.com>
-Depends: mobilesubstrate, firmware (>=10.0)
-Filename: ./debs/zntxyu.CommCenter.Patch_4.0.1_iphoneos-arm.deb
-Size: 44272
-MD5sum: eb0a6bdd7124860efe6f3030edf2e56b
-SHA1: c51a2a91a8a356fb0f0170294c8cc4919194e3c9
-SHA256: 27b3bf8a7e4a0619c27ed1a69d5c749625db6c370798b132b8dd31f86dc05802
-Section: Tweaks
-Description: Carrier bundle verification bypass
-Author: Pwn20wnd <itweakios@yahoo.com>
-Name: CommCenter Patch
 
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
@@ -370,6 +325,21 @@ Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
 
+Package: zntxyu.PowerlogHelperdFix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PowerlogHelperdFix_1.0_iphoneos-arm.deb
+Size: 5332
+MD5sum: dc18295541f9942fffbc37de9f3f6e11
+SHA1: 7c4c55c6b65e7d0140c8a5fd7c81deeb63dfc96d
+SHA256: 0f0dc81657b3fae0b10fd9cdd1df402de9c8e0eeb5b654b5e75310520f00f480
+Section: Tweaks
+Description: Block tweak injection into powerlogHelperd!
+Author: opa334
+Name: PowerlogHelperdFix
+
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
 Architecture: iphoneos-arm
@@ -387,35 +357,6 @@ Description: Re-sign applications on your device
 Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
-
-Package: zntxyu.Shadow
-Version: 2.0.20
-Architecture: iphoneos-arm
-Maintainer: jjolano <jjolano@me.com>
-Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
-Size: 249980
-MD5sum: d761652795a1fdfc5c0260c5825d3ae9
-SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
-SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
-Section: Tweaks
-Description: A lightweight general jailbreak detection bypass.
-Author: jjolano <jjolano@me.com>
-Name: Shadow
-
-Package: zntxyu.Shadow.CN
-Version: 2.0.20
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Shadow.CN_2.0.20_iphoneos-arm.deb
-Size: 4718
-MD5sum: 49fe4515e4afb4dae72a0902577b1da3
-SHA1: e186fce44eb4550f4526619bebb9bf31e4fb9e09
-SHA256: a7bb292a877c4c52a95c1db20a7710375b450c969eebcfc3244f0622674d5e65
-Section: Localization
-Description: Shadow 简体中文包
-Author: Zntxyu
-Name: Shadow 简体中文包
 
 Package: zntxyu.Shuffle.CN
 Version: 1.2.8
