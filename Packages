@@ -1,16 +1,18 @@
 Package: com.michael.appleturboboost
-Version: 0.5.2
+Version: 0.6.0
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
+Depends: firmware (>= 12.0)
 Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.5.2_iphoneos-arm.deb
-Size: 1968
-MD5sum: b9e0d79e965fa253f58e452dc69f1b5c
-SHA1: 080eb7fe71b8316f97ec07955edb6469bc2fa918
-SHA256: 28fe1dd9a4942820376fca82cbb4ec75d98ee09421ea472220e67fd3f998b241
-Section: Tweaks
+Filename: ./debs/com.michael.appleturboboost_0.6.0_iphoneos-arm.deb
+Size: 8936
+MD5sum: b4e3c869662b2e776728326aa7e289c5
+SHA1: a19390d6a4e9b525f8a629b9da7c5ecaf0163357
+SHA256: 8c4808217ebbbadae3e081fece27ce0311a54f46d169002031181fd53ee93720
+Section: System
 Description: Turbo Boost Your Apple!
+ Turbo Boost Your Apple!
+ Support iOS12~13.
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
@@ -176,6 +178,34 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
+Package: zntxyu.Choicy
+Version: 1.2.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist
+Filename: ./debs/zntxyu.Choicy_1.2.2_iphoneos-arm.deb
+Size: 146788
+MD5sum: de00b47bda6452c778e2680fb5c3b82e
+SHA1: 9f16904dc4b80fd671f39d3e650ae83d4c62dc6f
+SHA256: 8b798703df21aa8b3a351685ba45de8f5393cc8bbd968d4850b80047a05310fc
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334
+Name: Choicy
+
+Package: zntxyu.Choicy.CN
+Version: 1.2.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Choicy.CN_1.2.2_iphoneos-arm.deb
+Size: 2364
+MD5sum: d3c1257abde78e19d3caa2422ede0b53
+SHA1: c70731395c18394cd24a14a9ccff03016bf1c5c4
+SHA256: 9046f5163f5d08bbf099b9ded9983e5dc67ad63876d3ee00839c12a5c3bfde9d
+Section: Localization
+Description: Choicy 简体中文包
+Author: Zntxyu
+Name: Choicy 简体中文包
+
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
 Architecture: iphoneos-arm
@@ -311,6 +341,20 @@ Description: Flex3 简体中文包
 Author: Netskao
 Name: Flex3 简体中文包
 
+Package: zntxyu.HalFiPad
+Version: 3.2.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/zntxyu.HalFiPad_3.2.0_iphoneos-arm.deb
+Size: 66236
+MD5sum: 34e9054a1fdbe0b743f08fbbef07efb4
+SHA1: 9142310e94b7bf07bb398fefd53b70033261d3a1
+SHA256: 06b576222f10e075bae59c762616e855b7a0468cdd44a6fcc4559d735fddbab4
+Section: Tweaks
+Description: iPhone 11 gestures, iPad features, many unique features.
+Author: Hius
+Name: HalFiPad
+
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -357,6 +401,35 @@ Description: Re-sign applications on your device
 Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
+
+Package: zntxyu.Shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
+Size: 249980
+MD5sum: d761652795a1fdfc5c0260c5825d3ae9
+SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
+SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
+Section: Tweaks
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Name: Shadow
+
+Package: zntxyu.Shadow.CN
+Version: 2.0.20
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Shadow.CN_2.0.20_iphoneos-arm.deb
+Size: 4718
+MD5sum: 49fe4515e4afb4dae72a0902577b1da3
+SHA1: e186fce44eb4550f4526619bebb9bf31e4fb9e09
+SHA256: a7bb292a877c4c52a95c1db20a7710375b450c969eebcfc3244f0622674d5e65
+Section: Localization
+Description: Shadow 简体中文包
+Author: Zntxyu
+Name: Shadow 简体中文包
 
 Package: zntxyu.Shuffle.CN
 Version: 1.2.8
