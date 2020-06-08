@@ -134,17 +134,17 @@ Author: TIGI Software
 Name: Apps Manager
 
 Package: zntxyu.Assistant13
-Version: 1.1-2+debug
+Version: 1.1.2.1-4+debug
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Assistant13_1.1-2+debug_iphoneos-arm.deb
-Size: 88310
-MD5sum: 2c7688e3c6c76f0775f0ddf695959e0e
-SHA1: bf5fd9becf417a0777fb68e273d3f1ef522fe3d6
-SHA256: c0e14c0da02c0838b4aa191b5e5dd08b241af65c8767bf9cae2f9f615028941d
+Filename: ./debs/zntxyu.Assistant13_1.1.2.1-4+debug_iphoneos-arm.deb
+Size: 92762
+MD5sum: 4382f929f10c2a66440af699102bca36
+SHA1: eaac6d68b2015d063d2f6b258d7ada2284b54712
+SHA256: 4baa860b3883b04863d74b805fbe916028f2744b561afe34a2d1b940663c67a1
 Section: Tweaks
-Description: 防误触的X手势。
+Description: Assistant13
 Author: lzsxcl
 Name: Assistant13
 
