@@ -55,6 +55,36 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
+Package: com.rileytestut.altdaemon
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Riley Testut
+Filename: ./debs/com.rileytestut.altdaemon_0.1_iphoneos-arm.deb
+Size: 873744
+MD5sum: 5e9bb2d361f5925cc849591b5113262f
+SHA1: 11b825234d56c47a2fd8803074bd9d633beff068
+SHA256: c4e0f228926432e4fc51de3239a994ce56e81532092b3967e1d9226f2433b0db
+Section: System
+Homepage: https://altstore.io
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Author: Riley Testut
+Name: AltDaemon
+
+Package: com.rileytestut.altstore.alpha.jailbroken
+Version: 1.4a4
+Architecture: iphoneos-arm
+Maintainer: Riley Testut
+Depends: firmware (>=12.2), com.rileytestut.altdaemon
+Filename: ./debs/com.rileytestut.altstore.alpha.jailbroken_1.4a4_iphoneos-arm.deb
+Size: 3124474
+MD5sum: e9824193c0d561e1617a70fb0529dc4a
+SHA1: 84f8f2cf8503853f00119428b7834cfb07462bc8
+SHA256: 07f33096485919cf8b5718a52508b1351bdf296e38ef9ce66af7fb9935cca3e8
+Section: Tweaks
+Description: Jailbroken version of AltStore with on device signing feauture.
+Author: Riley Testut - T7Y
+Name: AltStore (ALPHA)
+
 Package: com.spark.libsparkapplist
 Version: 1.0.9
 Architecture: iphoneos-arm
