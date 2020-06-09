@@ -55,36 +55,6 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
-Package: com.rileytestut.altdaemon
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: Riley Testut
-Filename: ./debs/com.rileytestut.altdaemon_0.1_iphoneos-arm.deb
-Size: 873744
-MD5sum: 5e9bb2d361f5925cc849591b5113262f
-SHA1: 11b825234d56c47a2fd8803074bd9d633beff068
-SHA256: c4e0f228926432e4fc51de3239a994ce56e81532092b3967e1d9226f2433b0db
-Section: System
-Homepage: https://altstore.io
-Description: AltDaemon allows AltStore to install and refresh apps without a computer.
-Author: Riley Testut
-Name: AltDaemon
-
-Package: com.rileytestut.altstore.alpha.jailbroken
-Version: 1.4a4
-Architecture: iphoneos-arm
-Maintainer: Riley Testut
-Depends: firmware (>=12.2), com.rileytestut.altdaemon
-Filename: ./debs/com.rileytestut.altstore.alpha.jailbroken_1.4a4_iphoneos-arm.deb
-Size: 3124474
-MD5sum: e9824193c0d561e1617a70fb0529dc4a
-SHA1: 84f8f2cf8503853f00119428b7834cfb07462bc8
-SHA256: 07f33096485919cf8b5718a52508b1351bdf296e38ef9ce66af7fb9935cca3e8
-Section: Tweaks
-Description: Jailbroken version of AltStore with on device signing feauture.
-Author: Riley Testut - T7Y
-Name: AltStore (ALPHA)
-
 Package: com.spark.libsparkapplist
 Version: 1.0.9
 Architecture: iphoneos-arm
@@ -161,20 +131,6 @@ Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Name: AppSync Unified
-
-Package: zntxyu.Apps.Manager
-Version: 1.5.3-2k
-Architecture: iphoneos-arm
-Conflicts: com.tigisoftware.appdatamanager
-Filename: ./debs/zntxyu.Apps.Manager_1.5.3-2k_iphoneos-arm.deb
-Size: 1918434
-MD5sum: fd038aec445dedb48b9b92e068c7c462
-SHA1: a763bb02cba970bdc9312d531d460e6369c8131d
-SHA256: 28baa71469f79460fae6de3037bdca5c1afd8245df433187b412a7e0ec7c7082
-Section: Utilities
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps.
-Author: TIGI Software
-Name: Apps Manager
 
 Package: zntxyu.Assistant13
 Version: 1.1.2.1-4+debug
@@ -434,34 +390,6 @@ Section: Tweaks
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: subdiox
 Name: StoreSwitcher 2
-
-Package: zntxyu.Sylph
-Version: 1.3~Beta.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, zntxyu.Utils (>= 0.0.4)
-Filename: ./debs/zntxyu.Sylph_1.3~Beta.1_iphoneos-arm.deb
-Size: 99230
-MD5sum: 1551c9d0d6f4462865975b7ed9da148d
-SHA1: 4d1b3ff48eab07ce31aa0c2d5092375c35023c72
-SHA256: 2090d987f4f0a24879b55979866f61f89254f99cdd2f4e3c01f20890a8af4fda
-Section: Tweaks
-Description: Customize your LS music player
-Author: Max Dausch
-Name: Sylph
-
-Package: zntxyu.Utils
-Version: 0.0.4
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.Utils_0.0.4_iphoneos-arm.deb
-Size: 24852
-MD5sum: 03b341bd70c7eaf480b81b428910c7e5
-SHA1: 1407b80fa51697a7588c9a1f3d49adee588c4121
-SHA256: c984e32d71349752c25eb0e4d8e0eb76efcb71027dfa60cb370d8690d2ee2674
-Section: System
-Description: A collection of common functions for my tweaks. More documentation will be coming soon.
-Tag: role::developer
-Author: Maxwell Dausch
-Name: MDausch Utils
 
 Package: zntxyu.Veexillum
 Version: 2.0.0
