@@ -133,14 +133,14 @@ Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.Assistant13_1.1.2.1-4+debug_iphoneos-arm.deb
-Size: 92786
-MD5sum: 4bd0ecb22f4c0d6323e63169f75b9e41
-SHA1: 7949028d7eb917a6c347e63333f74936ed917d6a
-SHA256: 46e0c0083f92d2897ebad9e481db8769e8d3b9c6b6b4b3be25272872f4d95fd0
+Size: 92814
+MD5sum: b33e78bb4b7bb7925dec888763926868
+SHA1: 0d1a17d621b7f5a96809fcf3accb574ba771e6f5
+SHA256: ef9081ec2e2bc2d2c81fb07b7803a9b9b3fec79cee7b5dda64990f7b33d7c38c
 Section: Tweaks
-Description: Assistant13
+Description: 防误触X手势，体验版。
 Author: lzsxcl
-Name: Assistant13-体验版
+Name: Assistant13
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
