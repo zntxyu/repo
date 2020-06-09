@@ -1,3 +1,42 @@
+Package: com.creaturecoding.libcspreferences
+Version: 1.4.7
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 5000
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
+Filename: ./debs/com.creaturecoding.libcspreferences_1.4.7_iphoneos-arm.deb
+Size: 683638
+MD5sum: 71c5b08730e0f2019aa4bf0c888bd569
+SHA1: cb1ce7ca7dd15bb58a2f5d2816e034842a139821
+SHA256: 21683752bdd033e2f16e62792b8a6e1034d9c19a1e9d16ed59dfb2f9361e4b9b
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iOS9
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+Name: libCSPreferences
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+
+Package: com.creaturecoding.shuffle
+Version: 1.2.9
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.creaturecoding.shuffle_1.2.9_iphoneos-arm.deb
+Size: 395856
+MD5sum: 5240443b0fbaf80c733ac03aa37706a3
+SHA1: 0c4d7affe9492dd138c69d40cdfccfbd1060e171
+SHA256: 4fd48b8791119859abef1d0141845d1136eb3d3215cecc0ffd00efd0eb73682a
+Section: Tweaks
+Description: Mix up your preferences
+Tag: purpose::extension, compatible_min::ios10
+Author: CreatureSurvive
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Name: shuffle
+
 Package: com.michael.appleturboboost
 Version: 0.6.2
 Architecture: iphoneos-arm
@@ -289,20 +328,6 @@ Description: Re-sign applications on your device
 Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
-
-Package: zntxyu.Shuffle.CN
-Version: 1.2.9
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Shuffle.CN_1.2.9_iphoneos-arm.deb
-Size: 3448
-MD5sum: cdb36f23897f575b1ead8964122124e9
-SHA1: bfcb74fb763e1e56cbf036e60fac66dc6780eacd
-SHA256: 260aec163f0e91e748a7bdc8434e9ca33bb4266a293d594974412dad7e0c5bd4
-Section: Localization
-Description: Shuffle 简体中文包
-Author: Zntxyu
-Name: Shuffle 简体中文包
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
