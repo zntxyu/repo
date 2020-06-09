@@ -161,6 +161,34 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
+Package: zntxyu.Choicy
+Version: 1.2.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist
+Filename: ./debs/zntxyu.Choicy_1.2.2_iphoneos-arm.deb
+Size: 146788
+MD5sum: de00b47bda6452c778e2680fb5c3b82e
+SHA1: 9f16904dc4b80fd671f39d3e650ae83d4c62dc6f
+SHA256: 8b798703df21aa8b3a351685ba45de8f5393cc8bbd968d4850b80047a05310fc
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334
+Name: Choicy
+
+Package: zntxyu.Choicy.CN
+Version: 1.2.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Choicy.CN_1.2.2_iphoneos-arm.deb
+Size: 2364
+MD5sum: d3c1257abde78e19d3caa2422ede0b53
+SHA1: c70731395c18394cd24a14a9ccff03016bf1c5c4
+SHA256: 9046f5163f5d08bbf099b9ded9983e5dc67ad63876d3ee00839c12a5c3bfde9d
+Section: Localization
+Description: Choicy 简体中文包
+Author: Zntxyu
+Name: Choicy 简体中文包
+
 Package: zntxyu.Cydown
 Version: 7.1.0
 Architecture: iphoneos-arm
