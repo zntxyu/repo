@@ -1,14 +1,34 @@
+Package: com.creaturecoding.libcspreferences
+Version: 1.4.7
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 5000
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
+Filename: ./debs/com.creaturecoding.libcspreferences_1.4.7_iphoneo.deb
+Size: 683638
+MD5sum: 71c5b08730e0f2019aa4bf0c888bd569
+SHA1: cb1ce7ca7dd15bb58a2f5d2816e034842a139821
+SHA256: 21683752bdd033e2f16e62792b8a6e1034d9c19a1e9d16ed59dfb2f9361e4b9b
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iOS9
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+Name: libCSPreferences
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+
 Package: com.michael.appleturboboost
-Version: 0.6.0
+Version: 0.6.2
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 12.0)
 Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.6.0_iphoneos-arm.deb
-Size: 8936
-MD5sum: b4e3c869662b2e776728326aa7e289c5
-SHA1: a19390d6a4e9b525f8a629b9da7c5ecaf0163357
-SHA256: 8c4808217ebbbadae3e081fece27ce0311a54f46d169002031181fd53ee93720
+Filename: ./debs/com.michael.appleturboboost_0.6.2_iphoneos-arm.deb
+Size: 9104
+MD5sum: 5d53ada8801dacdf946242133aa6c813
+SHA1: a1ec1cf9b98402b4fae678d7ebc00a6e6643dafc
+SHA256: 43ba4f5801ddaac01395baa80ca92e92e9f295e4630a4202e7ca63743b5475c2
 Section: System
 Description: Turbo Boost Your Apple!
  Turbo Boost Your Apple!
@@ -30,20 +50,6 @@ Description: AppList alternative
 Tag: role::developer
 Author: Spark
 Name: libSparkAppList
-
-Package: zntxyu.3DTools.CN
-Version: 1.0.5
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.3DTools.CN_1.0.5_iphoneos-arm.deb
-Size: 2288
-MD5sum: 55f13ad0b8c2b4018e92bd4154960437
-SHA1: 67525b46ea6d80b5eeb01d948a889b4ff36e0142
-SHA256: 9be5f34b2f1083a5f9c9d5be8fe046c4740d7362f838dd0fecd353bd2ee0e9e0
-Section: Localization
-Description: 3DTools 简体中文包
-Author: Zntxyu
-Name: 3DTools 简体中文包
 
 Package: zntxyu.A-Bypass
 Version: 1.0.7
@@ -89,20 +95,6 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
 Author: CokePokes
 Name: AppStore++
 
-Package: zntxyu.AppStore++.CN
-Version: 1.1-2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.AppStore++.CN_1.1-2_iphoneos-arm.deb
-Size: 25772
-MD5sum: 11368ef35587308931306bbf04ce178a
-SHA1: 8ebf196d03508eb0023d820424f146d1ee55b080
-SHA256: 4253db2a0588aaf4da305a3b3327b9e38b48be7d58c5cb57c6241301896ea48c
-Section: Localization
-Description: AppStore++ 简体中文包
-Author: Netskao
-Name: AppStore++ 简体中文包
-
 Package: zntxyu.AppSync.Unified
 Version: 76.0
 Architecture: iphoneos-arm
@@ -141,28 +133,14 @@ Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.Assistant13_1.1.2.1-4+debug_iphoneos-arm.deb
-Size: 92762
-MD5sum: 4382f929f10c2a66440af699102bca36
-SHA1: eaac6d68b2015d063d2f6b258d7ada2284b54712
-SHA256: 4baa860b3883b04863d74b805fbe916028f2744b561afe34a2d1b940663c67a1
+Size: 92786
+MD5sum: 4bd0ecb22f4c0d6323e63169f75b9e41
+SHA1: 7949028d7eb917a6c347e63333f74936ed917d6a
+SHA256: 46e0c0083f92d2897ebad9e481db8769e8d3b9c6b6b4b3be25272872f4d95fd0
 Section: Tweaks
 Description: Assistant13
 Author: lzsxcl
-Name: Assistant13
-
-Package: zntxyu.BottomControlX.CN
-Version: 1.3.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.BottomControlX.CN_1.3.1_iphoneos-arm.deb
-Size: 11864
-MD5sum: 0973746bfa40defbd072bdfb8f906eeb
-SHA1: 4517cc0269c30044ddc5ee5fd44ed5f409019281
-SHA256: 280f69f7dae9e5e22642f7eb824149e2b35ffcee246c331b9f7400aa72285562
-Section: Localization
-Description: BottomControlX 简体中文包
-Author: Zntxyu
-Name: BottomControlX 简体中文包
+Name: Assistant13-体验版
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
@@ -177,48 +155,6 @@ Section: Tweaks
 Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
-
-Package: zntxyu.Choicy
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, applist
-Filename: ./debs/zntxyu.Choicy_1.2.2_iphoneos-arm.deb
-Size: 146788
-MD5sum: de00b47bda6452c778e2680fb5c3b82e
-SHA1: 9f16904dc4b80fd671f39d3e650ae83d4c62dc6f
-SHA256: 8b798703df21aa8b3a351685ba45de8f5393cc8bbd968d4850b80047a05310fc
-Section: Tweaks
-Description: Advanced Tweak Configuration!
-Author: opa334
-Name: Choicy
-
-Package: zntxyu.Choicy.CN
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Choicy.CN_1.2.2_iphoneos-arm.deb
-Size: 2364
-MD5sum: d3c1257abde78e19d3caa2422ede0b53
-SHA1: c70731395c18394cd24a14a9ccff03016bf1c5c4
-SHA256: 9046f5163f5d08bbf099b9ded9983e5dc67ad63876d3ee00839c12a5c3bfde9d
-Section: Localization
-Description: Choicy 简体中文包
-Author: Zntxyu
-Name: Choicy 简体中文包
-
-Package: zntxyu.CyDown.CN
-Version: 7.1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.CyDown.CN_7.1.0_iphoneos-arm.deb
-Size: 96400
-MD5sum: 841c04e52f2fe945174486798ad3b4b8
-SHA1: b28ef2e2e311d552538a708162773d567ad07cb9
-SHA256: 5c025b94cfdbeaf5288c81a011b0b1f7e51675448438d581d77774f6d49ecf36
-Section: Localization
-Description: Cydown 简体中文包
-Author: Zntxyu
-Name: CyDown 简体中文包
 
 Package: zntxyu.Cydown
 Version: 7.1.0
@@ -240,28 +176,14 @@ Architecture: iphoneos-arm
 Pre-Depends: firmware (>= 9.0)
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debs/zntxyu.Eyeplugs_1.6.2_iphoneos-arm.deb
-Size: 55686
-MD5sum: 1460ab9c468183de7107c4fc46e5fd49
-SHA1: b019b3314896c98d5ac60ebef1dd3d748933590b
-SHA256: 3f49741f150757c84a995ae205f5c382e249755eb2a471cceab38fd6b0a20de3
+Size: 56540
+MD5sum: 7cff3e620fdd3ded27a8bcef8c2018f2
+SHA1: b4a13c13f63352a73f3279ea98548b2036d5e254
+SHA256: 9e35e4338d205ce88de1a03da79df8d5e83c67ed96a205ccd1a62dd841cd5312
 Section: Tweaks
 Description: suppress banners in apps
 Author: Summer Triangle
 Name: Eyeplugs
-
-Package: zntxyu.Eyeplugs.CN
-Version: 1.6.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Eyeplugs.CN_1.6.2_iphoneos-arm.deb
-Size: 1962
-MD5sum: c6d4d52b65a2794bab9fdd2d9620e63e
-SHA1: cbae72ab7a650181a156f19e19302de0985c9558
-SHA256: 06c7b895a5a028b509a1bfd0527fc8a5837f92cfbeabe546b9dc8f1bb9e75804
-Section: Localization
-Description: Eyeplugs 简体中文包
-Author: Zntxyu
-Name: Eyeplugs 简体中文包
 
 Package: zntxyu.Facebook.NoAds
 Version: 0.0.1
@@ -327,20 +249,6 @@ Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
 
-Package: zntxyu.Flex3.CN
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Flex3.CN_1.1-1_iphoneos-arm.deb
-Size: 54290
-MD5sum: 52852e484a9c530bbc08700b04a7a57f
-SHA1: 94c6a72d6dee8a5172cc45ba4c58fe9c79b12c4b
-SHA256: 16f7581a5ac24a52430c5fd3368ec28965efbba5eececbcdc20adcc075248cca
-Section: Localization
-Description: Flex3 简体中文包
-Author: Netskao
-Name: Flex3 简体中文包
-
 Package: zntxyu.HalFiPad
 Version: 3.2.0
 Architecture: iphoneos-arm
@@ -402,48 +310,21 @@ Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
 
-Package: zntxyu.Shadow
-Version: 2.0.20
+Package: zntxyu.Shuffle
+Version: 1.2.9
 Architecture: iphoneos-arm
-Maintainer: jjolano <jjolano@me.com>
-Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
-Size: 249980
-MD5sum: d761652795a1fdfc5c0260c5825d3ae9
-SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
-SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
+Depends: firmware (>= 8.0), mobilesubstrate, com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder, com.creaturecoding.shuffle
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/zntxyu.Shuffle_1.2.9_iphoneos-arm.deb
+Size: 395894
+MD5sum: 1e850b754238295183ca008e01177160
+SHA1: beeb5741a7f8c53c29ca0f297a329d818e79e661
+SHA256: 168f5e55072721403449c5df12ff7c990e2aace5e26d83a8f57e57d6096cc8dd
 Section: Tweaks
-Description: A lightweight general jailbreak detection bypass.
-Author: jjolano <jjolano@me.com>
-Name: Shadow
-
-Package: zntxyu.Shadow.CN
-Version: 2.0.20
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Shadow.CN_2.0.20_iphoneos-arm.deb
-Size: 4718
-MD5sum: 49fe4515e4afb4dae72a0902577b1da3
-SHA1: e186fce44eb4550f4526619bebb9bf31e4fb9e09
-SHA256: a7bb292a877c4c52a95c1db20a7710375b450c969eebcfc3244f0622674d5e65
-Section: Localization
-Description: Shadow 简体中文包
-Author: Zntxyu
-Name: Shadow 简体中文包
-
-Package: zntxyu.Shuffle.CN
-Version: 1.2.8
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Shuffle.CN_1.2.8_iphoneos-arm.deb
-Size: 7212
-MD5sum: d23b79e3d4f04f890b9f4b783d048129
-SHA1: 526d3a14649b554264f83e19b2bcc916718c634b
-SHA256: a018abf2206d8d3a73c3dfdce955fadc8dc28c205bc0db3fe2d0bca759031d51
-Section: Localization
-Description: Shuffle 简体中文包
-Author: Zntxyu
-Name: Shuffle 简体中文包
+Description: Mix up your preferences
+Author: CreatureSurvive
+Name: Shuffle
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
@@ -468,14 +349,28 @@ Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/zntxyu.SnowBoard_1.3.3~Beta3_iphoneos-arm.deb
-Size: 2212544
-MD5sum: 5f32039dcf40e78bab79be0e6e5ffbbf
-SHA1: 148ff2e90f7dc347902b4537803890820843d1cc
-SHA256: 96c1a5bd25781c49537ee5b462ad816bdab53118ebe213bd24eed20c0a4a131c
+Size: 2080814
+MD5sum: 637fd02a9e7a1d24805f180f145949b6
+SHA1: d8ee45bd7f8e9e737d84e426df700b262b799d0a
+SHA256: 9625a5e32ba5270f8d1a19b97e7148a7aeb0dd7bbc775c0dee37d0fb6fbbeb90
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard
+
+Package: zntxyu.SnowBoard.Extension
+Version: 1.3.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22) | zntxyu.SnowBoard (>> 1.2.22)
+Filename: ./debs/zntxyu.SnowBoard.Extension_1.3.3_iphoneos-arm.deb
+Size: 931186
+MD5sum: 3a37401bcf2fc80d8382898dd68896f0
+SHA1: f5e94f766f1e915aa0c1e3a07d6606cfacbff2d7
+SHA256: b2f0b10a287a90ee9e61c5e4fd92fb477bc1f3c164585750c76bc6024c8bf086
+Section: Tweaks
+Description: SnowBoard Extension All In One
+Author: Spark
+Name: SnowBoard Extension All In One
 
 Package: zntxyu.Spotilife
 Version: 1.1a
