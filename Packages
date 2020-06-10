@@ -55,6 +55,48 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
+Package: com.spark.libsparkapplist
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Spark
+Filename: ./debs/com.spark.libsparkapplist_1.0.9_iphoneos-arm.deb
+Size: 54684
+MD5sum: f35b026bd668c93073c2fe2bac43b7e6
+SHA1: 1782be9974ec24a8db26ddb247a740276c4dda36
+SHA256: 1ed6296a2ba130c481e5f7c30a7ac346164b2eef1a74ada9513a226d946737df
+Section: System
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Name: libSparkAppList
+
+Package: zntxyu.AdBlock++
+Version: 1.4.1-2
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.AdBlock++_1.4.1-2_iphoneos-arm.deb
+Size: 8262
+MD5sum: a26972ebdec770562082f2425d6fc097
+SHA1: 23bbdc38504587c8d649a828ab6c3437b060c30a
+SHA256: 51d8b094a4b48551aad1cfe5c0b9a7601cfbe6cab4f8fff9a05e9a5db6bd7b90
+Section: Tweaks
+Description: AdBlock++
+Author: ReJail
+Name: AdBlock++
+
+Package: zntxyu.Allow.KeyBoard
+Version: 1.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Allow.KeyBoard_1.5_iphoneos-arm.deb
+Size: 9110
+MD5sum: abdee671b7bc3751a2f66e618104e5f6
+SHA1: dce8e061e8c256a8ca37ce7e919b4613c1561d31
+SHA256: 65085b65bf010eb29acefbeb8c5093a71b1a04ba46588a8437c5421a0e338514
+Section: System
+Description: Allow third-party keyboards to gain priority authority
+Author: iBreak <ibreak2019@qq.com>
+Name: Allow.KeyBoard
+
 Package: zntxyu.AppStore++
 Version: 0.9.11
 Architecture: iphoneos-arm
@@ -103,6 +145,20 @@ Section: Utilities
 Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps.
 Author: TIGI Software
 Name: Apps Manager
+
+Package: zntxyu.Cercube.for.YouTube
+Version: 5.1.18k
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, zntxyu.AdBlock++
+Filename: ./debs/zntxyu.Cercube.for.YouTube_5.1.18k_iphoneos-arm.deb
+Size: 5632306
+MD5sum: b5f50477bcca82b2a86986dc68742094
+SHA1: 55460845e79e99c7f8d7f6bf40b9d175041eb50a
+SHA256: d9f3d40978060f2bba540bcf23a2fb511d3e0e5b5602088ab013a9346c19b02f
+Section: Tweaks
+Description: Cercube for YouTube
+Author: Majd Alfhaily
+Name: Cercube for YouTube
 
 Package: zntxyu.Choicy
 Version: 1.2.2
@@ -272,6 +328,20 @@ Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
 
+Package: zntxyu.Rocket.Instagram.NoAds
+Version: 0.0.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Rocket.Instagram.NoAds_0.0.2_iphoneos-arm.deb
+Size: 147608
+MD5sum: 478ec90b0897ffb70c96e6a8877496a8
+SHA1: 1e735a0e468535b189adb20ca29e1402b9cf48f9
+SHA256: 4cd32211e54de28eb22c67aa03ed44a28757da2b33c1a54953bc79a1008862ac
+Section: Tweaks
+Description: Rocket for Instagram NoAds
+Author: stemgrade
+Name: Rocket for Instagram NoAds
+
 Package: zntxyu.Shadow
 Version: 2.0.20
 Architecture: iphoneos-arm
@@ -315,6 +385,37 @@ Section: Tweaks
 Description: Get rid of the "fat" iOS 13 Volume HUD state
 Author: level3tjg
 Name: SlimVolumeHUD
+
+Package: zntxyu.SnowBoard
+Version: 1.3.3~Beta3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/zntxyu.SnowBoard_1.3.3~Beta3_iphoneos-arm.deb
+Size: 2080814
+MD5sum: 637fd02a9e7a1d24805f180f145949b6
+SHA1: d8ee45bd7f8e9e737d84e426df700b262b799d0a
+SHA256: 9625a5e32ba5270f8d1a19b97e7148a7aeb0dd7bbc775c0dee37d0fb6fbbeb90
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+
+Package: zntxyu.SnowBoard.Extension
+Version: 1.3.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22) | zntxyu.SnowBoard (>> 1.2.22)
+Filename: ./debs/zntxyu.SnowBoard.Extension_1.3.3_iphoneos-arm.deb
+Size: 931186
+MD5sum: 3a37401bcf2fc80d8382898dd68896f0
+SHA1: f5e94f766f1e915aa0c1e3a07d6606cfacbff2d7
+SHA256: b2f0b10a287a90ee9e61c5e4fd92fb477bc1f3c164585750c76bc6024c8bf086
+Section: Tweaks
+Description: SnowBoard Extension All In One
+Author: Spark
+Name: SnowBoard Extension All In One
 
 Package: zntxyu.Spotilife
 Version: 1.1a
@@ -388,6 +489,19 @@ Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
+
+Package: zntxyu.ZntxyuforSB
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.ZntxyuforSB_1.0_iphoneos-arm.deb
+Size: 111512
+MD5sum: b951c58e8d2b9d6a693559ab9fe56c5c
+SHA1: 75db8d627977283de24ea3159209286b02f5b060
+SHA256: 6b103e6b0b751e702ef7dbf2c0a0d0de1b6b13e693a8696c4a020065bfa06b03
+Section: Themes (Status Bar)
+Description: Status bar theme.
+Author: Zntxyu
+Name: Zntxyu for Status Bar
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3k
