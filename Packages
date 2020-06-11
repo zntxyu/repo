@@ -70,6 +70,20 @@ Tag: role::developer
 Author: Spark
 Name: libSparkAppList
 
+Package: zntxyu.A-Bypass
+Version: 1.0.7
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/zntxyu.A-Bypass_1.0.7_iphoneos-arm.deb
+Size: 54018
+MD5sum: 813d0bf623c949f7f3e990b4ccee0055
+SHA1: 3977b494db84d9be744f43f74707f8c6656ed6cc
+SHA256: a672795664537dae390a984524c132343da99c4650035dcd241192b8753c6ff8
+Section: Tweaks
+Description: Super Jailbreak detection bypass!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Bypass
+
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -159,34 +173,6 @@ Section: Tweaks
 Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
-
-Package: zntxyu.Choicy
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, applist
-Filename: ./debs/zntxyu.Choicy_1.2.2_iphoneos-arm.deb
-Size: 146788
-MD5sum: de00b47bda6452c778e2680fb5c3b82e
-SHA1: 9f16904dc4b80fd671f39d3e650ae83d4c62dc6f
-SHA256: 8b798703df21aa8b3a351685ba45de8f5393cc8bbd968d4850b80047a05310fc
-Section: Tweaks
-Description: Advanced Tweak Configuration!
-Author: opa334
-Name: Choicy
-
-Package: zntxyu.Choicy.CN
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Choicy.CN_1.2.2_iphoneos-arm.deb
-Size: 2364
-MD5sum: d3c1257abde78e19d3caa2422ede0b53
-SHA1: c70731395c18394cd24a14a9ccff03016bf1c5c4
-SHA256: 9046f5163f5d08bbf099b9ded9983e5dc67ad63876d3ee00839c12a5c3bfde9d
-Section: Localization
-Description: Choicy 简体中文包
-Author: Zntxyu
-Name: Choicy 简体中文包
 
 Package: zntxyu.Cydown
 Version: 7.1.0
@@ -328,49 +314,6 @@ Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
 
-Package: zntxyu.Rocket.Instagram.NoAds
-Version: 0.0.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Rocket.Instagram.NoAds_0.0.2_iphoneos-arm.deb
-Size: 147608
-MD5sum: 478ec90b0897ffb70c96e6a8877496a8
-SHA1: 1e735a0e468535b189adb20ca29e1402b9cf48f9
-SHA256: 4cd32211e54de28eb22c67aa03ed44a28757da2b33c1a54953bc79a1008862ac
-Section: Tweaks
-Description: Rocket for Instagram NoAds
-Author: stemgrade
-Name: Rocket for Instagram NoAds
-
-Package: zntxyu.Shadow
-Version: 2.0.20
-Architecture: iphoneos-arm
-Maintainer: jjolano <jjolano@me.com>
-Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
-Size: 249980
-MD5sum: d761652795a1fdfc5c0260c5825d3ae9
-SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
-SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
-Section: Tweaks
-Description: A lightweight general jailbreak detection bypass.
-Author: jjolano <jjolano@me.com>
-Name: Shadow
-
-Package: zntxyu.Shadow.CN
-Version: 2.0.20
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Shadow.CN_2.0.20_iphoneos-arm.deb
-Size: 4718
-MD5sum: 49fe4515e4afb4dae72a0902577b1da3
-SHA1: e186fce44eb4550f4526619bebb9bf31e4fb9e09
-SHA256: a7bb292a877c4c52a95c1db20a7710375b450c969eebcfc3244f0622674d5e65
-Section: Localization
-Description: Shadow 简体中文包
-Author: Zntxyu
-Name: Shadow 简体中文包
-
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -403,20 +346,6 @@ Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard
 
-Package: zntxyu.SnowBoard.Extension
-Version: 1.3.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22) | zntxyu.SnowBoard (>> 1.2.22)
-Filename: ./debs/zntxyu.SnowBoard.Extension_1.3.3_iphoneos-arm.deb
-Size: 931186
-MD5sum: 3a37401bcf2fc80d8382898dd68896f0
-SHA1: f5e94f766f1e915aa0c1e3a07d6606cfacbff2d7
-SHA256: b2f0b10a287a90ee9e61c5e4fd92fb477bc1f3c164585750c76bc6024c8bf086
-Section: Tweaks
-Description: SnowBoard Extension All In One
-Author: Spark
-Name: SnowBoard Extension All In One
-
 Package: zntxyu.Spotilife
 Version: 1.1a
 Architecture: iphoneos-arm
@@ -446,6 +375,34 @@ Section: Tweaks
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: subdiox
 Name: StoreSwitcher 2
+
+Package: zntxyu.Sylph
+Version: 1.3~Beta.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, zntxyu.Utils (>= 0.0.4)
+Filename: ./debs/zntxyu.Sylph_1.3~Beta.1_iphoneos-arm.deb
+Size: 99230
+MD5sum: 1551c9d0d6f4462865975b7ed9da148d
+SHA1: 4d1b3ff48eab07ce31aa0c2d5092375c35023c72
+SHA256: 2090d987f4f0a24879b55979866f61f89254f99cdd2f4e3c01f20890a8af4fda
+Section: Tweaks
+Description: Customize your LS music player
+Author: Max Dausch
+Name: Sylph
+
+Package: zntxyu.Utils
+Version: 0.0.4
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.Utils_0.0.4_iphoneos-arm.deb
+Size: 24852
+MD5sum: 03b341bd70c7eaf480b81b428910c7e5
+SHA1: 1407b80fa51697a7588c9a1f3d49adee588c4121
+SHA256: c984e32d71349752c25eb0e4d8e0eb76efcb71027dfa60cb370d8690d2ee2674
+Section: System
+Description: A collection of common functions for my tweaks. More documentation will be coming soon.
+Tag: role::developer
+Author: Maxwell Dausch
+Name: MDausch Utils
 
 Package: zntxyu.Veexillum
 Version: 2.0.0
@@ -489,19 +446,6 @@ Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
-
-Package: zntxyu.ZntxyuforSB
-Version: 1.0
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.ZntxyuforSB_1.0_iphoneos-arm.deb
-Size: 111512
-MD5sum: b951c58e8d2b9d6a693559ab9fe56c5c
-SHA1: 75db8d627977283de24ea3159209286b02f5b060
-SHA256: 6b103e6b0b751e702ef7dbf2c0a0d0de1b6b13e693a8696c4a020065bfa06b03
-Section: Themes (Status Bar)
-Description: Status bar theme.
-Author: Zntxyu
-Name: Zntxyu for Status Bar
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3k
