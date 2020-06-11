@@ -160,6 +160,20 @@ Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for ins
 Author: TIGI Software
 Name: Apps Manager
 
+Package: zntxyu.CC.Plus
+Version: 0.5.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/zntxyu.CC.Plus_0.5.0_iphoneos-arm.deb
+Size: 569160
+MD5sum: 426b9924937f991c38e2c1f5b7f03be0
+SHA1: 71fe5fcbddd48d0354f5db2de7f87e7b894df16a
+SHA256: 6c5172c20eb6e4492fd60536236f90ec76fdf706a394a25ce9ac19d88b12b51f
+Section: Tweaks
+Description: 控制中心整合。
+Author: lzsxcl
+Name: CC Plus
+
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
@@ -280,6 +294,34 @@ Section: Tweaks
 Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
+
+Package: zntxyu.Install.Percentage
+Version: 1.0-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Install.Percentage_1.0-1_iphoneos-arm.deb
+Size: 162476
+MD5sum: c07153567e402bc484b250b11ecbf2cd
+SHA1: 99be3cf37de1546cd13a042345dad68a0f6020ef
+SHA256: 3e9f10aa5536e901168cca84b5e1819b15cae46322d1bb72732a3bf7a441e213
+Section: Tweaks
+Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
+Author: Netskao
+Name: Install Percentage
+
+Package: zntxyu.PhotoInfo
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PhotoInfo_1.0_iphoneos-arm.deb
+Size: 12046
+MD5sum: 9686a84dd5f7c11ff7a78368e6279f95
+SHA1: dec8814eddd898f7ae87be21424924fcfc1bd0c0
+SHA256: a8a792e68f8c1dda4cc865339d4575e89338359e506e1de8f6aa7d2dffd762c7
+Section: Tweaks
+Description: 在相册照片顶部显示当前照片的分辨率大小和照片多少MB。
+Author: shepgoba
+Name: PhotoInfo
 
 Package: zntxyu.PowerlogHelperdFix
 Version: 1.0
