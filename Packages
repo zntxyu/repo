@@ -160,20 +160,6 @@ Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for ins
 Author: TIGI Software
 Name: Apps Manager
 
-Package: zntxyu.CC.Plus
-Version: 0.5.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/zntxyu.CC.Plus_0.5.0_iphoneos-arm.deb
-Size: 569160
-MD5sum: 426b9924937f991c38e2c1f5b7f03be0
-SHA1: 71fe5fcbddd48d0354f5db2de7f87e7b894df16a
-SHA256: 6c5172c20eb6e4492fd60536236f90ec76fdf706a394a25ce9ac19d88b12b51f
-Section: Tweaks
-Description: 控制中心整合。
-Author: lzsxcl
-Name: CC Plus
-
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
@@ -309,6 +295,34 @@ Description: 为桌面下载应用时添加百分比进度显示，添加下载�
 Author: Netskao
 Name: Install Percentage
 
+Package: zntxyu.MIX.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
+Size: 69106
+MD5sum: 08251042ba3cfa9f378012e512885c88
+SHA1: aaa1ad2a50ba6e57c6e012828173bf3761247c09
+SHA256: 5652add5f9322afeeb395cc3f9e619b850cc67b58733bd2695b779ea544850f9
+Section: Tweaks
+Description: MIX滤镜大师开启全滤镜下载权限和全功能。
+Author: 7Loopy
+Name: MIX滤镜大师 Crack
+
+Package: zntxyu.PTJ.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
+Size: 68558
+MD5sum: 399697ace885efab250c28cbff8e3348
+SHA1: 1a10edd24fd4b321002db9ae0fdd6c699b603e4e
+SHA256: 5b20c08e8a2386039def718e02bff4b62839c125cc27427a421b5614db4de769
+Section: Tweaks
+Description: 拼图酱开启高级权限。
+Author: 7Loopy
+Name: 拼图酱 Crack
+
 Package: zntxyu.PhotoInfo
 Version: 1.0
 Architecture: iphoneos-arm
@@ -322,6 +336,20 @@ Section: Tweaks
 Description: 在相册照片顶部显示当前照片的分辨率大小和照片多少MB。
 Author: shepgoba
 Name: PhotoInfo
+
+Package: zntxyu.PicsArt.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
+Size: 69198
+MD5sum: 01bf436d96a942f85aeddbba17e50055
+SHA1: d4fca141b3f1fff91490cf2dd01748e68095f143
+SHA256: fe7a7da83d41b31e24c9fe52a396fef6c8bcb9894e1e2f47379423c622abe4b7
+Section: Tweaks
+Description: PicsArt美易开启高级权限。
+Author: 7Loopy
+Name: PicsArt美易 Crack
 
 Package: zntxyu.PowerlogHelperdFix
 Version: 1.0
@@ -458,6 +486,20 @@ Section: Themes
 Description: Viola is a beautiful, simple & modern theme for iOS!
 Author: XG
 Name: Veexillum
+
+Package: zntxyu.Vpn.Master.Crack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/zntxyu.Vpn.Master.Crack_1.0.0_iphoneos-arm.deb
+Size: 23612
+MD5sum: d43191bcd749ae4805a96c8f612cbfa8
+SHA1: e591e0125e0aefdd1db9139f83936ad01c48a819
+SHA256: 540606043e08dc60aabd601832e88f7e560849b911d5a9b8c35937d33d304dc1
+Section: Tweaks
+Description: Vpn Master Crack
+Author: Zntxyu
+Name: Vpn Master Crack
 
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
