@@ -216,6 +216,21 @@ Description: iPhone X style Dock now supports iPhone 8 Plus.
 Author: Zntxyu
 Name: Dock Style iPhone X
 
+Package: zntxyu.EQE
+Version: 2.1.1
+Architecture: iphoneos-arm
+Depends: com.rpetrich.rocketbootstrap (>= 1.0.6), firmware (<< 14), mobilesubstrate, dpkg, coreutils
+Filename: ./debs/zntxyu.EQE_2.1.1_iphoneos-arm.deb
+Size: 7975774
+MD5sum: 9dca7a278a8d5a70386014fa8235fb3c
+SHA1: 1af9a614e8711d83ac37860c5c93d4cc1f76533e
+SHA256: d64a8b48bbea97e3128bf2743a1ead3100a24824bb48211eb30e8c602d40fc16
+Section: Tweaks
+Description: System-wide parametric equalizer.
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Reed Weichler
+Name: EQE
+
 Package: zntxyu.Eyeplugs
 Version: 1.6.2
 Architecture: iphoneos-arm
@@ -324,17 +339,17 @@ Author: JustinPet26
 Name: iAP26
 
 Package: zntxyu.Install.Percentage
-Version: 1.0-1
+Version: 0.0.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Install.Percentage_1.0-1_iphoneos-arm.deb
-Size: 162476
-MD5sum: c07153567e402bc484b250b11ecbf2cd
-SHA1: 99be3cf37de1546cd13a042345dad68a0f6020ef
-SHA256: 3e9f10aa5536e901168cca84b5e1819b15cae46322d1bb72732a3bf7a441e213
-Section: Tweaks
+Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
+Size: 162470
+MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
+SHA1: 8108c77afe334c708eda19fa635ff6295491535c
+SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
+Section: System
 Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
-Author: Netskao
+Author: Zntxyu
 Name: Install Percentage
 
 Package: zntxyu.LS+NC.TodayView.Disable
