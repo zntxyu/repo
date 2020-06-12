@@ -188,6 +188,34 @@ Description: Cydia Download Manager & Extra Features!
 Author: julioverne <julioverne@me.com>
 Name: CyDown
 
+Package: zntxyu.DVirtualHome
+Version: 0.0.15
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/zntxyu.DVirtualHome_0.0.15_iphoneos-arm.deb
+Size: 49950
+MD5sum: 6286c45fba2659a827c54f1002e89750
+SHA1: ec3d25730de296eb03f06e08f68f7e5145da5933
+SHA256: b817d03ddc3227429e8d585db2c79d94cd1a404399ce0f5588457e4ecfced5b8
+Section: Tweaks
+Description: My attempt at making virtual home iOS 10 compatible.
+Author: DGh0st
+Name: DVirtualHome
+
+Package: zntxyu.Dock.StyleX
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Filename: ./debs/zntxyu.Dock.StyleX_0.0.1_iphoneos-arm.deb
+Size: 3900
+MD5sum: 81aec6e53b799af7e7f8bae26e6d4347
+SHA1: 1bf16f93870b76a5d63e1b7ea7d322a0e4596a3d
+SHA256: aab8131c09e11bdb51a2645e85c6bf6630f7e27c1a83fcc07a8a5b9c22390bd1
+Section: System
+Description: iPhone X style Dock now supports iPhone 8 Plus.
+Author: Zntxyu
+Name: Dock Style iPhone X
+
 Package: zntxyu.Eyeplugs
 Version: 1.6.2
 Architecture: iphoneos-arm
@@ -267,6 +295,20 @@ Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
 
+Package: zntxyu.HS.TodayView.Disable
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/zntxyu.HS.TodayView.Disable_0.0.1_iphoneos-arm.deb
+Size: 4392
+MD5sum: 8f3dbb02cce52de97f2c9158f0b3a333
+SHA1: 1ebac0ec67b0b9dac496f0b7b0ec1fce1db85f65
+SHA256: 4817b9b46bf00843a7f25dba9ba201101bc3c605d85b45bb2fb51d995660d2d4
+Section: System
+Description: The home screen also disables the page today.
+Author: Zntxyu
+Name: HS Today View Disable
+
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -294,6 +336,20 @@ Section: Tweaks
 Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
 Author: Netskao
 Name: Install Percentage
+
+Package: zntxyu.LS+NC.TodayView.Disable
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Filename: ./debs/zntxyu.LS+NC.TodayView.Disable_0.0.1_iphoneos-arm.deb
+Size: 4032
+MD5sum: c49479301b7d2a27f6677406b074ffd8
+SHA1: d8d2e0f68f45002d417cdda83aeda566fa79db97
+SHA256: 4138d67e5ba788e09f33b853ca3991f84f181bd20f6b302d7c890abec3501cec
+Section: System
+Description: Disables the page today from the Lock screen and Notification screen.
+Author: Zntxyu
+Name: LS / NC : Today View Disable
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
