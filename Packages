@@ -102,14 +102,14 @@ Version: 1.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.AirPods12.EQE_1.0_iphoneos-arm.deb
-Size: 902
-MD5sum: 4734f550da26366709bbe7a006b74786
-SHA1: 6fc23a9787afb9b16e3471f30ed83d374fe94205
-SHA256: afdd8489ca45728af1a807f58c0673808819b88c7f6b09dae23275630b52fcf6
+Size: 904
+MD5sum: f2e37ebd627fb01302ce8bdd1d394903
+SHA1: dda8af73a831ecff8e6e1746bb9a9688c6c78707
+SHA256: 89a06cc1bad2439f764c1be94dc91e0179a32d49aa2934186788e33c6a1f0128
 Section: Tweaks
 Description: EQE presets.
 Author: Zntxyu
-Name: zntxyu AirPods EQE Presets
+Name: AirPods EQE Presets
 
 Package: zntxyu.Allow.KeyBoard
 Version: 1.5
