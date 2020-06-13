@@ -97,15 +97,15 @@ Description: AdBlock++
 Author: ReJail
 Name: AdBlock++
 
-Package: zntxyu.AirPods12.EQE
+Package: zntxyu.AirPods.EQE
 Version: 1.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.AirPods12.EQE_1.0_iphoneos-arm.deb
-Size: 904
-MD5sum: f2e37ebd627fb01302ce8bdd1d394903
-SHA1: dda8af73a831ecff8e6e1746bb9a9688c6c78707
-SHA256: 89a06cc1bad2439f764c1be94dc91e0179a32d49aa2934186788e33c6a1f0128
+Filename: ./debs/zntxyu.AirPods.EQE_1.0_iphoneos-arm.deb
+Size: 902
+MD5sum: e2864e667e570e74b4e72ec33d3cb4bb
+SHA1: a0547d5ed945f0f7ab455a5f1553eba45a61b5a7
+SHA256: a40007bb271b85b56a36dfef5486e7384fc1f58c00698b48fa8be8b52d542d66
 Section: Tweaks
 Description: EQE presets.
 Author: Zntxyu
