@@ -160,19 +160,20 @@ Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for ins
 Author: TIGI Software
 Name: Apps Manager
 
-Package: zntxyu.CC.Plus
-Version: 0.5.0
+Package: zntxyu.CCModules.Plus
+Version: 1.0
 Architecture: iphoneos-arm
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/zntxyu.CC.Plus_0.5.0_iphoneos-arm.deb
-Size: 598656
-MD5sum: 5a36b552cebf9683c2f67c85af6360d8
-SHA1: e842cf24021bf25bca7295c9600fb3dc13408dfc
-SHA256: d422cf4092d9d9cebacb245233cb89d22de331134364ab635c3db8940a5f084e
+Depends: firmware (>= 11), mobilesubstrate, com.opa334.ccsupport, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/zntxyu.CCModules.Plus_1.0_iphoneos-arm.deb
+Size: 1007494
+MD5sum: 644bcb19242ee6f70d9e1373253a6165
+SHA1: f068586b1818167863bd012751f3587abf6b2353
+SHA256: db673116c1bd4dcef01dd8574c5a23c1864d06c1ceb77993ab13704685129c45
 Section: Tweaks
-Description: 控制中心整合。
-Author: lzsxcl
-Name: CC Plus
+Description: CCModules Plus
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Zntxyu
+Name: CCModules Plus
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
