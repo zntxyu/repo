@@ -165,10 +165,10 @@ Version: 0.5.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Filename: ./debs/zntxyu.CC.Plus_0.5.0_iphoneos-arm.deb
-Size: 569160
-MD5sum: 426b9924937f991c38e2c1f5b7f03be0
-SHA1: 71fe5fcbddd48d0354f5db2de7f87e7b894df16a
-SHA256: 6c5172c20eb6e4492fd60536236f90ec76fdf706a394a25ce9ac19d88b12b51f
+Size: 598656
+MD5sum: 5a36b552cebf9683c2f67c85af6360d8
+SHA1: e842cf24021bf25bca7295c9600fb3dc13408dfc
+SHA256: d422cf4092d9d9cebacb245233cb89d22de331134364ab635c3db8940a5f084e
 Section: Tweaks
 Description: 控制中心整合。
 Author: lzsxcl
