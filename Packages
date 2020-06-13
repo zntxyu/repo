@@ -97,6 +97,20 @@ Description: AdBlock++
 Author: ReJail
 Name: AdBlock++
 
+Package: zntxyu.AirPods12.EQE
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.AirPods12.EQE_1.0_iphoneos-arm.deb
+Size: 902
+MD5sum: 4734f550da26366709bbe7a006b74786
+SHA1: 6fc23a9787afb9b16e3471f30ed83d374fe94205
+SHA256: afdd8489ca45728af1a807f58c0673808819b88c7f6b09dae23275630b52fcf6
+Section: Tweaks
+Description: EQE presets.
+Author: Zntxyu
+Name: zntxyu AirPods EQE Presets
+
 Package: zntxyu.Allow.KeyBoard
 Version: 1.5
 Architecture: iphoneos-arm
@@ -230,21 +244,6 @@ Section: System
 Description: iPhone X style Dock now supports iPhone 8 Plus.
 Author: Zntxyu
 Name: Dock Style iPhone X
-
-Package: zntxyu.EQE
-Version: 2.1.1
-Architecture: iphoneos-arm
-Depends: com.rpetrich.rocketbootstrap (>= 1.0.6), firmware (<< 14), mobilesubstrate, dpkg, coreutils
-Filename: ./debs/zntxyu.EQE_2.1.1_iphoneos-arm.deb
-Size: 7975774
-MD5sum: 9dca7a278a8d5a70386014fa8235fb3c
-SHA1: 1af9a614e8711d83ac37860c5c93d4cc1f76533e
-SHA256: d64a8b48bbea97e3128bf2743a1ead3100a24824bb48211eb30e8c602d40fc16
-Section: Tweaks
-Description: System-wide parametric equalizer.
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Reed Weichler
-Name: EQE
 
 Package: zntxyu.Eyeplugs
 Version: 1.6.2
