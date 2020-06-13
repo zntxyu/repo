@@ -324,6 +324,20 @@ Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
 
+Package: zntxyu.FuGap
+Version: 2.2.4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.FuGap_2.2.4_iphoneos-arm.deb
+Size: 177842
+MD5sum: 5dd91c78c2451233f7cd2372513f6b96
+SHA1: 3bf4f704b032b7e517bd9bf1ed19f716f3eff3aa
+SHA256: 293d054b3e25551742de7e9854fe8575f1ddeddf87265b379e3f45f5ab6cda11
+Section: Tweaks
+Description: Close some gaps, hide some stuff !
+Author: smokin1337
+Name: FUGap
+
 Package: zntxyu.HS.TodayView.Disable
 Version: 0.0.1
 Architecture: iphoneos-arm
