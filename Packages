@@ -307,19 +307,18 @@ Author: TIGI Software
 Name: Filza File Manager
 
 Package: zntxyu.Flex3
-Version: Beta90
+Version: Beta91
 Architecture: iphoneos-arm
-Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/zntxyu.Flex3_Beta90_iphoneos-arm.deb
-Size: 14071308
-MD5sum: e4544a963b0aa4eb0f76de136c23b412
-SHA1: 2d026962285cbd3261ba27759a1ee0abc7b2640b
-SHA256: 3c6fdca9f8dec9b824867051813adc74e6672f2d0e1a55147904627db1876e60
+Filename: ./debs/zntxyu.Flex3_Beta91_iphoneos-arm.deb
+Size: 14225386
+MD5sum: 2f1202712791785b79a094d23fa70650
+SHA1: eb6597355c253a0edd8253d03f8f459660d9c69f
+SHA256: 07a7efc52f5c103164c0e27f6c460c69ed46a313770056f29c441eca13b06d1d
 Section: Utilities
-Description: Develop your own tweaks and share them on the Flex Community Cloud
+Description: Develop your own tweaks and share them on the Flex Community Cloud.
 Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
@@ -351,6 +350,20 @@ Section: System
 Description: The home screen also disables the page today.
 Author: Zntxyu
 Name: HS Today View Disable
+
+Package: zntxyu.HideLabelDots
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/zntxyu.HideLabelDots_0.0.1_iphoneos-arm.deb
+Size: 106000
+MD5sum: a9d29424e252e7e52d76f024d172810b
+SHA1: 41f2e062c229955cbc70a4246d03020b5459ea4c
+SHA256: 090ae1a47dca76fc80bf3948648c2acb64ca123cf723b4ed4dc3b56c995202fa
+Section: System
+Description: 隐藏桌面上的更新蓝点和测试橙点，支持iOS11-iOS13。
+Author: Zntxyu
+Name: HideLabelDots
 
 Package: zntxyu.IAP26
 Version: 0.0.2
