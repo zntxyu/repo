@@ -1,3 +1,18 @@
+Package: Zntxyu.CCVPN
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/Zntxyu.CCVPN_1.0.0_iphoneos-arm.deb
+Size: 10686
+MD5sum: 69a84ad00b68a94fb7407d28df4f04d5
+SHA1: d691690efd09bebcf61dfcb9b3163d7b0f48a0ab
+SHA256: 7d00c0dd7aa8ffefff962aa52ae5f4734195d844a9e9ea3c3affd0c1ef63f8a0
+Section: Tweaks
+Description: A Control Center Module to connect/disconnect VPN.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Zntxyu
+Name: CCVPN
+
 Package: com.creaturecoding.libcspreferences
 Version: 1.4.7
 Architecture: iphoneos-arm
@@ -174,21 +189,6 @@ Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for ins
 Author: TIGI Software
 Name: Apps Manager
 
-Package: zntxyu.CCModules.Plus
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 11), mobilesubstrate, com.opa334.ccsupport, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/zntxyu.CCModules.Plus_1.0_iphoneos-arm.deb
-Size: 1007494
-MD5sum: 644bcb19242ee6f70d9e1373253a6165
-SHA1: f068586b1818167863bd012751f3587abf6b2353
-SHA256: db673116c1bd4dcef01dd8574c5a23c1864d06c1ceb77993ab13704685129c45
-Section: Tweaks
-Description: CCModules Plus
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Zntxyu
-Name: CCModules Plus
-
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
@@ -216,20 +216,6 @@ Section: Tweaks
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne <julioverne@me.com>
 Name: CyDown
-
-Package: zntxyu.DVirtualHome
-Version: 0.0.15
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyu.DVirtualHome_0.0.15_iphoneos-arm.deb
-Size: 49950
-MD5sum: 6286c45fba2659a827c54f1002e89750
-SHA1: ec3d25730de296eb03f06e08f68f7e5145da5933
-SHA256: b817d03ddc3227429e8d585db2c79d94cd1a404399ce0f5588457e4ecfced5b8
-Section: Tweaks
-Description: My attempt at making virtual home iOS 10 compatible.
-Author: DGh0st
-Name: DVirtualHome
 
 Package: zntxyu.Dock.StyleX
 Version: 0.0.1
@@ -322,20 +308,6 @@ Description: Develop your own tweaks and share them on the Flex Community Cloud.
 Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
-
-Package: zntxyu.FuGap
-Version: 2.2.4
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.FuGap_2.2.4_iphoneos-arm.deb
-Size: 177842
-MD5sum: 5dd91c78c2451233f7cd2372513f6b96
-SHA1: 3bf4f704b032b7e517bd9bf1ed19f716f3eff3aa
-SHA256: 293d054b3e25551742de7e9854fe8575f1ddeddf87265b379e3f45f5ab6cda11
-Section: Tweaks
-Description: Close some gaps, hide some stuff !
-Author: smokin1337
-Name: FUGap
 
 Package: zntxyu.HS.TodayView.Disable
 Version: 0.0.1
@@ -434,20 +406,6 @@ Section: Tweaks
 Description: 拼图酱开启高级权限。
 Author: 7Loopy
 Name: 拼图酱 Crack
-
-Package: zntxyu.PhotoInfo
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PhotoInfo_1.0_iphoneos-arm.deb
-Size: 12046
-MD5sum: 9686a84dd5f7c11ff7a78368e6279f95
-SHA1: dec8814eddd898f7ae87be21424924fcfc1bd0c0
-SHA256: a8a792e68f8c1dda4cc865339d4575e89338359e506e1de8f6aa7d2dffd762c7
-Section: Tweaks
-Description: 在相册照片顶部显示当前照片的分辨率大小和照片多少MB。
-Author: shepgoba
-Name: PhotoInfo
 
 Package: zntxyu.PicsArt.Crack
 Version: 1.1-1
