@@ -3,10 +3,10 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Filename: ./debs/Zntxyu.CCVPN_1.0.0_iphoneos-arm.deb
-Size: 10686
-MD5sum: 69a84ad00b68a94fb7407d28df4f04d5
-SHA1: d691690efd09bebcf61dfcb9b3163d7b0f48a0ab
-SHA256: 7d00c0dd7aa8ffefff962aa52ae5f4734195d844a9e9ea3c3affd0c1ef63f8a0
+Size: 10808
+MD5sum: f8f47b912430e36cb2fad544977e9d5c
+SHA1: 632700052a02ae63e0bef9e20b9c15555fda0bcb
+SHA256: 61e6a016d11fc3956ebbd0474ea19125b5c5a866863c188ef27442dd38a29d13
 Section: Tweaks
 Description: A Control Center Module to connect/disconnect VPN.
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
@@ -574,16 +574,15 @@ Name: Vpn Master Crack
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: stem grade
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.Vpn.Umlimited.Crack_0.0.1_iphoneos-arm.deb
-Size: 42984
-MD5sum: cf1a9d71908a1339bd245b4ccbe4ec97
-SHA1: 7cf00e4880de354117be6a2db2e4798bdf6ae8be
-SHA256: 90bd80c600d8b1c4ee1c0779dfb0766e084707cd5d936cfd2d2ae5b22e6fda8a
+Size: 20396
+MD5sum: 9a632a5f95c1835f8009a2d46b043872
+SHA1: 9348a0997c98da9eb5d06b3fb27c5f84bf8cd648
+SHA256: 5bf4589c4d9046d1d62f77d53f35f222f5ab9d9cf6ff6f3994f31267be4b2a91
 Section: Tweaks
 Description: Vpn Umlimited Crack
-Author: stem grade
+Author: Zntxyu
 Name: Vpn Umlimited Crack
 
 Package: zntxyu.YueHei+Panton
