@@ -53,16 +53,16 @@ Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Name: shuffle
 
 Package: com.michael.appleturboboost
-Version: 0.6.2
+Version: 0.6.6
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 12.0)
 Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.6.2_iphoneos-arm.deb
-Size: 9104
-MD5sum: 5d53ada8801dacdf946242133aa6c813
-SHA1: a1ec1cf9b98402b4fae678d7ebc00a6e6643dafc
-SHA256: 43ba4f5801ddaac01395baa80ca92e92e9f295e4630a4202e7ca63743b5475c2
+Filename: ./debs/com.michael.appleturboboost_0.6.6_iphoneos-arm.deb
+Size: 10452
+MD5sum: 5b6ad99f4a9d12871df5fa274aeb3b9e
+SHA1: 58168d29e478a0386e6faf517256bcff70cf1f42
+SHA256: 9a52748de73b3b0fce16f681888d518e9950fcfc22d5388f2e30d5d698b831df
 Section: System
 Description: Turbo Boost Your Apple!
  Turbo Boost Your Apple!
