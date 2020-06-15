@@ -461,23 +461,34 @@ Description: Block tweak injection into powerlogHelperd!
 Author: opa334
 Name: PowerlogHelperdFix
 
-Package: zntxyu.ReProvision
-Version: 0.5.2~EOL
+Package: zntxyu.Shadow
+Version: 2.0.20
 Architecture: iphoneos-arm
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14391648
-MD5sum: 658cf82e02f112a3138f62a698505142
-SHA1: 6717ca26feb3005ee474fc745460af2e017bc1af
-SHA256: ee674b2ab01c7224cb1d0a6680fa1691b03e0143489403b69df828c66022dd7d
-Section: Utilities
-Priority: optional
-Description: Re-sign applications on your device
-Author: Matt Clarke <matt@incendo.ws>
-Dev: Matt Clarke <matt@incendo.ws>
-Name: ReProvision
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
+Size: 249980
+MD5sum: d761652795a1fdfc5c0260c5825d3ae9
+SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
+SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
+Section: Tweaks
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Name: Shadow
+
+Package: zntxyu.Shadow.CN
+Version: 2.0.20
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Shadow.CN_2.0.20_iphoneos-arm.deb
+Size: 4718
+MD5sum: 49fe4515e4afb4dae72a0902577b1da3
+SHA1: e186fce44eb4550f4526619bebb9bf31e4fb9e09
+SHA256: a7bb292a877c4c52a95c1db20a7710375b450c969eebcfc3244f0622674d5e65
+Section: Localization
+Description: Shadow 简体中文包
+Author: Zntxyu
+Name: Shadow 简体中文包
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
@@ -609,6 +620,21 @@ Section: Tweaks
 Description: Vpn Umlimited Crack
 Author: Zntxyu
 Name: Vpn Umlimited Crack
+
+Package: zntxyu.YouTube.Tools
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Justin Petkovic
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.YouTube.Tools_4.0_iphoneos-arm.deb
+Size: 31692
+MD5sum: 08f7ebca9e6500e5860ea4f585d77935
+SHA1: 3c56d97fb9b8e4b765f87a15c6566954dbf46cfe
+SHA256: 875916a82182d381ed4d613219f8f38f1e58a6a804af12a028215c447f95b285
+Section: Tweaks
+Description: Essential toolbox for YouTube app.
+Author: Justin Petkovic
+Name: YouTube Tools
 
 Package: zntxyu.YueHei+Panton
 Version: 1.0
