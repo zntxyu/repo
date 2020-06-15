@@ -228,6 +228,20 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
+Package: zntxyu.CyDown.CN
+Version: 7.1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.CyDown.CN_7.1.0_iphoneos-arm.deb
+Size: 96400
+MD5sum: 841c04e52f2fe945174486798ad3b4b8
+SHA1: b28ef2e2e311d552538a708162773d567ad07cb9
+SHA256: 5c025b94cfdbeaf5288c81a011b0b1f7e51675448438d581d77774f6d49ecf36
+Section: Localization
+Description: Cydown 简体中文包
+Author: Zntxyu
+Name: CyDown 简体中文包
+
 Package: zntxyu.Cydown
 Version: 7.1.0
 Architecture: iphoneos-arm
@@ -320,34 +334,6 @@ Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
 
-Package: zntxyu.HS.TodayView.Disable
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=13.0)
-Filename: ./debs/zntxyu.HS.TodayView.Disable_0.0.1_iphoneos-arm.deb
-Size: 4392
-MD5sum: 8f3dbb02cce52de97f2c9158f0b3a333
-SHA1: 1ebac0ec67b0b9dac496f0b7b0ec1fce1db85f65
-SHA256: 4817b9b46bf00843a7f25dba9ba201101bc3c605d85b45bb2fb51d995660d2d4
-Section: System
-Description: The home screen also disables the page today.
-Author: Zntxyu
-Name: HS Today View Disable
-
-Package: zntxyu.HideLabelDots
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/zntxyu.HideLabelDots_0.0.1_iphoneos-arm.deb
-Size: 106000
-MD5sum: a9d29424e252e7e52d76f024d172810b
-SHA1: 41f2e062c229955cbc70a4246d03020b5459ea4c
-SHA256: 090ae1a47dca76fc80bf3948648c2acb64ca123cf723b4ed4dc3b56c995202fa
-Section: System
-Description: 隐藏桌面上的更新蓝点和测试橙点，支持iOS11-iOS13。
-Author: Zntxyu
-Name: HideLabelDots
-
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -361,34 +347,6 @@ Section: Tweaks
 Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
-
-Package: zntxyu.Install.Percentage
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
-Size: 162470
-MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
-SHA1: 8108c77afe334c708eda19fa635ff6295491535c
-SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
-Section: System
-Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
-Author: Zntxyu
-Name: Install Percentage
-
-Package: zntxyu.LS+NC.TodayView.Disable
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.0)
-Filename: ./debs/zntxyu.LS+NC.TodayView.Disable_0.0.1_iphoneos-arm.deb
-Size: 4032
-MD5sum: c49479301b7d2a27f6677406b074ffd8
-SHA1: d8d2e0f68f45002d417cdda83aeda566fa79db97
-SHA256: 4138d67e5ba788e09f33b853ca3991f84f181bd20f6b302d7c890abec3501cec
-Section: System
-Description: Disables the page today from the Lock screen and Notification screen.
-Author: Zntxyu
-Name: LS / NC : Today View Disable
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
