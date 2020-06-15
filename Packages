@@ -157,22 +157,32 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
 Author: CokePokes
 Name: AppStore++
 
-Package: zntxyu.AppSync.Unified
-Version: 76.0
+Package: zntxyu.AppStore++CN
+Version: 1.1-3
 Architecture: iphoneos-arm
-Maintainer: Karen/あけみ <karen@akemi.ai>
-Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
-Replaces: us.hackulo.appsync50
-Provides: appsync
-Filename: ./debs/zntxyu.Appsync.Unified_76.0_iphoneos-arm.deb
-Size: 64076
-MD5sum: 9a9d3da4da060a332341b84092d73ce8
-SHA1: dd50f3fc10e5cfb0aef9c2690ba3840d4d9e4cfc
-SHA256: a57c941d5e4d1cc9579ae617b8b872885ca7121ad04a554f36c42dc9b916bc0d
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.AppStore++CN_1.1-3_iphoneos-arm.deb
+Size: 28526
+MD5sum: ad435fe1750dc64513f77e72a90ceb34
+SHA1: 352614f8ac517311ebc4e3d5f722c1d3d5a9b779
+SHA256: 9802c42d8819905138f62e2ffebf49bd0c81416994c79d8d80a01f28ac30b0cc
+Section: Tweaks
+Description: AppStore++简体中文包。
+Author: Netskao
+Name: AppStore++CN
+
+Package: zntxyu.AppSync.Unified
+Version: 78.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), firmware (<= 13.5.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Filename: ./debs/zntxyu.AppSync.Unified_78.0_iphoneos-arm.deb
+Size: 63830
+MD5sum: e29ab64655c32c31a262d8ad073423d6
+SHA1: a2a16fc9ad35edb9195fde4523759d20d0cdc04d
+SHA256: 329eeaa5f6c4bd4fa2f5c3f5470aef920ab3285ba969c9644e2422b1ffad563b
 Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Author: Linus Yang, Karen/あけみ
 Name: AppSync Unified
 
 Package: zntxyu.Apps.Manager
@@ -188,6 +198,21 @@ Section: Utilities
 Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps.
 Author: TIGI Software
 Name: Apps Manager
+
+Package: zntxyu.Assistant13
+Version: 1.2.3.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Assistant13_1.2.3.1_iphoneos-arm.deb
+Size: 58300
+MD5sum: 57b50b15d13126fb242056e757d804e2
+SHA1: c3873a22da82c2d8bb603aa80ad974e110fa87c9
+SHA256: 24a01fac9cbdb1b27d8fe2136d3a4d90d8dd9f289b3d2286fe692bcd3779536c
+Section: Tweaks
+Description: 可能是ios13最好用的手势。Assistant13 靓仔瘦出品 全新微信防误触手势，ipad状态栏全方位自定义，全新状态栏校正方案，系统多功能调整，以及能自定义的锁屏快捷方式。
+Author: lzsxcl
+Name: Assistant13
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
@@ -591,14 +616,27 @@ Architecture: iphoneos-arm
 Maintainer: zntxyu
 Depends: firmware (>= 13.0)
 Filename: ./debs/zntxyu.YueHei+Panton_1.0_iphoneos-arm.deb
-Size: 39964670
-MD5sum: 6235e0cc622d006ec3a79e9f411e8349
-SHA1: 4d69241c193121f3adf6a1228385c55955a3166c
-SHA256: 65cb606ae0db11b81f30da93e93de97f78696160b0a1e7dcf0d664bc452382aa
+Size: 39991850
+MD5sum: 524ff60dd077c4e1f141855118017383
+SHA1: e3a353e59a08ddab26d5c21a81242dc95636cca7
+SHA256: b85a1c29ee89e0236551ebbdfa283d1d8a29a75b486cc7f9db6a30562dbffff6
 Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
+
+Package: zntxyu.ZntxyuforSB
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.ZntxyuforSB_1.0_iphoneos-arm.deb
+Size: 111512
+MD5sum: b951c58e8d2b9d6a693559ab9fe56c5c
+SHA1: 75db8d627977283de24ea3159209286b02f5b060
+SHA256: 6b103e6b0b751e702ef7dbf2c0a0d0de1b6b13e693a8696c4a020065bfa06b03
+Section: Themes (Status Bar)
+Description: Status bar theme.
+Author: Zntxyu
+Name: Zntxyu for Status Bar
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3k
