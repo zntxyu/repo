@@ -593,6 +593,22 @@ Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体
 Author: zntxyu
 Name: Font-悦黑+Panton
 
+Package: zntxyu.afc2d-arm64
+Version: 1.1
+Architecture: iphoneos-arm
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Filename: ./debs/zntxyu.afc2d-arm64_1.1_iphoneos-arm.deb
+Size: 27088
+MD5sum: dc9706aff3b5ad1e49fa26bb967124d9
+SHA1: 3d8c8c51d110084dfcc728351c90b1da233ed47c
+SHA256: 661d7a6387bbefa950f401a749c301cacc946e656c2e1c7e3cf94c37a01e7b56
+Section: System
+Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
+Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: saurik, Cannathea <csupport@cannathea.com>
+Name: Apple File Conduit "2"
+
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3
 Architecture: iphoneos-arm
