@@ -321,6 +321,21 @@ Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
 
+Package: zntxyu.GPS.Manager
+Version: 1.8.8k
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14)
+Filename: ./debs/zntxyu.GPS.Manager_1.8.8k_iphoneos-arm.deb
+Size: 4130396
+MD5sum: ab8e943305a8659001ca12eecd564f3c
+SHA1: 60b68aa1025b8df84c16f55b6f26fdd4b6e15a4a
+SHA256: 8b55759108155de8e137f563d6b8e1241b6c554adce8970e82daa4df3302b357
+Section: Tweaks
+Description: Configure APP's fake GPS location wherever you like.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: chencong
+Name: GPS Manager
+
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -334,6 +349,21 @@ Section: Tweaks
 Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
+
+Package: zntxyu.Location.Helper
+Version: 5.3.10k
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
+Filename: ./debs/zntxyu.Location.Helper_5.3.10k_iphoneos-arm.deb
+Size: 4489812
+MD5sum: a5984e4cde70cba0eb20a57884e6e0ad
+SHA1: 80642ee323a8f789d986727cdaf2ce7c6616d191
+SHA256: 61388992509e6fb4cfc23c8b95041cddf739aff1b81e4929506e68d0cc17a7a8
+Section: Tweaks
+Description: GPS Location Faker.
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: mingfaker
+Name: Location Helper
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
@@ -577,6 +607,19 @@ Description: Vpn Umlimited Crack
 Author: Zntxyu
 Name: Vpn Umlimited Crack
 
+Package: zntxyu.XunLei.app
+Version: 1.0.0
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.XunLei.app_1.0.0_iphoneos-arm.deb
+Size: 30068514
+MD5sum: ec9006ec1c52ac9624fcb91a84e1a9dd
+SHA1: 9a6650423bec59fcf9b90a813fab8e832319288a
+SHA256: 01a01e51701b0281b8e9f1c8d6fbe8fb9a96e92ca7908b98b6f01d7543222476
+Section: Utilities
+Description: 迅雷去广告版
+Author: 7Loopy
+Name: 迅雷
+
 Package: zntxyu.YueHei+Panton
 Version: 1.0
 Architecture: iphoneos-arm
@@ -591,6 +634,19 @@ Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
+
+Package: zntxyu.YueLiang.app
+Version: 1.0.0
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.YueLiang.app_1.0.0_iphoneos-arm.deb
+Size: 5389876
+MD5sum: f96bd0ab8f7ba99f39265ce80f0de3fc
+SHA1: 83d385af3c2edcc8bdb72c606d429ae6dd05c6aa
+SHA256: ebcc4d87da09984006b9e25376f96129eddbdfd716ef6bd96624c4bc240659f3
+Section: Utilities
+Description: 月亮影视破解版
+Author: 7Loopy
+Name: 月亮影视
 
 Package: zntxyu.afc2d-arm64
 Version: 1.1
