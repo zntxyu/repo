@@ -378,20 +378,6 @@ Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
 
-Package: zntxyu.Instagram.No.Ads
-Version: 2.0.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>=4.0.0), firmware (>= 10)
-Filename: ./debs/zntxyu.Instagram.No.Ads_2.0.0_iphoneos-arm.deb
-Size: 72608
-MD5sum: af4fa21715d02a7075e2818d12049a5a
-SHA1: 173768e1b07d67c9fa632a358f88691a37b1f7cb
-SHA256: ad2954af65e0c5e409402803918b7e7566a0a14a7afa2e222a1fd1c530056360
-Section: Tweaks
-Description: Instagram No Ads
-Author: Hao Nguyen
-Name: Instagram No Ads
-
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
