@@ -230,34 +230,6 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
-Package: zntxyu.Choicy
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, applist
-Filename: ./debs/zntxyu.Choicy_1.2.2_iphoneos-arm.deb
-Size: 146788
-MD5sum: de00b47bda6452c778e2680fb5c3b82e
-SHA1: 9f16904dc4b80fd671f39d3e650ae83d4c62dc6f
-SHA256: 8b798703df21aa8b3a351685ba45de8f5393cc8bbd968d4850b80047a05310fc
-Section: Tweaks
-Description: Advanced Tweak Configuration!
-Author: opa334
-Name: Choicy
-
-Package: zntxyu.Choicy.CN
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Choicy.CN_1.2.2_iphoneos-arm.deb
-Size: 2364
-MD5sum: d3c1257abde78e19d3caa2422ede0b53
-SHA1: c70731395c18394cd24a14a9ccff03016bf1c5c4
-SHA256: 9046f5163f5d08bbf099b9ded9983e5dc67ad63876d3ee00839c12a5c3bfde9d
-Section: Localization
-Description: Choicy 简体中文包
-Author: Zntxyu
-Name: Choicy 简体中文包
-
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
 Architecture: iphoneos-arm
@@ -285,21 +257,6 @@ Section: Tweaks
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Name: CyDown
-
-Package: zntxyu.Dawn
-Version: 1.0.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), preferenceloader
-Filename: ./debs/zntxyu.Dawn_1.0.2_iphoneos-arm.deb
-Size: 197780
-MD5sum: b55d5e54a9e5287b57e4154396dd6a7d
-SHA1: 1fc33a2009449130d7f3e117f76c68017583372c
-SHA256: 5e3640ffb893c31dd3829018bfd572044f8be74dbb08b3c0b9944bf400ecbe10
-Section: Tweaks
-Description: Customize dark and light mode. Dark elements in light mode and vice versa.
-Tag: purpose::extension, compatible::ios13
-Author: EthanRDoesMC
-Name: Dawn
 
 Package: zntxyu.Eyeplugs
 Version: 1.6.2
@@ -420,6 +377,20 @@ Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
 
+Package: zntxyu.PowerlogHelperdFix
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PowerlogHelperdFix_1.0_iphoneos-arm.deb
+Size: 41546
+MD5sum: 3713eb1cc32b9d7ee092a67516f1a614
+SHA1: 61f5c69a395a34fc442ceed2e0fa01c713f76123
+SHA256: 64c37371cef90644164221ca60ca83860b4810df14510fb576c2debe6ede9f70
+Section: System
+Description: PowerlogHelperdFix.
+Author: Zntxyu
+Name: PowerlogHelperdFix
+
 Package: zntxyu.Shadow
 Version: 2.0.20
 Architecture: iphoneos-arm
@@ -522,6 +493,34 @@ Section: Tweaks
 Description: Customize your LS music player
 Author: Max Dausch
 Name: Sylph
+
+Package: zntxyu.System.Info
+Version: 2.7.2-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.System.Info_2.7.2-1_iphoneos-arm.deb
+Size: 427338
+MD5sum: 7cb96bc032fe61e7aa0d8835bff8e687
+SHA1: fb2e35435e2f8078218dc414542e7eaee14e79b1
+SHA256: 65da142e4ffed0247cd3915708a8567f89d357e6a99bdd266ef962ab42efdffd
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc
+Author: ARX8x
+Name: System Info
+
+Package: zntxyu.System.Info.CN
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.System.Info.CN_1.0.0_iphoneos-arm.deb
+Size: 82668
+MD5sum: 6d610f2e022550945e2232ded3e9a85c
+SHA1: 4e3015540693b4c24d4eb184521480a3a20fa682
+SHA256: 16f287e46d5e57be45bc5c9ea232d76988eb83db06d606e9f8e063323f1c4975
+Section: Localization
+Description: SystemInfo 简体中文包
+Author: Zntxyu
+Name: SystemInfo 简体中文包
 
 Package: zntxyu.Utils
 Version: 0.0.4
