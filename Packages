@@ -85,6 +85,20 @@ Tag: role::developer
 Author: Spark
 Name: libSparkAppList
 
+Package: zntxyu.3DTools.CN
+Version: 1.0.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.3DTools.CN_1.0.5_iphoneos-arm.deb
+Size: 2288
+MD5sum: 55f13ad0b8c2b4018e92bd4154960437
+SHA1: 67525b46ea6d80b5eeb01d948a889b4ff36e0142
+SHA256: 9be5f34b2f1083a5f9c9d5be8fe046c4740d7362f838dd0fecd353bd2ee0e9e0
+Section: Localization
+Description: 3DTools 简体中文包
+Author: Zntxyu
+Name: 3DTools 简体中文包
+
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -200,6 +214,20 @@ Description: 可能是ios13最好用的手势。Assistant13 靓仔瘦出品 全�
 Author: lzsxcl
 Name: Assistant13
 
+Package: zntxyu.BottomControlX.CN
+Version: 1.3.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.BottomControlX.CN_1.3.1_iphoneos-arm.deb
+Size: 11864
+MD5sum: 0973746bfa40defbd072bdfb8f906eeb
+SHA1: 4517cc0269c30044ddc5ee5fd44ed5f409019281
+SHA256: 280f69f7dae9e5e22642f7eb824149e2b35ffcee246c331b9f7400aa72285562
+Section: Localization
+Description: BottomControlX 简体中文包
+Author: Zntxyu
+Name: BottomControlX 简体中文包
+
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
@@ -269,6 +297,20 @@ Section: Tweaks
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Name: CyDown
+
+Package: zntxyu.Dock.StyleX
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Filename: ./debs/zntxyu.Dock.StyleX_0.0.1_iphoneos-arm.deb
+Size: 3900
+MD5sum: 81aec6e53b799af7e7f8bae26e6d4347
+SHA1: 1bf16f93870b76a5d63e1b7ea7d322a0e4596a3d
+SHA256: aab8131c09e11bdb51a2645e85c6bf6630f7e27c1a83fcc07a8a5b9c22390bd1
+Section: System
+Description: iPhone X style Dock now supports iPhone 8 Plus.
+Author: Zntxyu
+Name: Dock Style iPhone X
 
 Package: zntxyu.Eyeplugs
 Version: 1.6.2
@@ -348,6 +390,48 @@ Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
 
+Package: zntxyu.Flex3.CN
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Flex3.CN_1.1-1_iphoneos-arm.deb
+Size: 54290
+MD5sum: 52852e484a9c530bbc08700b04a7a57f
+SHA1: 94c6a72d6dee8a5172cc45ba4c58fe9c79b12c4b
+SHA256: 16f7581a5ac24a52430c5fd3368ec28965efbba5eececbcdc20adcc075248cca
+Section: Localization
+Description: Flex3 简体中文包
+Author: Netskao
+Name: Flex3 简体中文包
+
+Package: zntxyu.HS.TodayView.Disable
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/zntxyu.HS.TodayView.Disable_0.0.1_iphoneos-arm.deb
+Size: 4392
+MD5sum: 8f3dbb02cce52de97f2c9158f0b3a333
+SHA1: 1ebac0ec67b0b9dac496f0b7b0ec1fce1db85f65
+SHA256: 4817b9b46bf00843a7f25dba9ba201101bc3c605d85b45bb2fb51d995660d2d4
+Section: System
+Description: The home screen also disables the page today.
+Author: Zntxyu
+Name: HS Today View Disable
+
+Package: zntxyu.HideLabelDots
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/zntxyu.HideLabelDots_0.0.1_iphoneos-arm.deb
+Size: 106000
+MD5sum: a9d29424e252e7e52d76f024d172810b
+SHA1: 41f2e062c229955cbc70a4246d03020b5459ea4c
+SHA256: 090ae1a47dca76fc80bf3948648c2acb64ca123cf723b4ed4dc3b56c995202fa
+Section: System
+Description: 隐藏桌面上的更新蓝点和测试橙点，支持iOS11-iOS13。
+Author: Zntxyu
+Name: HideLabelDots
+
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -361,6 +445,34 @@ Section: Tweaks
 Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
+
+Package: zntxyu.Install.Percentage
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
+Size: 162470
+MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
+SHA1: 8108c77afe334c708eda19fa635ff6295491535c
+SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
+Section: System
+Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
+Author: Zntxyu
+Name: Install Percentage
+
+Package: zntxyu.LS+NC.TodayView.Disable
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Filename: ./debs/zntxyu.LS+NC.TodayView.Disable_0.0.1_iphoneos-arm.deb
+Size: 4032
+MD5sum: c49479301b7d2a27f6677406b074ffd8
+SHA1: d8d2e0f68f45002d417cdda83aeda566fa79db97
+SHA256: 4138d67e5ba788e09f33b853ca3991f84f181bd20f6b302d7c890abec3501cec
+Section: System
+Description: Disables the page today from the Lock screen and Notification screen.
+Author: Zntxyu
+Name: LS / NC : Today View Disable
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
@@ -404,20 +516,19 @@ Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
 
-Package: zntxyu.PowerlogHelperdFix
-Version: 1.0
+Package: zntxyu.Prysm+Quart.CN
+Version: 0.0.2-1
 Architecture: iphoneos-arm
-Maintainer: opa334
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PowerlogHelperdFix_1.0_iphoneos-arm.deb
-Size: 5332
-MD5sum: dc18295541f9942fffbc37de9f3f6e11
-SHA1: 7c4c55c6b65e7d0140c8a5fd7c81deeb63dfc96d
-SHA256: 0f0dc81657b3fae0b10fd9cdd1df402de9c8e0eeb5b654b5e75310520f00f480
-Section: Tweaks
-Description: Block tweak injection into powerlogHelperd!
-Author: opa334
-Name: PowerlogHelperdFix
+Filename: ./debs/zntxyu.Prysm+Quart.CN_0.0.2-1_iphoneos-arm.deb
+Size: 290132
+MD5sum: 94241224e80bf46eda74cf770ad34069
+SHA1: 616ef42a995cc4e29482d52f53066a36c23207cd
+SHA256: ea668550db432f36549ff38801cc461deba33634994d1aaa30f5c38e69b8b457
+Section: Localization
+Description: Prysm&Quart 简体中文包
+Author: lenglengyu
+Name: Prysm&Quart 简体中文包
 
 Package: zntxyu.Shadow
 Version: 2.0.20
@@ -578,21 +689,6 @@ Section: Tweaks
 Description: Vpn Umlimited Crack
 Author: Zntxyu
 Name: Vpn Umlimited Crack
-
-Package: zntxyu.YouTube.Tools
-Version: 4.0
-Architecture: iphoneos-arm
-Maintainer: Justin Petkovic
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.YouTube.Tools_4.0_iphoneos-arm.deb
-Size: 31692
-MD5sum: 08f7ebca9e6500e5860ea4f585d77935
-SHA1: 3c56d97fb9b8e4b765f87a15c6566954dbf46cfe
-SHA256: 875916a82182d381ed4d613219f8f38f1e58a6a804af12a028215c447f95b285
-Section: Tweaks
-Description: Essential toolbox for YouTube app.
-Author: Justin Petkovic
-Name: YouTube Tools
 
 Package: zntxyu.YueHei+Panton
 Version: 1.0
