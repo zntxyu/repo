@@ -85,20 +85,6 @@ Tag: role::developer
 Author: Spark
 Name: libSparkAppList
 
-Package: zntxyu.A-Bypass
-Version: 1.0.7
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
-Filename: ./debs/zntxyu.A-Bypass_1.0.7_iphoneos-arm.deb
-Size: 54018
-MD5sum: 813d0bf623c949f7f3e990b4ccee0055
-SHA1: 3977b494db84d9be744f43f74707f8c6656ed6cc
-SHA256: a672795664537dae390a984524c132343da99c4650035dcd241192b8753c6ff8
-Section: Tweaks
-Description: Super Jailbreak detection bypass!
-Author: Baw Appie <pp121324@gmail.com>
-Name: A-Bypass
-
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -596,16 +582,16 @@ Author: zntxyu
 Name: Font-悦黑+Panton
 
 Package: zntxyu.iCleaner.Pro
-Version: 7.8.3k
+Version: 7.8.3
 Architecture: iphoneos-arm
 Depends: firmware (>= 4.0), findutils, apt | apt7
-Filename: ./debs/zntxyu.iCleaner.Pro_7.8.3k_iphoneos-arm.deb
-Size: 7023756
-MD5sum: e76adc887dacc9be7438e2af4a434ad3
-SHA1: c3d39771c78024bbaa448cef8daa1bee993650ce
-SHA256: 5117e3ffe47f59761327446b765139fdb510e064dc705e965f4ca4bf9cf5c481
+Filename: ./debs/zntxyu.iCleaner.Pro_7.8.3_iphoneos-arm.deb
+Size: 9502912
+MD5sum: ba3e08bc8ef0e3afe7b372f342d59bae
+SHA1: 0f6761d9ebe081d85451a6c3a5ad4160d4495cb1
+SHA256: b2be1ee65ae1b93a551eab5548540d274b0a2c2d560ca51531e6eb9b056ecf73
 Section: Utilities
-Description: The first real iOS system cleaner & optimizer
+Description: The first real iOS system cleaner & optimizer.
 Author: Ivano Bilenchi
 Name: iCleaner Pro
 
