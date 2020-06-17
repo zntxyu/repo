@@ -55,6 +55,20 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
+Package: zntxyu.A-Bypass
+Version: 1.0.8
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/zntxyu.A-Bypass_1.0.8_iphoneos-arm.deb
+Size: 54900
+MD5sum: a0c649d3bfa7f591f599c03e3e30d182
+SHA1: de5f220f11c84aa4bbe68c8a1ac9fee1dff4a54d
+SHA256: c7b8a8aa0994cfbe19e6aafc881d87094784018c9afe2fa8f7eeaba15684e5ed
+Section: Tweaks
+Description: Super Jailbreak detection bypass!
+Author: Baw Appie
+Name: A-Bypass
+
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -226,6 +240,20 @@ Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Name: CyDown
 
+Package: zntxyu.Dock.StyleX
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Filename: ./debs/zntxyu.Dock.StyleX_0.0.1_iphoneos-arm.deb
+Size: 3900
+MD5sum: 81aec6e53b799af7e7f8bae26e6d4347
+SHA1: 1bf16f93870b76a5d63e1b7ea7d322a0e4596a3d
+SHA256: aab8131c09e11bdb51a2645e85c6bf6630f7e27c1a83fcc07a8a5b9c22390bd1
+Section: System
+Description: iPhone X style Dock now supports iPhone 8 Plus.
+Author: Zntxyu
+Name: Dock Style iPhone X
+
 Package: zntxyu.Eyeplugs
 Version: 1.6.2
 Architecture: iphoneos-arm
@@ -304,6 +332,34 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: chencong
 Name: GPS Manager
 
+Package: zntxyu.HS.TodayView.Disable
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/zntxyu.HS.TodayView.Disable_0.0.1_iphoneos-arm.deb
+Size: 4392
+MD5sum: 8f3dbb02cce52de97f2c9158f0b3a333
+SHA1: 1ebac0ec67b0b9dac496f0b7b0ec1fce1db85f65
+SHA256: 4817b9b46bf00843a7f25dba9ba201101bc3c605d85b45bb2fb51d995660d2d4
+Section: System
+Description: The home screen also disables the page today.
+Author: Zntxyu
+Name: HS Today View Disable
+
+Package: zntxyu.HideLabelDots
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/zntxyu.HideLabelDots_0.0.1_iphoneos-arm.deb
+Size: 106000
+MD5sum: a9d29424e252e7e52d76f024d172810b
+SHA1: 41f2e062c229955cbc70a4246d03020b5459ea4c
+SHA256: 090ae1a47dca76fc80bf3948648c2acb64ca123cf723b4ed4dc3b56c995202fa
+Section: System
+Description: 隐藏桌面上的更新蓝点和测试橙点，支持iOS11-iOS13。
+Author: Zntxyu
+Name: HideLabelDots
+
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -331,6 +387,20 @@ Section: Tweaks
 Description: Hide Ads on Instagram.(News Feed and Story)
 Author: Hao Nguyen
 Name: Instagram No Ads
+
+Package: zntxyu.LS+NC.TodayView.Disable
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Filename: ./debs/zntxyu.LS+NC.TodayView.Disable_0.0.1_iphoneos-arm.deb
+Size: 4032
+MD5sum: c49479301b7d2a27f6677406b074ffd8
+SHA1: d8d2e0f68f45002d417cdda83aeda566fa79db97
+SHA256: 4138d67e5ba788e09f33b853ca3991f84f181bd20f6b302d7c890abec3501cec
+Section: System
+Description: Disables the page today from the Lock screen and Notification screen.
+Author: Zntxyu
+Name: LS / NC : Today View Disable
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
@@ -387,35 +457,6 @@ Section: System
 Description: PowerlogHelperdFix.
 Author: Zntxyu
 Name: PowerlogHelperdFix
-
-Package: zntxyu.Shadow
-Version: 2.0.20
-Architecture: iphoneos-arm
-Maintainer: jjolano <jjolano@me.com>
-Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
-Size: 249980
-MD5sum: d761652795a1fdfc5c0260c5825d3ae9
-SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
-SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
-Section: Tweaks
-Description: A lightweight general jailbreak detection bypass.
-Author: jjolano <jjolano@me.com>
-Name: Shadow
-
-Package: zntxyu.Shadow.CN
-Version: 2.0.20
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Shadow.CN_2.0.20_iphoneos-arm.deb
-Size: 4718
-MD5sum: 49fe4515e4afb4dae72a0902577b1da3
-SHA1: e186fce44eb4550f4526619bebb9bf31e4fb9e09
-SHA256: a7bb292a877c4c52a95c1db20a7710375b450c969eebcfc3244f0622674d5e65
-Section: Localization
-Description: Shadow 简体中文包
-Author: Zntxyu
-Name: Shadow 简体中文包
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
@@ -613,6 +654,19 @@ Section: Utilities
 Description: 月亮影视破解版
 Author: 7Loopy
 Name: 月亮影视
+
+Package: zntxyu.ZntxyuforSB
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.ZntxyuforSB_1.0_iphoneos-arm.deb
+Size: 111512
+MD5sum: b951c58e8d2b9d6a693559ab9fe56c5c
+SHA1: 75db8d627977283de24ea3159209286b02f5b060
+SHA256: 6b103e6b0b751e702ef7dbf2c0a0d0de1b6b13e693a8696c4a020065bfa06b03
+Section: Themes (Status Bar)
+Description: Status bar theme.
+Author: Zntxyu
+Name: Zntxyu for Status Bar
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3
