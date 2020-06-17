@@ -407,14 +407,14 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=12.0)
 Filename: ./debs/zntxyu.LS+NC.TodayView.Disable_0.0.1_iphoneos-arm.deb
-Size: 4032
-MD5sum: c49479301b7d2a27f6677406b074ffd8
-SHA1: d8d2e0f68f45002d417cdda83aeda566fa79db97
-SHA256: 4138d67e5ba788e09f33b853ca3991f84f181bd20f6b302d7c890abec3501cec
+Size: 4036
+MD5sum: e61938817861606688c195bc16d1e23c
+SHA1: d7334d0aa7d411dcf2879eaf2c1c5e779464902c
+SHA256: b8b0ee435c5c33494ae2988db0b3d34d6f4b4408929baf5b2adbd05055552081
 Section: System
 Description: Disables the page today from the Lock screen and Notification screen.
 Author: Zntxyu
-Name: LS / NC : Today View Disable
+Name: LC/NC Today View Disable
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
