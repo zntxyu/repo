@@ -101,13 +101,13 @@ Version: 1.5
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.Allow.KeyBoard_1.5_iphoneos-arm.deb
-Size: 9110
-MD5sum: abdee671b7bc3751a2f66e618104e5f6
-SHA1: dce8e061e8c256a8ca37ce7e919b4613c1561d31
-SHA256: 65085b65bf010eb29acefbeb8c5093a71b1a04ba46588a8437c5421a0e338514
+Size: 9096
+MD5sum: 706dedefa04e0591304100f4a7f04424
+SHA1: 38b2396fa136998928f9d70fe50037df91e9aec6
+SHA256: 39246d969ed6c5ab971c4328721f9623b74293ce0d5374d6f39f1d1a6c2351f7
 Section: System
-Description: Allow third-party keyboards to gain priority authority
-Author: iBreak <ibreak2019@qq.com>
+Description: Allow third-party keyboards to gain priority authority.
+Author: iBreak
 Name: Allow.KeyBoard
 
 Package: zntxyu.AppStore++
@@ -225,6 +225,20 @@ Section: Localization
 Description: Cydown 简体中文包
 Author: Zntxyu
 Name: CyDown 简体中文包
+
+Package: zntxyu.Cydia.Quick
+Version: 2.2.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Cydia.Quick_2.2.0_iphoneos-arm.deb
+Size: 100710
+MD5sum: bf766e6db5747518b8b2327518d45864
+SHA1: dbbbb2118d504f844455757c8b4461dc284c1e96
+SHA256: 22fb44a54ac6c29a2065588efb464432857107a0a1ab4b988cd05ea48fdbd395
+Section: Tweaks
+Description: Cydia Fix accelerates start-up load and load response, etc.
+Author: iBreak
+Name: Cydia Quick
 
 Package: zntxyu.Cydown
 Version: 7.1.0
@@ -346,19 +360,19 @@ Description: The home screen also disables the page today.
 Author: Zntxyu
 Name: HS Today View Disable
 
-Package: zntxyu.HideLabelDots
+Package: zntxyu.Hide.AppDots
 Version: 0.0.1
 Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/zntxyu.HideLabelDots_0.0.1_iphoneos-arm.deb
-Size: 106000
-MD5sum: a9d29424e252e7e52d76f024d172810b
-SHA1: 41f2e062c229955cbc70a4246d03020b5459ea4c
-SHA256: 090ae1a47dca76fc80bf3948648c2acb64ca123cf723b4ed4dc3b56c995202fa
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Hide.AppDots_0.0.1_iphoneos-arm.deb
+Size: 7116
+MD5sum: 88a321fa3073957742d3d4fc22e21ab0
+SHA1: f9637215fbde6a61bcbd944e102bae3386767da3
+SHA256: 91f6cb38246663e3d9860c54f6f007ec2d752025864fa0974dd641622191aed3
 Section: System
-Description: 隐藏桌面上的更新蓝点和测试橙点，支持iOS11-iOS13。
+Description: Hide Blue/Orange Points for Application Updates.
 Author: Zntxyu
-Name: HideLabelDots
+Name: Hide AppDots
 
 Package: zntxyu.IAP26
 Version: 0.0.2
@@ -415,6 +429,34 @@ Section: Tweaks
 Description: MIX滤镜大师开启全滤镜下载权限和全功能。
 Author: 7Loopy
 Name: MIX滤镜大师 Crack
+
+Package: zntxyu.Network.Exalt
+Version: 1.2.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Network.Exalt_1.2.1_iphoneos-arm.deb
+Size: 10440
+MD5sum: 88271c45b948170a5b2d1eb4beaa1e73
+SHA1: 575dfdc8da81a153b82b11e218561cf38f15e2c4
+SHA256: dc52690b7078e9065ac13f7391d877c5f0d886b9a0e933f5f17880b4ecdab5ae
+Section: Networking
+Description: Start wireless and cellular network framework optimization to improve response speed, etc
+Author: iBreak
+Name: Network Exalt
+
+Package: zntxyu.No.Bigtitles
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.No.Bigtitles_0.0.1_iphoneos-arm.deb
+Size: 12334
+MD5sum: 8e4813c485de5c96092b57ccbbd4a9b6
+SHA1: e08bc34b9eb04c0074dfa7e6d746cdcad567890d
+SHA256: 9695d5754a979ddde62fbb97ce64e6860d6c74fe5c1498ce13253697073850a4
+Section: System
+Description: Close System-wide Navigation Bar Headlines.
+Author: Zntxyu
+Name: No Bigtitles
 
 Package: zntxyu.PTJ.Crack
 Version: 1.1-1
