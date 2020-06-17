@@ -1,18 +1,3 @@
-Package: Zntxyu.CCVPN
-Version: 1.0.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/Zntxyu.CCVPN_1.0.0_iphoneos-arm.deb
-Size: 10808
-MD5sum: f8f47b912430e36cb2fad544977e9d5c
-SHA1: 632700052a02ae63e0bef9e20b9c15555fda0bcb
-SHA256: 61e6a016d11fc3956ebbd0474ea19125b5c5a866863c188ef27442dd38a29d13
-Section: Tweaks
-Description: A Control Center Module to connect/disconnect VPN.
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Zntxyu
-Name: CCVPN
-
 Package: com.creaturecoding.libcspreferences
 Version: 1.4.7
 Architecture: iphoneos-arm
@@ -69,35 +54,6 @@ Description: Turbo Boost Your Apple!
  Support iOS12~13.
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
-
-Package: com.zntxyu.EQE
-Version: 2.1.1
-Architecture: iphoneos-arm
-Depends: com.rpetrich.rocketbootstrap (>= 1.0.6), firmware (<< 14), mobilesubstrate, dpkg, coreutils
-Filename: ./debs/com.zntxyu.EQE_2.1.1_iphoneos-arm.deb
-Size: 7975480
-MD5sum: e61d175cef2f5af3b6f73304e027f982
-SHA1: d4d0aeb0250742b05703c5963fdac06998b28515
-SHA256: 2bbbea9f99508579686df93a75db33eb23dec2541224dd368d4abf51233e2ef5
-Section: Tweaks
-Description: System-wide parametric equalizer.
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Reed Weichler
-Name: EQE
-
-Package: zntxyu.A-Bypass
-Version: 1.0.8
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
-Filename: ./debs/zntxyu.A-Bypass_1.0.8_iphoneos-arm.deb
-Size: 54900
-MD5sum: a0c649d3bfa7f591f599c03e3e30d182
-SHA1: de5f220f11c84aa4bbe68c8a1ac9fee1dff4a54d
-SHA256: c7b8a8aa0994cfbe19e6aafc881d87094784018c9afe2fa8f7eeaba15684e5ed
-Section: Tweaks
-Description: Super Jailbreak detection bypass!
-Author: Baw Appie
-Name: A-Bypass
 
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
@@ -213,22 +169,6 @@ Section: Tweaks
 Description: 可能是ios13最好用的手势。Assistant13 靓仔瘦出品 全新微信防误触手势，ipad状态栏全方位自定义，全新状态栏校正方案，系统多功能调整，以及能自定义的锁屏快捷方式。
 Author: lzsxcl
 Name: Assistant13
-
-Package: zntxyu.BottomControlX
-Version: 1.3.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: ./debs/zntxyu.BottomControlX_1.3.3_iphoneos-arm.deb
-Size: 143686
-MD5sum: e45261eda3bfc2ebd777901ae1369c06
-SHA1: 82ca5b393c73f4b0018784d720f0c961fafd357a
-SHA256: acf42c6c910968438bd6e43d78f6f55b549c59954f8bdae21ab22a6c42e92f80
-Section: Tweaks
-Priority: optional
-Description: Easier access to your ControlCenter on iPhone X.
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: XCXiao
-Name: BottomControlX
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
@@ -364,21 +304,6 @@ Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
 
-Package: zntxyu.Location.Helper
-Version: 5.3.10k
-Architecture: iphoneos-arm
-Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
-Filename: ./debs/zntxyu.Location.Helper_5.3.10k_iphoneos-arm.deb
-Size: 4489812
-MD5sum: a5984e4cde70cba0eb20a57884e6e0ad
-SHA1: 80642ee323a8f789d986727cdaf2ce7c6616d191
-SHA256: 61388992509e6fb4cfc23c8b95041cddf739aff1b81e4929506e68d0cc17a7a8
-Section: Tweaks
-Description: GPS Location Faker.
-Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Author: mingfaker
-Name: Location Helper
-
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -435,6 +360,35 @@ Description: PowerlogHelperdFix.
 Author: Zntxyu
 Name: PowerlogHelperdFix
 
+Package: zntxyu.Shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
+Size: 249980
+MD5sum: d761652795a1fdfc5c0260c5825d3ae9
+SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
+SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
+Section: Tweaks
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Name: Shadow
+
+Package: zntxyu.Shadow.CN
+Version: 2.0.20
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Shadow.CN_2.0.20_iphoneos-arm.deb
+Size: 4718
+MD5sum: 49fe4515e4afb4dae72a0902577b1da3
+SHA1: e186fce44eb4550f4526619bebb9bf31e4fb9e09
+SHA256: a7bb292a877c4c52a95c1db20a7710375b450c969eebcfc3244f0622674d5e65
+Section: Localization
+Description: Shadow 简体中文包
+Author: Zntxyu
+Name: Shadow 简体中文包
+
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -464,21 +418,6 @@ Section: Tweaks
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
 Author: julioverne
 Name: Spotilife
-
-Package: zntxyu.StatusFolder
-Version: 1.0.2
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/zntxyu.StatusFolder_1.0.2_iphoneos-arm.deb
-Size: 5298
-MD5sum: 16de9afdccce7ce1d3ed9ae76b67d191
-SHA1: fb2d6a642fa314053efd7a46d03478a1607f821c
-SHA256: 047db6225617ba9196b1e7a28f49dfc963975b90f2b10b6542b17481760745f7
-Section: Tweaks
-Description: Show status bar in folders.
-Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Author: iAdam1n
-Name: StatusFolder
 
 Package: zntxyu.StoreSwitcher2
 Version: 1.0.3
@@ -632,22 +571,6 @@ Section: Utilities
 Description: 月亮影视破解版
 Author: 7Loopy
 Name: 月亮影视
-
-Package: zntxyu.afc2d-arm64
-Version: 1.1
-Architecture: iphoneos-arm
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, ldid
-Filename: ./debs/zntxyu.afc2d-arm64_1.1_iphoneos-arm.deb
-Size: 27088
-MD5sum: dc9706aff3b5ad1e49fa26bb967124d9
-SHA1: 3d8c8c51d110084dfcc728351c90b1da233ed47c
-SHA256: 661d7a6387bbefa950f401a749c301cacc946e656c2e1c7e3cf94c37a01e7b56
-Section: System
-Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
-Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Author: saurik, Cannathea <csupport@cannathea.com>
-Name: Apple File Conduit "2"
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3
