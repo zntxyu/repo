@@ -226,20 +226,6 @@ Description: Cydown 简体中文包
 Author: Zntxyu
 Name: CyDown 简体中文包
 
-Package: zntxyu.Cydia.Quick
-Version: 2.2.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Cydia.Quick_2.2.0_iphoneos-arm.deb
-Size: 100710
-MD5sum: bf766e6db5747518b8b2327518d45864
-SHA1: dbbbb2118d504f844455757c8b4461dc284c1e96
-SHA256: 22fb44a54ac6c29a2065588efb464432857107a0a1ab4b988cd05ea48fdbd395
-Section: Tweaks
-Description: Cydia Fix accelerates start-up load and load response, etc.
-Author: iBreak
-Name: Cydia Quick
-
 Package: zntxyu.Cydown
 Version: 7.1.0
 Architecture: iphoneos-arm
@@ -253,20 +239,6 @@ Section: Tweaks
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Name: CyDown
-
-Package: zntxyu.Dock.StyleX
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.0)
-Filename: ./debs/zntxyu.Dock.StyleX_0.0.1_iphoneos-arm.deb
-Size: 3900
-MD5sum: 81aec6e53b799af7e7f8bae26e6d4347
-SHA1: 1bf16f93870b76a5d63e1b7ea7d322a0e4596a3d
-SHA256: aab8131c09e11bdb51a2645e85c6bf6630f7e27c1a83fcc07a8a5b9c22390bd1
-Section: System
-Description: iPhone X style Dock now supports iPhone 8 Plus.
-Author: Zntxyu
-Name: Dock Style iPhone X
 
 Package: zntxyu.Eyeplugs
 Version: 1.6.2
@@ -346,34 +318,6 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: chencong
 Name: GPS Manager
 
-Package: zntxyu.HS.TodayView.Disable
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=13.0)
-Filename: ./debs/zntxyu.HS.TodayView.Disable_0.0.1_iphoneos-arm.deb
-Size: 4392
-MD5sum: 8f3dbb02cce52de97f2c9158f0b3a333
-SHA1: 1ebac0ec67b0b9dac496f0b7b0ec1fce1db85f65
-SHA256: 4817b9b46bf00843a7f25dba9ba201101bc3c605d85b45bb2fb51d995660d2d4
-Section: System
-Description: The home screen also disables the page today.
-Author: Zntxyu
-Name: HS Today View Disable
-
-Package: zntxyu.Hide.AppDots
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Hide.AppDots_0.0.1_iphoneos-arm.deb
-Size: 7116
-MD5sum: 88a321fa3073957742d3d4fc22e21ab0
-SHA1: f9637215fbde6a61bcbd944e102bae3386767da3
-SHA256: 91f6cb38246663e3d9860c54f6f007ec2d752025864fa0974dd641622191aed3
-Section: System
-Description: Hide Blue/Orange Points for Application Updates.
-Author: Zntxyu
-Name: Hide AppDots
-
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -402,20 +346,6 @@ Description: Hide Ads on Instagram.(News Feed and Story)
 Author: Hao Nguyen
 Name: Instagram No Ads
 
-Package: zntxyu.LS+NC.TodayView.Disable
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.0)
-Filename: ./debs/zntxyu.LS+NC.TodayView.Disable_0.0.1_iphoneos-arm.deb
-Size: 4036
-MD5sum: e61938817861606688c195bc16d1e23c
-SHA1: d7334d0aa7d411dcf2879eaf2c1c5e779464902c
-SHA256: b8b0ee435c5c33494ae2988db0b3d34d6f4b4408929baf5b2adbd05055552081
-Section: System
-Description: Disables the page today from the Lock screen and Notification screen.
-Author: Zntxyu
-Name: LC/NC Today View Disable
-
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -443,20 +373,6 @@ Section: Networking
 Description: Start wireless and cellular network framework optimization to improve response speed, etc
 Author: iBreak
 Name: Network Exalt
-
-Package: zntxyu.No.Bigtitles
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.No.Bigtitles_0.0.1_iphoneos-arm.deb
-Size: 12334
-MD5sum: 8e4813c485de5c96092b57ccbbd4a9b6
-SHA1: e08bc34b9eb04c0074dfa7e6d746cdcad567890d
-SHA256: 9695d5754a979ddde62fbb97ce64e6860d6c74fe5c1498ce13253697073850a4
-Section: System
-Description: Close System-wide Navigation Bar Headlines.
-Author: Zntxyu
-Name: No Bigtitles
 
 Package: zntxyu.PTJ.Crack
 Version: 1.1-1
