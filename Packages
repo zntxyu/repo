@@ -560,20 +560,6 @@ Description: Viola is a beautiful, simple & modern theme for iOS!
 Author: XG
 Name: Veexillum
 
-Package: zntxyu.Vpn.Master.Crack
-Version: 1.0.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/zntxyu.Vpn.Master.Crack_1.0.0_iphoneos-arm.deb
-Size: 23612
-MD5sum: d43191bcd749ae4805a96c8f612cbfa8
-SHA1: e591e0125e0aefdd1db9139f83936ad01c48a819
-SHA256: 540606043e08dc60aabd601832e88f7e560849b911d5a9b8c35937d33d304dc1
-Section: Tweaks
-Description: Vpn Master Crack
-Author: Zntxyu
-Name: Vpn Master Crack
-
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
 Architecture: iphoneos-arm
