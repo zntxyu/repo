@@ -629,19 +629,6 @@ Description: 月亮影视破解版
 Author: 7Loopy
 Name: 月亮影视
 
-Package: zntxyu.ZntxyuforSB
-Version: 1.0
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.ZntxyuforSB_1.0_iphoneos-arm.deb
-Size: 111512
-MD5sum: b951c58e8d2b9d6a693559ab9fe56c5c
-SHA1: 75db8d627977283de24ea3159209286b02f5b060
-SHA256: 6b103e6b0b751e702ef7dbf2c0a0d0de1b6b13e693a8696c4a020065bfa06b03
-Section: Themes (Status Bar)
-Description: Status bar theme.
-Author: Zntxyu
-Name: Zntxyu for Status Bar
-
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3
 Architecture: iphoneos-arm
