@@ -1,3 +1,18 @@
+Package: Zntxyu.CCVPN
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/Zntxyu.CCVPN_1.0.0_iphoneos-arm.deb
+Size: 10686
+MD5sum: 69a84ad00b68a94fb7407d28df4f04d5
+SHA1: d691690efd09bebcf61dfcb9b3163d7b0f48a0ab
+SHA256: 7d00c0dd7aa8ffefff962aa52ae5f4734195d844a9e9ea3c3affd0c1ef63f8a0
+Section: Tweaks
+Description: A Control Center Module to connect/disconnect VPN.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Zntxyu
+Name: CCVPN
+
 Package: com.creaturecoding.libcspreferences
 Version: 1.4.7
 Architecture: iphoneos-arm
@@ -184,6 +199,21 @@ Description: 可能是ios13最好用的手势。Assistant13 靓仔瘦出品 全�
 Author: lzsxcl
 Name: Assistant13
 
+Package: zntxyu.Axon
+Version: 1.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/zntxyu.Axon_1.2_iphoneos-arm.deb
+Size: 195868
+MD5sum: 2d6851b6b97e15029edd7711c991dd41
+SHA1: 01f58dd5f6149dcde0ed64af3532fcd859bf12dc
+SHA256: 0e78036647462cfe17bf830c507ee4d6aaa6371616ae6988002324fa22692051
+Section: Tweaks
+Description: Priority Hub for iOS 11 and 12
+Author: Nepeta & Baw Appie
+Name: Axon
+
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
@@ -359,20 +389,6 @@ Section: Tweaks
 Description: MIX滤镜大师开启全滤镜下载权限和全功能。
 Author: 7Loopy
 Name: MIX滤镜大师 Crack
-
-Package: zntxyu.Network.Exalt
-Version: 1.2.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Network.Exalt_1.2.1_iphoneos-arm.deb
-Size: 10440
-MD5sum: 88271c45b948170a5b2d1eb4beaa1e73
-SHA1: 575dfdc8da81a153b82b11e218561cf38f15e2c4
-SHA256: dc52690b7078e9065ac13f7391d877c5f0d886b9a0e933f5f17880b4ecdab5ae
-Section: Networking
-Description: Start wireless and cellular network framework optimization to improve response speed, etc
-Author: iBreak
-Name: Network Exalt
 
 Package: zntxyu.PTJ.Crack
 Version: 1.1-1
