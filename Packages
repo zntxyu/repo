@@ -262,16 +262,16 @@ Author: xia0z
 Name: Filza Crack
 
 Package: zntxyu.Filza.File.Manager
-Version: 3.7.6-32
+Version: 3.7.7-2
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/zntxyu.Filza.File.Manager_3.7.6-32_iphoneos-arm.deb
-Size: 13273454
-MD5sum: 65b0c3894ad9a91303c89af4358cce6b
-SHA1: 3d1c680e2df15cedde1ba99d2a98a2acb72151c3
-SHA256: 62b14c6f1404b79b85c5098ee4a84bf165691d4b929fbb45536b79eb308092b0
+Filename: ./debs/zntxyu.Filza.File.Manager_3.7.7-2_iphoneos-arm.deb
+Size: 13268428
+MD5sum: 04352c6ba058443140aed24b8f4db797
+SHA1: f79f0168f83de16765ee992b4d3c8782a6a60b68
+SHA256: 5a44c959d1d95f3cb7f3f5bec2fb242c9d6499e653f49808ae2f7fb16c08e060
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
 Author: TIGI Software
@@ -293,20 +293,6 @@ Description: Develop your own tweaks and share them on the Flex Community Cloud.
 Author: John Coates
 Name: Flex3
 Recommended: com.rpetrich.rocketbootstrap
-
-Package: zntxyu.FuGap
-Version: 2.2.4
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.FuGap_2.2.4_iphoneos-arm.deb
-Size: 177842
-MD5sum: 5dd91c78c2451233f7cd2372513f6b96
-SHA1: 3bf4f704b032b7e517bd9bf1ed19f716f3eff3aa
-SHA256: 293d054b3e25551742de7e9854fe8575f1ddeddf87265b379e3f45f5ab6cda11
-Section: Tweaks
-Description: Close some gaps, hide some stuff !
-Author: smokin1337
-Name: FUGap
 
 Package: zntxyu.GPS.Manager
 Version: 1.8.8k
