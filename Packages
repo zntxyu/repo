@@ -356,6 +356,21 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: chencong
 Name: GPS Manager
 
+Package: zntxyu.Gesturesi11
+Version: 3.5.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debs/zntxyu.Gesturesi11_3.5.0_iphoneos-arm.deb
+Size: 38148
+MD5sum: 02e5fe5bcc7b5208983900ae80536d1e
+SHA1: 6d85c1a46fdb82716717b5b15d6969cc82bc2201
+SHA256: d07d41b7abaf31a4e02c5485d3171be3e2c38087bdde068e2d34caf169204a6c
+Section: Tweaks
+Description: iPhone 11 gestures and other options.
+Tag: purpose::extension, compatible::ios13
+Author: Hius
+Name: Gesturesi11
+
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -500,20 +515,6 @@ Description: Adds a button to switch account in App Store account page on iOS 11
 Author: subdiox
 Name: StoreSwitcher 2
 
-Package: zntxyu.Sylph
-Version: 1.3~Beta.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, zntxyu.Utils (>= 0.0.4)
-Filename: ./debs/zntxyu.Sylph_1.3~Beta.1_iphoneos-arm.deb
-Size: 99230
-MD5sum: 1551c9d0d6f4462865975b7ed9da148d
-SHA1: 4d1b3ff48eab07ce31aa0c2d5092375c35023c72
-SHA256: 2090d987f4f0a24879b55979866f61f89254f99cdd2f4e3c01f20890a8af4fda
-Section: Tweaks
-Description: Customize your LS music player
-Author: Max Dausch
-Name: Sylph
-
 Package: zntxyu.System.Info
 Version: 2.7.2-1
 Architecture: iphoneos-arm
@@ -556,20 +557,6 @@ Description: Hide "Promoted" post for Twitter.
 Author: Hao Nguyen
 Name: Twitter No Ads
 
-Package: zntxyu.Utils
-Version: 0.0.4
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.Utils_0.0.4_iphoneos-arm.deb
-Size: 24852
-MD5sum: 03b341bd70c7eaf480b81b428910c7e5
-SHA1: 1407b80fa51697a7588c9a1f3d49adee588c4121
-SHA256: c984e32d71349752c25eb0e4d8e0eb76efcb71027dfa60cb370d8690d2ee2674
-Section: System
-Description: A collection of common functions for my tweaks. More documentation will be coming soon.
-Tag: role::developer
-Author: Maxwell Dausch
-Name: MDausch Utils
-
 Package: zntxyu.Veexillum
 Version: 2.0.0
 Architecture: iphoneos-arm
@@ -582,6 +569,21 @@ Section: Themes
 Description: Viola is a beautiful, simple & modern theme for iOS!
 Author: XG
 Name: Veexillum
+
+Package: zntxyu.Vinyl
+Version: 1.0.6.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debs/zntxyu.Vinyl_1.0.6.1-1_iphoneos-arm.deb
+Size: 335220
+MD5sum: 319c69dfc551496d80379b6c65e21df1
+SHA1: c20017b1c70cd675c85f47c401beefb2d53355f9
+SHA256: 122ef390a5f40b89c7e0e7153e5f7bc9a07bec349f15545935cdb697c3f5eb02
+Section: Tweaks
+Description: A simplified look for the lockscreen music player!
+Tag: purpose::extension, compatible::ios13
+Author: Lightmann
+Name: Vinyl
 
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
@@ -596,6 +598,21 @@ Section: Tweaks
 Description: Vpn Umlimited Crack
 Author: Zntxyu
 Name: Vpn Umlimited Crack
+
+Package: zntxyu.WeChatPurification
+Version: 1.2-6
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/zntxyu.WeChatPurification_1.2-6_iphoneos-arm.deb
+Size: 170446
+MD5sum: 4db12e44ee89ed90e11454b745c95875
+SHA1: a01370ea1ba5d00da3a5be19fc00b9c05dc219ed
+SHA256: 420f79d32dd7bd6e891c22efce40a448a7dd6e2c84e15000470db1659eba8684
+Section: Tweaks
+Description: WeChat净化，还原聊天本质，干净的微信给你，详情看预览图，仅适用于7.0.13版本及以上。
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: Netskao
+Name: 微信 净化
 
 Package: zntxyu.XunLei.app
 Version: 1.0.0
