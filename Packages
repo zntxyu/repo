@@ -103,14 +103,15 @@ Author: Netskao
 Name: AppStore++ 简体中文包
 
 Package: zntxyu.AppSync.Unified
-Version: 78.0
+Version: 80.0
 Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), firmware (<= 13.5.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Filename: ./debs/zntxyu.AppSync.Unified_78.0_iphoneos-arm.deb
-Size: 63830
-MD5sum: e29ab64655c32c31a262d8ad073423d6
-SHA1: a2a16fc9ad35edb9195fde4523759d20d0cdc04d
-SHA256: 329eeaa5f6c4bd4fa2f5c3f5470aef920ab3285ba969c9644e2422b1ffad563b
+Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Provides: appsync
+Filename: ./debs/zntxyu.AppSync.Unified_80.0_iphoneos-arm.deb
+Size: 63832
+MD5sum: 5ea8db54f00d9e90418bc556ae5e426b
+SHA1: 44d40598ca80ab7db43e5487062deaf0dc7d91d9
+SHA256: 1789eece1ca0cfac8808559a0450dfbb19c49815e859b49552e39a433b248745
 Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ
@@ -159,21 +160,6 @@ Section: Tweaks
 Description: Priority Hub for iOS 11 and 12
 Author: Nepeta & Baw Appie
 Name: Axon
-
-Package: zntxyu.CCModules.Plus
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 11), mobilesubstrate, com.opa334.ccsupport, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/zntxyu.CCModules.Plus_1.0_iphoneos-arm.deb
-Size: 1008184
-MD5sum: 7febe7f7806981e9d7de33a05692ff46
-SHA1: 51d2d8be87c627114cbbe792497f7844d5041528
-SHA256: 9423f0d2da148b3125277c83c84ca67cfe5f2c372c875a3ce0b34b837b1d461c
-Section: Tweaks
-Description: CCModules Plus
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Zntxyu
-Name: CCModules Plus
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
@@ -337,6 +323,20 @@ Description: Hide Ads on Instagram.(News Feed and Story)
 Author: Hao Nguyen
 Name: Instagram No Ads
 
+Package: zntxyu.Install.Percentage
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
+Size: 162470
+MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
+SHA1: 8108c77afe334c708eda19fa635ff6295491535c
+SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
+Section: System
+Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
+Author: Zntxyu
+Name: Install Percentage
+
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -364,6 +364,20 @@ Section: Tweaks
 Description: 拼图酱开启高级权限。
 Author: 7Loopy
 Name: 拼图酱 Crack
+
+Package: zntxyu.PhotoInfo
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PhotoInfo_1.0_iphoneos-arm.deb
+Size: 12046
+MD5sum: 9686a84dd5f7c11ff7a78368e6279f95
+SHA1: dec8814eddd898f7ae87be21424924fcfc1bd0c0
+SHA256: a8a792e68f8c1dda4cc865339d4575e89338359e506e1de8f6aa7d2dffd762c7
+Section: Tweaks
+Description: 在相册照片顶部显示当前照片的分辨率大小和照片多少MB。
+Author: shepgoba
+Name: PhotoInfo
 
 Package: zntxyu.PicsArt.Crack
 Version: 1.1-1
