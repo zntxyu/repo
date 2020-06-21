@@ -604,12 +604,12 @@ Version: 1.2-6
 Architecture: iphoneos-arm
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/zntxyu.WeChatPurification_1.2-6_iphoneos-arm.deb
-Size: 170446
-MD5sum: 4db12e44ee89ed90e11454b745c95875
-SHA1: a01370ea1ba5d00da3a5be19fc00b9c05dc219ed
-SHA256: 420f79d32dd7bd6e891c22efce40a448a7dd6e2c84e15000470db1659eba8684
+Size: 170402
+MD5sum: 894fa925888c9a8c525ceeb1490df440
+SHA1: dc5fdfd0401857557f6945ca1ff454559dcdc70f
+SHA256: 1f0429074a0b8e69901204f321871bf5998182685b2aae312f7b082181fc6f03
 Section: Tweaks
-Description: WeChat净化，还原聊天本质，干净的微信给你，详情看预览图，仅适用于7.0.13版本及以上。
+Description: WeChat净化，还原聊天本质，仅适用于7.0.13版本及以上。
 Tag: purpose::extension, compatible::ios12, compatible::ios13
 Author: Netskao
 Name: 微信 净化
