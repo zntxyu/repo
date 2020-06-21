@@ -1,3 +1,18 @@
+Package: Zntxyu.CCVPN
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/Zntxyu.CCVPN_1.0.0_iphoneos-arm.deb
+Size: 10808
+MD5sum: f8f47b912430e36cb2fad544977e9d5c
+SHA1: 632700052a02ae63e0bef9e20b9c15555fda0bcb
+SHA256: 61e6a016d11fc3956ebbd0474ea19125b5c5a866863c188ef27442dd38a29d13
+Section: Tweaks
+Description: A Control Center Module to connect/disconnect VPN.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Zntxyu
+Name: CCVPN
+
 Package: com.michael.appleturboboost
 Version: 0.6.6
 Architecture: iphoneos-arm
@@ -323,20 +338,6 @@ Description: Hide Ads on Instagram.(News Feed and Story)
 Author: Hao Nguyen
 Name: Instagram No Ads
 
-Package: zntxyu.Install.Percentage
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
-Size: 162470
-MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
-SHA1: 8108c77afe334c708eda19fa635ff6295491535c
-SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
-Section: System
-Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
-Author: Zntxyu
-Name: Install Percentage
-
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -364,20 +365,6 @@ Section: Tweaks
 Description: 拼图酱开启高级权限。
 Author: 7Loopy
 Name: 拼图酱 Crack
-
-Package: zntxyu.PhotoInfo
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PhotoInfo_1.0_iphoneos-arm.deb
-Size: 12046
-MD5sum: 9686a84dd5f7c11ff7a78368e6279f95
-SHA1: dec8814eddd898f7ae87be21424924fcfc1bd0c0
-SHA256: a8a792e68f8c1dda4cc865339d4575e89338359e506e1de8f6aa7d2dffd762c7
-Section: Tweaks
-Description: 在相册照片顶部显示当前照片的分辨率大小和照片多少MB。
-Author: shepgoba
-Name: PhotoInfo
 
 Package: zntxyu.PicsArt.Crack
 Version: 1.1-1
@@ -436,6 +423,21 @@ Section: Tweaks
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
 Author: julioverne
 Name: Spotilife
+
+Package: zntxyu.StatusFolder
+Version: 1.0.2
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/zntxyu.StatusFolder_1.0.2_iphoneos-arm.deb
+Size: 5298
+MD5sum: 16de9afdccce7ce1d3ed9ae76b67d191
+SHA1: fb2d6a642fa314053efd7a46d03478a1607f821c
+SHA256: 047db6225617ba9196b1e7a28f49dfc963975b90f2b10b6542b17481760745f7
+Section: Tweaks
+Description: Show status bar in folders.
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: iAdam1n
+Name: StatusFolder
 
 Package: zntxyu.StoreSwitcher2
 Version: 1.0.3
@@ -589,6 +591,22 @@ Section: Utilities
 Description: 月亮影视破解版
 Author: 7Loopy
 Name: 月亮影视
+
+Package: zntxyu.afc2d-arm64
+Version: 1.1
+Architecture: iphoneos-arm
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Filename: ./debs/zntxyu.afc2d-arm64_1.1_iphoneos-arm.deb
+Size: 27088
+MD5sum: dc9706aff3b5ad1e49fa26bb967124d9
+SHA1: 3d8c8c51d110084dfcc728351c90b1da233ed47c
+SHA256: 661d7a6387bbefa950f401a749c301cacc946e656c2e1c7e3cf94c37a01e7b56
+Section: System
+Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
+Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: saurik, Cannathea <csupport@cannathea.com>
+Name: Apple File Conduit "2"
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3
