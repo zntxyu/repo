@@ -207,6 +207,21 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: XCXiao
 Name: BottomControlX
 
+Package: zntxyu.CCModules.Plus
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 11), mobilesubstrate, com.opa334.ccsupport, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/zntxyu.CCModules.Plus_1.0_iphoneos-arm.deb
+Size: 1008184
+MD5sum: 7febe7f7806981e9d7de33a05692ff46
+SHA1: 51d2d8be87c627114cbbe792497f7844d5041528
+SHA256: 9423f0d2da148b3125277c83c84ca67cfe5f2c372c875a3ce0b34b837b1d461c
+Section: Tweaks
+Description: CCModules Plus
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Zntxyu
+Name: CCModules Plus
+
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
@@ -399,6 +414,19 @@ Description: Hide Ads on Instagram.(News Feed and Story)
 Author: Hao Nguyen
 Name: Instagram No Ads
 
+Package: zntxyu.Instagram.Rocket
+Version: 0.0.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/zntxyu.Instagram.Rocket_0.0.3_iphoneos-arm.deb
+Size: 148662
+MD5sum: 9104f309ff8453c1e4e6f89dd6fefca7
+SHA1: 44e1cd9b2d1836f0d4788c5a180ee3fa10d99b73
+SHA256: 9622e788f87ca20683ea52f4d559a942d409df39892087bca3bd20dced605587
+Description: Instagram Rocket.
+Author: stem grade
+Name: Instagram Rocket
+
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -514,6 +542,19 @@ Section: Tweaks
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: subdiox
 Name: StoreSwitcher 2
+
+Package: zntxyu.SwipeShiftCaret
+Version: 1.9
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0), preferenceloader (>= 2.2.2)
+Filename: ./debs/zntxyu.SwipeShiftCaret_1.9_iphoneos-arm.deb
+Size: 29182
+MD5sum: 037b048f8b404d075cbdcd872dada558
+SHA1: 97a01717e3ce83236ba2108c62e96a70cc08f8a7
+SHA256: 847de0f9d3df085c856e172dd629a31092ebfc83ba403f662c88d07dd36e334f
+Section: Tweaks
+Description: Caret micromanager via swipes.
+Name: SwipeShiftCaret
 
 Package: zntxyu.System.Info
 Version: 2.7.2-1
