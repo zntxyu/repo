@@ -1,21 +1,3 @@
-Package: com.michael.appleturboboost
-Version: 0.6.6
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware (>= 12.0)
-Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.6.6_iphoneos-arm.deb
-Size: 10452
-MD5sum: 5b6ad99f4a9d12871df5fa274aeb3b9e
-SHA1: 58168d29e478a0386e6faf517256bcff70cf1f42
-SHA256: 9a52748de73b3b0fce16f681888d518e9950fcfc22d5388f2e30d5d698b831df
-Section: System
-Description: Turbo Boost Your Apple!
- Turbo Boost Your Apple!
- Support iOS12~13.
-Author: Halo_Michael <yc992147156@me.com>
-Name: Apple Turbo Boost
-
 Package: zntxyu.AirPods.EQE
 Version: 1.0
 Architecture: iphoneos-arm
