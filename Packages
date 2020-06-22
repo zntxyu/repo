@@ -16,34 +16,6 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
-Package: com.zntxyu.EQE
-Version: 2.1.1
-Architecture: iphoneos-arm
-Depends: com.rpetrich.rocketbootstrap (>= 1.0.6), firmware (<< 14), mobilesubstrate, dpkg, coreutils
-Filename: ./debs/com.zntxyu.EQE_2.1.1_iphoneos-arm.deb
-Size: 7975440
-MD5sum: afb19bdce2ff5b0e3485ba3f05dba007
-SHA1: d22aa565deb3fa359abf525cf115650f12eea229
-SHA256: e7b902bc04fea973f61f168c7f6bb7db1d56dcd90d549537d5dced6abf07f8ab
-Section: Tweaks
-Description: System-wide parametric equalizer.
-Author: Reed Weichler
-Name: EQE
-
-Package: zntxyu.A-Bypass
-Version: 1.0.9
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
-Filename: ./debs/zntxyu.A-Bypass_1.0.9_iphoneos-arm.deb
-Size: 55810
-MD5sum: eb5595d6528c3914342a0fe036d8a193
-SHA1: 2ddf9009f036c4312e2edc4bfbbcd6f90f6bcfcd
-SHA256: 3461997ccdd439625c8a0499e6f27dd499be0ab1e9f72496fdc87b01a8421ebe
-Section: Tweaks
-Description: Super Jailbreak detection bypass!
-Author: Baw Appie
-Name: A-Bypass
-
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -56,21 +28,6 @@ Section: Tweaks
 Description: AdBlock++
 Author: ReJail
 Name: AdBlock++
-
-Package: zntxyu.Afc2d-arm64
-Version: 1.1
-Architecture: iphoneos-arm
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, ldid
-Filename: ./debs/zntxyu.Afc2d-arm64_1.1_iphoneos-arm.deb
-Size: 27032
-MD5sum: 48a8a6ec4b3e33e24b9f97aa6c3fcf28
-SHA1: 3a2d108bf8688486c7d17ad999b4c8e4f61f9896
-SHA256: 48039187c85e1355651a775881ea676cc5f8252dba39280674c1d44a6557f4f5
-Section: System
-Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
-Author: saurik, Cannathea
-Name: Apple File Conduit "2"
 
 Package: zntxyu.AirPods.EQE
 Version: 1.0
@@ -158,35 +115,6 @@ Description: 可能是ios13最好用的手势。Assistant13 靓仔瘦出品 全�
 Author: lzsxcl
 Name: Assistant13
 
-Package: zntxyu.Axon
-Version: 1.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debs/zntxyu.Axon_1.2_iphoneos-arm.deb
-Size: 195876
-MD5sum: 3bcd5f05582f03c80772057de46f5c39
-SHA1: e3b027c21e800f8b18a3e0fb05f07300effd82d0
-SHA256: bed4bfbb28624ef5074d9ecca2fd9776ebac701eb58c2484be9dbeeb60343bfa
-Section: Tweaks
-Description: Priority Hub for iOS 11/12/13.
-Author: Nepeta & Baw Appie
-Name: Axon
-
-Package: zntxyu.BottomControlX
-Version: 1.3.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: ./debs/zntxyu.BottomControlX_1.3.3_iphoneos-arm.deb
-Size: 143638
-MD5sum: 922fdab895080ec21aa4763c48ac34be
-SHA1: 1adb7f1d77f91c5e36331a6f86a7b46b787a212b
-SHA256: 9341af7d3e90689aa24d0e36c8893e02f2e72c39bd7f16c33c24fe104ba866e0
-Section: Tweaks
-Description: Easier access to your ControlCenter on iPhone X.
-Author: XCXiao
-Name: BottomControlX
-
 Package: zntxyu.CCModules.Plus
 Version: 1.0
 Architecture: iphoneos-arm
@@ -201,20 +129,6 @@ Description: CCModules Plus
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Zntxyu
 Name: CCModules Plus
-
-Package: zntxyu.CCvpn
-Version: 1.0.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/zntxyu.CCvpn_1.0.0_iphoneos-arm.deb
-Size: 10778
-MD5sum: fe1b921ed00bb2a47b9e66f5cc5c0cb7
-SHA1: ea59c8fe7a462f21cec3e35c32eaddc497eaf588
-SHA256: 470285cfbe7c956489ca3653236a4d962d67ad776ed9e943c6d5601d829c98af
-Section: Tweaks
-Description: A Control Center Module to connect/disconnect VPN.
-Author: Zntxyu
-Name: CCVPN
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
@@ -257,20 +171,6 @@ Section: Tweaks
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Name: CyDown
-
-Package: zntxyu.Dawn
-Version: 1.0.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), preferenceloader
-Filename: ./debs/zntxyu.Dawn_1.0.2_iphoneos-arm.deb
-Size: 197752
-MD5sum: 2a319e4adb082e1f6bd1b14caaca738f
-SHA1: 4b37b9b43bf2078d4d6274a91972329b768a4013
-SHA256: 8877fdcca9984b0f1e194be1efbd442081643ef05aad448dcfc1491a7df02cc1
-Section: Tweaks
-Description: Customize dark and light mode. Dark elements in light mode and vice versa.
-Author: EthanRDoesMC
-Name: Dawn
 
 Package: zntxyu.Eyeplugs
 Version: 1.6.2
@@ -346,20 +246,6 @@ Section: Tweaks
 Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
-
-Package: zntxyu.Gesturesi11
-Version: 3.5.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debs/zntxyu.Gesturesi11_3.5.0_iphoneos-arm.deb
-Size: 38116
-MD5sum: d19d53aec7ce33de646fe363792c46c0
-SHA1: e7afdf2113916ce9965404b1edb30d3dc3df031d
-SHA256: a195f06158fcb71a83ce7188ec73d1f42deb1cef7c6c5dfc80e6070f237bb794
-Section: Tweaks
-Description: iPhone 11 gestures and other options.
-Author: Hius
-Name: Gesturesi11
 
 Package: zntxyu.IAP26
 Version: 0.0.2
@@ -487,20 +373,6 @@ Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocke
 Author: julioverne
 Name: Spotilife
 
-Package: zntxyu.StatusFolder
-Version: 1.0.2
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/zntxyu.StatusFolder_1.0.2_iphoneos-arm.deb
-Size: 5264
-MD5sum: de877d07cd57b9331a9ab7fe6546afe5
-SHA1: c5b62ac018b693eeca1ce7d113dcb9b8dd30ec71
-SHA256: 88941842935acb56c78b9f66d3c4fcf4200d6730667acd523984433e961627d9
-Section: Tweaks
-Description: Show status bar in folders.
-Author: iAdam1n
-Name: StatusFolder
-
 Package: zntxyu.StoreSwitcher2
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -584,20 +456,6 @@ Description: Viola is a beautiful, simple & modern theme for iOS!
 Author: XG
 Name: Veexillum
 
-Package: zntxyu.Vinyl
-Version: 1.0.6.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debs/zntxyu.Vinyl_1.0.6.1-1_iphoneos-arm.deb
-Size: 335194
-MD5sum: 19ac6e0c589a2a43e5a2df748dd59ab8
-SHA1: 9289ca3881197cbb0a370e2c1bb6f69238ed6cb8
-SHA256: 7ada19781f0e6fa393d6face755e44a37110b45f8a5f5bf7b25b5502e6b4f656
-Section: Tweaks
-Description: A simplified look for the lockscreen music player!
-Author: Lightmann
-Name: Vinyl
-
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -611,20 +469,6 @@ Section: Tweaks
 Description: Vpn Umlimited Crack
 Author: Zntxyu
 Name: Vpn Umlimited Crack
-
-Package: zntxyu.WeChatPurification
-Version: 1.2-6
-Architecture: iphoneos-arm
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/zntxyu.WeChatPurification_1.2-6_iphoneos-arm.deb
-Size: 170372
-MD5sum: 8582f3275f373e88ec332f896db10234
-SHA1: 91005d76e627d4431f8f879fcd1111fcc5e5c7fd
-SHA256: 579a8b744ebc83d98ae0e8e1a1bbdaabd81972c99330b2129a6fde1bdbd4f936
-Section: Tweaks
-Description: WeChat净化，还原聊天本质，仅适用于7.0.13版本及以上。
-Author: Netskao
-Name: 微信 净化
 
 Package: zntxyu.XunLei.app
 Version: 1.0.0
