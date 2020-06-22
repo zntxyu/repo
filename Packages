@@ -287,6 +287,21 @@ Description: Suppress banners in apps.
 Author: Summer Triangle
 Name: Eyeplugs
 
+Package: zntxyu.Filza
+Version: 3.7.7-4
+Architecture: iphoneos-arm
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/zntxyu.Filza_3.7.7-4_iphoneos-arm.deb
+Size: 13319988
+MD5sum: b9a7e88cf71e06b335fa79c0dbdc0a1e
+SHA1: 74c95dcf8e395085c68889c3db2593345cf2103b
+SHA256: 175f6fff535941b9cea0c08936b8a08ddcfcf8447eeef8986ad789b140d2d473
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
+Author: TIGI Software
+Name: Filza File Manager
+
 Package: zntxyu.Filza.Crack
 Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
@@ -300,22 +315,6 @@ Section: Tweaks
 Description: Filza Crack
 Author: xia0z
 Name: Filza Crack
-
-Package: zntxyu.Filza.File.Manager
-Version: 3.7.7-2
-Architecture: iphoneos-arm
-Maintainer: TIGI Software
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/zntxyu.Filza.File.Manager_3.7.7-2_iphoneos-arm.deb
-Size: 13268428
-MD5sum: 04352c6ba058443140aed24b8f4db797
-SHA1: f79f0168f83de16765ee992b4d3c8782a6a60b68
-SHA256: 5a44c959d1d95f3cb7f3f5bec2fb242c9d6499e653f49808ae2f7fb16c08e060
-Section: Utilities
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
-Author: TIGI Software
-Name: Filza File Manager
 
 Package: zntxyu.Flex3
 Version: Beta92
