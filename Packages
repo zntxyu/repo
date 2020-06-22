@@ -1,3 +1,48 @@
+Package: com.michael.appleturboboost
+Version: 0.6.6
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/com.michael.appleturboboost_0.6.6_iphoneos-arm.deb
+Size: 10452
+MD5sum: 5b6ad99f4a9d12871df5fa274aeb3b9e
+SHA1: 58168d29e478a0386e6faf517256bcff70cf1f42
+SHA256: 9a52748de73b3b0fce16f681888d518e9950fcfc22d5388f2e30d5d698b831df
+Section: System
+Description: Turbo Boost Your Apple!
+ Turbo Boost Your Apple!
+ Support iOS12~13.
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
+
+Package: zntxyu.A-Bypass
+Version: 1.0.9
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/zntxyu.A-Bypass_1.0.9_iphoneos-arm.deb
+Size: 55810
+MD5sum: eb5595d6528c3914342a0fe036d8a193
+SHA1: 2ddf9009f036c4312e2edc4bfbbcd6f90f6bcfcd
+SHA256: 3461997ccdd439625c8a0499e6f27dd499be0ab1e9f72496fdc87b01a8421ebe
+Section: Tweaks
+Description: Super Jailbreak detection bypass!
+Author: Baw Appie
+Name: A-Bypass
+
+Package: zntxyu.AdBlock++
+Version: 1.4.1-2
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.AdBlock++_1.4.1-2_iphoneos-arm.deb
+Size: 8262
+MD5sum: a26972ebdec770562082f2425d6fc097
+SHA1: 23bbdc38504587c8d649a828ab6c3437b060c30a
+SHA256: 51d8b094a4b48551aad1cfe5c0b9a7601cfbe6cab4f8fff9a05e9a5db6bd7b90
+Section: Tweaks
+Description: AdBlock++
+Author: ReJail
+Name: AdBlock++
+
 Package: zntxyu.AirPods.EQE
 Version: 1.0
 Architecture: iphoneos-arm
@@ -12,6 +57,21 @@ Description: EQE presets.
 Author: Zntxyu
 Name: AirPods EQE Presets
 
+Package: zntxyu.AppStore++
+Version: 0.9.11
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/zntxyu.AppStore++_0.9.11_iphoneos-arm.deb
+Size: 612698
+MD5sum: 9a6b8f056ce572d9f968399777e49638
+SHA1: 17f81b2eed8d35b05e5ca9f499c7cbbf493ab8b8
+SHA256: 614379575afe7ae34c5f687fdb6a855c61613c5be729f7a0a456b49f93fadf9c
+Section: Tweaks
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5.
+Author: CokePokes
+Name: AppStore++
+
 Package: zntxyu.AppStore++.CN
 Version: 1.1-3
 Architecture: iphoneos-arm
@@ -25,6 +85,20 @@ Section: Localization
 Description: AppStore++ 简体中文包。
 Author: Netskao
 Name: AppStore++ 简体中文包
+
+Package: zntxyu.AppSync.Unified
+Version: 80.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Filename: ./debs/zntxyu.AppSync.Unified_80.0_iphoneos-arm.deb
+Size: 63826
+MD5sum: 761164534b752f16526205876bc4cea8
+SHA1: e61d6502d681d6c9b07ad94007e2c56e74e5ad03
+SHA256: 48e29b40a5e4679d798a30a7cadb9e9cd90f17fe635848843ecb3d08a9280a0f
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ
+Name: AppSync Unified
 
 Package: zntxyu.Apps.Manager
 Version: 1.5.3-2k
@@ -55,6 +129,21 @@ Description: 可能是ios13最好用的手势。Assistant13 靓仔瘦出品 全�
 Author: lzsxcl
 Name: Assistant13
 
+Package: zntxyu.Axon
+Version: 1.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/zntxyu.Axon_1.2_iphoneos-arm.deb
+Size: 195876
+MD5sum: 3bcd5f05582f03c80772057de46f5c39
+SHA1: e3b027c21e800f8b18a3e0fb05f07300effd82d0
+SHA256: bed4bfbb28624ef5074d9ecca2fd9776ebac701eb58c2484be9dbeeb60343bfa
+Section: Tweaks
+Description: Priority Hub for iOS 11/12/13.
+Author: Nepeta & Baw Appie
+Name: Axon
+
 Package: zntxyu.CCModules.Plus
 Version: 1.0
 Architecture: iphoneos-arm
@@ -69,6 +158,20 @@ Description: CCModules Plus
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Zntxyu
 Name: CCModules Plus
+
+Package: zntxyu.Cercube.for.YouTube
+Version: 5.1.18k
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, zntxyu.AdBlock++
+Filename: ./debs/zntxyu.Cercube.for.YouTube_5.1.18k_iphoneos-arm.deb
+Size: 5632306
+MD5sum: b5f50477bcca82b2a86986dc68742094
+SHA1: 55460845e79e99c7f8d7f6bf40b9d175041eb50a
+SHA256: d9f3d40978060f2bba540bcf23a2fb511d3e0e5b5602088ab013a9346c19b02f
+Section: Tweaks
+Description: Cercube for YouTube
+Author: Majd Alfhaily
+Name: Cercube for YouTube
 
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
@@ -112,6 +215,21 @@ Section: Tweaks
 Description: Suppress banners in apps.
 Author: Summer Triangle
 Name: Eyeplugs
+
+Package: zntxyu.Filza
+Version: 3.7.7-4
+Architecture: iphoneos-arm
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/zntxyu.Filza_3.7.7-4_iphoneos-arm.deb
+Size: 13319988
+MD5sum: b9a7e88cf71e06b335fa79c0dbdc0a1e
+SHA1: 74c95dcf8e395085c68889c3db2593345cf2103b
+SHA256: 175f6fff535941b9cea0c08936b8a08ddcfcf8447eeef8986ad789b140d2d473
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
+Author: TIGI Software
+Name: Filza File Manager
 
 Package: zntxyu.Filza.Crack
 Version: 0.0.1-23+debug
@@ -171,6 +289,20 @@ Section: Tweaks
 Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
+
+Package: zntxyu.Instagram.No.Ads
+Version: 0.0.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/zntxyu.Instagram.No.Ads_0.0.2_iphoneos-arm.deb
+Size: 6242
+MD5sum: 48bba7001e09356e5fcacd64c0345985
+SHA1: 2e1c8a643cb1fd72c82989984bba8afa3484a183
+SHA256: 939ff40ebdbd25961afb72d728a326707efb885a5ba4dd0a4525020beb24cc1d
+Section: Tweaks
+Description: Hide Ads on Instagram.(News Feed and Story)
+Author: Hao Nguyen
+Name: Instagram No Ads
 
 Package: zntxyu.Instagram.Rocket
 Version: 0.0.3
@@ -313,6 +445,20 @@ Description: SystemInfo 简体中文包
 Author: Zntxyu
 Name: SystemInfo 简体中文包
 
+Package: zntxyu.Twitter.No.Ads
+Version: 0.0.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/zntxyu.Twitter.No.Ads_0.0.2_iphoneos-arm.deb
+Size: 5114
+MD5sum: 37713a2b9894d281fc9c8fd47dc4ad6e
+SHA1: 31c1a4d978a401e3e8a5c838a9ad04a537e0de0f
+SHA256: 122ef7c8c1c77c16f21773391cea42474397323ac455c764271fe7643107317b
+Section: Tweaks
+Description: Hide "Promoted" post for Twitter.
+Author: Hao Nguyen
+Name: Twitter No Ads
+
 Package: zntxyu.Veexillum
 Version: 2.0.0
 Architecture: iphoneos-arm
@@ -380,4 +526,18 @@ Section: Utilities
 Description: 月亮影视破解版
 Author: 7Loopy
 Name: 月亮影视
+
+Package: zntxyu.iCleaner.Pro
+Version: 7.8.3
+Architecture: iphoneos-arm
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/zntxyu.iCleaner.Pro_7.8.3_iphoneos-arm.deb
+Size: 9502912
+MD5sum: ba3e08bc8ef0e3afe7b372f342d59bae
+SHA1: 0f6761d9ebe081d85451a6c3a5ad4160d4495cb1
+SHA256: b2be1ee65ae1b93a551eab5548540d274b0a2c2d560ca51531e6eb9b056ecf73
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer.
+Author: Ivano Bilenchi
+Name: iCleaner Pro
 
