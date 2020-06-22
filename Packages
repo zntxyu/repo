@@ -173,6 +173,20 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
+Package: zntxyu.CrackerXI+
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/zntxyu.CrackerXI+_1.1.16_iphoneos-arm.deb
+Size: 9960872
+MD5sum: 8876afb7591fd1be5c7220875b2851d6
+SHA1: b45d3fd31fd62238bbd8ac6510156bc6b5ee7c10
+SHA256: 43ad98029c8a353ac5bb85dd3aaa29276212cb31d7738527c7e8cb4842066be9
+Section: Utilities
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
 Architecture: iphoneos-arm
