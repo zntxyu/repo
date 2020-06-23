@@ -500,19 +500,6 @@ Description: Vpn Umlimited Crack
 Author: Zntxyu
 Name: Vpn Umlimited Crack
 
-Package: zntxyu.XunLei.app
-Version: 1.0.0
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.XunLei.app_1.0.0_iphoneos-arm.deb
-Size: 30068514
-MD5sum: ec9006ec1c52ac9624fcb91a84e1a9dd
-SHA1: 9a6650423bec59fcf9b90a813fab8e832319288a
-SHA256: 01a01e51701b0281b8e9f1c8d6fbe8fb9a96e92ca7908b98b6f01d7543222476
-Section: Utilities
-Description: 迅雷去广告版
-Author: 7Loopy
-Name: 迅雷
-
 Package: zntxyu.YueHei+Panton
 Version: 1.0
 Architecture: iphoneos-arm
@@ -527,19 +514,6 @@ Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
-
-Package: zntxyu.YueLiang.app
-Version: 1.0.0
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.YueLiang.app_1.0.0_iphoneos-arm.deb
-Size: 5389876
-MD5sum: f96bd0ab8f7ba99f39265ce80f0de3fc
-SHA1: 83d385af3c2edcc8bdb72c606d429ae6dd05c6aa
-SHA256: ebcc4d87da09984006b9e25376f96129eddbdfd716ef6bd96624c4bc240659f3
-Section: Utilities
-Description: 月亮影视破解版
-Author: 7Loopy
-Name: 月亮影视
 
 Package: zntxyu.iCleaner.Pro
 Version: 7.8.3
