@@ -172,20 +172,6 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
-Package: zntxyu.CrackerXI+
-Version: 1.1.16
-Architecture: iphoneos-arm
-Maintainer: c0pyn1nja
-Depends: firmware (>= 11.0)
-Filename: ./debs/zntxyu.CrackerXI+_1.1.16_iphoneos-arm.deb
-Size: 9960872
-MD5sum: 8876afb7591fd1be5c7220875b2851d6
-SHA1: b45d3fd31fd62238bbd8ac6510156bc6b5ee7c10
-SHA256: 43ad98029c8a353ac5bb85dd3aaa29276212cb31d7738527c7e8cb4842066be9
-Section: Utilities
-Description: Decrypts iOS Apps
-Name: CrackerXI+
-
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
 Architecture: iphoneos-arm
@@ -316,20 +302,6 @@ Section: Tweaks
 Description: Hide Ads on Instagram.(News Feed and Story)
 Author: Hao Nguyen
 Name: Instagram No Ads
-
-Package: zntxyu.Instagram.Rocket
-Version: 0.0.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyu.Instagram.Rocket_0.0.3_iphoneos-arm.deb
-Size: 148668
-MD5sum: d12a41ebc9e6ee1f33ca90c1687bccff
-SHA1: e79afdf4983409321acee705405d8d266bbdade5
-SHA256: a0718d28bc533f1f13878f3e60bf79a43f8f66757564cf9e0d62e3f4ecbdeb53
-Section: Tweaks
-Description: Instagram Rocket.
-Author: stem grade
-Name: Instagram Rocket
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
@@ -471,19 +443,6 @@ Section: Tweaks
 Description: Hide "Promoted" post for Twitter.
 Author: Hao Nguyen
 Name: Twitter No Ads
-
-Package: zntxyu.Veexillum
-Version: 2.0.0
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.Veexillum_2.0.0_iphoneos-arm.deb
-Size: 39149126
-MD5sum: ac260f421686b5471c495209f0c4f804
-SHA1: 2a1992a2c00d3f38835ee3ec92d38309255803ea
-SHA256: 4224b3dd4c8ec7c16cf44608e10ab85d68bebc7172e530da84b10ad7d713491b
-Section: Themes
-Description: Viola is a beautiful, simple & modern theme for iOS!
-Author: XG
-Name: Veexillum
 
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
