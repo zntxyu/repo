@@ -245,16 +245,16 @@ Author: xia0z
 Name: Filza Crack
 
 Package: zntxyu.Flex3
-Version: Beta93
+Version: Beta94
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/zntxyu.Flex3_Beta93_iphoneos-arm.deb
-Size: 14301952
-MD5sum: 9e08ac079a909cbc079a795c465f0cef
-SHA1: f37ef84c726cca01ae283e9c299301cbcf184840
-SHA256: eb7b2305b8acd63067bff464065637cb54ab6b8f436306a56644d7181f2d2139
+Filename: ./debs/zntxyu.Flex3_Beta94_iphoneos-arm.deb
+Size: 14364364
+MD5sum: 968b69709e33e3f53d23fd2fceb3ee17
+SHA1: 12d119d3ebce2eac42700f87f1007bb2f51e67a1
+SHA256: 0838a4886d3a0cb6a8707703ab17676fe113269a4e8bd073220e21c692ac1d13
 Section: Utilities
 Description: Develop your own tweaks and share them on the Flex Community Cloud.
 Author: John Coates
