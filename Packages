@@ -17,14 +17,14 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
 Package: zntxyu.A-Bypass
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, applist (>= 1.5.15)
-Filename: ./debs/zntxyu.A-Bypass_1.1_iphoneos-arm.deb
-Size: 55452
-MD5sum: 8e6b2b21a9ce2deb4e45b038eedfbe5f
-SHA1: ca97a437a8dfaef73cfee7252a6bb54b8df6976e
-SHA256: 8a22a4fc6bb7a1fbea23906946c1ff88f5591c536a71a7a4f8445d45da6dca3f
+Depends: mobilesubstrate, applist (>= 1.5.15), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
+Filename: ./debs/zntxyu.A-Bypass_1.1.1_iphoneos-arm.deb
+Size: 59870
+MD5sum: 5a4f841c30be001a8f2c4ffbcf0baa22
+SHA1: a1ccd82d51d7b787843d339dcfea3b95131f7eb7
+SHA256: 57bd123413b96e5950b5268e06ea1e36b0500bac1eafe6b173e6b66bfe6eb7a7
 Section: Tweaks
 Description: Super Jailbreak detection bypass!
 Author: Baw Appie
