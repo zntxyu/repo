@@ -488,14 +488,14 @@ Author: Ivano Bilenchi
 Name: iCleaner Pro
 
 Package: zntxyuk.iOSHelper13
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyuk.iOSHelper13_1.0_iphoneos-arm.deb
-Size: 412668
-MD5sum: 9fed42014616b3d63f05998d7e41a549
-SHA1: b6408121b38c326837703e16b8b798f15394f939
-SHA256: e55375e7ea11167d89004c6d9efde55e07d2ebb3c9772a795cf989e27f280b86
+Filename: ./debs/zntxyuk.iOSHelper13_1.1_iphoneos-arm.deb
+Size: 415758
+MD5sum: 09410be82abb57b0d0f44220dacf1db4
+SHA1: 4cf327aef8cbe03129e3dac39318b28f38dfade2
+SHA256: 3aea6c11ab4796d5a3ae06dafe0142b2ec424fb5a2047b3ec19ba9c18fbe9ad2
 Section: System
 Description: System Multifunctional Definition Assistant.
 Author: iBreak
