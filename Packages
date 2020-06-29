@@ -359,6 +359,35 @@ Description: PowerlogHelperdFix.
 Author: Zntxyu
 Name: PowerlogHelperdFix
 
+Package: zntxyu.Shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
+Size: 249980
+MD5sum: d761652795a1fdfc5c0260c5825d3ae9
+SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
+SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
+Section: Tweaks
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Name: Shadow
+
+Package: zntxyu.Shadow.CN
+Version: 2.0.20
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Shadow.CN_2.0.20_iphoneos-arm.deb
+Size: 4718
+MD5sum: 49fe4515e4afb4dae72a0902577b1da3
+SHA1: e186fce44eb4550f4526619bebb9bf31e4fb9e09
+SHA256: a7bb292a877c4c52a95c1db20a7710375b450c969eebcfc3244f0622674d5e65
+Section: Localization
+Description: Shadow 简体中文包
+Author: Zntxyu
+Name: Shadow 简体中文包
+
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
 Architecture: iphoneos-arm
