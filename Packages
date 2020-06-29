@@ -516,15 +516,15 @@ Description: The first real iOS system cleaner & optimizer.
 Author: Ivano Bilenchi
 Name: iCleaner Pro
 
-Package: zntxyuk.iOSHelper13
+Package: zntxyu.iOSHelper13
 Version: 1.1
 Architecture: iphoneos-arm
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyuk.iOSHelper13_1.1_iphoneos-arm.deb
+Filename: ./debs/zntxyu.iOSHelper13_1.1_iphoneos-arm.deb
 Size: 415758
-MD5sum: 09410be82abb57b0d0f44220dacf1db4
-SHA1: 4cf327aef8cbe03129e3dac39318b28f38dfade2
-SHA256: 3aea6c11ab4796d5a3ae06dafe0142b2ec424fb5a2047b3ec19ba9c18fbe9ad2
+MD5sum: fef262b4689f20280cadbf6dccada4d2
+SHA1: b98c924d9611a1017b14f3e48ac3dcd1093b4c08
+SHA256: 08f470a8f2cc681a66dc414b6d3200ef3bab826961ecb7e168b3f319397bb8ae
 Section: System
 Description: System Multifunctional Definition Assistant.
 Author: iBreak
