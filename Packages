@@ -100,6 +100,21 @@ Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for ins
 Author: TIGI Software
 Name: Apps Manager
 
+Package: zntxyu.AutoLockCC
+Version: 0.1-3-1
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: ./debs/zntxyu.AutoLockCC_0.1-3-1_iphoneos-arm.deb
+Size: 24762
+MD5sum: 12a57e0570c02fc166211d94d05fa578
+SHA1: 5e4e7aa7d39b9aa3c447dbde4c1b88f4a8d4e4df
+SHA256: 408d76cf457830769e41bf7e06b70b712cf45b9a970752587c11f56dc70acdd1
+Section: Tweaks
+Description: Turn on / off Auto lock from the control center.
+Author: ichitaso
+Name: AutoLockToggle
+
 Package: zntxyu.Axon
 Version: 1.2
 Architecture: iphoneos-arm
@@ -129,20 +144,19 @@ Description: Enhance your control center on iOS13.
 Author: ATWiiks
 Name: BetterCCXI Fix
 
-Package: zntxyu.CCModules.Plus
-Version: 1.0
+Package: zntxyu.CCVPN
+Version: 1.0.4
 Architecture: iphoneos-arm
-Depends: firmware (>= 11), mobilesubstrate, com.opa334.ccsupport, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/zntxyu.CCModules.Plus_1.0_iphoneos-arm.deb
-Size: 1008184
-MD5sum: 7febe7f7806981e9d7de33a05692ff46
-SHA1: 51d2d8be87c627114cbbe792497f7844d5041528
-SHA256: 9423f0d2da148b3125277c83c84ca67cfe5f2c372c875a3ce0b34b837b1d461c
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/zntxyu.CCVPN_1.0.4_iphoneos-arm.deb
+Size: 10788
+MD5sum: 4a64fef653f0e0e1f050193bec618b12
+SHA1: 672d4cee4a3bf7cf6bcf4b176a4abe4ea9f854fd
+SHA256: 853a7c3167f9f5e24b7657357068d481d9baed2e638e39f6aaf7c76900fb20f3
 Section: Tweaks
-Description: CCModules Plus
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Zntxyu
-Name: CCModules Plus
+Description: A Control Center Module to connect/disconnect VPN.
+Author: KingPuffdaddi
+Name: CCVPN
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
