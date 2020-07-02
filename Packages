@@ -100,20 +100,6 @@ Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for ins
 Author: TIGI Software
 Name: Apps Manager
 
-Package: zntxyu.Assistant13
-Version: 1.3.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Assistant13_1.3.1_iphoneos-arm.deb
-Size: 74514
-MD5sum: 3de5896279eae7f7e9721c93ef92278c
-SHA1: bb3c48130cc8f594e49c9606a7d745412f880a0f
-SHA256: 162aa1bbc34ae66c2bc9164e0553f2b4c549ac4102b5ef91ba05cecfeb7f5f7a
-Section: Tweaks
-Description: Assistant13.
-Author: lzsxcl
-Name: Assistant13
-
 Package: zntxyu.Axon
 Version: 1.2
 Architecture: iphoneos-arm
@@ -134,10 +120,10 @@ Version: 1.6.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Filename: ./debs/zntxyu.BetterCCxi.Fix_1.6.0_iphoneos-arm.deb
-Size: 142632
-MD5sum: ae0d3933b505df591384cb4a43fea215
-SHA1: 9c7fa59fbdc0db0a71ecaceaddd14b8d8c85f9dc
-SHA256: 7ed8ff0deeeba9e01e06c9997c6322ef082ca5d5408669f1f036e019e8aabf24
+Size: 157928
+MD5sum: 7ace028e02460a06ce486d18809a3d42
+SHA1: b6dff1f26388d9880d61ca65042ba958c613c6a5
+SHA256: ec8dd0f5519d93d69f9677762ec8e27ae7573dec242598a72d071cd30cb887b2
 Section: Tweaks
 Description: Enhance your control center on iOS13.
 Author: ATWiiks
@@ -172,19 +158,19 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
-Package: zntxyu.Cowbell
+Package: zntxyu.CowBell
 Version: 1.2.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Cowbell_1.2.2_iphoneos-arm.deb
-Size: 9440
-MD5sum: 0886280bbbd925e40e79d882ab88badf
-SHA1: dde1880a2faccaa5a0e905f5a67c0b718fae52e7
-SHA256: a150bc7609aba4efe3697ee5e6bd191bb10d669239965a8fc7e90987f27620f8
+Filename: ./debs/zntxyu.CowBell_1.2.2_iphoneos-arm.deb
+Size: 9442
+MD5sum: 2fe60245c813bb7b13b16fdaa0c9236c
+SHA1: 2d69bd78dbbef31dfb13a98df8e90756341b6e49
+SHA256: 0bf889d038c8beb77c2b5a410ceb6577bd5be0ec789bc468908478c17b602e5a
 Section: Tweaks
 Description: 在控制中心为省电模块添加当前电量百分比。
 Author: LaughingQuoll
-Name: Cowbell
+Name: CowBell
 
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
@@ -358,6 +344,20 @@ Section: System
 Description: PowerlogHelperdFix.
 Author: Zntxyu
 Name: PowerlogHelperdFix
+
+Package: zntxyu.RealDisable
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.RealDisable_0.0.1-1_iphoneos-arm.deb
+Size: 10732
+MD5sum: fd2058edd7b0da551c2679899f83717f
+SHA1: f748787062730b1b20ebccd5e5adf8273f4b32ed
+SHA256: 03b07902375b85869249d5c74ae04360ad688da214ff71ea2e6bf1a7fa5c8dd3
+Section: Tweaks
+Description: 从控制中心直接关闭蓝牙或者WiFi，兼容iOS12-13系统。
+Author: Synth0S
+Name: RealDisable
 
 Package: zntxyu.Shadow
 Version: 2.0.20
