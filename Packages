@@ -129,6 +129,20 @@ Description: Priority Hub for iOS 11/12/13.
 Author: Nepeta & Baw Appie
 Name: Axon
 
+Package: zntxyu.BetterCCxi.Fix
+Version: 1.6.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/zntxyu.BetterCCxi.Fix_1.6.0_iphoneos-arm.deb
+Size: 142632
+MD5sum: ae0d3933b505df591384cb4a43fea215
+SHA1: 9c7fa59fbdc0db0a71ecaceaddd14b8d8c85f9dc
+SHA256: 7ed8ff0deeeba9e01e06c9997c6322ef082ca5d5408669f1f036e019e8aabf24
+Section: Tweaks
+Description: Enhance your control center on iOS13.
+Author: ATWiiks
+Name: BetterCCXI Fix
+
 Package: zntxyu.CCModules.Plus
 Version: 1.0
 Architecture: iphoneos-arm
@@ -157,6 +171,20 @@ Section: Tweaks
 Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
+
+Package: zntxyu.Cowbell
+Version: 1.2.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Cowbell_1.2.2_iphoneos-arm.deb
+Size: 9440
+MD5sum: 0886280bbbd925e40e79d882ab88badf
+SHA1: dde1880a2faccaa5a0e905f5a67c0b718fae52e7
+SHA256: a150bc7609aba4efe3697ee5e6bd191bb10d669239965a8fc7e90987f27620f8
+Section: Tweaks
+Description: 在控制中心为省电模块添加当前电量百分比。
+Author: LaughingQuoll
+Name: Cowbell
 
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
@@ -402,6 +430,20 @@ Section: Tweaks
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: subdiox
 Name: StoreSwitcher 2
+
+Package: zntxyu.SugarCane
+Version: 1.1-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.SugarCane_1.1-2_iphoneos-arm.deb
+Size: 11984
+MD5sum: b88f18ecf92160b9961361a5e25650c6
+SHA1: bcd84d957e8b9a2d473dd69470c85fdf8a229777
+SHA256: f0cd864baafe4ef174d842b4cbc9db3a1f0f934326244032688e93332ae8bc38
+Section: Tweaks
+Description: 在控制中心为亮度和音量模块添加当前电量百分比。
+Author: iOS Creatix
+Name: SugarCane
 
 Package: zntxyu.System.Info
 Version: 2.7.2-1
