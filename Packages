@@ -44,14 +44,14 @@ Author: Zntxyu
 Name: AirPods EQE Presets
 
 Package: zntxyu.AppData
-Version: 1.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/zntxyu.AppData_1.0_iphoneos-arm.deb
-Size: 126128
-MD5sum: 7044f30aac92eed8d5bb5f61bacc3732
-SHA1: 4d1efa82e68cafc4f09a0239263cf9112ae66624
-SHA256: e3cfd7689770f4fa4e1f92502ebcbb5548c8e1ed3b7f8e36844cc6732b743aad
+Filename: ./debs/zntxyu.AppData_1.0.2_iphoneos-arm(1).deb
+Size: 126132
+MD5sum: 10f3e5dea93214af27c1c4210282f13d
+SHA1: 90e46c9318751fe39e4e58809a8ed052bdbc3f36
+SHA256: 137006e2e409090ab33caf9a2c4a4111be3b440bbbd6d41b18467ad887782edc
 Section: Tweaks
 Description: View & Access Applications Data from Home Screen.
 Author: Fouad Raheb
@@ -69,6 +69,21 @@ SHA1: 17f81b2eed8d35b05e5ca9f499c7cbbf493ab8b8
 SHA256: 614379575afe7ae34c5f687fdb6a855c61613c5be729f7a0a456b49f93fadf9c
 Section: Tweaks
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5.
+Author: CokePokes
+Name: AppStore++
+
+Package: zntxyu.AppStore++
+Version: 0.9.12
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/zntxyu.AppStore++_0.9.12_iphoneos-arm.deb
+Size: 616634
+MD5sum: 2e87f070081f4091c1715b5bbc7f9f2a
+SHA1: 11162e3df8dce7e1df909764f29b3fd045033dee
+SHA256: cc69d3a460be9297dd79bc3dc5ab70714830571abfef3639424620ae8998ecdb
+Section: Tweaks
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
 Author: CokePokes
 Name: AppStore++
 
