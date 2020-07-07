@@ -47,7 +47,7 @@ Package: zntxyu.AppData
 Version: 1.0.2
 Architecture: iphoneos-arm
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/zntxyu.AppData_1.0.2_iphoneos-arm(1).deb
+Filename: ./debs/zntxyu.AppData_1.0.2_iphoneos-arm.deb
 Size: 126132
 MD5sum: 10f3e5dea93214af27c1c4210282f13d
 SHA1: 90e46c9318751fe39e4e58809a8ed052bdbc3f36
