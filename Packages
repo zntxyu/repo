@@ -130,16 +130,17 @@ Author: TIGI Software
 Name: Apps Manager
 
 Package: zntxyu.Assistant13
-Version: 1.3.1
+Version: 1.2.3.1
 Architecture: iphoneos-arm
+Maintainer: lzsxcl
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Assistant13_1.3.1_iphoneos-arm.deb
-Size: 74514
-MD5sum: 3de5896279eae7f7e9721c93ef92278c
-SHA1: bb3c48130cc8f594e49c9606a7d745412f880a0f
-SHA256: 162aa1bbc34ae66c2bc9164e0553f2b4c549ac4102b5ef91ba05cecfeb7f5f7a
+Filename: ./debs/zntxyu.Assistant13_1.2.3.1_iphoneos-arm.deb
+Size: 58300
+MD5sum: 57b50b15d13126fb242056e757d804e2
+SHA1: c3873a22da82c2d8bb603aa80ad974e110fa87c9
+SHA256: 24a01fac9cbdb1b27d8fe2136d3a4d90d8dd9f289b3d2286fe692bcd3779536c
 Section: Tweaks
-Description: Assistant13.
+Description: 可能是ios13最好用的手势。Assistant13 靓仔瘦出品 全新微信防误触手势，ipad状态栏全方位自定义，全新状态栏校正方案，系统多功能调整，以及能自定义的锁屏快捷方式。
 Author: lzsxcl
 Name: Assistant13
 
