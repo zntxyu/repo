@@ -317,6 +317,20 @@ Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
 
+Package: zntxyu.Instagram.No.Ads
+Version: 0.0.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/zntxyu.Instagram.No.Ads_0.0.2_iphoneos-arm.deb
+Size: 6242
+MD5sum: 48bba7001e09356e5fcacd64c0345985
+SHA1: 2e1c8a643cb1fd72c82989984bba8afa3484a183
+SHA256: 939ff40ebdbd25961afb72d728a326707efb885a5ba4dd0a4525020beb24cc1d
+Section: Tweaks
+Description: Hide Ads on Instagram.(News Feed and Story)
+Author: Hao Nguyen
+Name: Instagram No Ads
+
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -500,6 +514,20 @@ Section: Localization
 Description: SystemInfo 简体中文包
 Author: Zntxyu
 Name: SystemInfo 简体中文包
+
+Package: zntxyu.Twitter.No.Ads
+Version: 0.0.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/zntxyu.Twitter.No.Ads_0.0.2_iphoneos-arm.deb
+Size: 5114
+MD5sum: 37713a2b9894d281fc9c8fd47dc4ad6e
+SHA1: 31c1a4d978a401e3e8a5c838a9ad04a537e0de0f
+SHA256: 122ef7c8c1c77c16f21773391cea42474397323ac455c764271fe7643107317b
+Section: Tweaks
+Description: Hide "Promoted" post for Twitter.
+Author: Hao Nguyen
+Name: Twitter No Ads
 
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
