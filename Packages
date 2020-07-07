@@ -303,6 +303,20 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
+Package: zntxyu.HideSeparator
+Version: 1.9.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.HideSeparator_1.9.1_iphoneos-arm.deb
+Size: 12790
+MD5sum: 5ae7cb7f88e6a711c828fa7d874c777d
+SHA1: c033b0c618e9f51e3ae8a9524a222916e91b1f58
+SHA256: 79a9833495cdac395cc9a2d04dd5cab8f838148f0dd0dffae62532c5c3361ce3
+Section: Tweaks
+Description: Hide system-wide separator (including third-party Apps)
+Author: iBreak
+Name: Hide Separator
+
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
