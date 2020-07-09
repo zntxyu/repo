@@ -16,23 +16,6 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
-Package: ru.rejail.IconTweak
-Version: 1.0.9k
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer, org.ioshack.icontool
-Replaces: com.ichitaso.icontweak
-Filename: ./debs/ru.rejail.IconTweak_1.0.9k_iphoneos-arm.deb
-Size: 170004
-MD5sum: 0bc87ac709e7518bac1d371d3f263598
-SHA1: 43648f66b1e5a4892bdbc8a0a21db6470ea207ac
-SHA256: 268abde5b721c7c387042ad5a4a8718bb4652f89c14172c25f594f928e606aff
-Section: Tweaks
-Description: Swipe icons to show control menu and more!
-Author: ichitaso
-Icon: file:///Library/PreferenceBundles/IconTweakSettings.bundle/icon@2x.png
-Name: IconTweak
-
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
