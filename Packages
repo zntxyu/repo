@@ -44,33 +44,18 @@ Author: Zntxyu
 Name: AirPods EQE Presets
 
 Package: zntxyu.AppData
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/zntxyu.AppData_1.0.2_iphoneos-arm.deb
-Size: 126132
-MD5sum: 10f3e5dea93214af27c1c4210282f13d
-SHA1: 90e46c9318751fe39e4e58809a8ed052bdbc3f36
-SHA256: 137006e2e409090ab33caf9a2c4a4111be3b440bbbd6d41b18467ad887782edc
+Filename: ./debs/zntxyu.AppData_1.1_iphoneos-arm.deb
+Size: 167600
+MD5sum: ead08a3a4ea3da5a1c13299f469e6037
+SHA1: 10beaf4fbc0e6e55c1a85f403c50aef9f4731c92
+SHA256: 9896b982e5f3a55ec8d44a4355c4c68a4d7258c0e152c7130b87bc793437b675
 Section: Tweaks
-Description: View & Access Applications Data from Home Screen.
+Description: 桌面上滑图标或3D长按选择即可唤出桌面应用快捷工具，类似IconTool，已由Ball完整汉化。
 Author: Fouad Raheb
-Name: AppData CN
-
-Package: zntxyu.AppStore++
-Version: 0.9.11
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/zntxyu.AppStore++_0.9.11_iphoneos-arm.deb
-Size: 612698
-MD5sum: 9a6b8f056ce572d9f968399777e49638
-SHA1: 17f81b2eed8d35b05e5ca9f499c7cbbf493ab8b8
-SHA256: 614379575afe7ae34c5f687fdb6a855c61613c5be729f7a0a456b49f93fadf9c
-Section: Tweaks
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5.
-Author: CokePokes
-Name: AppStore++
+Name: AppData
 
 Package: zntxyu.AppStore++
 Version: 0.9.12
@@ -414,6 +399,21 @@ Section: Tweaks
 Description: 从控制中心直接关闭蓝牙或者WiFi，兼容iOS12-13系统。
 Author: Synth0S
 Name: RealDisable
+
+Package: zntxyu.SelectorPro
+Version: 1.3.6
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkcolourpicker, firmware (>= 11.0)
+Conflicts: me.nepeta.selector, com.hk.halo-michael.selector, com.hk.selector.cn, com.hk.selector
+Filename: ./debs/zntxyu.SelectorPro_1.3.6_iphoneos-arm.deb
+Size: 100022
+MD5sum: be2d6968523fcaf19ca323de549600aa
+SHA1: eefef0b4df8799ab2ba77539d125786dc40dd153
+SHA256: ea6d8807ae536d1124d098c88e04b2dbb9c9ccc9fcce16a02326cecb44f5540f
+Section: Tweaks
+Description: 选择要搜索或翻译的文本，即时翻译。
+Author: Sky Pain
+Name: Selector Pro
 
 Package: zntxyu.Shadow
 Version: 2.0.20
