@@ -134,10 +134,10 @@ Version: 1.6.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Filename: ./debs/zntxyu.BetterCCxi.Fix_1.6.0_iphoneos-arm.deb
-Size: 157928
-MD5sum: 7ace028e02460a06ce486d18809a3d42
-SHA1: b6dff1f26388d9880d61ca65042ba958c613c6a5
-SHA256: ec8dd0f5519d93d69f9677762ec8e27ae7573dec242598a72d071cd30cb887b2
+Size: 158432
+MD5sum: 54a965e23802ce2091d7de8cd6118f7f
+SHA1: d4550cf3d26f3ba980f84c56cc793a2e08e04cab
+SHA256: 69a955964bd9db68ecdc1d7ec5dc9852469fe625801723d822f859349434a22e
 Section: Tweaks
 Description: Enhance your control center on iOS13.
 Author: ATWiiks
