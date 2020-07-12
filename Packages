@@ -589,12 +589,12 @@ Package: zntxyu.Veexillum
 Version: 2.0.0
 Architecture: iphoneos-arm
 Filename: ./debs/zntxyu.Veexillum_2.0.0_iphoneos-arm.deb
-Size: 39149126
-MD5sum: ac260f421686b5471c495209f0c4f804
-SHA1: 2a1992a2c00d3f38835ee3ec92d38309255803ea
-SHA256: 4224b3dd4c8ec7c16cf44608e10ab85d68bebc7172e530da84b10ad7d713491b
+Size: 39138070
+MD5sum: 09b263f66cbc5a388576a77b598dcf35
+SHA1: 58c9728ae98f89812b76ab36abb10afc83cdcb26
+SHA256: 09fcddd4452b7dc2026a7fb33503962a4fe85eb3d8ca3ce87fdd89198136ae57
 Section: Themes
-Description: Viola is a beautiful, simple & modern theme for iOS!
+Description: Veexillum is a beautiful, simple & modern theme for iOS!
 Author: XG
 Name: Veexillum
 
