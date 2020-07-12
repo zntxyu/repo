@@ -57,20 +57,6 @@ Description: Allow third-party keyboards to gain priority authority.
 Author: iBreak
 Name: Allow.KeyBoard
 
-Package: zntxyu.AppData
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/zntxyu.AppData_1.1_iphoneos-arm.deb
-Size: 167600
-MD5sum: ead08a3a4ea3da5a1c13299f469e6037
-SHA1: 10beaf4fbc0e6e55c1a85f403c50aef9f4731c92
-SHA256: 9896b982e5f3a55ec8d44a4355c4c68a4d7258c0e152c7130b87bc793437b675
-Section: Tweaks
-Description: 桌面上滑图标或3D长按选择即可唤出桌面应用快捷工具，类似IconTool，已由Ball完整汉化。
-Author: Fouad Raheb
-Name: AppData
-
 Package: zntxyu.AppStore++
 Version: 0.9.12
 Architecture: iphoneos-arm
@@ -128,20 +114,6 @@ Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for ins
 Author: TIGI Software
 Name: Apps Manager
 
-Package: zntxyu.Assistant13
-Version: 1.2.3.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Assistant13_1.2.3.1_iphoneos-arm.deb
-Size: 58248
-MD5sum: 4de447ae9f1c0a20bed5933dc30cf303
-SHA1: fd705640c951b0122ea7e13d8c8e4446d7fa5130
-SHA256: 7d12751296f875fd927cfd7692f4807047b3a9220fb216bc60adb06d0c3b87bd
-Section: Tweaks
-Description: 全新微信防误触手势，ipad状态栏全方位自定义，全新状态栏校正方案，系统多功能调整，以及能自定义的锁屏快捷方式。
-Author: lzsxcl
-Name: Assistant13
-
 Package: zntxyu.Axon
 Version: 1.2
 Architecture: iphoneos-arm
@@ -190,12 +162,12 @@ Version: 1.2.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.CowBell_1.2.2_iphoneos-arm.deb
-Size: 9442
-MD5sum: 2fe60245c813bb7b13b16fdaa0c9236c
-SHA1: 2d69bd78dbbef31dfb13a98df8e90756341b6e49
-SHA256: 0bf889d038c8beb77c2b5a410ceb6577bd5be0ec789bc468908478c17b602e5a
+Size: 9384
+MD5sum: dc55001596c8a721c409e93cf7056008
+SHA1: 440940e824a3026548e517e247dfdc03f5b3f942
+SHA256: 48b173b3746ac4cff288c2497f94722423702735736f514732d636d9856a7861
 Section: Tweaks
-Description: 在控制中心为省电模块添加当前电量百分比。
+Description: Make the low power module great again.
 Author: LaughingQuoll
 Name: CowBell
 
@@ -343,20 +315,6 @@ Section: Tweaks
 Description: Hide Ads on Instagram.(News Feed and Story)
 Author: Hao Nguyen
 Name: Instagram No Ads
-
-Package: zntxyu.Install.Percentage
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
-Size: 162470
-MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
-SHA1: 8108c77afe334c708eda19fa635ff6295491535c
-SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
-Section: System
-Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
-Author: Zntxyu
-Name: Install Percentage
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
@@ -640,4 +598,17 @@ Section: Utilities
 Description: The first real iOS system cleaner & optimizer.
 Author: Ivano Bilenchi
 Name: iCleaner Pro
+
+Package: zntxyu.iPadStatusBar13
+Version: 1.1.8
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.iPadStatusBar13_1.1.8_iphoneos-arm.deb
+Size: 31398
+MD5sum: 7f1d8157d7b8b9cac60fbded5c70060c
+SHA1: 2c4a18661af1f0ed1520feaba0e6937f06467325
+SHA256: 459a0ee01d30daad742af31df5d8af29a7ff80d3c474855a3174b6ab025695c7
+Section: Tweaks
+Description: Enables the iOS 13 iPad Statusbar on all devices.
+Author: HuroufTech
+Name: iPadStatusBar13
 
