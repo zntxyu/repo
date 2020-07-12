@@ -185,20 +185,6 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
-Package: zntxyu.CowBell
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.CowBell_1.2.2_iphoneos-arm.deb
-Size: 9442
-MD5sum: 2fe60245c813bb7b13b16fdaa0c9236c
-SHA1: 2d69bd78dbbef31dfb13a98df8e90756341b6e49
-SHA256: 0bf889d038c8beb77c2b5a410ceb6577bd5be0ec789bc468908478c17b602e5a
-Section: Tweaks
-Description: 在控制中心为省电模块添加当前电量百分比。
-Author: LaughingQuoll
-Name: CowBell
-
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
 Architecture: iphoneos-arm
