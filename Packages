@@ -134,10 +134,10 @@ Version: 1.6.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Filename: ./debs/zntxyu.BetterCCxi.Fix_1.6.0_iphoneos-arm.deb
-Size: 158432
-MD5sum: 54a965e23802ce2091d7de8cd6118f7f
-SHA1: d4550cf3d26f3ba980f84c56cc793a2e08e04cab
-SHA256: 69a955964bd9db68ecdc1d7ec5dc9852469fe625801723d822f859349434a22e
+Size: 158466
+MD5sum: fb0ee5c3f133de8c589581c342af4fa2
+SHA1: 6682610c87197f40a5eb3db62306a661b033205a
+SHA256: b39b63b22be955ff145036f337f38808556dfea3cd7075207dbb561333656560
 Section: Tweaks
 Description: Enhance your control center on iOS13.
 Author: ATWiiks
@@ -152,6 +152,20 @@ Size: 11864
 MD5sum: 0973746bfa40defbd072bdfb8f906eeb
 SHA1: 4517cc0269c30044ddc5ee5fd44ed5f409019281
 SHA256: 280f69f7dae9e5e22642f7eb824149e2b35ffcee246c331b9f7400aa72285562
+Section: Localization
+Description: BottomControlX 简体中文包
+Author: Zntxyu
+Name: BottomControlX 简体中文包
+
+Package: zntxyu.BottomControlX.CN
+Version: 1.3.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.BottomControlX.CN_1.3.3_iphoneos-arm.deb
+Size: 4096
+MD5sum: c3e22249d49228386b7ab8a5663d3bf2
+SHA1: 53f6b54a3faef6e499138ba42fd41dfe2bce2ff9
+SHA256: 118865e8b2f0d09c84c91ad364da4711803c6eaa45e42a74652241ae2535e577
 Section: Localization
 Description: BottomControlX 简体中文包
 Author: Zntxyu
@@ -219,10 +233,10 @@ Architecture: iphoneos-arm
 Pre-Depends: firmware (>= 9.0)
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debs/zntxyu.Eyeplugs_1.6.2_iphoneos-arm.deb
-Size: 56544
-MD5sum: 64529f2c6d64557474b59544e2ca080b
-SHA1: 8342c488448586db380ef60ee3b1f2886f9706d5
-SHA256: a448a0f6e2c16001aa35e99cbf223111058cb4c3fb475bd24c01d86c836a3c26
+Size: 56550
+MD5sum: 0934dabd35b1a7395e1bbe9c5950930f
+SHA1: 3375241f810ae0e4894d35906f2e257fda811526
+SHA256: 4e099f131ebc4e83e4afc32fd33f25c070f00efbaeffb1f16955cc2cfda7ae57
 Section: Tweaks
 Description: Suppress banners in apps.
 Author: Summer Triangle
@@ -420,10 +434,10 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkcolourpicker, firmware (>= 11.0)
 Conflicts: me.nepeta.selector, com.hk.halo-michael.selector, com.hk.selector.cn, com.hk.selector
 Filename: ./debs/zntxyu.SelectorPro_1.3.6_iphoneos-arm.deb
-Size: 99958
-MD5sum: cef8435d23b00eca08dcb75eaed976c6
-SHA1: ded5c606468c92582981e542edf56e0e9e7964c0
-SHA256: a03e782e3e742ef5408c04d5363cdf856a8ea945451c2d1486a1aa81d7ab72cd
+Size: 99982
+MD5sum: 9554292b786925068c3d0e16cbd714d3
+SHA1: f72210804d9a2a28e06451a69e4057d798a19a03
+SHA256: 4334401ab923beacd81338f7ae7f2106323f123f16d8859345675481291f38db
 Section: Tweaks
 Description: 选择要搜索或翻译的文本，即时翻译。
 Author: Sky Pain
@@ -432,31 +446,16 @@ Name: Selector Pro
 Package: zntxyu.Shadow
 Version: 2.0.20
 Architecture: iphoneos-arm
-Maintainer: jjolano <jjolano@me.com>
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
 Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
-Size: 249980
-MD5sum: d761652795a1fdfc5c0260c5825d3ae9
-SHA1: a2ef79c06895dbb80514505206dc9244a2fbbfb6
-SHA256: 038bf9b6331c13e8bdb9588836fe79dd4c929358cd67e034accb506e735fb707
+Size: 253238
+MD5sum: f2d51ca77d045cdfa272a224c960a4cf
+SHA1: 58305167c984e2437036908c2b8857577cacaebf
+SHA256: d2a018d694482a27f00ea1cd6de821aa14a35dccba57ae4eaa76c763c63948ab
 Section: Tweaks
 Description: A lightweight general jailbreak detection bypass.
-Author: jjolano <jjolano@me.com>
+Author: jjolano
 Name: Shadow
-
-Package: zntxyu.Shadow.CN
-Version: 2.0.20
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Shadow.CN_2.0.20_iphoneos-arm.deb
-Size: 4718
-MD5sum: 49fe4515e4afb4dae72a0902577b1da3
-SHA1: e186fce44eb4550f4526619bebb9bf31e4fb9e09
-SHA256: a7bb292a877c4c52a95c1db20a7710375b450c969eebcfc3244f0622674d5e65
-Section: Localization
-Description: Shadow 简体中文包
-Author: Zntxyu
-Name: Shadow 简体中文包
 
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
@@ -617,10 +616,10 @@ Package: zntxyu.iPadStatusBar13
 Version: 1.1.8
 Architecture: iphoneos-arm
 Filename: ./debs/zntxyu.iPadStatusBar13_1.1.8_iphoneos-arm.deb
-Size: 30868
-MD5sum: 88615d899eff00fc58adedce0c53a2e5
-SHA1: 1f6867b14c6126e408770fcc8ae038419b13ecf1
-SHA256: b500ea6176ae56140223f2561dd465548799701fe59f44081bf1d305ad06ec20
+Size: 30850
+MD5sum: d3e51e5b79108b9dbacf5d22331fb881
+SHA1: 2393a49c48a1d91025db6d7aa65d1767e505bd3b
+SHA256: 0accd9e6af6526e9d469663d1f68cfc35eb65185b9df022ba500c377596e9cdb
 Section: Tweaks
 Description: Enables the iOS 13 iPad Statusbar on all devices.
 Author: HuroufTech
