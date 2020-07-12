@@ -205,10 +205,10 @@ Architecture: iphoneos-arm
 Pre-Depends: firmware (>= 9.0)
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debs/zntxyu.Eyeplugs_1.6.2_iphoneos-arm.deb
-Size: 56546
-MD5sum: cf3092f85ef8fc12a3eecf68a9a01ae3
-SHA1: 644beb05b986199e724bf26a518c67dd95443d1c
-SHA256: f764c9f81208e50f17c8521994cc146f6ab4020922457e0eacb644f6bfac1132
+Size: 56544
+MD5sum: 64529f2c6d64557474b59544e2ca080b
+SHA1: 8342c488448586db380ef60ee3b1f2886f9706d5
+SHA256: a448a0f6e2c16001aa35e99cbf223111058cb4c3fb475bd24c01d86c836a3c26
 Section: Tweaks
 Description: Suppress banners in apps.
 Author: Summer Triangle
@@ -406,10 +406,10 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkcolourpicker, firmware (>= 11.0)
 Conflicts: me.nepeta.selector, com.hk.halo-michael.selector, com.hk.selector.cn, com.hk.selector
 Filename: ./debs/zntxyu.SelectorPro_1.3.6_iphoneos-arm.deb
-Size: 100022
-MD5sum: be2d6968523fcaf19ca323de549600aa
-SHA1: eefef0b4df8799ab2ba77539d125786dc40dd153
-SHA256: ea6d8807ae536d1124d098c88e04b2dbb9c9ccc9fcce16a02326cecb44f5540f
+Size: 99958
+MD5sum: cef8435d23b00eca08dcb75eaed976c6
+SHA1: ded5c606468c92582981e542edf56e0e9e7964c0
+SHA256: a03e782e3e742ef5408c04d5363cdf856a8ea945451c2d1486a1aa81d7ab72cd
 Section: Tweaks
 Description: 选择要搜索或翻译的文本，即时翻译。
 Author: Sky Pain
@@ -603,10 +603,10 @@ Package: zntxyu.iPadStatusBar13
 Version: 1.1.8
 Architecture: iphoneos-arm
 Filename: ./debs/zntxyu.iPadStatusBar13_1.1.8_iphoneos-arm.deb
-Size: 31398
-MD5sum: 7f1d8157d7b8b9cac60fbded5c70060c
-SHA1: 2c4a18661af1f0ed1520feaba0e6937f06467325
-SHA256: 459a0ee01d30daad742af31df5d8af29a7ff80d3c474855a3174b6ab025695c7
+Size: 30868
+MD5sum: 88615d899eff00fc58adedce0c53a2e5
+SHA1: 1f6867b14c6126e408770fcc8ae038419b13ecf1
+SHA256: b500ea6176ae56140223f2561dd465548799701fe59f44081bf1d305ad06ec20
 Section: Tweaks
 Description: Enables the iOS 13 iPad Statusbar on all devices.
 Author: HuroufTech
