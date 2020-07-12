@@ -43,6 +43,20 @@ Description: EQE presets.
 Author: Zntxyu
 Name: AirPods EQE Presets
 
+Package: zntxyu.Allow.KeyBoard
+Version: 1.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Allow.KeyBoard_1.5_iphoneos-arm.deb
+Size: 9096
+MD5sum: 706dedefa04e0591304100f4a7f04424
+SHA1: 38b2396fa136998928f9d70fe50037df91e9aec6
+SHA256: 39246d969ed6c5ab971c4328721f9623b74293ce0d5374d6f39f1d1a6c2351f7
+Section: System
+Description: Allow third-party keyboards to gain priority authority.
+Author: iBreak
+Name: Allow.KeyBoard
+
 Package: zntxyu.AppData
 Version: 1.1
 Architecture: iphoneos-arm
