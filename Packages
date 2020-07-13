@@ -171,6 +171,21 @@ Description: BottomControlX 简体中文包
 Author: Zntxyu
 Name: BottomControlX 简体中文包
 
+Package: zntxyu.CCLittle
+Version: 1.0.0
+Architecture: iphoneos-arm
+Pre-Depends: com.opa334.ccsupport
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/zntxyu.CCLittle_1.0.0_iphoneos-arm.deb
+Size: 60184
+MD5sum: 9fb21efc8fad6d3063d8c1c80b7298f4
+SHA1: 35292b073610ddffada0325824ac9c783c93dee8
+SHA256: 9f51971fd323ec19477735073b737afbda2856163528b218f1cf0d002d9b84ab
+Section: Tweaks
+Description: CCLittle.
+Author: Zntxyu
+Name: CCLittle
+
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
