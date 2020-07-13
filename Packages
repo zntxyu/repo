@@ -258,15 +258,15 @@ Author: Summer Triangle
 Name: Eyeplugs
 
 Package: zntxyu.Filza
-Version: 3.7.7-4
+Version: 3.7.7-16
 Architecture: iphoneos-arm
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/zntxyu.Filza_3.7.7-4_iphoneos-arm.deb
-Size: 13319988
-MD5sum: b9a7e88cf71e06b335fa79c0dbdc0a1e
-SHA1: 74c95dcf8e395085c68889c3db2593345cf2103b
-SHA256: 175f6fff535941b9cea0c08936b8a08ddcfcf8447eeef8986ad789b140d2d473
+Filename: ./debs/zntxyu.Filza_3.7.7-16_iphoneos-arm.deb
+Size: 13360238
+MD5sum: 72c2adfb8d4e2c86ce1f42871302781c
+SHA1: 12ac5349156bf0997256a5678eb15c6934bb7e23
+SHA256: be63ee229318af53f3372e62ba035399d46106f5dcdafd0cfcb21cdde16d685d
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
 Author: TIGI Software
