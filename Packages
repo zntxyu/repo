@@ -144,20 +144,6 @@ Author: ATWiiks
 Name: BetterCCXI Fix
 
 Package: zntxyu.BottomControlX.CN
-Version: 1.3.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.BottomControlX.CN_1.3.1_iphoneos-arm.deb
-Size: 11864
-MD5sum: 0973746bfa40defbd072bdfb8f906eeb
-SHA1: 4517cc0269c30044ddc5ee5fd44ed5f409019281
-SHA256: 280f69f7dae9e5e22642f7eb824149e2b35ffcee246c331b9f7400aa72285562
-Section: Localization
-Description: BottomControlX 简体中文包
-Author: Zntxyu
-Name: BottomControlX 简体中文包
-
-Package: zntxyu.BottomControlX.CN
 Version: 1.3.3
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
