@@ -586,3 +586,16 @@ Description: The first real iOS system cleaner & optimizer.
 Author: Ivano Bilenchi
 Name: iCleaner Pro
 
+Package: zntxyu.iPadStatusBar13
+Version: 1.1.8
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.iPadStatusBar13_1.1.8_iphoneos-arm.deb
+Size: 30850
+MD5sum: d3e51e5b79108b9dbacf5d22331fb881
+SHA1: 2393a49c48a1d91025db6d7aa65d1767e505bd3b
+SHA256: 0accd9e6af6526e9d469663d1f68cfc35eb65185b9df022ba500c377596e9cdb
+Section: Tweaks
+Description: Enables the iOS 13 iPad Statusbar on all devices.
+Author: HuroufTech
+Name: iPadStatusBar13
+
