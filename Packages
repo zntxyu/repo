@@ -157,20 +157,20 @@ Description: BottomControlX 简体中文包
 Author: Zntxyu
 Name: BottomControlX 简体中文包
 
-Package: zntxyu.CCLittle
+Package: zntxyu.CCLock
 Version: 1.0.0
 Architecture: iphoneos-arm
 Pre-Depends: com.opa334.ccsupport
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/zntxyu.CCLittle_1.0.0_iphoneos-arm.deb
-Size: 60184
-MD5sum: 9fb21efc8fad6d3063d8c1c80b7298f4
-SHA1: 35292b073610ddffada0325824ac9c783c93dee8
-SHA256: 9f51971fd323ec19477735073b737afbda2856163528b218f1cf0d002d9b84ab
+Filename: ./debs/zntxyu.CCLock_1.0.0_iphoneos-arm.deb
+Size: 17020
+MD5sum: 393eb2a5e4bd561a5f80e3207aebb454
+SHA1: 8da8c4ebd0945ae238462dffe51ea99e275b75c3
+SHA256: 518c36509da0b5fa23b09a0836f9c4c17cc02819aa23aa5567da277d92ef5bd3
 Section: Tweaks
-Description: CCLittle.
+Description: CCLock.
 Author: Zntxyu
-Name: CCLittle
+Name: CCLock
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
@@ -185,20 +185,6 @@ Section: Tweaks
 Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
-
-Package: zntxyu.CowBell
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.CowBell_1.2.2_iphoneos-arm.deb
-Size: 9384
-MD5sum: dc55001596c8a721c409e93cf7056008
-SHA1: 440940e824a3026548e517e247dfdc03f5b3f942
-SHA256: 48b173b3746ac4cff288c2497f94722423702735736f514732d636d9856a7861
-Section: Tweaks
-Description: Make the low power module great again.
-Author: LaughingQuoll
-Name: CowBell
 
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
@@ -599,17 +585,4 @@ Section: Utilities
 Description: The first real iOS system cleaner & optimizer.
 Author: Ivano Bilenchi
 Name: iCleaner Pro
-
-Package: zntxyu.iPadStatusBar13
-Version: 1.1.8
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.iPadStatusBar13_1.1.8_iphoneos-arm.deb
-Size: 30850
-MD5sum: d3e51e5b79108b9dbacf5d22331fb881
-SHA1: 2393a49c48a1d91025db6d7aa65d1767e505bd3b
-SHA256: 0accd9e6af6526e9d469663d1f68cfc35eb65185b9df022ba500c377596e9cdb
-Section: Tweaks
-Description: Enables the iOS 13 iPad Statusbar on all devices.
-Author: HuroufTech
-Name: iPadStatusBar13
 
