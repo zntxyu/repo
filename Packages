@@ -289,6 +289,21 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
+Package: zntxyu.Gesturesi11
+Version: 3.5.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debs/zntxyu.Gesturesi11_3.5.2_iphoneos-arm.deb
+Size: 32700
+MD5sum: cfd5cb39713bf85e9fa92d1031eedac8
+SHA1: 2668ed3da505b146197520b425b3080fe9ffd2b7
+SHA256: 4380263eef7d27028a5a4e7ec4790623a5b6b85de2729051cab7af4009b2501d
+Section: Tweaks
+Priority: optional
+Description: iPhone 11 gestures and other options.
+Author: Hius
+Name: Gesturesi11
+
 Package: zntxyu.HideSeparator
 Version: 1.9.1
 Architecture: iphoneos-arm
