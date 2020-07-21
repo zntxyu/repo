@@ -338,10 +338,10 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
 Conflicts: com.cemck.killx
 Filename: ./debs/zntxyu.KillX-pro_2.1.2_iphoneos-arm.deb
-Size: 229942
-MD5sum: 808abbe2dc8fa498e635d131743bd823
-SHA1: e37c84f2acee1a9e26975da9fc2cf499d72afb56
-SHA256: 8f140499eae8cf4ee8000f2e7bdd0b4187c64a0ccdff464af91ffdbaff666aeb
+Size: 230104
+MD5sum: 92b1e9096a1f52860004eb2c0f9183f1
+SHA1: 3f3e7746013596e837c0b0abe13eddc5e3816e9f
+SHA256: 88cf0f92a8c6386d6a11e69df714854a67034d7b3b21eeaa03772cb0bb7a4bca
 Section: Tweaks
 Description: One swipe to kill them all!
 Author: cemck
