@@ -16,6 +16,20 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
+Package: zntxyu.3DTools.CN
+Version: 1.0.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.3DTools.CN_1.0.5_iphoneos-arm.deb
+Size: 2254
+MD5sum: f461f5b04b0480d092de840515f949d7
+SHA1: f1cf22ad8823ea3d0fe523af48b5dcad6df5a5df
+SHA256: c8981af37838bb80511be6c27dd1bead54468e39af60482e82149e5d16c3204f
+Section: Localization
+Description: 3DTools 简体中文包
+Author: Zntxyu
+Name: 3DTools 简体中文包
+
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -120,10 +134,10 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
 Filename: ./debs/zntxyu.Axon_1.2_iphoneos-arm.deb
-Size: 197598
-MD5sum: b235455b86213a2939e96ca737b09df0
-SHA1: 7beb827b02a26f3d5da85846f6b6cfa51845603a
-SHA256: f0f27f0b9fea6b7d180956e04807533227ed4f89dc6447bd8db194d9aa832b52
+Size: 198156
+MD5sum: fcaa5761a5acc920eb5ce8dfdb242146
+SHA1: 080120f28dba39a9c7a8d7aceabf92a230bf5887
+SHA256: 616ae50d20a1251264e245358678d6a1e3100b15fa2b2395e46058be11c28bed
 Section: Tweaks
 Description: Priority Hub for iOS 11/12/13.
 Author: Nepeta & Baw Appie
@@ -214,21 +228,6 @@ Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Name: CyDown
 
-Package: zntxyu.Eyeplugs
-Version: 1.6.2
-Architecture: iphoneos-arm
-Pre-Depends: firmware (>= 9.0)
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/zntxyu.Eyeplugs_1.6.2_iphoneos-arm.deb
-Size: 56550
-MD5sum: 0934dabd35b1a7395e1bbe9c5950930f
-SHA1: 3375241f810ae0e4894d35906f2e257fda811526
-SHA256: 4e099f131ebc4e83e4afc32fd33f25c070f00efbaeffb1f16955cc2cfda7ae57
-Section: Tweaks
-Description: Suppress banners in apps.
-Author: Summer Triangle
-Name: Eyeplugs
-
 Package: zntxyu.Filza
 Version: 3.7.7-16
 Architecture: iphoneos-arm
@@ -304,20 +303,6 @@ Description: iPhone 11 gestures and other options.
 Author: Hius
 Name: Gesturesi11
 
-Package: zntxyu.HideSeparator
-Version: 1.9.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.HideSeparator_1.9.1_iphoneos-arm.deb
-Size: 12790
-MD5sum: 5ae7cb7f88e6a711c828fa7d874c777d
-SHA1: c033b0c618e9f51e3ae8a9524a222916e91b1f58
-SHA256: 79a9833495cdac395cc9a2d04dd5cab8f838148f0dd0dffae62532c5c3361ce3
-Section: Tweaks
-Description: Hide system-wide separator (including third-party Apps)
-Author: iBreak
-Name: Hide Separator
-
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -338,10 +323,10 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
 Conflicts: com.cemck.killx
 Filename: ./debs/zntxyu.KillX-pro_2.1.2_iphoneos-arm.deb
-Size: 230104
-MD5sum: 92b1e9096a1f52860004eb2c0f9183f1
-SHA1: 3f3e7746013596e837c0b0abe13eddc5e3816e9f
-SHA256: 88cf0f92a8c6386d6a11e69df714854a67034d7b3b21eeaa03772cb0bb7a4bca
+Size: 230150
+MD5sum: dc3d079782848e857d449dc0e2436505
+SHA1: ce18fd36e4e46189fed4b5bd49d93a8e85720fc9
+SHA256: 88718ffc3713d511a135ea3823a47efa6cf924f7f8d80a67899517ce3d4480da
 Section: Tweaks
 Description: One swipe to kill them all!
 Author: cemck
@@ -563,15 +548,30 @@ Version: 1.0.6.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
 Filename: ./debs/zntxyu.Vinyl_1.0.6.1-1_iphoneos-arm.deb
-Size: 335698
-MD5sum: 07a460aa9dd02b65976630c9cffee1f7
-SHA1: de4290546c1e1d47a0dd638ca33d1746fe4e8a68
-SHA256: 314c88f78f35425b9aa48e9c9032f04d21438f0fab26a73a896c7ce13658099c
+Size: 335680
+MD5sum: fed85d509525b2c48270d1ac377f0a53
+SHA1: 5dc054aab32fddeb4f989295b3468f62ac4fa839
+SHA256: cb0b6bd8376bd4e386d614427754de4438ad0c8c1f13712d52a62e5a207ae02b
 Section: Tweaks
 Priority: optional
 Description: A simplified look for the lockscreen music player!
 Author: Lightmann
 Name: Vinyl
+
+Package: zntxyu.Voltage
+Version: 1.6.2
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/zntxyu.Voltage_1.6.2_iphoneos-arm.deb
+Size: 56558
+MD5sum: c198300f67b74c97e4533b7f69fc9efd
+SHA1: 1e31153141213a489c440b26464da5799c4ed9a8
+SHA256: e01e365b245ffd6a21d9b3b4f0d4156c55d1cc02d0d5279156f0e98ce7641718
+Section: Tweaks
+Description: Suppress banners in apps.
+Author: Summer Triangle
+Name: Eyeplugs
 
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
@@ -620,10 +620,10 @@ Package: zntxyu.iPadStatusBar13
 Version: 1.1.8
 Architecture: iphoneos-arm
 Filename: ./debs/zntxyu.iPadStatusBar13_1.1.8_iphoneos-arm.deb
-Size: 30850
-MD5sum: d3e51e5b79108b9dbacf5d22331fb881
-SHA1: 2393a49c48a1d91025db6d7aa65d1767e505bd3b
-SHA256: 0accd9e6af6526e9d469663d1f68cfc35eb65185b9df022ba500c377596e9cdb
+Size: 30878
+MD5sum: d002d1c3acd7ca744b1b68fa76ab3450
+SHA1: f6066fdd7466dd8763800512ab37fc70771f83d3
+SHA256: 79659bfd716a56e993f7f435bbbb540ef4e7ff5ee4b8c6f368431a74861d9919
 Section: Tweaks
 Description: Enables the iOS 13 iPad Statusbar on all devices.
 Author: HuroufTech
