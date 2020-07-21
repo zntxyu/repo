@@ -332,6 +332,21 @@ Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
 
+Package: zntxyu.KillX-pro
+Version: 2.1.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
+Conflicts: com.cemck.killx
+Filename: ./debs/zntxyu.KillX-pro_2.1.2_iphoneos-arm.deb
+Size: 229942
+MD5sum: 808abbe2dc8fa498e635d131743bd823
+SHA1: e37c84f2acee1a9e26975da9fc2cf499d72afb56
+SHA256: 8f140499eae8cf4ee8000f2e7bdd0b4187c64a0ccdff464af91ffdbaff666aeb
+Section: Tweaks
+Description: One swipe to kill them all!
+Author: cemck
+Name: KillX Pro
+
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -548,10 +563,10 @@ Version: 1.0.6.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
 Filename: ./debs/zntxyu.Vinyl_1.0.6.1-1_iphoneos-arm.deb
-Size: 335712
-MD5sum: 241202a74b96764f59a192be616da9c5
-SHA1: 1c13d2401223936673cdac55671b89976848ff8b
-SHA256: c185943789a4afe1ae7cd186a6915c991309025c8cc7b5c8338b0c8ec7fbd694
+Size: 335698
+MD5sum: 07a460aa9dd02b65976630c9cffee1f7
+SHA1: de4290546c1e1d47a0dd638ca33d1746fe4e8a68
+SHA256: 314c88f78f35425b9aa48e9c9032f04d21438f0fab26a73a896c7ce13658099c
 Section: Tweaks
 Priority: optional
 Description: A simplified look for the lockscreen music player!
