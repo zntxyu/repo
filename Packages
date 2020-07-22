@@ -544,14 +544,14 @@ Author: XG
 Name: Veexillum
 
 Package: zntxyu.Vinyl
-Version: 1.0.6.1-1
+Version: 1.0.7.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debs/zntxyu.Vinyl_1.0.6.1-1_iphoneos-arm.deb
-Size: 335680
-MD5sum: fed85d509525b2c48270d1ac377f0a53
-SHA1: 5dc054aab32fddeb4f989295b3468f62ac4fa839
-SHA256: cb0b6bd8376bd4e386d614427754de4438ad0c8c1f13712d52a62e5a207ae02b
+Filename: ./debs/zntxyu.Vinyl_1.0.7.2_iphoneos-arm.deb
+Size: 352900
+MD5sum: 82efeeb0a8c61fe0e5592fdbb996c233
+SHA1: 5228d09a5700324520592ed223bc562420901b60
+SHA256: e80c7b240ef4a00a987a532d7ef814781b006111755050498539b9f295f21128
 Section: Tweaks
 Priority: optional
 Description: A simplified look for the lockscreen music player!
