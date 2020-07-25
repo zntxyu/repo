@@ -129,18 +129,18 @@ Author: TIGI Software
 Name: Apps Manager
 
 Package: zntxyu.Axon
-Version: 1.2
+Version: 2.0.0
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 11.0)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debs/zntxyu.Axon_1.2_iphoneos-arm.deb
-Size: 198156
-MD5sum: fcaa5761a5acc920eb5ce8dfdb242146
-SHA1: 080120f28dba39a9c7a8d7aceabf92a230bf5887
-SHA256: 616ae50d20a1251264e245358678d6a1e3100b15fa2b2395e46058be11c28bed
+Filename: ./debs/zntxyu.Axon_2.0.0_iphoneos-arm.deb
+Size: 194096
+MD5sum: 514b709cc38822ae881c18d307fa1253
+SHA1: d075ec5375cc7618883bcdca61e8134340ada8c3
+SHA256: 7b95590807bef99cdce1da96a5d92410ba1d723b318259ef2030a0c9afec8857
 Section: Tweaks
 Description: Priority Hub for iOS 11/12/13.
-Author: Nepeta & Baw Appie
+Author: Nepeta
 Name: Axon
 
 Package: zntxyu.BetterCCxi.Fix
