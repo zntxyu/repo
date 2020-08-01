@@ -229,15 +229,15 @@ Author: julioverne
 Name: CyDown
 
 Package: zntxyu.Filza
-Version: 3.8.0-8
+Version: 3.8.0-16
 Architecture: iphoneos-arm
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/zntxyu.Filza_3.8.0-8_iphoneos-arm.deb
-Size: 14093874
-MD5sum: 2da5f41f51e4d980f7a8183bb42074ee
-SHA1: 6c1ed665d2c980d8dfcdcc6db972dcaa5e02ad30
-SHA256: 10ecebe00e78745ef242c2488d9d61da4b0e197a9b446edfa4640c874aefcd69
+Filename: ./debs/zntxyu.Filza_3.8.0-16_iphoneos-arm.deb
+Size: 13753088
+MD5sum: 6401f4f3002a05ea6f0d3d3630946a3d
+SHA1: 10c98b5d79e74dc242bc3e904fb544faa484845d
+SHA256: bfc54677b3f3630d9b4b7ac97142e85a1c0d3560cda0978b822e58e3946f90bf
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
 Author: TIGI Software
