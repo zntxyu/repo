@@ -229,15 +229,15 @@ Author: julioverne
 Name: CyDown
 
 Package: zntxyu.Filza
-Version: 3.8.0-16
+Version: 3.8.0-20
 Architecture: iphoneos-arm
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/zntxyu.Filza_3.8.0-16_iphoneos-arm.deb
-Size: 13753088
-MD5sum: 6401f4f3002a05ea6f0d3d3630946a3d
-SHA1: 10c98b5d79e74dc242bc3e904fb544faa484845d
-SHA256: bfc54677b3f3630d9b4b7ac97142e85a1c0d3560cda0978b822e58e3946f90bf
+Filename: ./debs/zntxyu.Filza_3.8.0-20_iphoneos-arm.deb
+Size: 12856022
+MD5sum: db88ac8405f0cefc74dde1069d8ed431
+SHA1: 502031c143fafe1240bfb3f0bd8f3e0d55dc40d3
+SHA256: 095fcf39ff871c3da919ce83a1c9b6262c74e3087b9028fd22d7fad399c86874
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
 Author: TIGI Software
@@ -600,6 +600,20 @@ Section: Tweaks
 Description: Vpn Umlimited Crack
 Author: Zntxyu
 Name: Vpn Umlimited Crack
+
+Package: zntxyu.WeiBo.NoAds
+Version: 0.1-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.WeiBo.NoAds_0.1-2_iphoneos-arm.deb
+Size: 6848
+MD5sum: 532f587d110b6edbb0936e9ef9c51f13
+SHA1: 417ae276744364abbfa918644f5f01a62b8c06d0
+SHA256: f226ce4e6fc5587dd50ae477856d86bed67546187bafd9681a2e73f74c4d2a87
+Section: Tweaks
+Description: 去除微博内的所有广告（开屏，推荐，关注，热搜等内的广告）
+Author: xia0
+Name: 微博 NoAds
 
 Package: zntxyu.YueHei+Panton
 Version: 1.0
