@@ -615,20 +615,6 @@ Description: Vpn Umlimited Crack
 Author: Zntxyu
 Name: Vpn Umlimited Crack
 
-Package: zntxyu.WeiBo.NoAds
-Version: 0.1-2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.WeiBo.NoAds_0.1-2_iphoneos-arm.deb
-Size: 6848
-MD5sum: 532f587d110b6edbb0936e9ef9c51f13
-SHA1: 417ae276744364abbfa918644f5f01a62b8c06d0
-SHA256: f226ce4e6fc5587dd50ae477856d86bed67546187bafd9681a2e73f74c4d2a87
-Section: Tweaks
-Description: 去除微博内的所有广告（开屏，推荐，关注，热搜等内的广告）
-Author: xia0
-Name: 微博 NoAds
-
 Package: zntxyu.YueHei+Panton
 Version: 1.0
 Architecture: iphoneos-arm
