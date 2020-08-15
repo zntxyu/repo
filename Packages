@@ -101,14 +101,14 @@ Author: Netskao
 Name: AppStore++ 简体中文包
 
 Package: zntxyu.AppSync.Unified
-Version: 80.0
+Version: 82.0
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Filename: ./debs/zntxyu.AppSync.Unified_80.0_iphoneos-arm.deb
-Size: 63826
-MD5sum: 761164534b752f16526205876bc4cea8
-SHA1: e61d6502d681d6c9b07ad94007e2c56e74e5ad03
-SHA256: 48e29b40a5e4679d798a30a7cadb9e9cd90f17fe635848843ecb3d08a9280a0f
+Filename: ./debs/zntxyu.AppSync.Unified_82.0_iphoneos-arm.deb
+Size: 63812
+MD5sum: ba9d808ec7b7b8cad55f8c5dde660aa6
+SHA1: f3ea52e2176c75680a24ad8b316500f01efcae07
+SHA256: 35c5f36d17f839ceaa5a8aa2f65625c8143e7ea7f7e21af4461eb333d8cdb4af
 Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ
@@ -543,6 +543,20 @@ Section: Localization
 Description: SystemInfo 简体中文包
 Author: Zntxyu
 Name: SystemInfo 简体中文包
+
+Package: zntxyu.VPNMaster.Crack
+Version: 2.0-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.VPNMaster.Crack_2.0-1_iphoneos-arm.deb
+Size: 129472
+MD5sum: 03147dab1d74c9018cffcac13baebd69
+SHA1: 611af293099a1d0e958dd4a88b821de3b1a79ea1
+SHA256: 48cd8057e32e2b4a97626a930f448d017113387cf9ca44206b531b2cbc5e81e2
+Section: Tweaks
+Description: VPN Master Crack.
+Author: 7Loopy
+Name: VPN Master Crack
 
 Package: zntxyu.Veexillum
 Version: 2.0.0
