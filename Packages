@@ -103,12 +103,12 @@ Name: AppStore++ 简体中文包
 Package: zntxyu.AppSync.Unified
 Version: 82.0
 Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Depends: firmware (>= 5.0), firmware (<= 13.6.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Filename: ./debs/zntxyu.AppSync.Unified_82.0_iphoneos-arm.deb
-Size: 63812
-MD5sum: ba9d808ec7b7b8cad55f8c5dde660aa6
-SHA1: f3ea52e2176c75680a24ad8b316500f01efcae07
-SHA256: 35c5f36d17f839ceaa5a8aa2f65625c8143e7ea7f7e21af4461eb333d8cdb4af
+Size: 63816
+MD5sum: 19a124d6489c1a16fe47d216306c9d8c
+SHA1: a13b57cf8c5915b429c925c453c964e2583460c7
+SHA256: 6c8955a6e45e642dc2f29c770b9872c33bf425e926a6261b9105d375385e2f4e
 Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ
