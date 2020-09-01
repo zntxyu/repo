@@ -172,6 +172,20 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
+Package: zntxyu.CowBell
+Version: 1.2.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.CowBell_1.2.2_iphoneos-arm.deb
+Size: 9384
+MD5sum: dc55001596c8a721c409e93cf7056008
+SHA1: 440940e824a3026548e517e247dfdc03f5b3f942
+SHA256: 48b173b3746ac4cff288c2497f94722423702735736f514732d636d9856a7861
+Section: Tweaks
+Description: Make the low power module great again.
+Author: LaughingQuoll
+Name: CowBell
+
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
 Architecture: iphoneos-arm
@@ -343,6 +357,24 @@ Section: Tweaks
 Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
+
+Package: zntxyu.ReProvision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14391648
+MD5sum: 658cf82e02f112a3138f62a698505142
+SHA1: 6717ca26feb3005ee474fc745460af2e017bc1af
+SHA256: ee674b2ab01c7224cb1d0a6680fa1691b03e0143489403b69df828c66022dd7d
+Section: Utilities
+Priority: optional
+Description: Re-sign applications on your device
+Author: Matt Clarke <matt@incendo.ws>
+Dev: Matt Clarke <matt@incendo.ws>
+Name: ReProvision
 
 Package: zntxyu.RealDisable
 Version: 0.0.1-1
