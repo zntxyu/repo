@@ -16,20 +16,6 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
-Package: zntxyu.3DTools.CN
-Version: 1.0.5
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.3DTools.CN_1.0.5_iphoneos-arm.deb
-Size: 2254
-MD5sum: f461f5b04b0480d092de840515f949d7
-SHA1: f1cf22ad8823ea3d0fe523af48b5dcad6df5a5df
-SHA256: c8981af37838bb80511be6c27dd1bead54468e39af60482e82149e5d16c3204f
-Section: Localization
-Description: 3DTools 简体中文包
-Author: Zntxyu
-Name: 3DTools 简体中文包
-
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -157,20 +143,6 @@ Description: Enhance your control center on iOS13.
 Author: ATWiiks
 Name: BetterCCXI Fix
 
-Package: zntxyu.BottomControlX.CN
-Version: 1.3.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.BottomControlX.CN_1.3.3_iphoneos-arm.deb
-Size: 4094
-MD5sum: fed1953cab49685956e527bec17f18c7
-SHA1: 4dfe22e976a7a3ae186bcb93be6a900f9f1daa5e
-SHA256: a36912cb6953500c4dd2865f3144b9c10d3bbe116cb63b538d51b10c7ff01122
-Section: Localization
-Description: BottomControlX 简体中文包
-Author: Zntxyu
-Name: BottomControlX 简体中文包
-
 Package: zntxyu.CCLock
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -288,20 +260,19 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
-Package: zntxyu.Gesturesi11
-Version: 3.5.2
+Package: zntxyu.HideSeparator
+Version: 1.9.1
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debs/zntxyu.Gesturesi11_3.5.2_iphoneos-arm.deb
-Size: 35576
-MD5sum: 1a08d9a59472e54fbb11eb645a8365f4
-SHA1: 584bd1f0bbc25c9be98f756d5918225c65b4ec89
-SHA256: 424d4c97e822c46cd86470a04cc2fb467f79d01f493d17346538276acaaee711
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.HideSeparator_1.9.1_iphoneos-arm.deb
+Size: 12790
+MD5sum: 5ae7cb7f88e6a711c828fa7d874c777d
+SHA1: c033b0c618e9f51e3ae8a9524a222916e91b1f58
+SHA256: 79a9833495cdac395cc9a2d04dd5cab8f838148f0dd0dffae62532c5c3361ce3
 Section: Tweaks
-Priority: optional
-Description: iPhone 11 gestures and other options.
-Author: Hius
-Name: Gesturesi11
+Description: Hide system-wide separator (including third-party Apps)
+Author: iBreak
+Name: Hide Separator
 
 Package: zntxyu.IAP26
 Version: 0.0.2
@@ -316,21 +287,6 @@ Section: Tweaks
 Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
-
-Package: zntxyu.KillX-pro
-Version: 2.1.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
-Conflicts: com.cemck.killx
-Filename: ./debs/zntxyu.KillX-pro_2.1.2_iphoneos-arm.deb
-Size: 230150
-MD5sum: dc3d079782848e857d449dc0e2436505
-SHA1: ce18fd36e4e46189fed4b5bd49d93a8e85720fc9
-SHA256: 88718ffc3713d511a135ea3823a47efa6cf924f7f8d80a67899517ce3d4480da
-Section: Tweaks
-Description: One swipe to kill them all!
-Author: cemck
-Name: KillX Pro
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
@@ -387,20 +343,6 @@ Section: Tweaks
 Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
-
-Package: zntxyu.PowerlogHelperdFix
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PowerlogHelperdFix_1.0_iphoneos-arm.deb
-Size: 41546
-MD5sum: 3713eb1cc32b9d7ee092a67516f1a614
-SHA1: 61f5c69a395a34fc442ceed2e0fa01c713f76123
-SHA256: 64c37371cef90644164221ca60ca83860b4810df14510fb576c2debe6ede9f70
-Section: System
-Description: PowerlogHelperdFix.
-Author: Zntxyu
-Name: PowerlogHelperdFix
 
 Package: zntxyu.RealDisable
 Version: 0.0.1-1
@@ -643,17 +585,4 @@ Section: Utilities
 Description: The first real iOS system cleaner & optimizer.
 Author: Ivano Bilenchi
 Name: iCleaner Pro
-
-Package: zntxyu.iPadStatusBar13
-Version: 1.1.8
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.iPadStatusBar13_1.1.8_iphoneos-arm.deb
-Size: 30878
-MD5sum: d002d1c3acd7ca744b1b68fa76ab3450
-SHA1: f6066fdd7466dd8763800512ab37fc70771f83d3
-SHA256: 79659bfd716a56e993f7f435bbbb540ef4e7ff5ee4b8c6f368431a74861d9919
-Section: Tweaks
-Description: Enables the iOS 13 iPad Statusbar on all devices.
-Author: HuroufTech
-Name: iPadStatusBar13
 
