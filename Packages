@@ -172,20 +172,6 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
-Package: zntxyu.CowBell
-Version: 1.2.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.CowBell_1.2.2_iphoneos-arm.deb
-Size: 9384
-MD5sum: dc55001596c8a721c409e93cf7056008
-SHA1: 440940e824a3026548e517e247dfdc03f5b3f942
-SHA256: 48b173b3746ac4cff288c2497f94722423702735736f514732d636d9856a7861
-Section: Tweaks
-Description: Make the low power module great again.
-Author: LaughingQuoll
-Name: CowBell
-
 Package: zntxyu.CyDown.CN
 Version: 7.1.0
 Architecture: iphoneos-arm
@@ -595,10 +581,10 @@ Architecture: iphoneos-arm
 Maintainer: zntxyu
 Depends: firmware (>= 13.0)
 Filename: ./debs/zntxyu.YueHei+Panton_1.0_iphoneos-arm.deb
-Size: 39991850
-MD5sum: 524ff60dd077c4e1f141855118017383
-SHA1: e3a353e59a08ddab26d5c21a81242dc95636cca7
-SHA256: b85a1c29ee89e0236551ebbdfa283d1d8a29a75b486cc7f9db6a30562dbffff6
+Size: 38819632
+MD5sum: 85f67a7e4bbdf07966e58ec74f161fe7
+SHA1: b3abe38b07be16e6740f07327fb8b4943519d107
+SHA256: e10a94b60e5c9c85e9f62bc9e7bc2968ab3b28e7168983ccf3014d3b0886294b
 Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
