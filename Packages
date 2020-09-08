@@ -1,21 +1,3 @@
-Package: com.michael.appleturboboost
-Version: 0.6.7
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware (>= 12.0)
-Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.6.7_iphoneos-arm.deb
-Size: 11088
-MD5sum: 7c33316c5558644215c15800feb15abc
-SHA1: 94449fdadbf568b5b7a66fb36196a348ccd81daf
-SHA256: c30d168ee5a9befbec961e1e2ff5d513078340ac12ea7deb5ee236250e24fdf9
-Section: System
-Description: Turbo Boost Your Apple!
- Turbo Boost Your Apple!
- Support iOS12~13.
-Author: Halo_Michael <yc992147156@me.com>
-Name: Apple Turbo Boost
-
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -171,20 +153,6 @@ Section: Localization
 Description: Cydown 简体中文包
 Author: Zntxyu
 Name: CyDown 简体中文包
-
-Package: zntxyu.Cydown
-Version: 7.1.0
-Architecture: iphoneos-arm
-Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyu.Cydown_7.1.0_iphoneos-arm.deb
-Size: 4325538
-MD5sum: 783e5aa860da284ec54052bf1c13c6cf
-SHA1: b5ac7312e40279ae992c9487cf7dbddb629dee1e
-SHA256: adac44422757a59be15d6ff55b85654e934cdc1e02d9da600ccfb4dbe9804572
-Section: Tweaks
-Description: Cydia Download Manager & Extra Features!
-Author: julioverne
-Name: CyDown
 
 Package: zntxyu.Filza
 Version: 3.8.0-20
@@ -404,20 +372,6 @@ Section: Tweaks
 Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
-
-Package: zntxyu.Spotilife
-Version: 1.1a
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Spotilife_1.1a_iphoneos-arm.deb
-Size: 201046
-MD5sum: 4c8ff80cefa4221c5e47c0358b2c4716
-SHA1: babb6219e19ccc987a6b2950f104c6eca0b92803
-SHA256: 03fdb8a02d742622217f3d1410cd6cf038c79b7dcd3b778bdb41e6f263d0007a
-Section: Tweaks
-Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked.
-Author: julioverne
-Name: Spotilife
 
 Package: zntxyu.StoreSwitcher2
 Version: 1.0.3
