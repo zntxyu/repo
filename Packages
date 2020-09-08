@@ -39,21 +39,6 @@ Description: Allow third-party keyboards to gain priority authority.
 Author: iBreak
 Name: Allow.KeyBoard
 
-Package: zntxyu.AppStore++
-Version: 0.9.12
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/zntxyu.AppStore++_0.9.12_iphoneos-arm.deb
-Size: 616634
-MD5sum: 2e87f070081f4091c1715b5bbc7f9f2a
-SHA1: 11162e3df8dce7e1df909764f29b3fd045033dee
-SHA256: cc69d3a460be9297dd79bc3dc5ab70714830571abfef3639424620ae8998ecdb
-Section: Tweaks
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
-Author: CokePokes
-Name: AppStore++
-
 Package: zntxyu.AppStore++.CN
 Version: 1.1-3
 Architecture: iphoneos-arm
@@ -67,35 +52,6 @@ Section: Localization
 Description: AppStore++ 简体中文包。
 Author: Netskao
 Name: AppStore++ 简体中文包
-
-Package: zntxyu.Apps.Manager
-Version: 1.5.3-2k
-Architecture: iphoneos-arm
-Conflicts: com.tigisoftware.appdatamanager
-Filename: ./debs/zntxyu.Apps.Manager_1.5.3-2k_iphoneos-arm.deb
-Size: 1918434
-MD5sum: fd038aec445dedb48b9b92e068c7c462
-SHA1: a763bb02cba970bdc9312d531d460e6369c8131d
-SHA256: 28baa71469f79460fae6de3037bdca5c1afd8245df433187b412a7e0ec7c7082
-Section: Utilities
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps.
-Author: TIGI Software
-Name: Apps Manager
-
-Package: zntxyu.Axon
-Version: 2.0.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debs/zntxyu.Axon_2.0.0_iphoneos-arm.deb
-Size: 194096
-MD5sum: 514b709cc38822ae881c18d307fa1253
-SHA1: d075ec5375cc7618883bcdca61e8134340ada8c3
-SHA256: 7b95590807bef99cdce1da96a5d92410ba1d723b318259ef2030a0c9afec8857
-Section: Tweaks
-Description: Priority Hub for iOS 11/12/13.
-Author: Nepeta
-Name: Axon
 
 Package: zntxyu.BetterCCxi.Fix
 Version: 1.6.0
@@ -154,21 +110,6 @@ Description: Cydown 简体中文包
 Author: Zntxyu
 Name: CyDown 简体中文包
 
-Package: zntxyu.Filza
-Version: 3.8.0-20
-Architecture: iphoneos-arm
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/zntxyu.Filza_3.8.0-20_iphoneos-arm.deb
-Size: 12856022
-MD5sum: db88ac8405f0cefc74dde1069d8ed431
-SHA1: 502031c143fafe1240bfb3f0bd8f3e0d55dc40d3
-SHA256: 095fcf39ff871c3da919ce83a1c9b6262c74e3087b9028fd22d7fad399c86874
-Section: Utilities
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
-Author: TIGI Software
-Name: Filza File Manager
-
 Package: zntxyu.Filza.Crack
 Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
@@ -182,23 +123,6 @@ Section: Tweaks
 Description: Filza Crack
 Author: xia0z
 Name: Filza Crack
-
-Package: zntxyu.Flex3
-Version: Beta97
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/zntxyu.Flex3_Beta97_iphoneos-arm.deb
-Size: 14371236
-MD5sum: 4ec807baea9a9313fd25537d4fa070a3
-SHA1: 87c6def9258dce61dd93234f6856048c4b2b9e65
-SHA256: 252c8dd07b73634f556496d0334bf57c6c1200033e7511e5641bc791f39d5172
-Section: Utilities
-Description: Develop your own tweaks and share them on the Flex Community Cloud.
-Author: John Coates
-Name: Flex3
-Recommended: com.rpetrich.rocketbootstrap
 
 Package: zntxyu.GPS.Manager
 Version: 1.8.8k
@@ -331,20 +255,6 @@ Description: Select text to search or translate.
 Author: Sky Pain
 Name: Selector Pro
 
-Package: zntxyu.Shadow
-Version: 2.0.20
-Architecture: iphoneos-arm
-Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
-Size: 253234
-MD5sum: 3c60a1122372488c8582655efb143a84
-SHA1: ff253cc4db1f1650b3adb6ce23a56fd6880c2fb7
-SHA256: 87941546c3dc5c312bbf4d3bbff7775f9f78319394ea5a07213fd5449844acaf
-Section: Tweaks
-Description: A lightweight general jailbreak detection bypass.
-Author: jjolano
-Name: Shadow
-
 Package: zntxyu.ShadowLink.Crack
 Version: 1.0
 Architecture: iphoneos-arm
@@ -372,21 +282,6 @@ Section: Tweaks
 Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
-
-Package: zntxyu.StoreSwitcher2
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: subdiox
-Depends: firmware (>= 11), mobilesubstrate
-Filename: ./debs/zntxyu.StoreSwitcher2_1.0.3_iphoneos-arm.deb
-Size: 45830
-MD5sum: 2298c90d45c048fa5589a317cbb232b7
-SHA1: 52d6218ad98ca53383e056d3546dfef8abef00de
-SHA256: 74cbbbbecc29e8c144e330174c65725d8c4f3ae8d9f95b5c16ea63b33d7ec4a4
-Section: Tweaks
-Description: Adds a button to switch account in App Store account page on iOS 11+.
-Author: subdiox
-Name: StoreSwitcher 2
 
 Package: zntxyu.SugarCane
 Version: 1.1-2
@@ -456,36 +351,6 @@ Section: Themes
 Description: Veexillum is a beautiful, simple & modern theme for iOS!
 Author: XG
 Name: Veexillum
-
-Package: zntxyu.Vinyl
-Version: 1.0.7.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debs/zntxyu.Vinyl_1.0.7.2_iphoneos-arm.deb
-Size: 352900
-MD5sum: 82efeeb0a8c61fe0e5592fdbb996c233
-SHA1: 5228d09a5700324520592ed223bc562420901b60
-SHA256: e80c7b240ef4a00a987a532d7ef814781b006111755050498539b9f295f21128
-Section: Tweaks
-Priority: optional
-Description: A simplified look for the lockscreen music player!
-Author: Lightmann
-Name: Vinyl
-
-Package: zntxyu.Voltage
-Version: 1.6.2
-Architecture: iphoneos-arm
-Pre-Depends: firmware (>= 9.0)
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/zntxyu.Voltage_1.6.2_iphoneos-arm.deb
-Size: 56558
-MD5sum: c198300f67b74c97e4533b7f69fc9efd
-SHA1: 1e31153141213a489c440b26464da5799c4ed9a8
-SHA256: e01e365b245ffd6a21d9b3b4f0d4156c55d1cc02d0d5279156f0e98ce7641718
-Section: Tweaks
-Description: Suppress banners in apps.
-Author: Summer Triangle
-Name: Eyeplugs
 
 Package: zntxyu.Vpn.Umlimited.Crack
 Version: 0.0.1
