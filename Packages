@@ -39,6 +39,21 @@ Description: Allow third-party keyboards to gain priority authority.
 Author: iBreak
 Name: Allow.KeyBoard
 
+Package: zntxyu.AppStore++
+Version: 0.9.12
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/zntxyu.AppStore++_0.9.12_iphoneos-arm.deb
+Size: 616634
+MD5sum: 2e87f070081f4091c1715b5bbc7f9f2a
+SHA1: 11162e3df8dce7e1df909764f29b3fd045033dee
+SHA256: cc69d3a460be9297dd79bc3dc5ab70714830571abfef3639424620ae8998ecdb
+Section: Tweaks
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
+Author: CokePokes
+Name: AppStore++
+
 Package: zntxyu.AppStore++.CN
 Version: 1.1-3
 Architecture: iphoneos-arm
@@ -239,6 +254,24 @@ Section: Tweaks
 Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
+
+Package: zntxyu.ReProvision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14391648
+MD5sum: 658cf82e02f112a3138f62a698505142
+SHA1: 6717ca26feb3005ee474fc745460af2e017bc1af
+SHA256: ee674b2ab01c7224cb1d0a6680fa1691b03e0143489403b69df828c66022dd7d
+Section: Utilities
+Priority: optional
+Description: Re-sign applications on your device
+Author: Matt Clarke <matt@incendo.ws>
+Dev: Matt Clarke <matt@incendo.ws>
+Name: ReProvision
 
 Package: zntxyu.ShadowLink.Crack
 Version: 1.0
