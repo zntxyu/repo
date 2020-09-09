@@ -110,6 +110,38 @@ Description: Cydown 简体中文包
 Author: Zntxyu
 Name: CyDown 简体中文包
 
+Package: zntxyu.Filza
+Version: 3.8.0-20
+Architecture: iphoneos-arm
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/zntxyu.Filza_3.8.0-20_iphoneos-arm.deb
+Size: 12856022
+MD5sum: db88ac8405f0cefc74dde1069d8ed431
+SHA1: 502031c143fafe1240bfb3f0bd8f3e0d55dc40d3
+SHA256: 095fcf39ff871c3da919ce83a1c9b6262c74e3087b9028fd22d7fad399c86874
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
+Author: TIGI Software
+Name: Filza File Manager
+
+Package: zntxyu.Flex3
+Version: Beta97
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/zntxyu.Flex3_Beta97_iphoneos-arm.deb
+Size: 14371236
+MD5sum: 4ec807baea9a9313fd25537d4fa070a3
+SHA1: 87c6def9258dce61dd93234f6856048c4b2b9e65
+SHA256: 252c8dd07b73634f556496d0334bf57c6c1200033e7511e5641bc791f39d5172
+Section: Utilities
+Description: Develop your own tweaks and share them on the Flex Community Cloud.
+Author: John Coates
+Name: Flex3
+Recommended: com.rpetrich.rocketbootstrap
+
 Package: zntxyu.GPS.Manager
 Version: 1.8.8k
 Architecture: iphoneos-arm
@@ -124,19 +156,19 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
-Package: zntxyu.HideSeparator
-Version: 1.9.1
+Package: zntxyu.HideSeparators
+Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.HideSeparator_1.9.1_iphoneos-arm.deb
-Size: 12790
-MD5sum: 5ae7cb7f88e6a711c828fa7d874c777d
-SHA1: c033b0c618e9f51e3ae8a9524a222916e91b1f58
-SHA256: 79a9833495cdac395cc9a2d04dd5cab8f838148f0dd0dffae62532c5c3361ce3
+Filename: ./debs/zntxyu.HideSeparators_1.1-1_iphoneos-arm.deb
+Size: 4324
+MD5sum: 7aa6199dd4b2edb4ab9672eff1bab729
+SHA1: f2e3d14c62f9fe19d2dbd62db5bfe5b30b1ac5be
+SHA256: cad92cf044f5e37795068398d1a2d00dce7e513c272615a207554faba37ffea4
 Section: Tweaks
-Description: Hide system-wide separator (including third-party Apps)
-Author: iBreak
-Name: Hide Separator
+Description: HideSeparators.
+Author: Netskao
+Name: HideSeparators
 
 Package: zntxyu.IAP26
 Version: 0.0.2
@@ -235,6 +267,21 @@ Section: Tweaks
 Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
+
+Package: zntxyu.StoreSwitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/zntxyu.StoreSwitcher2_1.0.3_iphoneos-arm.deb
+Size: 45830
+MD5sum: 2298c90d45c048fa5589a317cbb232b7
+SHA1: 52d6218ad98ca53383e056d3546dfef8abef00de
+SHA256: 74cbbbbecc29e8c144e330174c65725d8c4f3ae8d9f95b5c16ea63b33d7ec4a4
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
 
 Package: zntxyu.SugarCane
 Version: 1.1-2
