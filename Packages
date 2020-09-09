@@ -460,20 +460,6 @@ Description: Veexillum is a beautiful, simple & modern theme for iOS!
 Author: XG
 Name: Veexillum
 
-Package: zntxyu.Vpn.Umlimited.Crack
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Vpn.Umlimited.Crack_0.0.1_iphoneos-arm.deb
-Size: 20396
-MD5sum: 9a632a5f95c1835f8009a2d46b043872
-SHA1: 9348a0997c98da9eb5d06b3fb27c5f84bf8cd648
-SHA256: 5bf4589c4d9046d1d62f77d53f35f222f5ab9d9cf6ff6f3994f31267be4b2a91
-Section: Tweaks
-Description: Vpn Umlimited Crack
-Author: Zntxyu
-Name: Vpn Umlimited Crack
-
 Package: zntxyu.YueHei+Panton
 Version: 1.0
 Architecture: iphoneos-arm
