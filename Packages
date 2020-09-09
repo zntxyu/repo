@@ -53,34 +53,34 @@ Description: AppStore++ 简体中文包。
 Author: Netskao
 Name: AppStore++ 简体中文包
 
-Package: zntxyu.BetterCCxi.Fix
-Version: 1.6.0
+Package: zntxyu.CCModules+
+Version: 1.0
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Filename: ./debs/zntxyu.BetterCCxi.Fix_1.6.0_iphoneos-arm.deb
-Size: 158456
-MD5sum: 807ee50f24bb7a81d4cf1be1d3fcf968
-SHA1: 3b37ac63b69dda20e9661ada1dbd623f58bb5724
-SHA256: 0634fc39ec571f8886bd9ad9452a87d84243fdc465f74b4641a1da4536d9132a
-Section: Tweaks
-Description: Enhance your control center on iOS13.
-Author: ATWiiks
-Name: BetterCCXI Fix
-
-Package: zntxyu.CCLock
-Version: 1.0.0
-Architecture: iphoneos-arm
-Pre-Depends: com.opa334.ccsupport
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/zntxyu.CCLock_1.0.0_iphoneos-arm.deb
-Size: 17020
-MD5sum: 393eb2a5e4bd561a5f80e3207aebb454
-SHA1: 8da8c4ebd0945ae238462dffe51ea99e275b75c3
-SHA256: 518c36509da0b5fa23b09a0836f9c4c17cc02819aa23aa5567da277d92ef5bd3
+Filename: ./debs/zntxyu.CCModules+_1.0_iphoneos-arm.deb
+Size: 177440
+MD5sum: 723f28a38f55de243689ab14342efd7f
+SHA1: 2896613e67b6fe2955d4c59a2de68a2fdd9ff816
+SHA256: 23bc5fbc5536f7281fb010cb74f17bb7d2772469e61998c31d175662b2d2b8d6
 Section: Tweaks
-Description: CCLock.
-Author: Zntxyu
-Name: CCLock
+Description: CCModules+.
+Author: zntxyu
+Name: CCModules+
+
+Package: zntxyu.CacheClearer
+Version: 0.2
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.rpetrich.cacheclearer, com.julioverne.cacheclearer11
+Filename: ./debs/zntxyu.CacheClearer_0.2_iphoneos-arm.deb
+Size: 15842
+MD5sum: cbfe3e1acb35254030b9a872da749958
+SHA1: e8708a4d45e784e0aa6a0e402d7927e721041abc
+SHA256: 24f5a93fbaee61c14f03c22f247d720e41101912a1686d968e3a3ddd6007659a
+Section: Tweaks
+Description: 从设置-通用-储存空间的应用使用情况中快速重置应用和清理应用缓存，修复iOS13无反应问题。
+Author: Julioverne, Netskao
+Name: CacheClearer
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
@@ -109,20 +109,6 @@ Section: Localization
 Description: Cydown 简体中文包
 Author: Zntxyu
 Name: CyDown 简体中文包
-
-Package: zntxyu.Filza.Crack
-Version: 0.0.1-23+debug
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Filza.Crack_0.0.1-23+debug_iphoneos-arm.deb
-Size: 5610
-MD5sum: e2f069214b1a745daa21f1c446c55423
-SHA1: 17ba1b7947481b60e5710eecdae2aa33bfec25f5
-SHA256: 2e9280bd485c2ef8ae80d5dc32566421007e94bdfa2af2fb67961955de66ee82
-Section: Tweaks
-Description: Filza Crack
-Author: xia0z
-Name: Filza Crack
 
 Package: zntxyu.GPS.Manager
 Version: 1.8.8k
@@ -221,39 +207,6 @@ Section: Tweaks
 Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
-
-Package: zntxyu.ReProvision
-Version: 0.5.2~EOL
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14391648
-MD5sum: 658cf82e02f112a3138f62a698505142
-SHA1: 6717ca26feb3005ee474fc745460af2e017bc1af
-SHA256: ee674b2ab01c7224cb1d0a6680fa1691b03e0143489403b69df828c66022dd7d
-Section: Utilities
-Priority: optional
-Description: Re-sign applications on your device
-Author: Matt Clarke <matt@incendo.ws>
-Dev: Matt Clarke <matt@incendo.ws>
-Name: ReProvision
-
-Package: zntxyu.Selector-Pro
-Version: 1.3.6
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkcolourpicker, firmware (>= 11.0)
-Conflicts: me.nepeta.selector, com.hk.halo-michael.selector, com.hk.selector.cn, com.hk.selector
-Filename: ./debs/zntxyu.Selector-Pro_1.3.6_iphoneos-arm.deb
-Size: 99910
-MD5sum: 22018648d95b7f3027cf3a7fab3cff57
-SHA1: 1d514712d328e9bf99e318cf84fd5a17f9ad3d9c
-SHA256: ff7e34f33ccf486c0db8d1f90c02a733f0dfec57d5cd98bff74ef86b4752c42e
-Section: Tweaks
-Description: Select text to search or translate.
-Author: Sky Pain
-Name: Selector Pro
 
 Package: zntxyu.ShadowLink.Crack
 Version: 1.0
