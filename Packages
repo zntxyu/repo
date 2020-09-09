@@ -68,6 +68,20 @@ Description: AppStore++ 简体中文包。
 Author: Netskao
 Name: AppStore++ 简体中文包
 
+Package: zntxyu.AppSync.Unified
+Version: 82.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Filename: ./debs/zntxyu.AppSync.Unified_82.0_iphoneos-arm.deb
+Size: 63812
+MD5sum: ba9d808ec7b7b8cad55f8c5dde660aa6
+SHA1: f3ea52e2176c75680a24ad8b316500f01efcae07
+SHA256: 35c5f36d17f839ceaa5a8aa2f65625c8143e7ea7f7e21af4461eb333d8cdb4af
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ
+Name: AppSync Unified
+
 Package: zntxyu.CCModules+
 Version: 1.0
 Architecture: iphoneos-arm
@@ -124,6 +138,20 @@ Section: Localization
 Description: Cydown 简体中文包
 Author: Zntxyu
 Name: CyDown 简体中文包
+
+Package: zntxyu.Cydown
+Version: 7.1.0
+Architecture: iphoneos-arm
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debs/zntxyu.Cydown_7.1.0_iphoneos-arm.deb
+Size: 4325538
+MD5sum: 783e5aa860da284ec54052bf1c13c6cf
+SHA1: b5ac7312e40279ae992c9487cf7dbddb629dee1e
+SHA256: adac44422757a59be15d6ff55b85654e934cdc1e02d9da600ccfb4dbe9804572
+Section: Tweaks
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne
+Name: CyDown
 
 Package: zntxyu.Filza
 Version: 3.8.0-20
@@ -273,20 +301,6 @@ Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
 
-Package: zntxyu.ShadowLink.Crack
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.ShadowLink.Crack_1.0_iphoneos-arm.deb
-Size: 1386066
-MD5sum: 0c37fa78f8c5c2df1f9b18fb075110be
-SHA1: 1a92e177edf11a7e822fd4633618c0568654dc42
-SHA256: b14a40b683ad5ed4171dc0374d5601bff71a8f3c3f255f8955d4df9283fb832d
-Section: Tweaks
-Description: ShadowLink Crack.
-Author: Zntxyu
-Name: ShadowLink Crack
-
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -413,4 +427,18 @@ Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
+
+Package: zntxyu.iCleaner.Pro
+Version: 7.8.3
+Architecture: iphoneos-arm
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/zntxyu.iCleaner.Pro_7.8.3_iphoneos-arm.deb
+Size: 9502912
+MD5sum: ba3e08bc8ef0e3afe7b372f342d59bae
+SHA1: 0f6761d9ebe081d85451a6c3a5ad4160d4495cb1
+SHA256: b2be1ee65ae1b93a551eab5548540d274b0a2c2d560ca51531e6eb9b056ecf73
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer.
+Author: Ivano Bilenchi
+Name: iCleaner Pro
 
