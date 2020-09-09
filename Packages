@@ -82,6 +82,21 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Linus Yang, Karen/あけみ
 Name: AppSync Unified
 
+Package: zntxyu.Axon
+Version: 2.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/zntxyu.Axon_2.0.0_iphoneos-arm.deb
+Size: 194096
+MD5sum: 514b709cc38822ae881c18d307fa1253
+SHA1: d075ec5375cc7618883bcdca61e8134340ada8c3
+SHA256: 7b95590807bef99cdce1da96a5d92410ba1d723b318259ef2030a0c9afec8857
+Section: Tweaks
+Description: Priority Hub for iOS 11/12/13.
+Author: Nepeta
+Name: Axon
+
 Package: zntxyu.CCModules+
 Version: 1.0
 Architecture: iphoneos-arm
@@ -226,6 +241,20 @@ Section: Tweaks
 Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
+
+Package: zntxyu.Install.Percentage
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
+Size: 162470
+MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
+SHA1: 8108c77afe334c708eda19fa635ff6295491535c
+SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
+Section: System
+Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
+Author: Zntxyu
+Name: Install Percentage
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
