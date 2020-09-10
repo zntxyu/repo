@@ -1,21 +1,3 @@
-Package: com.michael.appleturboboost
-Version: 0.6.7
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware (>= 12.0)
-Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.6.7_iphoneos-arm.deb
-Size: 11088
-MD5sum: 7c33316c5558644215c15800feb15abc
-SHA1: 94449fdadbf568b5b7a66fb36196a348ccd81daf
-SHA256: c30d168ee5a9befbec961e1e2ff5d513078340ac12ea7deb5ee236250e24fdf9
-Section: System
-Description: Turbo Boost Your Apple!
- Turbo Boost Your Apple!
- Support iOS12~13.
-Author: Halo_Michael <yc992147156@me.com>
-Name: Apple Turbo Boost
-
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -85,20 +67,6 @@ Section: Localization
 Description: AppStore++ 简体中文包。
 Author: Netskao
 Name: AppStore++ 简体中文包
-
-Package: zntxyu.AppSync.Unified
-Version: 84.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Filename: ./debs/zntxyu.AppSync.Unified_84.0_iphoneos-arm.deb
-Size: 63822
-MD5sum: b02e612ccf939f362ca974188f554dfd
-SHA1: 203a561d3a811682f0dec5d689337da56cc054f2
-SHA256: a65629c9ff93436558dcbf1caa474c6b6c535fdf5f58bc15fe47e37beb9737fd
-Section: Tweaks
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Linus Yang, Karen/あけみ
-Name: AppSync Unified
 
 Package: zntxyu.Axon
 Version: 2.0.0
@@ -172,35 +140,6 @@ Description: Cydown 简体中文包
 Author: Zntxyu
 Name: CyDown 简体中文包
 
-Package: zntxyu.Cydown
-Version: 7.1.0
-Architecture: iphoneos-arm
-Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyu.Cydown_7.1.0_iphoneos-arm.deb
-Size: 4325538
-MD5sum: 783e5aa860da284ec54052bf1c13c6cf
-SHA1: b5ac7312e40279ae992c9487cf7dbddb629dee1e
-SHA256: adac44422757a59be15d6ff55b85654e934cdc1e02d9da600ccfb4dbe9804572
-Section: Tweaks
-Description: Cydia Download Manager & Extra Features!
-Author: julioverne
-Name: CyDown
-
-Package: zntxyu.Filza
-Version: 3.8.0-20
-Architecture: iphoneos-arm
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/zntxyu.Filza_3.8.0-20_iphoneos-arm.deb
-Size: 12856022
-MD5sum: db88ac8405f0cefc74dde1069d8ed431
-SHA1: 502031c143fafe1240bfb3f0bd8f3e0d55dc40d3
-SHA256: 095fcf39ff871c3da919ce83a1c9b6262c74e3087b9028fd22d7fad399c86874
-Section: Utilities
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
-Author: TIGI Software
-Name: Filza File Manager
-
 Package: zntxyu.Flex3
 Version: Beta97
 Architecture: iphoneos-arm
@@ -259,20 +198,6 @@ Section: Tweaks
 Description: iOS最强本地内购插件！
 Author: JustinPet26
 Name: iAP26
-
-Package: zntxyu.Install.Percentage
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
-Size: 162470
-MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
-SHA1: 8108c77afe334c708eda19fa635ff6295491535c
-SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
-Section: System
-Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
-Author: Zntxyu
-Name: Install Percentage
 
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
@@ -361,20 +286,6 @@ Section: Tweaks
 Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
-
-Package: zntxyu.SpotiLife
-Version: 1.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.SpotiLife_1.3_iphoneos-arm.deb
-Size: 200246
-MD5sum: 50055884bc3f3fb5ec42e70c4b461941
-SHA1: 176a44f1c1d5e8663cd8f30ac4a0c8820f5a7212
-SHA256: 9cebcf991623f260a6b58aeccab358039a67f9f7561f2f1d9532b528de64e165
-Section: Tweaks
-Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked.
-Author: julioverne
-Name: SpotiLife
 
 Package: zntxyu.StoreSwitcher2
 Version: 1.0.3
@@ -474,18 +385,4 @@ Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
-
-Package: zntxyu.iCleaner.Pro
-Version: 7.8.3
-Architecture: iphoneos-arm
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Filename: ./debs/zntxyu.iCleaner.Pro_7.8.3_iphoneos-arm.deb
-Size: 9502912
-MD5sum: ba3e08bc8ef0e3afe7b372f342d59bae
-SHA1: 0f6761d9ebe081d85451a6c3a5ad4160d4495cb1
-SHA256: b2be1ee65ae1b93a551eab5548540d274b0a2c2d560ca51531e6eb9b056ecf73
-Section: Utilities
-Description: The first real iOS system cleaner & optimizer.
-Author: Ivano Bilenchi
-Name: iCleaner Pro
 
