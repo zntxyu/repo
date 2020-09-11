@@ -82,21 +82,6 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Linus Yang, Karen/あけみ
 Name: AppSync Unified
 
-Package: zntxyu.Axon
-Version: 2.0.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debs/zntxyu.Axon_2.0.0_iphoneos-arm.deb
-Size: 194096
-MD5sum: 514b709cc38822ae881c18d307fa1253
-SHA1: d075ec5375cc7618883bcdca61e8134340ada8c3
-SHA256: 7b95590807bef99cdce1da96a5d92410ba1d723b318259ef2030a0c9afec8857
-Section: Tweaks
-Description: Priority Hub for iOS 11/12/13.
-Author: Nepeta
-Name: Axon
-
 Package: zntxyu.BetterCCxi.Fix
 Version: 1.6.0
 Architecture: iphoneos-arm
