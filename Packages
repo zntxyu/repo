@@ -39,21 +39,6 @@ Description: Allow third-party keyboards to gain priority authority.
 Author: iBreak
 Name: Allow.KeyBoard
 
-Package: zntxyu.AppStore++
-Version: 0.9.12
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/zntxyu.AppStore++_0.9.12_iphoneos-arm.deb
-Size: 616634
-MD5sum: 2e87f070081f4091c1715b5bbc7f9f2a
-SHA1: 11162e3df8dce7e1df909764f29b3fd045033dee
-SHA256: cc69d3a460be9297dd79bc3dc5ab70714830571abfef3639424620ae8998ecdb
-Section: Tweaks
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
-Author: CokePokes
-Name: AppStore++
-
 Package: zntxyu.AppStore++.CN
 Version: 1.1-3
 Architecture: iphoneos-arm
@@ -67,20 +52,6 @@ Section: Localization
 Description: AppStore++ 简体中文包。
 Author: Netskao
 Name: AppStore++ 简体中文包
-
-Package: zntxyu.AppSync.Unified
-Version: 84.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Filename: ./debs/zntxyu.AppSync.Unified_84.0_iphoneos-arm.deb
-Size: 63822
-MD5sum: b02e612ccf939f362ca974188f554dfd
-SHA1: 203a561d3a811682f0dec5d689337da56cc054f2
-SHA256: a65629c9ff93436558dcbf1caa474c6b6c535fdf5f58bc15fe47e37beb9737fd
-Section: Tweaks
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Linus Yang, Karen/あけみ
-Name: AppSync Unified
 
 Package: zntxyu.BetterCCxi.Fix
 Version: 1.6.0
@@ -152,52 +123,6 @@ Section: Localization
 Description: Cydown 简体中文包
 Author: Zntxyu
 Name: CyDown 简体中文包
-
-Package: zntxyu.Cydown
-Version: 7.1.0
-Architecture: iphoneos-arm
-Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyu.Cydown_7.1.0_iphoneos-arm.deb
-Size: 4325538
-MD5sum: 783e5aa860da284ec54052bf1c13c6cf
-SHA1: b5ac7312e40279ae992c9487cf7dbddb629dee1e
-SHA256: adac44422757a59be15d6ff55b85654e934cdc1e02d9da600ccfb4dbe9804572
-Section: Tweaks
-Description: Cydia Download Manager & Extra Features!
-Author: julioverne
-Name: CyDown
-
-Package: zntxyu.Filza
-Version: 3.8.0-24
-Architecture: iphoneos-arm
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/zntxyu.Filza_3.8.0-24_iphoneos-arm.deb
-Size: 12894998
-MD5sum: 5ab5c8f434a8211d112361ee4b6c0bbb
-SHA1: b27ad6dae9bc4f14b6999bc143281f8bbce11119
-SHA256: 9427ed4bb4902d6a0ec0d05292772d7b723b262b0b1304dc31687efb370eb292
-Section: Utilities
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
-Author: TIGI Software
-Name: Filza File Manager
-
-Package: zntxyu.Flex3
-Version: Beta97
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/zntxyu.Flex3_Beta97_iphoneos-arm.deb
-Size: 14371236
-MD5sum: 4ec807baea9a9313fd25537d4fa070a3
-SHA1: 87c6def9258dce61dd93234f6856048c4b2b9e65
-SHA256: 252c8dd07b73634f556496d0334bf57c6c1200033e7511e5641bc791f39d5172
-Section: Utilities
-Description: Develop your own tweaks and share them on the Flex Community Cloud.
-Author: John Coates
-Name: Flex3
-Recommended: com.rpetrich.rocketbootstrap
 
 Package: zntxyu.GPS.Manager
 Version: 1.8.8k
@@ -297,24 +222,6 @@ Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
 
-Package: zntxyu.ReProvision
-Version: 0.5.2~EOL
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14391648
-MD5sum: 658cf82e02f112a3138f62a698505142
-SHA1: 6717ca26feb3005ee474fc745460af2e017bc1af
-SHA256: ee674b2ab01c7224cb1d0a6680fa1691b03e0143489403b69df828c66022dd7d
-Section: Utilities
-Priority: optional
-Description: Re-sign applications on your device
-Author: Matt Clarke <matt@incendo.ws>
-Dev: Matt Clarke <matt@incendo.ws>
-Name: ReProvision
-
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -328,35 +235,6 @@ Section: Tweaks
 Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
-
-Package: zntxyu.SpotiLife
-Version: 1.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.SpotiLife_1.3_iphoneos-arm.deb
-Size: 200246
-MD5sum: 50055884bc3f3fb5ec42e70c4b461941
-SHA1: 176a44f1c1d5e8663cd8f30ac4a0c8820f5a7212
-SHA256: 9cebcf991623f260a6b58aeccab358039a67f9f7561f2f1d9532b528de64e165
-Section: Tweaks
-Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked.
-Author: julioverne
-Name: SpotiLife
-
-Package: zntxyu.StoreSwitcher2
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: subdiox
-Depends: firmware (>= 11), mobilesubstrate
-Filename: ./debs/zntxyu.StoreSwitcher2_1.0.3_iphoneos-arm.deb
-Size: 45830
-MD5sum: 2298c90d45c048fa5589a317cbb232b7
-SHA1: 52d6218ad98ca53383e056d3546dfef8abef00de
-SHA256: 74cbbbbecc29e8c144e330174c65725d8c4f3ae8d9f95b5c16ea63b33d7ec4a4
-Section: Tweaks
-Description: Adds a button to switch account in App Store account page on iOS 11+.
-Author: subdiox
-Name: StoreSwitcher 2
 
 Package: zntxyu.SugarCane
 Version: 1.1-2
@@ -470,18 +348,4 @@ Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
-
-Package: zntxyu.iCleaner.Pro
-Version: 7.8.3
-Architecture: iphoneos-arm
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Filename: ./debs/zntxyu.iCleaner.Pro_7.8.3_iphoneos-arm.deb
-Size: 9502912
-MD5sum: ba3e08bc8ef0e3afe7b372f342d59bae
-SHA1: 0f6761d9ebe081d85451a6c3a5ad4160d4495cb1
-SHA256: b2be1ee65ae1b93a551eab5548540d274b0a2c2d560ca51531e6eb9b056ecf73
-Section: Utilities
-Description: The first real iOS system cleaner & optimizer.
-Author: Ivano Bilenchi
-Name: iCleaner Pro
 
