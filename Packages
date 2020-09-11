@@ -504,6 +504,20 @@ Description: Suppress banners in apps.
 Author: Summer Triangle
 Name: Eyeplugs
 
+Package: zntxyu.WeiboX
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.WeiboX_0.1-1_iphoneos-arm.deb
+Size: 8218
+MD5sum: dbbdc97da5294889e2f60e7881fdf206
+SHA1: 918bf8c147004056ae2bfd13f26a8becaf8dd471
+SHA256: be7ef70ce52065e9bebe1e9cab39817869ba038f00b021b14f5148a35aeaf27e
+Section: Tweaks
+Description: 微博插件，目前功能仅有去微博内的所有广告（开屏，推荐，关注，热搜等内的广告）
+Author: xia0
+Name: WeiboX
+
 Package: zntxyu.YueHei+Panton
 Version: 1.0
 Architecture: iphoneos-arm
@@ -532,4 +546,18 @@ Section: Utilities
 Description: The first real iOS system cleaner & optimizer.
 Author: Ivano Bilenchi
 Name: iCleaner Pro
+
+Package: zntxyu.wzydnoads
+Version: 1.0-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.wzydnoads_1.0-1_iphoneos-arm.deb
+Size: 128994
+MD5sum: 6c098d1da1d761b6ed9cb4e84901b69f
+SHA1: 43117797868c40f11753a44c5a3bc9bc238af4db
+SHA256: 1433174a4b87fc59bfb98eb7ff2857dc8e9a4e5558ff8d494ad3b39450a92b87
+Section: Tweaks
+Description: 王者营地 NoAds
+Author: 7Loopy
+Name: 王者营地 NoAds
 
