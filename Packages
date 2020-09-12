@@ -72,19 +72,19 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.w
 Author: CokePokes
 Name: AppStore++
 
-Package: zntxyu.AppStore++.CN
+Package: zntxyu.AppStore++.zh-CN
 Version: 1.1-3
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.AppStore++.CN_1.1-3_iphoneos-arm.deb
-Size: 28540
-MD5sum: c44a351634370529ca8daeeaffe05e13
-SHA1: 7d19c6885ab89fdded3d21027bcce12974f6814a
-SHA256: bf71c880ce655897d4ea3aca16d51d5253e2815ddc0aa3726fc98cdcc06b4179
+Filename: ./debs/zntxyu.AppStore++.zh-CN_1.1-3_iphoneos-arm.deb
+Size: 28544
+MD5sum: 9240d7fc60636060385066ec37d03a7d
+SHA1: e0b5d82c2bfe83696164c8f716baf8efc13e2537
+SHA256: 0b00fedfab60e832ce924084646b0328e0a52e2e5949429da7c1e32b6a0b5616
 Section: Localization
-Description: AppStore++ 简体中文包。
+Description: AppStore++简体中文包。
 Author: Netskao
-Name: AppStore++ 简体中文包
+Name: AppStore++ zh-CN
 
 Package: zntxyu.AppSync.Unified
 Version: 84.0
@@ -186,19 +186,19 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
-Package: zntxyu.CyDown.CN
+Package: zntxyu.CyDown.zh-CN
 Version: 7.1.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.CyDown.CN_7.1.0_iphoneos-arm.deb
-Size: 96400
-MD5sum: 841c04e52f2fe945174486798ad3b4b8
-SHA1: b28ef2e2e311d552538a708162773d567ad07cb9
-SHA256: 5c025b94cfdbeaf5288c81a011b0b1f7e51675448438d581d77774f6d49ecf36
+Filename: ./debs/zntxyu.CyDown.zh-CN_7.1.0_iphoneos-arm.deb
+Size: 96418
+MD5sum: 215d40e7830d0ab98d470c1f6d3231ba
+SHA1: d1a7dfb8b441b52a707d8eb9d3e8b0815c51d2b0
+SHA256: 864091e471d3f9b8e8ea2f6f098b4f54ae6ed70e973f62a4a29ee5727ca2a258
 Section: Localization
-Description: Cydown 简体中文包
+Description: Cydown简体中文包。
 Author: Zntxyu
-Name: CyDown 简体中文包
+Name: CyDown zh-CN
 
 Package: zntxyu.Cydown
 Version: 7.1.0
@@ -293,12 +293,12 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.IAP26_0.0.2_iphoneos-arm.deb
-Size: 14696
-MD5sum: 526def0fc1b86a9d0470586a72e15f11
-SHA1: 37c3609c2ab832c3141497611bcbfe1f9a92c335
-SHA256: 746d8f522c2f69eddf714a37a8c56e76212122787d1f5fa31570c0c47e0ec6da
+Size: 14686
+MD5sum: 5ff5af018a47390d7305c0ae8babdb1b
+SHA1: 33f4de5cd640a1809aad7d2d3a2b149dbfe8a0be
+SHA256: e7e5b07685410546dd35b0b4432f7273e3b2b71358935ba4caac52449cd9723f
 Section: Tweaks
-Description: iOS最强本地内购插件！
+Description: Strongest local in-app purchase plug-in.
 Author: JustinPet26
 Name: iAP26
 
@@ -464,31 +464,31 @@ Description: System information in Settings app > General > About, and other sec
 Author: ARX8x
 Name: System Info
 
-Package: zntxyu.System.Info.CN
+Package: zntxyu.System.Info.zh-CN
 Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.System.Info.CN_1.0.0_iphoneos-arm.deb
-Size: 82668
-MD5sum: 6d610f2e022550945e2232ded3e9a85c
-SHA1: 4e3015540693b4c24d4eb184521480a3a20fa682
-SHA256: 16f287e46d5e57be45bc5c9ea232d76988eb83db06d606e9f8e063323f1c4975
+Filename: ./debs/zntxyu.System.Info.zh-CN_1.0.0_iphoneos-arm.deb
+Size: 82686
+MD5sum: 8269618e7f9cd5c96f358b6290f1ad36
+SHA1: 728e40536366927c6ae647be8a24fd9b0920f0d6
+SHA256: 6db4c44c3ca9f8f508dcd6dc7f0085ce6b415defc15794eaabdd0ff3f42ae31d
 Section: Localization
-Description: SystemInfo 简体中文包
+Description: SystemInfo简体中文包。
 Author: Zntxyu
-Name: SystemInfo 简体中文包
+Name: SystemInfo zh-CN
 
 Package: zntxyu.VPNMaster.Crack
 Version: 2.0-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.VPNMaster.Crack_2.0-1_iphoneos-arm.deb
-Size: 129472
-MD5sum: 03147dab1d74c9018cffcac13baebd69
-SHA1: 611af293099a1d0e958dd4a88b821de3b1a79ea1
-SHA256: 48cd8057e32e2b4a97626a930f448d017113387cf9ca44206b531b2cbc5e81e2
+Size: 129520
+MD5sum: 38001cd0727e1aec0ff0e64b499a2784
+SHA1: 21b35069de635095ae2e42948b8be4e829bc24df
+SHA256: 8c411563437c243451d05dc83da9077162ba1f8d462b616ac14a8e7192c3cf05
 Section: Tweaks
-Description: VPN Master Crack.
+Description: VPN Master开启高级权限。
 Author: 7Loopy
 Name: VPN Master Crack
 
