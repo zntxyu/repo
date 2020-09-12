@@ -100,20 +100,34 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Linus Yang, Karen/あけみ
 Name: AppSync Unified
 
-Package: zntxyu.Axon
+Package: zntxyu.Apps.Manager
+Version: 1.5.4-4k
+Architecture: iphoneos-arm
+Conflicts: com.tigisoftware.appdatamanager
+Filename: ./debs/zntxyu.Apps.Manager_1.5.4-4k_iphoneos-arm.deb
+Size: 1914646
+MD5sum: 7fd54bbcc13e69f4743aacb9b8a1e3a0
+SHA1: 4b12294d3c96c719892de702e12dc40733f18ad0
+SHA256: d6d5c619a034095f0d79eff2043a4c74aa01a5058ee563ebebe5b45c65b41bdc
+Section: Utilities
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps.
+Author: TIGI Software
+Name: Apps Manager
+
+Package: zntxyu.Axon.Reborn
 Version: 2.0.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debs/zntxyu.Axon_2.0.0_iphoneos-arm.deb
-Size: 194096
-MD5sum: 514b709cc38822ae881c18d307fa1253
-SHA1: d075ec5375cc7618883bcdca61e8134340ada8c3
-SHA256: 7b95590807bef99cdce1da96a5d92410ba1d723b318259ef2030a0c9afec8857
+Conflicts: com.peterdev.grupi, me.nepeta.axon, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/zntxyu.Axon.Reborn_2.0.0_iphoneos-arm.deb
+Size: 194124
+MD5sum: e023100114b38fc5112a71d4e618cce5
+SHA1: 981bc16dfe9d8124c954ea920a2b3abf5a5086f3
+SHA256: 362d0bc7920d40a4b1463cfb3d7de563788441e7c92716bd2e213733195e781c
 Section: Tweaks
-Description: Priority Hub for iOS 11/12/13.
+Description: Priority Hub for iOS 13.
 Author: Nepeta
-Name: Axon
+Name: Axon Reborn
 
 Package: zntxyu.BetterCCxi.Fix
 Version: 1.6.0
@@ -149,12 +163,12 @@ Architecture: iphoneos-arm
 Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: com.rpetrich.cacheclearer, com.julioverne.cacheclearer11
 Filename: ./debs/zntxyu.CacheClearer_0.2_iphoneos-arm.deb
-Size: 15842
-MD5sum: cbfe3e1acb35254030b9a872da749958
-SHA1: e8708a4d45e784e0aa6a0e402d7927e721041abc
-SHA256: 24f5a93fbaee61c14f03c22f247d720e41101912a1686d968e3a3ddd6007659a
+Size: 15728
+MD5sum: e3e3a462f643741de9c3b0e69c43a1d1
+SHA1: 721de546a898d8770a45b1d0049c50c3f7aea7bc
+SHA256: 0243b2bd665f97a7b3f46f6f6874bd32c792706e24ad557566b839aa148783bb
 Section: Tweaks
-Description: 从设置-通用-储存空间的应用使用情况中快速重置应用和清理应用缓存，修复iOS13无反应问题。
+Description: Clear app caches from the Usage section in Settings.
 Author: Julioverne, Netskao
 Name: CacheClearer
 
@@ -259,20 +273,6 @@ Section: Tweaks
 Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
-
-Package: zntxyu.HideSeparator
-Version: 1.9.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.HideSeparator_1.9.1_iphoneos-arm.deb
-Size: 12790
-MD5sum: 5ae7cb7f88e6a711c828fa7d874c777d
-SHA1: c033b0c618e9f51e3ae8a9524a222916e91b1f58
-SHA256: 79a9833495cdac395cc9a2d04dd5cab8f838148f0dd0dffae62532c5c3361ce3
-Section: Tweaks
-Description: Hide system-wide separator (including third-party Apps)
-Author: iBreak
-Name: Hide Separator
 
 Package: zntxyu.HideSeparators
 Version: 1.1-1
@@ -540,14 +540,14 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.WZYD.NoAds_1.0-1_iphoneos-arm.deb
-Size: 129002
-MD5sum: b74e85ebcbda53529aa240e69b59c60e
-SHA1: c75ed981fc3e2fdf6ebb32cf1de612f7516d584d
-SHA256: e71934ff255a2dd951b8e9c141a918e774fae34cced9b32231624c3541c6c57e
+Size: 129010
+MD5sum: 8000b79345e92de3a53e2f2deef35de2
+SHA1: 7a187cb207d0e3167e9154e6089da4db6eeeb8f0
+SHA256: 80219e2600645afdfb4f3032a9f4806bb1f731e4b9cb1ee41d33bdc966f2401a
 Section: Tweaks
 Description: 王者营地去广告。
 Author: 7Loopy
-Name: 王者营地 去广告
+Name: 王者营地 NoAds
 
 Package: zntxyu.WeiBo.NoAds
 Version: 0.1-1
@@ -555,13 +555,13 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.WeiBo.NoAds_0.1-1_iphoneos-arm.deb
 Size: 8134
-MD5sum: 96d9b40887ad7f919fba23ed6c41ceaa
-SHA1: e50c05c7c9b32593968d050bc7aa2edcd22788b6
-SHA256: e47fa450317d88ec7f4cc271a7e6228de4c84e077aa5eb322271861a45971839
+MD5sum: 007d530408b89392446a87d30244810b
+SHA1: 1ec264d04677454301235d42a994d17b4932afd0
+SHA256: a5c09642dfc3f139b6cc52c3ce0feb3f9f0c5ea55624f718a4233c880e9db4bf
 Section: Tweaks
 Description: 微博去广告。
 Author: xia0
-Name: 微博 去广告
+Name: 微博 NoAds
 
 Package: zntxyu.YueHei+Panton
 Version: 1.0
