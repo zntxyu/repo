@@ -302,6 +302,34 @@ Description: Strongest local in-app purchase plug-in.
 Author: JustinPet26
 Name: iAP26
 
+Package: zntxyu.Install.Percentage
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
+Size: 162470
+MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
+SHA1: 8108c77afe334c708eda19fa635ff6295491535c
+SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
+Section: System
+Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
+Author: Zntxyu
+Name: Install Percentage
+
+Package: zntxyu.Installed
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, cydia
+Filename: ./debs/zntxyu.Installed_1.0_iphoneos-arm.deb
+Size: 12822
+MD5sum: 12e96b24668c316393cffaa3a3c2ae46
+SHA1: 77622d3ff9ac9db78ed4ca8b53637ed12a68b7dc
+SHA256: fbf9646a5d78f80a4404fa682000072d0961682d54e300d5bbc596c9cd93c281
+Section: Tweaks
+Description: Show number of installed packages from each source in Cydia.
+Author: level3tjg
+Name: Installed
+
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
