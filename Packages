@@ -330,6 +330,19 @@ Description: Show number of installed packages from each source in Cydia.
 Author: level3tjg
 Name: Installed
 
+Package: zntxyu.Liaca
+Version: 3.7
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.Liaca_3.7_iphoneos-arm.deb
+Size: 10217632
+MD5sum: 71b92f0fba346f165a4063080e462d76
+SHA1: 22407e005468fb57835f91356cf26418f6792b98
+SHA256: 36d134cd5d3045f642faef6a44133807b05d0b6b2e9512f56c6eb0051a6ebff9
+Section: Themes
+Description: Beautiful Liaca Themes.
+Author: Devy_Design
+Name: Liaca
+
 Package: zntxyu.MIX.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
