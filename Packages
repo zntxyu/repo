@@ -96,19 +96,19 @@ Description: Enhance your control center on iOS13.
 Author: ATWiiks
 Name: BetterCCXI Fix
 
-Package: zntxyu.CCModules+
+Package: zntxyu.CCModules
 Version: 1.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/zntxyu.CCModules+_1.0_iphoneos-arm.deb
-Size: 177440
-MD5sum: 723f28a38f55de243689ab14342efd7f
-SHA1: 2896613e67b6fe2955d4c59a2de68a2fdd9ff816
-SHA256: 23bc5fbc5536f7281fb010cb74f17bb7d2772469e61998c31d175662b2d2b8d6
+Filename: ./debs/zntxyu.CCModules_1.0_iphoneos-arm.deb
+Size: 139958
+MD5sum: e7e3c56b393090a1e4a56381d01eb6c7
+SHA1: 33c82f91f2b94d5c639c164194ae2dcfe6a5721a
+SHA256: 3834db03cb0a54aaaeb9d322f8b0b82c8480488e96387fbd6bc5d60a6a0dd9de
 Section: Tweaks
-Description: CCModules+.
+Description: CCModules.
 Author: zntxyu
-Name: CCModules+
+Name: CCModules
 
 Package: zntxyu.CacheClearer
 Version: 0.2
@@ -256,13 +256,13 @@ Author: JustinPet26
 Name: iAP26
 
 Package: zntxyu.Liaca
-Version: 3.7
+Version: 3.8
 Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.Liaca_3.7_iphoneos-arm.deb
-Size: 10217632
-MD5sum: 71b92f0fba346f165a4063080e462d76
-SHA1: 22407e005468fb57835f91356cf26418f6792b98
-SHA256: 36d134cd5d3045f642faef6a44133807b05d0b6b2e9512f56c6eb0051a6ebff9
+Filename: ./debs/zntxyu.Liaca_3.8_iphoneos-arm.deb
+Size: 10285884
+MD5sum: 17fe6b17142e6382928bb1ec9cb77640
+SHA1: 9721345f6bc2bc1153cea7dd0e61d3103cd0418e
+SHA256: 441251d6dc651c81ccfec395a6a37abfd60e165cfd1678a05ab8e7b0883ebe5d
 Section: Themes
 Description: Beautiful Liaca Themes.
 Author: Devy_Design
