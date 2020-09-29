@@ -1,21 +1,3 @@
-Package: com.michael.appleturboboost
-Version: 0.6.7
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware (>= 12.0)
-Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.6.7_iphoneos-arm.deb
-Size: 11088
-MD5sum: 7c33316c5558644215c15800feb15abc
-SHA1: 94449fdadbf568b5b7a66fb36196a348ccd81daf
-SHA256: c30d168ee5a9befbec961e1e2ff5d513078340ac12ea7deb5ee236250e24fdf9
-Section: System
-Description: Turbo Boost Your Apple!
- Turbo Boost Your Apple!
- Support iOS12~13.
-Author: Halo_Michael <yc992147156@me.com>
-Name: Apple Turbo Boost
-
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
@@ -56,21 +38,6 @@ Section: System
 Description: Allow third-party keyboards to gain priority authority.
 Author: iBreak
 Name: Allow.KeyBoard
-
-Package: zntxyu.AppStore++
-Version: 0.9.12
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/zntxyu.AppStore++_0.9.12_iphoneos-arm.deb
-Size: 616634
-MD5sum: 2e87f070081f4091c1715b5bbc7f9f2a
-SHA1: 11162e3df8dce7e1df909764f29b3fd045033dee
-SHA256: cc69d3a460be9297dd79bc3dc5ab70714830571abfef3639424620ae8998ecdb
-Section: Tweaks
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
-Author: CokePokes
-Name: AppStore++
 
 Package: zntxyu.AppStore++.zh-CN
 Version: 1.1-3
@@ -302,34 +269,6 @@ Description: Strongest local in-app purchase plug-in.
 Author: JustinPet26
 Name: iAP26
 
-Package: zntxyu.Install.Percentage
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
-Size: 162470
-MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
-SHA1: 8108c77afe334c708eda19fa635ff6295491535c
-SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
-Section: System
-Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
-Author: Zntxyu
-Name: Install Percentage
-
-Package: zntxyu.Installed
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, cydia
-Filename: ./debs/zntxyu.Installed_1.0_iphoneos-arm.deb
-Size: 12822
-MD5sum: 12e96b24668c316393cffaa3a3c2ae46
-SHA1: 77622d3ff9ac9db78ed4ca8b53637ed12a68b7dc
-SHA256: fbf9646a5d78f80a4404fa682000072d0961682d54e300d5bbc596c9cd93c281
-Section: Tweaks
-Description: Show number of installed packages from each source in Cydia.
-Author: level3tjg
-Name: Installed
-
 Package: zntxyu.Liaca
 Version: 3.7
 Architecture: iphoneos-arm
@@ -431,23 +370,6 @@ Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
 
-Package: zntxyu.SnowBoard
-Version: 1.3.9~Beta3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/zntxyu.SnowBoard_1.3.9~Beta3_iphoneos-arm.deb
-Size: 2089878
-MD5sum: 2018049d7c3d91c6be2161a813d94ac5
-SHA1: 575fd57e2f13106c3211ab91ffda69d989765170
-SHA256: c4665d8b725e4d64990b5ad845f65ffc99f1d2db780eed1b62c0dd009864c4ce
-Section: Tweaks
-Description: Snowboard theming engine
-Author: Spark & Dennis D. Bednarz
-Name: SnowBoard
-
 Package: zntxyu.SpotiLife
 Version: 1.3
 Architecture: iphoneos-arm
@@ -533,34 +455,6 @@ Description: VPN Master开启高级权限。
 Author: 7Loopy
 Name: VPN Master Crack
 
-Package: zntxyu.Veexillum
-Version: 2.0.0
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.Veexillum_2.0.0_iphoneos-arm.deb
-Size: 39138070
-MD5sum: 09b263f66cbc5a388576a77b598dcf35
-SHA1: 58c9728ae98f89812b76ab36abb10afc83cdcb26
-SHA256: 09fcddd4452b7dc2026a7fb33503962a4fe85eb3d8ca3ce87fdd89198136ae57
-Section: Themes
-Description: Veexillum is a beautiful, simple & modern theme for iOS!
-Author: XG
-Name: Veexillum
-
-Package: zntxyu.Vinyl
-Version: 1.0.7.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debs/zntxyu.Vinyl_1.0.7.2_iphoneos-arm.deb
-Size: 352900
-MD5sum: 82efeeb0a8c61fe0e5592fdbb996c233
-SHA1: 5228d09a5700324520592ed223bc562420901b60
-SHA256: e80c7b240ef4a00a987a532d7ef814781b006111755050498539b9f295f21128
-Section: Tweaks
-Priority: optional
-Description: A simplified look for the lockscreen music player!
-Author: Lightmann
-Name: Vinyl
-
 Package: zntxyu.Voltage
 Version: 1.6.2
 Architecture: iphoneos-arm
@@ -575,20 +469,6 @@ Section: Tweaks
 Description: Suppress banners in apps.
 Author: Summer Triangle
 Name: Eyeplugs
-
-Package: zntxyu.WZYD.NoAds
-Version: 1.0-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.WZYD.NoAds_1.0-1_iphoneos-arm.deb
-Size: 129010
-MD5sum: 8000b79345e92de3a53e2f2deef35de2
-SHA1: 7a187cb207d0e3167e9154e6089da4db6eeeb8f0
-SHA256: 80219e2600645afdfb4f3032a9f4806bb1f731e4b9cb1ee41d33bdc966f2401a
-Section: Tweaks
-Description: 王者营地去广告。
-Author: 7Loopy
-Name: 王者营地 NoAds
 
 Package: zntxyu.WeiBo.NoAds
 Version: 0.1-1
