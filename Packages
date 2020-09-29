@@ -25,20 +25,6 @@ Description: EQE presets.
 Author: Zntxyu
 Name: AirPods EQE Presets
 
-Package: zntxyu.Allow.KeyBoard
-Version: 1.5
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Allow.KeyBoard_1.5_iphoneos-arm.deb
-Size: 9096
-MD5sum: 706dedefa04e0591304100f4a7f04424
-SHA1: 38b2396fa136998928f9d70fe50037df91e9aec6
-SHA256: 39246d969ed6c5ab971c4328721f9623b74293ce0d5374d6f39f1d1a6c2351f7
-Section: System
-Description: Allow third-party keyboards to gain priority authority.
-Author: iBreak
-Name: Allow.KeyBoard
-
 Package: zntxyu.AppStore++.zh-CN
 Version: 1.1-3
 Architecture: iphoneos-arm
@@ -369,6 +355,20 @@ Section: Tweaks
 Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
+
+Package: zntxyu.SmartNetwork
+Version: 1.1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkapplist, ws.hbang.common
+Filename: ./debs/zntxyu.SmartNetwork_1.1.0_iphoneos-arm.deb
+Size: 66216
+MD5sum: 9c34db3f31631441e4e8ffb4cd2d9e79
+SHA1: e1e66c2f3d5b28748a68d272fbdc3d116252c923
+SHA256: aef1481bf31093017db1f49e79490b2e152aed2652d5ed56be2031188571977f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: elias
+Name: SmartNetwork
 
 Package: zntxyu.SpotiLife
 Version: 1.3
