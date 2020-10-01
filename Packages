@@ -44,15 +44,15 @@ Author: Zntxyu
 Name: AirPods EQE Presets
 
 Package: zntxyu.AppStore++
-Version: 0.9.12
+Version: 0.9.13-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/zntxyu.AppStore++_0.9.12_iphoneos-arm.deb
-Size: 616634
-MD5sum: 2e87f070081f4091c1715b5bbc7f9f2a
-SHA1: 11162e3df8dce7e1df909764f29b3fd045033dee
-SHA256: cc69d3a460be9297dd79bc3dc5ab70714830571abfef3639424620ae8998ecdb
+Filename: ./debs/zntxyu.AppStore++_0.9.13-2_iphoneos-arm.deb
+Size: 680100
+MD5sum: adb15d2d13b6ab4a98f17399d667019a
+SHA1: 0e42f2c4f1a2f909043c516689fa772a50e562e4
+SHA256: 2f92cf5df8c99bea78692042c65fd0c8a80c853ae26308d768270ed3427e55fd
 Section: Tweaks
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
 Author: CokePokes
@@ -389,20 +389,6 @@ Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
 
-Package: zntxyu.SmartNetwork
-Version: 1.1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkapplist, ws.hbang.common
-Filename: ./debs/zntxyu.SmartNetwork_1.1.0_iphoneos-arm.deb
-Size: 66216
-MD5sum: 9c34db3f31631441e4e8ffb4cd2d9e79
-SHA1: e1e66c2f3d5b28748a68d272fbdc3d116252c923
-SHA256: aef1481bf31093017db1f49e79490b2e152aed2652d5ed56be2031188571977f
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: elias
-Name: SmartNetwork
-
 Package: zntxyu.SnowBoard
 Version: 1.3.9~Beta3
 Architecture: iphoneos-arm
@@ -421,14 +407,14 @@ Author: Spark & Dennis D. Bednarz
 Name: SnowBoard
 
 Package: zntxyu.SpotiLife
-Version: 1.3
+Version: 1.3a
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.SpotiLife_1.3_iphoneos-arm.deb
-Size: 200246
-MD5sum: 50055884bc3f3fb5ec42e70c4b461941
-SHA1: 176a44f1c1d5e8663cd8f30ac4a0c8820f5a7212
-SHA256: 9cebcf991623f260a6b58aeccab358039a67f9f7561f2f1d9532b528de64e165
+Filename: ./debs/zntxyu.SpotiLife_1.3a_iphoneos-arm.deb
+Size: 200272
+MD5sum: 19ef1f647d24ff46c6001d9e99f90bee
+SHA1: c757a164c4e75615148604f1992003c4cc8e70a7
+SHA256: 9b3866393cf596ac74e0de21d2defbed7985e238b012e2520ef9856be318afad
 Section: Tweaks
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked.
 Author: julioverne
@@ -506,14 +492,14 @@ Author: 7Loopy
 Name: VPN Master Crack
 
 Package: zntxyu.Vinyl
-Version: 1.0.7.2
+Version: 1.0.7.3
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debs/zntxyu.Vinyl_1.0.7.2_iphoneos-arm.deb
-Size: 352900
-MD5sum: 82efeeb0a8c61fe0e5592fdbb996c233
-SHA1: 5228d09a5700324520592ed223bc562420901b60
-SHA256: e80c7b240ef4a00a987a532d7ef814781b006111755050498539b9f295f21128
+Filename: ./debs/zntxyu.Vinyl_1.0.7.3_iphoneos-arm.deb
+Size: 360154
+MD5sum: 74175b57895b0c7b7bf7d93414f21c89
+SHA1: 550818ee06bf07cbb9526133ec5cfae14ca146c7
+SHA256: 058a61ba81834fba294b1eb628d9b15d9395b10e4ccaccfcb1e1f6c7efa40fdd
 Section: Tweaks
 Priority: optional
 Description: A simplified look for the lockscreen music player!
