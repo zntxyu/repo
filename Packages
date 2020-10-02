@@ -375,6 +375,20 @@ Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
 
+Package: zntxyu.ShadowLink.Crack
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.ShadowLink.Crack_1.0_iphoneos-arm.deb
+Size: 1386066
+MD5sum: 0c37fa78f8c5c2df1f9b18fb075110be
+SHA1: 1a92e177edf11a7e822fd4633618c0568654dc42
+SHA256: b14a40b683ad5ed4171dc0374d5601bff71a8f3c3f255f8955d4df9283fb832d
+Section: Tweaks
+Description: ShadowLink Crack.
+Author: Zntxyu
+Name: ShadowLink Crack
+
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
 Architecture: iphoneos-arm
