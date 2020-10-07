@@ -389,6 +389,20 @@ Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
 
+Package: zntxyu.SmartNetwork
+Version: 1.1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkapplist, ws.hbang.common
+Filename: ./debs/zntxyu.SmartNetwork_1.1.0_iphoneos-arm.deb
+Size: 66216
+MD5sum: 9c34db3f31631441e4e8ffb4cd2d9e79
+SHA1: e1e66c2f3d5b28748a68d272fbdc3d116252c923
+SHA256: aef1481bf31093017db1f49e79490b2e152aed2652d5ed56be2031188571977f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: elias
+Name: SmartNetwork
+
 Package: zntxyu.SnowBoard
 Version: 1.4.0~Beta4
 Architecture: iphoneos-arm
