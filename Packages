@@ -187,14 +187,14 @@ Author: Zntxyu
 Name: CyDown zh-CN
 
 Package: zntxyu.Cydown
-Version: 7.1.0
+Version: 7.1.1
 Architecture: iphoneos-arm
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyu.Cydown_7.1.0_iphoneos-arm.deb
-Size: 4325538
-MD5sum: 783e5aa860da284ec54052bf1c13c6cf
-SHA1: b5ac7312e40279ae992c9487cf7dbddb629dee1e
-SHA256: adac44422757a59be15d6ff55b85654e934cdc1e02d9da600ccfb4dbe9804572
+Filename: ./debs/zntxyu.Cydown_7.1.1_iphoneos-arm.deb
+Size: 4357966
+MD5sum: 03f8dc368dd0157d17c2c390ba0d423e
+SHA1: 7e2dd4dd6b0dd44305ebe88badfc394f5b7136b0
+SHA256: 1dfd1e815c15bc4b2df2976e96530f7cb8addcb48eed785093e6be4886919272
 Section: Tweaks
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne
