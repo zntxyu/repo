@@ -87,14 +87,14 @@ Author: Linus Yang, Karen/あけみ
 Name: AppSync Unified
 
 Package: zntxyu.Apps.Manager
-Version: 1.5.4-4k
+Version: 1.6.0-2k
 Architecture: iphoneos-arm
 Conflicts: com.tigisoftware.appdatamanager
-Filename: ./debs/zntxyu.Apps.Manager_1.5.4-4k_iphoneos-arm.deb
-Size: 1914646
-MD5sum: 7fd54bbcc13e69f4743aacb9b8a1e3a0
-SHA1: 4b12294d3c96c719892de702e12dc40733f18ad0
-SHA256: d6d5c619a034095f0d79eff2043a4c74aa01a5058ee563ebebe5b45c65b41bdc
+Filename: ./debs/zntxyu.Apps.Manager_1.6.0-2k_iphoneos-arm.deb
+Size: 1919528
+MD5sum: cf1ec53865de6050a79b0000acd2d4d0
+SHA1: cb4e83a89b18536378ef8f4d0d47e986cfe850c5
+SHA256: d80a11cbb412741e9b2598fb14667ca8109ff0526fe222470665b8ec1ce8419f
 Section: Utilities
 Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps.
 Author: TIGI Software
