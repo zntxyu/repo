@@ -302,6 +302,34 @@ Description: Strongest local in-app purchase plug-in.
 Author: JustinPet26
 Name: iAP26
 
+Package: zntxyu.Install.Percentage
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Install.Percentage_0.0.1_iphoneos-arm.deb
+Size: 162470
+MD5sum: 0b8cd6b96dd5f7965dc805c877196ca7
+SHA1: 8108c77afe334c708eda19fa635ff6295491535c
+SHA256: 41cd3cf1247f8c937ce13d987c34600d85e46ca432d1e4e8453d550e364f10ef
+Section: System
+Description: 为桌面下载应用时添加百分比进度显示，添加下载成功通知。
+Author: Zntxyu
+Name: Install Percentage
+
+Package: zntxyu.JDQuan
+Version: 0.2-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/zntxyu.JDQuan_0.2-2_iphoneos-arm.deb
+Size: 184340
+MD5sum: 7de9a85094f7660061206fd34055d35d
+SHA1: 5152128802696128fe17845e9ab4920d33e5293a
+SHA256: 7a266323fc2fbabc9ca29000e30766e1e14ecd7b580bf9cbaeb8008bd9ccc223
+Section: Tweaks
+Priority: optional
+Author: Mao
+Name: 京东优惠券
+
 Package: zntxyu.Liaca
 Version: 3.8
 Architecture: iphoneos-arm
@@ -548,6 +576,20 @@ Section: Tweaks
 Description: 微博去广告。
 Author: xia0
 Name: 微博 NoAds
+
+Package: zntxyu.YouQuan
+Version: 2.1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/zntxyu.YouQuan_2.1.0_iphoneos-arm.deb
+Size: 195946
+MD5sum: 51f0b61eecbd1e8c087f448b52b2dab6
+SHA1: ca06a4b4f77005c55b529ba0063fb6d8ca12af9d
+SHA256: af4f93f7310356794efa6fbcbca9fabd76743cfa1e6c61d950296047be4c6316
+Section: Tweaks
+Priority: optional
+Author: Mao
+Name: 淘宝优惠券
 
 Package: zntxyu.YueHei+Panton
 Version: 1.0
