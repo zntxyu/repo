@@ -321,12 +321,13 @@ Version: 0.2-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/zntxyu.JDQuan_0.2-2_iphoneos-arm.deb
-Size: 184340
-MD5sum: 7de9a85094f7660061206fd34055d35d
-SHA1: 5152128802696128fe17845e9ab4920d33e5293a
-SHA256: 7a266323fc2fbabc9ca29000e30766e1e14ecd7b580bf9cbaeb8008bd9ccc223
+Size: 184358
+MD5sum: 94ac53a0a98a44b12b373d73cc168aa3
+SHA1: b71b25853e963c21316bbd5722954a89d0105637
+SHA256: 08e59516c3d8546e708e1465b2292ed0cd30e3a161bbc999c7ab9f02fc884bfd
 Section: Tweaks
 Priority: optional
+Description: 京东优惠券。
 Author: Mao
 Name: 京东优惠券
 
@@ -582,12 +583,13 @@ Version: 2.1.0
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/zntxyu.YouQuan_2.1.0_iphoneos-arm.deb
-Size: 195946
-MD5sum: 51f0b61eecbd1e8c087f448b52b2dab6
-SHA1: ca06a4b4f77005c55b529ba0063fb6d8ca12af9d
-SHA256: af4f93f7310356794efa6fbcbca9fabd76743cfa1e6c61d950296047be4c6316
+Size: 195958
+MD5sum: e4ce751a811b9936eebde2d1b2a10e60
+SHA1: b56447d2903d951a3d0e49f9279224c13a362e4a
+SHA256: 88fb5909d0c7acf5c070c95ff0025a93642816e1ab8d19318343501591146f4a
 Section: Tweaks
 Priority: optional
+Description: 淘宝优惠券。
 Author: Mao
 Name: 淘宝优惠券
 
