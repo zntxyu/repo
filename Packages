@@ -260,6 +260,20 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
+Package: zntxyu.Good.WiFi
+Version: 0.0~beta5a
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/zntxyu.Good.WiFi_0.0~beta5a_iphoneos-arm.deb
+Size: 121412
+MD5sum: 674f9a9dce28b9115830082a0532a7ba
+SHA1: 432b1a167aad53603c81dd0eeb6506d3a61c9fb3
+SHA256: 776404f1f7b18d3d3de7d99e94ab6df57ba3940f00e1de44fb388751cfdd4995
+Section: Tweaks
+Description: Better WiFi Preferences.
+Author: julioverne
+Name: GoodWiFi
+
 Package: zntxyu.HideSeparators
 Version: 1.1-1
 Architecture: iphoneos-arm
