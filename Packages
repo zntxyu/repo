@@ -246,6 +246,20 @@ Description: Better WiFi Preferences.
 Author: julioverne
 Name: GoodWiFi
 
+Package: zntxyu.HideSeparators
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.HideSeparators_1.1-1_iphoneos-arm.deb
+Size: 4324
+MD5sum: 7aa6199dd4b2edb4ab9672eff1bab729
+SHA1: f2e3d14c62f9fe19d2dbd62db5bfe5b30b1ac5be
+SHA256: cad92cf044f5e37795068398d1a2d00dce7e513c272615a207554faba37ffea4
+Section: Tweaks
+Description: HideSeparators.
+Author: Netskao
+Name: HideSeparators
+
 Package: zntxyu.IAP26
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -260,6 +274,21 @@ Description: Strongest local in-app purchase plug-in.
 Author: JustinPet26
 Name: iAP26
 
+Package: zntxyu.JDQuan
+Version: 0.2-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/zntxyu.JDQuan_0.2-2_iphoneos-arm.deb
+Size: 184358
+MD5sum: 94ac53a0a98a44b12b373d73cc168aa3
+SHA1: b71b25853e963c21316bbd5722954a89d0105637
+SHA256: 08e59516c3d8546e708e1465b2292ed0cd30e3a161bbc999c7ab9f02fc884bfd
+Section: Tweaks
+Priority: optional
+Description: 京东优惠券。
+Author: Mao
+Name: 京东优惠券
+
 Package: zntxyu.Liaca
 Version: 3.8
 Architecture: iphoneos-arm
@@ -272,6 +301,34 @@ Section: Themes
 Description: Beautiful Liaca Themes.
 Author: Devy_Design
 Name: Liaca
+
+Package: zntxyu.MIX.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
+Size: 69106
+MD5sum: 08251042ba3cfa9f378012e512885c88
+SHA1: aaa1ad2a50ba6e57c6e012828173bf3761247c09
+SHA256: 5652add5f9322afeeb395cc3f9e619b850cc67b58733bd2695b779ea544850f9
+Section: Tweaks
+Description: MIX滤镜大师开启全滤镜下载权限和全功能。
+Author: 7Loopy
+Name: MIX滤镜大师 Crack
+
+Package: zntxyu.PTJ.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
+Size: 68558
+MD5sum: 399697ace885efab250c28cbff8e3348
+SHA1: 1a10edd24fd4b321002db9ae0fdd6c699b603e4e
+SHA256: 5b20c08e8a2386039def718e02bff4b62839c125cc27427a421b5614db4de769
+Section: Tweaks
+Description: 拼图酱开启高级权限。
+Author: 7Loopy
+Name: 拼图酱 Crack
 
 Package: zntxyu.PhotoInfo
 Version: 1.0
@@ -286,6 +343,20 @@ Section: Tweaks
 Description: Show photo resolution and disk usage in app.
 Author: shepgoba
 Name: PhotoInfo
+
+Package: zntxyu.PicsArt.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
+Size: 69198
+MD5sum: 01bf436d96a942f85aeddbba17e50055
+SHA1: d4fca141b3f1fff91490cf2dd01748e68095f143
+SHA256: fe7a7da83d41b31e24c9fe52a396fef6c8bcb9894e1e2f47379423c622abe4b7
+Section: Tweaks
+Description: PicsArt美易开启高级权限。
+Author: 7Loopy
+Name: PicsArt美易 Crack
 
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
@@ -407,6 +478,20 @@ Description: SystemInfo简体中文包。
 Author: Zntxyu
 Name: SystemInfo zh-CN
 
+Package: zntxyu.VPNMaster.Crack
+Version: 2.0-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.VPNMaster.Crack_2.0-1_iphoneos-arm.deb
+Size: 129520
+MD5sum: 38001cd0727e1aec0ff0e64b499a2784
+SHA1: 21b35069de635095ae2e42948b8be4e829bc24df
+SHA256: 8c411563437c243451d05dc83da9077162ba1f8d462b616ac14a8e7192c3cf05
+Section: Tweaks
+Description: VPN Master开启高级权限。
+Author: 7Loopy
+Name: VPN Master Crack
+
 Package: zntxyu.Vinyl
 Version: 1.0.7.3
 Architecture: iphoneos-arm
@@ -436,6 +521,21 @@ Section: Tweaks
 Description: Suppress banners in apps.
 Author: Summer Triangle
 Name: Eyeplugs
+
+Package: zntxyu.YouQuan
+Version: 2.1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/zntxyu.YouQuan_2.1.0_iphoneos-arm.deb
+Size: 195958
+MD5sum: e4ce751a811b9936eebde2d1b2a10e60
+SHA1: b56447d2903d951a3d0e49f9279224c13a362e4a
+SHA256: 88fb5909d0c7acf5c070c95ff0025a93642816e1ab8d19318343501591146f4a
+Section: Tweaks
+Priority: optional
+Description: 淘宝优惠券。
+Author: Mao
+Name: 淘宝优惠券
 
 Package: zntxyu.YueHei+Panton
 Version: 1.0
