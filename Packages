@@ -25,20 +25,6 @@ Description: EQE presets.
 Author: Zntxyu
 Name: AirPods EQE Presets
 
-Package: zntxyu.AppSync.Unified
-Version: 84.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Filename: ./debs/zntxyu.AppSync.Unified_84.0_iphoneos-arm.deb
-Size: 63822
-MD5sum: b02e612ccf939f362ca974188f554dfd
-SHA1: 203a561d3a811682f0dec5d689337da56cc054f2
-SHA256: a65629c9ff93436558dcbf1caa474c6b6c535fdf5f58bc15fe47e37beb9737fd
-Section: Tweaks
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Linus Yang, Karen/あけみ
-Name: AppSync Unified
-
 Package: zntxyu.BetterCCxi.Fix
 Version: 1.6.0
 Architecture: iphoneos-arm
@@ -66,21 +52,6 @@ Section: Tweaks
 Description: CCModules.
 Author: zntxyu
 Name: CCModules
-
-Package: zntxyu.CacheClearer
-Version: 0.2
-Architecture: iphoneos-arm
-Depends: firmware (>= 7.0), mobilesubstrate
-Conflicts: com.rpetrich.cacheclearer, com.julioverne.cacheclearer11
-Filename: ./debs/zntxyu.CacheClearer_0.2_iphoneos-arm.deb
-Size: 15728
-MD5sum: e3e3a462f643741de9c3b0e69c43a1d1
-SHA1: 721de546a898d8770a45b1d0049c50c3f7aea7bc
-SHA256: 0243b2bd665f97a7b3f46f6f6874bd32c792706e24ad557566b839aa148783bb
-Section: Tweaks
-Description: Clear app caches from the Usage section in Settings.
-Author: Julioverne, Netskao
-Name: CacheClearer
 
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
@@ -236,34 +207,6 @@ Description: Get percentages for the sliders in the Control Center.
 Author: iOS Creatix
 Name: SugarCane
 
-Package: zntxyu.System.Info
-Version: 2.7.2-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.System.Info_2.7.2-1_iphoneos-arm.deb
-Size: 427338
-MD5sum: 7cb96bc032fe61e7aa0d8835bff8e687
-SHA1: fb2e35435e2f8078218dc414542e7eaee14e79b1
-SHA256: 65da142e4ffed0247cd3915708a8567f89d357e6a99bdd266ef962ab42efdffd
-Section: Tweaks
-Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc
-Author: ARX8x
-Name: System Info
-
-Package: zntxyu.System.Info.zh-CN
-Version: 1.0.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.System.Info.zh-CN_1.0.0_iphoneos-arm.deb
-Size: 82686
-MD5sum: 8269618e7f9cd5c96f358b6290f1ad36
-SHA1: 728e40536366927c6ae647be8a24fd9b0920f0d6
-SHA256: 6db4c44c3ca9f8f508dcd6dc7f0085ce6b415defc15794eaabdd0ff3f42ae31d
-Section: Localization
-Description: SystemInfo简体中文包。
-Author: Zntxyu
-Name: SystemInfo zh-CN
-
 Package: zntxyu.VPNMaster.Crack
 Version: 2.0-1
 Architecture: iphoneos-arm
@@ -277,21 +220,6 @@ Section: Tweaks
 Description: VPN Master开启高级权限。
 Author: 7Loopy
 Name: VPN Master Crack
-
-Package: zntxyu.Voltage
-Version: 1.6.2
-Architecture: iphoneos-arm
-Pre-Depends: firmware (>= 9.0)
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/zntxyu.Voltage_1.6.2_iphoneos-arm.deb
-Size: 56558
-MD5sum: c198300f67b74c97e4533b7f69fc9efd
-SHA1: 1e31153141213a489c440b26464da5799c4ed9a8
-SHA256: e01e365b245ffd6a21d9b3b4f0d4156c55d1cc02d0d5279156f0e98ce7641718
-Section: Tweaks
-Description: Suppress banners in apps.
-Author: Summer Triangle
-Name: Eyeplugs
 
 Package: zntxyu.YouQuan
 Version: 2.1.0
