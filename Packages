@@ -1,21 +1,3 @@
-Package: com.michael.appleturboboost
-Version: 0.6.7
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware (>= 12.0)
-Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.6.7_iphoneos-arm.deb
-Size: 11088
-MD5sum: 7c33316c5558644215c15800feb15abc
-SHA1: 94449fdadbf568b5b7a66fb36196a348ccd81daf
-SHA256: c30d168ee5a9befbec961e1e2ff5d513078340ac12ea7deb5ee236250e24fdf9
-Section: System
-Description: Turbo Boost Your Apple!
- Turbo Boost Your Apple!
- Support iOS12~13.
-Author: Halo_Michael <yc992147156@me.com>
-Name: Apple Turbo Boost
-
 Package: zntxyu.AdBlock++
 Version: 1.4.1-2
 Architecture: iphoneos-arm
