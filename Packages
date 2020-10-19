@@ -67,6 +67,35 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
+Package: zntxyu.Filza
+Version: 3.8.0-24
+Architecture: iphoneos-arm
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/zntxyu.Filza_3.8.0-24_iphoneos-arm.deb
+Size: 12894998
+MD5sum: 5ab5c8f434a8211d112361ee4b6c0bbb
+SHA1: b27ad6dae9bc4f14b6999bc143281f8bbce11119
+SHA256: 9427ed4bb4902d6a0ec0d05292772d7b723b262b0b1304dc31687efb370eb292
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
+Author: TIGI Software
+Name: Filza File Manager
+
+Package: zntxyu.Filza.Crack
+Version: 0.0.1-23+debug
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Filza.Crack_0.0.1-23+debug_iphoneos-arm.deb
+Size: 5610
+MD5sum: e2f069214b1a745daa21f1c446c55423
+SHA1: 17ba1b7947481b60e5710eecdae2aa33bfec25f5
+SHA256: 2e9280bd485c2ef8ae80d5dc32566421007e94bdfa2af2fb67961955de66ee82
+Section: Tweaks
+Description: Filza Crack
+Author: xia0z
+Name: Filza Crack
+
 Package: zntxyu.GPS.Manager
 Version: 1.8.8k
 Architecture: iphoneos-arm
@@ -179,6 +208,24 @@ Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
 
+Package: zntxyu.ReProvision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14391648
+MD5sum: 658cf82e02f112a3138f62a698505142
+SHA1: 6717ca26feb3005ee474fc745460af2e017bc1af
+SHA256: ee674b2ab01c7224cb1d0a6680fa1691b03e0143489403b69df828c66022dd7d
+Section: Utilities
+Priority: optional
+Description: Re-sign applications on your device
+Author: Matt Clarke <matt@incendo.ws>
+Dev: Matt Clarke <matt@incendo.ws>
+Name: ReProvision
+
 Package: zntxyu.SlimVolumeHUD
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -192,6 +239,21 @@ Section: Tweaks
 Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
+
+Package: zntxyu.StoreSwitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/zntxyu.StoreSwitcher2_1.0.3_iphoneos-arm.deb
+Size: 45830
+MD5sum: 2298c90d45c048fa5589a317cbb232b7
+SHA1: 52d6218ad98ca53383e056d3546dfef8abef00de
+SHA256: 74cbbbbecc29e8c144e330174c65725d8c4f3ae8d9f95b5c16ea63b33d7ec4a4
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
 
 Package: zntxyu.SugarCane
 Version: 1.1-2
