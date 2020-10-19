@@ -97,6 +97,21 @@ Description: CCModules.
 Author: zntxyu
 Name: CCModules
 
+Package: zntxyu.CacheClearer
+Version: 0.2
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.rpetrich.cacheclearer, com.julioverne.cacheclearer11
+Filename: ./debs/zntxyu.CacheClearer_0.2_iphoneos-arm.deb
+Size: 15728
+MD5sum: e3e3a462f643741de9c3b0e69c43a1d1
+SHA1: 721de546a898d8770a45b1d0049c50c3f7aea7bc
+SHA256: 0243b2bd665f97a7b3f46f6f6874bd32c792706e24ad557566b839aa148783bb
+Section: Tweaks
+Description: Clear app caches from the Usage section in Settings.
+Author: Julioverne, Netskao
+Name: CacheClearer
+
 Package: zntxyu.Cercube.for.YouTube
 Version: 5.1.18k
 Architecture: iphoneos-arm
@@ -185,6 +200,20 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
+Package: zntxyu.Good.WiFi
+Version: 0.0~beta5a
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/zntxyu.Good.WiFi_0.0~beta5a_iphoneos-arm.deb
+Size: 121412
+MD5sum: 674f9a9dce28b9115830082a0532a7ba
+SHA1: 432b1a167aad53603c81dd0eeb6506d3a61c9fb3
+SHA256: 776404f1f7b18d3d3de7d99e94ab6df57ba3940f00e1de44fb388751cfdd4995
+Section: Tweaks
+Description: Better WiFi Preferences.
+Author: julioverne
+Name: GoodWiFi
+
 Package: zntxyu.HideSeparators
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -268,6 +297,20 @@ Section: Tweaks
 Description: 拼图酱开启高级权限。
 Author: 7Loopy
 Name: 拼图酱 Crack
+
+Package: zntxyu.PhotoInfo
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PhotoInfo_1.0_iphoneos-arm.deb
+Size: 6094
+MD5sum: 23b0095f49aa3d240f92af381f286fe1
+SHA1: 5118d9f6b7b15bf0470787c98e7e5e8ba8d00e07
+SHA256: bf69d37a77d266da2918857af9aa3de505bd4d1515269147474bc71aae0e7d5d
+Section: Tweaks
+Description: Show photo resolution and disk usage in app.
+Author: shepgoba
+Name: PhotoInfo
 
 Package: zntxyu.PicsArt.Crack
 Version: 1.1-1
@@ -374,6 +417,34 @@ Section: Tweaks
 Description: Get percentages for the sliders in the Control Center.
 Author: iOS Creatix
 Name: SugarCane
+
+Package: zntxyu.System.Info
+Version: 2.7.2-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.System.Info_2.7.2-1_iphoneos-arm.deb
+Size: 427338
+MD5sum: 7cb96bc032fe61e7aa0d8835bff8e687
+SHA1: fb2e35435e2f8078218dc414542e7eaee14e79b1
+SHA256: 65da142e4ffed0247cd3915708a8567f89d357e6a99bdd266ef962ab42efdffd
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc
+Author: ARX8x
+Name: System Info
+
+Package: zntxyu.System.Info.zh-CN
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.System.Info.zh-CN_1.0.0_iphoneos-arm.deb
+Size: 82686
+MD5sum: 8269618e7f9cd5c96f358b6290f1ad36
+SHA1: 728e40536366927c6ae647be8a24fd9b0920f0d6
+SHA256: 6db4c44c3ca9f8f508dcd6dc7f0085ce6b415defc15794eaabdd0ff3f42ae31d
+Section: Localization
+Description: SystemInfo简体中文包。
+Author: Zntxyu
+Name: SystemInfo zh-CN
 
 Package: zntxyu.VPNMaster.Crack
 Version: 2.0-1
