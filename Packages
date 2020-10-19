@@ -25,6 +25,50 @@ Description: EQE presets.
 Author: Zntxyu
 Name: AirPods EQE Presets
 
+Package: zntxyu.AppStore++
+Version: 0.9.13-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/zntxyu.AppStore++_0.9.13-2_iphoneos-arm.deb
+Size: 680100
+MD5sum: adb15d2d13b6ab4a98f17399d667019a
+SHA1: 0e42f2c4f1a2f909043c516689fa772a50e562e4
+SHA256: 2f92cf5df8c99bea78692042c65fd0c8a80c853ae26308d768270ed3427e55fd
+Section: Tweaks
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
+Author: CokePokes
+Name: AppStore++
+
+Package: zntxyu.AppSync.Unified
+Version: 84.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Filename: ./debs/zntxyu.AppSync.Unified_84.0_iphoneos-arm.deb
+Size: 63822
+MD5sum: b02e612ccf939f362ca974188f554dfd
+SHA1: 203a561d3a811682f0dec5d689337da56cc054f2
+SHA256: a65629c9ff93436558dcbf1caa474c6b6c535fdf5f58bc15fe47e37beb9737fd
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ
+Name: AppSync Unified
+
+Package: zntxyu.Axon.Reborn
+Version: 2.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: com.peterdev.grupi, me.nepeta.axon, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/zntxyu.Axon.Reborn_2.0.0_iphoneos-arm.deb
+Size: 194124
+MD5sum: e023100114b38fc5112a71d4e618cce5
+SHA1: 981bc16dfe9d8124c954ea920a2b3abf5a5086f3
+SHA256: 362d0bc7920d40a4b1463cfb3d7de563788441e7c92716bd2e213733195e781c
+Section: Tweaks
+Description: Priority Hub for iOS 13.
+Author: Nepeta
+Name: Axon Reborn
+
 Package: zntxyu.BetterCCxi.Fix
 Version: 1.6.0
 Architecture: iphoneos-arm
@@ -67,6 +111,20 @@ Description: Cercube for YouTube
 Author: Majd Alfhaily
 Name: Cercube for YouTube
 
+Package: zntxyu.Cydown
+Version: 7.1.1
+Architecture: iphoneos-arm
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debs/zntxyu.Cydown_7.1.1_iphoneos-arm.deb
+Size: 4357966
+MD5sum: 03f8dc368dd0157d17c2c390ba0d423e
+SHA1: 7e2dd4dd6b0dd44305ebe88badfc394f5b7136b0
+SHA256: 1dfd1e815c15bc4b2df2976e96530f7cb8addcb48eed785093e6be4886919272
+Section: Tweaks
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne
+Name: CyDown
+
 Package: zntxyu.Filza
 Version: 3.8.0-24
 Architecture: iphoneos-arm
@@ -95,6 +153,23 @@ Section: Tweaks
 Description: Filza Crack
 Author: xia0z
 Name: Filza Crack
+
+Package: zntxyu.Flex3
+Version: Beta97
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/zntxyu.Flex3_Beta97_iphoneos-arm.deb
+Size: 14371236
+MD5sum: 4ec807baea9a9313fd25537d4fa070a3
+SHA1: 87c6def9258dce61dd93234f6856048c4b2b9e65
+SHA256: 252c8dd07b73634f556496d0334bf57c6c1200033e7511e5641bc791f39d5172
+Section: Utilities
+Description: Develop your own tweaks and share them on the Flex Community Cloud.
+Author: John Coates
+Name: Flex3
+Recommended: com.rpetrich.rocketbootstrap
 
 Package: zntxyu.GPS.Manager
 Version: 1.8.8k
@@ -240,6 +315,37 @@ Description: Get rid of the "fat" iOS 13 Volume HUD state.
 Author: level3tjg
 Name: SlimVolumeHUD
 
+Package: zntxyu.SnowBoard
+Version: 1.4.0~Beta4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/zntxyu.SnowBoard_1.4.0~Beta4_iphoneos-arm.deb
+Size: 2131264
+MD5sum: 6137e2e53a4130277165b15e9a10ac5e
+SHA1: b4bc5f34de007016a8815885d55572bc16b8d30f
+SHA256: b3fabd318ddf98e2bdb053708e850a9dc90fe7f7a0e34da89ee1139519e58d16
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+
+Package: zntxyu.SpotiLife
+Version: 1.3a
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.SpotiLife_1.3a_iphoneos-arm.deb
+Size: 200272
+MD5sum: 19ef1f647d24ff46c6001d9e99f90bee
+SHA1: c757a164c4e75615148604f1992003c4cc8e70a7
+SHA256: 9b3866393cf596ac74e0de21d2defbed7985e238b012e2520ef9856be318afad
+Section: Tweaks
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked.
+Author: julioverne
+Name: SpotiLife
+
 Package: zntxyu.StoreSwitcher2
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -283,6 +389,21 @@ Description: VPN Master开启高级权限。
 Author: 7Loopy
 Name: VPN Master Crack
 
+Package: zntxyu.Vinyl
+Version: 1.0.7.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debs/zntxyu.Vinyl_1.0.7.3_iphoneos-arm.deb
+Size: 360154
+MD5sum: 74175b57895b0c7b7bf7d93414f21c89
+SHA1: 550818ee06bf07cbb9526133ec5cfae14ca146c7
+SHA256: 058a61ba81834fba294b1eb628d9b15d9395b10e4ccaccfcb1e1f6c7efa40fdd
+Section: Tweaks
+Priority: optional
+Description: A simplified look for the lockscreen music player!
+Author: Lightmann
+Name: Vinyl
+
 Package: zntxyu.YouQuan
 Version: 2.1.0
 Architecture: iphoneos-arm
@@ -312,4 +433,18 @@ Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
+
+Package: zntxyu.iCleaner.Pro
+Version: 7.9.0~beta1
+Architecture: iphoneos-arm
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/zntxyu.iCleaner.Pro_7.9.0~beta1_iphoneos-arm.deb
+Size: 6740912
+MD5sum: 1d996db4e84eeb221edba85e3d6bb75e
+SHA1: 8ee1432b6fed95a5a30e6bd057d5397930ef2a9c
+SHA256: 27662e564197e3fc0f31dce40eecc22c2c2277d1e0ce4e7d773daace76dc25ec
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer.
+Author: Ivano Bilenchi
+Name: iCleaner Pro
 
