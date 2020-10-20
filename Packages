@@ -27,20 +27,6 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.w
 Author: CokePokes
 Name: AppStore++
 
-Package: zntxyu.AppStore++.zh-CN
-Version: 1.1-3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.AppStore++.zh-CN_1.1-3_iphoneos-arm.deb
-Size: 28544
-MD5sum: 9240d7fc60636060385066ec37d03a7d
-SHA1: e0b5d82c2bfe83696164c8f716baf8efc13e2537
-SHA256: 0b00fedfab60e832ce924084646b0328e0a52e2e5949429da7c1e32b6a0b5616
-Section: Localization
-Description: AppStore++简体中文包。
-Author: Netskao
-Name: AppStore++ zh-CN
-
 Package: zntxyu.AppSync.Unified
 Version: 84.0
 Architecture: iphoneos-arm
@@ -54,20 +40,6 @@ Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ
 Name: AppSync Unified
-
-Package: zntxyu.Apps.Manager
-Version: 1.6.0-2k
-Architecture: iphoneos-arm
-Conflicts: com.tigisoftware.appdatamanager
-Filename: ./debs/zntxyu.Apps.Manager_1.6.0-2k_iphoneos-arm.deb
-Size: 1919528
-MD5sum: cf1ec53865de6050a79b0000acd2d4d0
-SHA1: cb4e83a89b18536378ef8f4d0d47e986cfe850c5
-SHA256: d80a11cbb412741e9b2598fb14667ca8109ff0526fe222470665b8ec1ce8419f
-Section: Utilities
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps.
-Author: TIGI Software
-Name: Apps Manager
 
 Package: zntxyu.Axon.Reborn
 Version: 2.0.0
@@ -126,20 +98,6 @@ Section: Tweaks
 Description: Clear app caches from the Usage section in Settings.
 Author: Julioverne, Netskao
 Name: CacheClearer
-
-Package: zntxyu.CyDown.zh-CN
-Version: 7.1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.CyDown.zh-CN_7.1.0_iphoneos-arm.deb
-Size: 96418
-MD5sum: 215d40e7830d0ab98d470c1f6d3231ba
-SHA1: d1a7dfb8b441b52a707d8eb9d3e8b0815c51d2b0
-SHA256: 864091e471d3f9b8e8ea2f6f098b4f54ae6ed70e973f62a4a29ee5727ca2a258
-Section: Localization
-Description: Cydown简体中文包。
-Author: Zntxyu
-Name: CyDown zh-CN
 
 Package: zntxyu.Cydown
 Version: 7.1.1
@@ -229,34 +187,6 @@ Description: Better WiFi Preferences.
 Author: julioverne
 Name: GoodWiFi
 
-Package: zntxyu.HideSeparators
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.HideSeparators_1.1-1_iphoneos-arm.deb
-Size: 4324
-MD5sum: 7aa6199dd4b2edb4ab9672eff1bab729
-SHA1: f2e3d14c62f9fe19d2dbd62db5bfe5b30b1ac5be
-SHA256: cad92cf044f5e37795068398d1a2d00dce7e513c272615a207554faba37ffea4
-Section: Tweaks
-Description: HideSeparators.
-Author: Netskao
-Name: HideSeparators
-
-Package: zntxyu.IAP26
-Version: 0.0.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.IAP26_0.0.2_iphoneos-arm.deb
-Size: 14686
-MD5sum: 5ff5af018a47390d7305c0ae8babdb1b
-SHA1: 33f4de5cd640a1809aad7d2d3a2b149dbfe8a0be
-SHA256: e7e5b07685410546dd35b0b4432f7273e3b2b71358935ba4caac52449cd9723f
-Section: Tweaks
-Description: Strongest local in-app purchase plug-in.
-Author: JustinPet26
-Name: iAP26
-
 Package: zntxyu.JDQuan
 Version: 0.2-2
 Architecture: iphoneos-arm
@@ -285,34 +215,6 @@ Description: Beautiful Liaca Themes.
 Author: Devy_Design
 Name: Liaca
 
-Package: zntxyu.MIX.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
-Size: 69106
-MD5sum: 08251042ba3cfa9f378012e512885c88
-SHA1: aaa1ad2a50ba6e57c6e012828173bf3761247c09
-SHA256: 5652add5f9322afeeb395cc3f9e619b850cc67b58733bd2695b779ea544850f9
-Section: Tweaks
-Description: MIX滤镜大师开启全滤镜下载权限和全功能。
-Author: 7Loopy
-Name: MIX滤镜大师 Crack
-
-Package: zntxyu.PTJ.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
-Size: 68558
-MD5sum: 399697ace885efab250c28cbff8e3348
-SHA1: 1a10edd24fd4b321002db9ae0fdd6c699b603e4e
-SHA256: 5b20c08e8a2386039def718e02bff4b62839c125cc27427a421b5614db4de769
-Section: Tweaks
-Description: 拼图酱开启高级权限。
-Author: 7Loopy
-Name: 拼图酱 Crack
-
 Package: zntxyu.PencilChargingIndicator
 Version: 1.2~b7
 Architecture: iphoneos-arm
@@ -326,34 +228,6 @@ Section: Tweaks
 Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
 Author: shiftcmdk
 Name: PencilChargingIndicator
-
-Package: zntxyu.PhotoInfo
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PhotoInfo_1.0_iphoneos-arm.deb
-Size: 6094
-MD5sum: 23b0095f49aa3d240f92af381f286fe1
-SHA1: 5118d9f6b7b15bf0470787c98e7e5e8ba8d00e07
-SHA256: bf69d37a77d266da2918857af9aa3de505bd4d1515269147474bc71aae0e7d5d
-Section: Tweaks
-Description: Show photo resolution and disk usage in app.
-Author: shepgoba
-Name: PhotoInfo
-
-Package: zntxyu.PicsArt.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
-Size: 69198
-MD5sum: 01bf436d96a942f85aeddbba17e50055
-SHA1: d4fca141b3f1fff91490cf2dd01748e68095f143
-SHA256: fe7a7da83d41b31e24c9fe52a396fef6c8bcb9894e1e2f47379423c622abe4b7
-Section: Tweaks
-Description: PicsArt美易开启高级权限。
-Author: 7Loopy
-Name: PicsArt美易 Crack
 
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
@@ -447,48 +321,6 @@ Description: Get percentages for the sliders in the Control Center.
 Author: iOS Creatix
 Name: SugarCane
 
-Package: zntxyu.System.Info
-Version: 2.7.2-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.System.Info_2.7.2-1_iphoneos-arm.deb
-Size: 427338
-MD5sum: 7cb96bc032fe61e7aa0d8835bff8e687
-SHA1: fb2e35435e2f8078218dc414542e7eaee14e79b1
-SHA256: 65da142e4ffed0247cd3915708a8567f89d357e6a99bdd266ef962ab42efdffd
-Section: Tweaks
-Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc
-Author: ARX8x
-Name: System Info
-
-Package: zntxyu.System.Info.zh-CN
-Version: 1.0.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.System.Info.zh-CN_1.0.0_iphoneos-arm.deb
-Size: 82686
-MD5sum: 8269618e7f9cd5c96f358b6290f1ad36
-SHA1: 728e40536366927c6ae647be8a24fd9b0920f0d6
-SHA256: 6db4c44c3ca9f8f508dcd6dc7f0085ce6b415defc15794eaabdd0ff3f42ae31d
-Section: Localization
-Description: SystemInfo简体中文包。
-Author: Zntxyu
-Name: SystemInfo zh-CN
-
-Package: zntxyu.VPNMaster.Crack
-Version: 2.0-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.VPNMaster.Crack_2.0-1_iphoneos-arm.deb
-Size: 129520
-MD5sum: 38001cd0727e1aec0ff0e64b499a2784
-SHA1: 21b35069de635095ae2e42948b8be4e829bc24df
-SHA256: 8c411563437c243451d05dc83da9077162ba1f8d462b616ac14a8e7192c3cf05
-Section: Tweaks
-Description: VPN Master开启高级权限。
-Author: 7Loopy
-Name: VPN Master Crack
-
 Package: zntxyu.Vinyl
 Version: 1.0.7.3
 Architecture: iphoneos-arm
@@ -503,21 +335,6 @@ Priority: optional
 Description: A simplified look for the lockscreen music player!
 Author: Lightmann
 Name: Vinyl
-
-Package: zntxyu.Voltage
-Version: 1.6.2
-Architecture: iphoneos-arm
-Pre-Depends: firmware (>= 9.0)
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/zntxyu.Voltage_1.6.2_iphoneos-arm.deb
-Size: 56558
-MD5sum: c198300f67b74c97e4533b7f69fc9efd
-SHA1: 1e31153141213a489c440b26464da5799c4ed9a8
-SHA256: e01e365b245ffd6a21d9b3b4f0d4156c55d1cc02d0d5279156f0e98ce7641718
-Section: Tweaks
-Description: Suppress banners in apps.
-Author: Summer Triangle
-Name: Eyeplugs
 
 Package: zntxyu.YouQuan
 Version: 2.1.0
