@@ -1,16 +1,3 @@
-Package: zntxyu.AdBlock++
-Version: 1.4.1-2
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.AdBlock++_1.4.1-2_iphoneos-arm.deb
-Size: 8262
-MD5sum: a26972ebdec770562082f2425d6fc097
-SHA1: 23bbdc38504587c8d649a828ab6c3437b060c30a
-SHA256: 51d8b094a4b48551aad1cfe5c0b9a7601cfbe6cab4f8fff9a05e9a5db6bd7b90
-Section: Tweaks
-Description: AdBlock++
-Author: ReJail
-Name: AdBlock++
-
 Package: zntxyu.AirPods.EQE
 Version: 1.0
 Architecture: iphoneos-arm
@@ -96,20 +83,6 @@ Section: Tweaks
 Description: CCModules.
 Author: zntxyu
 Name: CCModules
-
-Package: zntxyu.Cercube.for.YouTube
-Version: 5.1.18k
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, zntxyu.AdBlock++
-Filename: ./debs/zntxyu.Cercube.for.YouTube_5.1.18k_iphoneos-arm.deb
-Size: 5632306
-MD5sum: b5f50477bcca82b2a86986dc68742094
-SHA1: 55460845e79e99c7f8d7f6bf40b9d175041eb50a
-SHA256: d9f3d40978060f2bba540bcf23a2fb511d3e0e5b5602088ab013a9346c19b02f
-Section: Tweaks
-Description: Cercube for YouTube
-Author: Majd Alfhaily
-Name: Cercube for YouTube
 
 Package: zntxyu.Cydown
 Version: 7.1.1
@@ -198,20 +171,6 @@ Section: Tweaks
 Description: HideSeparators.
 Author: Netskao
 Name: HideSeparators
-
-Package: zntxyu.IAP26
-Version: 0.0.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.IAP26_0.0.2_iphoneos-arm.deb
-Size: 14686
-MD5sum: 5ff5af018a47390d7305c0ae8babdb1b
-SHA1: 33f4de5cd640a1809aad7d2d3a2b149dbfe8a0be
-SHA256: e7e5b07685410546dd35b0b4432f7273e3b2b71358935ba4caac52449cd9723f
-Section: Tweaks
-Description: Strongest local in-app purchase plug-in.
-Author: JustinPet26
-Name: iAP26
 
 Package: zntxyu.JDQuan
 Version: 0.2-2
