@@ -229,20 +229,6 @@ Description: 拼图酱开启高级权限。
 Author: 7Loopy
 Name: 拼图酱 Crack
 
-Package: zntxyu.PencilChargingIndicator
-Version: 1.2~b7
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PencilChargingIndicator_1.2~b7_iphoneos-arm.deb
-Size: 510952
-MD5sum: 9061fcada7b35806e0d7dc8917e215e9
-SHA1: b859933e2e812411060d36ffbaca048f2d4d7849
-SHA256: 695e6a047480eb6b9ac0d77765c4092eca2c83db634d857dc8c921ad2a7dc849
-Section: Tweaks
-Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
-Author: shiftcmdk
-Name: PencilChargingIndicator
-
 Package: zntxyu.PicsArt.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
