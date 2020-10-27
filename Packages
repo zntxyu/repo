@@ -349,6 +349,34 @@ Description: Get percentages for the sliders in the Control Center.
 Author: iOS Creatix
 Name: SugarCane
 
+Package: zntxyu.System.Info
+Version: 2.7.2-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.System.Info_2.7.2-1_iphoneos-arm.deb
+Size: 427338
+MD5sum: 7cb96bc032fe61e7aa0d8835bff8e687
+SHA1: fb2e35435e2f8078218dc414542e7eaee14e79b1
+SHA256: 65da142e4ffed0247cd3915708a8567f89d357e6a99bdd266ef962ab42efdffd
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc
+Author: ARX8x
+Name: System Info
+
+Package: zntxyu.System.Info.zh-CN
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.System.Info.zh-CN_1.0.0_iphoneos-arm.deb
+Size: 82686
+MD5sum: 8269618e7f9cd5c96f358b6290f1ad36
+SHA1: 728e40536366927c6ae647be8a24fd9b0920f0d6
+SHA256: 6db4c44c3ca9f8f508dcd6dc7f0085ce6b415defc15794eaabdd0ff3f42ae31d
+Section: Localization
+Description: SystemInfo简体中文包。
+Author: Zntxyu
+Name: SystemInfo zh-CN
+
 Package: zntxyu.VPNMaster.Crack
 Version: 2.0-1
 Architecture: iphoneos-arm
