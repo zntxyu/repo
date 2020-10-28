@@ -393,14 +393,14 @@ Author: zntxyu
 Name: Font-悦黑+Panton
 
 Package: zntxyu.iCleaner.Pro
-Version: 7.9.0~beta1
+Version: 7.9.0
 Architecture: iphoneos-arm
 Depends: firmware (>= 4.0), findutils, apt | apt7
-Filename: ./debs/zntxyu.iCleaner.Pro_7.9.0~beta1_iphoneos-arm.deb
-Size: 6740912
-MD5sum: 1d996db4e84eeb221edba85e3d6bb75e
-SHA1: 8ee1432b6fed95a5a30e6bd057d5397930ef2a9c
-SHA256: 27662e564197e3fc0f31dce40eecc22c2c2277d1e0ce4e7d773daace76dc25ec
+Filename: ./debs/zntxyu.iCleaner.Pro_7.9.0_iphoneos-arm.deb
+Size: 6741536
+MD5sum: 736bb39b792695309b42b3502be515ef
+SHA1: ee0bab505b033e2e713520fd3b4325433849a77c
+SHA256: 8a6993fbe5aa76da312959fd09180cfd83b41cad326dad53fe11bbc90fb33f8c
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer.
 Author: Ivano Bilenchi
