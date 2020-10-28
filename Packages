@@ -84,21 +84,6 @@ Description: CCModules.
 Author: zntxyu
 Name: CCModules
 
-Package: zntxyu.CacheClearer
-Version: 0.2
-Architecture: iphoneos-arm
-Depends: firmware (>= 7.0), mobilesubstrate
-Conflicts: com.rpetrich.cacheclearer, com.julioverne.cacheclearer11
-Filename: ./debs/zntxyu.CacheClearer_0.2_iphoneos-arm.deb
-Size: 15728
-MD5sum: e3e3a462f643741de9c3b0e69c43a1d1
-SHA1: 721de546a898d8770a45b1d0049c50c3f7aea7bc
-SHA256: 0243b2bd665f97a7b3f46f6f6874bd32c792706e24ad557566b839aa148783bb
-Section: Tweaks
-Description: Clear app caches from the Usage section in Settings.
-Author: Julioverne, Netskao
-Name: CacheClearer
-
 Package: zntxyu.Cydown
 Version: 7.1.1
 Architecture: iphoneos-arm
@@ -306,6 +291,19 @@ Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocke
 Author: julioverne
 Name: SpotiLife
 
+Package: zntxyu.Status.Bar
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.Status.Bar_1.0_iphoneos-arm.deb
+Size: 98566
+MD5sum: 787c28623087588ca8c0b1d6798cdd19
+SHA1: 5040546eb7298216c176a40866f60c244386fd6f
+SHA256: 41ffee6ae083d44b5c4a8ee25b675f3767673d9acdbd249c402bdcd6b21fb342
+Section: Themes (Status Bar)
+Description: Status Bar For Phone Assistant.
+Author: Zntxyu
+Name: Zntxyu Bar
+
 Package: zntxyu.StoreSwitcher2
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -334,34 +332,6 @@ Section: Tweaks
 Description: Get percentages for the sliders in the Control Center.
 Author: iOS Creatix
 Name: SugarCane
-
-Package: zntxyu.System.Info
-Version: 2.7.2-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.System.Info_2.7.2-1_iphoneos-arm.deb
-Size: 427338
-MD5sum: 7cb96bc032fe61e7aa0d8835bff8e687
-SHA1: fb2e35435e2f8078218dc414542e7eaee14e79b1
-SHA256: 65da142e4ffed0247cd3915708a8567f89d357e6a99bdd266ef962ab42efdffd
-Section: Tweaks
-Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc
-Author: ARX8x
-Name: System Info
-
-Package: zntxyu.System.Info.zh-CN
-Version: 1.0.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.System.Info.zh-CN_1.0.0_iphoneos-arm.deb
-Size: 82686
-MD5sum: 8269618e7f9cd5c96f358b6290f1ad36
-SHA1: 728e40536366927c6ae647be8a24fd9b0920f0d6
-SHA256: 6db4c44c3ca9f8f508dcd6dc7f0085ce6b415defc15794eaabdd0ff3f42ae31d
-Section: Localization
-Description: SystemInfo简体中文包。
-Author: Zntxyu
-Name: SystemInfo zh-CN
 
 Package: zntxyu.VPNMaster.Crack
 Version: 2.0-1
