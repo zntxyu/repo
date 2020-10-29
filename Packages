@@ -127,6 +127,20 @@ Description: CCModules.
 Author: zntxyu
 Name: CCModules
 
+Package: zntxyu.ClassicKeyboardXS
+Version: 1.1-3
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/zntxyu.ClassicKeyboardXS_1.1-3_iphoneos-arm.deb
+Size: 101172
+MD5sum: b36f3430014ad29a6815568c4e0f8c34
+SHA1: 04e97baa6bdfebbf8d42dee7ba7a924056917a73
+SHA256: ec7b1ba56335599935f480c49a366c6c0237f99793753c73744021957cc4022c
+Section: Tweaks
+Description: 自定义X键盘底部高度，地球底部高度。
+Author: Netskao
+Name: ClassicKeyboardXS
+
 Package: zntxyu.Cydown
 Version: 7.1.1
 Architecture: iphoneos-arm
@@ -270,6 +284,21 @@ Section: Tweaks
 Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
+
+Package: zntxyu.QQPurification
+Version: 1.4-3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: netskao.qqpure
+Filename: ./debs/zntxyu.QQPurification_1.4-3_iphoneos-arm.deb
+Size: 394826
+MD5sum: 806dbe3696735c29f84c73cd64a011e0
+SHA1: a33fdebc0e376ca385964d5ad69c18885b3c8cce
+SHA256: e48f381b1599bc127c153119d9202439b2107102d412e2be78ac798a00a5ae40
+Section: Tweaks
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置-顶部。
+Author: Netskao
+Name: QQ净化
 
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
