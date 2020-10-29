@@ -174,15 +174,15 @@ Author: Mao
 Name: 京东优惠券
 
 Package: zntxyu.Liaca
-Version: 3.8
+Version: 3.9
 Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.Liaca_3.8_iphoneos-arm.deb
-Size: 10285884
-MD5sum: 17fe6b17142e6382928bb1ec9cb77640
-SHA1: 9721345f6bc2bc1153cea7dd0e61d3103cd0418e
-SHA256: 441251d6dc651c81ccfec395a6a37abfd60e165cfd1678a05ab8e7b0883ebe5d
+Filename: ./debs/zntxyu.Liaca_3.9_iphoneos-arm.deb
+Size: 10315234
+MD5sum: 2d8e0e24a0b16c872e39bf1fa3fe9667
+SHA1: 8a9d106db843e4745d3751ee3d5cb1fb11fb4297
+SHA256: 48cdf75cddf84ff8436d94983ef23b42c3785f3eb69236cae6c1dbf9d4b473db
 Section: Themes
-Description: Beautiful Liaca Themes.
+Description: Modern, Colourful & Carefully Design.
 Author: Devy_Design
 Name: Liaca
 
