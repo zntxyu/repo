@@ -1,3 +1,32 @@
+Package: com.zntxyu.EQE
+Version: 2.1.1
+Architecture: iphoneos-arm
+Depends: com.rpetrich.rocketbootstrap (>= 1.0.6), firmware (<< 14), mobilesubstrate, dpkg, coreutils
+Filename: ./debs/zntxyu.EQE_2.1.1_iphoneos-arm.deb
+Size: 7975440
+MD5sum: afb19bdce2ff5b0e3485ba3f05dba007
+SHA1: d22aa565deb3fa359abf525cf115650f12eea229
+SHA256: e7b902bc04fea973f61f168c7f6bb7db1d56dcd90d549537d5dced6abf07f8ab
+Section: Tweaks
+Description: System-wide parametric equalizer.
+Author: Reed Weichler
+Name: EQE
+
+Package: zntxyu.Afc2d-arm64
+Version: 1.1
+Architecture: iphoneos-arm
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Filename: ./debs/zntxyu.Afc2d-arm64_1.1_iphoneos-arm.deb
+Size: 27032
+MD5sum: 48a8a6ec4b3e33e24b9f97aa6c3fcf28
+SHA1: 3a2d108bf8688486c7d17ad999b4c8e4f61f9896
+SHA256: 48039187c85e1355651a775881ea676cc5f8252dba39280674c1d44a6557f4f5
+Section: System
+Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
+Author: saurik, Cannathea
+Name: Apple File Conduit "2"
+
 Package: zntxyu.AirPods.EQE
 Version: 1.0
 Architecture: iphoneos-arm
@@ -69,6 +98,20 @@ Section: Tweaks
 Description: Enhance your control center on iOS13.
 Author: ATWiiks
 Name: BetterCCXI Fix
+
+Package: zntxyu.BottomControlX
+Version: 1.3.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/zntxyu.BottomControlX_1.3.3_iphoneos-arm.deb
+Size: 143638
+MD5sum: 922fdab895080ec21aa4763c48ac34be
+SHA1: 1adb7f1d77f91c5e36331a6f86a7b46b787a212b
+SHA256: 9341af7d3e90689aa24d0e36c8893e02f2e72c39bd7f16c33c24fe104ba866e0
+Section: Tweaks
+Description: Easier access to your ControlCenter on iPhone X.
+Author: XCXiao
+Name: BottomControlX
 
 Package: zntxyu.CCModules
 Version: 1.0
