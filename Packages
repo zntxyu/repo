@@ -449,20 +449,6 @@ Description: 淘宝优惠券。
 Author: Mao
 Name: 淘宝优惠券
 
-Package: zntxyu.YouTubeLite
-Version: 0.9.2-beta
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyu.YouTubeLite_0.9.2-beta_iphoneos-arm.deb
-Size: 86298
-MD5sum: c24ab6e07a75650582b8d4e2808de14f
-SHA1: b78e1d0934a72618e25280e0c7f9dbcb23495c03
-SHA256: 9112f13adcb14426eacb1b1e6ddd99edda51ca5ec359817e6d42f47b815d750f
-Section: Tweaks
-Description: YouTube Tool.
-Author: Networke
-Name: YouTubeLite
-
 Package: zntxyu.YueHei+Panton
 Version: 1.0
 Architecture: iphoneos-arm
