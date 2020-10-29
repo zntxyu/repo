@@ -13,15 +13,15 @@ Author: Reed Weichler
 Name: EQE
 
 Package: zntxyu.Afc2d-arm64
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: cy+cpu.arm64, mobilesubstrate, ldid
-Filename: ./debs/zntxyu.Afc2d-arm64_1.1_iphoneos-arm.deb
-Size: 27032
-MD5sum: 48a8a6ec4b3e33e24b9f97aa6c3fcf28
-SHA1: 3a2d108bf8688486c7d17ad999b4c8e4f61f9896
-SHA256: 48039187c85e1355651a775881ea676cc5f8252dba39280674c1d44a6557f4f5
+Filename: ./debs/zntxyu.Afc2d-arm64_1.1.1_iphoneos-arm.deb
+Size: 28274
+MD5sum: 93962d405fec981ef838fa52284b7c88
+SHA1: 7e9e47c86097d787342b5f09869068fcbaf69cd1
+SHA256: 65ceb5b95cccf679ff5b26268f7c7d3c2b8cb34cb0f82916c3d5051e88597ada
 Section: System
 Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
 Author: saurik, Cannathea
