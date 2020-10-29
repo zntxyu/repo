@@ -455,10 +455,10 @@ Architecture: iphoneos-arm
 Maintainer: zntxyu
 Depends: firmware (>= 13.0)
 Filename: ./debs/zntxyu.YueHei+Panton_1.0_iphoneos-arm.deb
-Size: 38819632
-MD5sum: 85f67a7e4bbdf07966e58ec74f161fe7
-SHA1: b3abe38b07be16e6740f07327fb8b4943519d107
-SHA256: e10a94b60e5c9c85e9f62bc9e7bc2968ab3b28e7168983ccf3014d3b0886294b
+Size: 38821928
+MD5sum: 8b6af83228eb14eb467da8f886b2819a
+SHA1: 9b80bf321787be32b61a843a23f032ec95eebcf6
+SHA256: ab23ed040e82d26be6fd990e5ea026ce29e9aa3695d6e60af94f23303d6157b3
 Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
