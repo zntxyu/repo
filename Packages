@@ -98,21 +98,6 @@ Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Name: CyDown
 
-Package: zntxyu.Filza
-Version: 3.8.1-16
-Architecture: iphoneos-arm
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/zntxyu.Filza_3.8.1-16_iphoneos-arm.deb
-Size: 12919036
-MD5sum: 2aa9fdbcb88a0ee5f6ae5fb81039d955
-SHA1: dfb5e9f9f4a26ed40b5168bb0543e9ba78408613
-SHA256: d20c1969c5b6ec0047002720365d43ec13909ad140bd0c8c8c4dce5b69d15bef
-Section: Utilities
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
-Author: TIGI Software
-Name: Filza File Manager
-
 Package: zntxyu.Filza.Crack
 Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
