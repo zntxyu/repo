@@ -1,32 +1,3 @@
-Package: com.zntxyu.EQE
-Version: 2.1.1
-Architecture: iphoneos-arm
-Depends: com.rpetrich.rocketbootstrap (>= 1.0.6), firmware (<< 14), mobilesubstrate, dpkg, coreutils
-Filename: ./debs/zntxyu.EQE_2.1.1_iphoneos-arm.deb
-Size: 7975440
-MD5sum: afb19bdce2ff5b0e3485ba3f05dba007
-SHA1: d22aa565deb3fa359abf525cf115650f12eea229
-SHA256: e7b902bc04fea973f61f168c7f6bb7db1d56dcd90d549537d5dced6abf07f8ab
-Section: Tweaks
-Description: System-wide parametric equalizer.
-Author: Reed Weichler
-Name: EQE
-
-Package: zntxyu.Afc2d-arm64
-Version: 1.1.1
-Architecture: iphoneos-arm
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, ldid
-Filename: ./debs/zntxyu.Afc2d-arm64_1.1.1_iphoneos-arm.deb
-Size: 28274
-MD5sum: 93962d405fec981ef838fa52284b7c88
-SHA1: 7e9e47c86097d787342b5f09869068fcbaf69cd1
-SHA256: 65ceb5b95cccf679ff5b26268f7c7d3c2b8cb34cb0f82916c3d5051e88597ada
-Section: System
-Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
-Author: saurik, Cannathea
-Name: Apple File Conduit "2"
-
 Package: zntxyu.AirPods.EQE
 Version: 1.0
 Architecture: iphoneos-arm
@@ -99,20 +70,6 @@ Description: Enhance your control center on iOS13.
 Author: ATWiiks
 Name: BetterCCXI Fix
 
-Package: zntxyu.BottomControlX
-Version: 1.3.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: ./debs/zntxyu.BottomControlX_1.3.3_iphoneos-arm.deb
-Size: 143638
-MD5sum: 922fdab895080ec21aa4763c48ac34be
-SHA1: 1adb7f1d77f91c5e36331a6f86a7b46b787a212b
-SHA256: 9341af7d3e90689aa24d0e36c8893e02f2e72c39bd7f16c33c24fe104ba866e0
-Section: Tweaks
-Description: Easier access to your ControlCenter on iPhone X.
-Author: XCXiao
-Name: BottomControlX
-
 Package: zntxyu.CCModules
 Version: 1.0
 Architecture: iphoneos-arm
@@ -126,20 +83,6 @@ Section: Tweaks
 Description: CCModules.
 Author: zntxyu
 Name: CCModules
-
-Package: zntxyu.ClassicKeyboardXS
-Version: 1.1-3
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyu.ClassicKeyboardXS_1.1-3_iphoneos-arm.deb
-Size: 101172
-MD5sum: b36f3430014ad29a6815568c4e0f8c34
-SHA1: 04e97baa6bdfebbf8d42dee7ba7a924056917a73
-SHA256: ec7b1ba56335599935f480c49a366c6c0237f99793753c73744021957cc4022c
-Section: Tweaks
-Description: 自定义X键盘底部高度，地球底部高度。
-Author: Netskao
-Name: ClassicKeyboardXS
 
 Package: zntxyu.Cydown
 Version: 7.1.1
@@ -215,29 +158,14 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
-Package: zntxyu.JDQuan
-Version: 0.2-2
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/zntxyu.JDQuan_0.2-2_iphoneos-arm.deb
-Size: 184358
-MD5sum: 94ac53a0a98a44b12b373d73cc168aa3
-SHA1: b71b25853e963c21316bbd5722954a89d0105637
-SHA256: 08e59516c3d8546e708e1465b2292ed0cd30e3a161bbc999c7ab9f02fc884bfd
-Section: Tweaks
-Priority: optional
-Description: 京东优惠券。
-Author: Mao
-Name: 京东优惠券
-
 Package: zntxyu.Liaca
-Version: 3.9
+Version: 4.0
 Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.Liaca_3.9_iphoneos-arm.deb
-Size: 10315234
-MD5sum: 2d8e0e24a0b16c872e39bf1fa3fe9667
-SHA1: 8a9d106db843e4745d3751ee3d5cb1fb11fb4297
-SHA256: 48cdf75cddf84ff8436d94983ef23b42c3785f3eb69236cae6c1dbf9d4b473db
+Filename: ./debs/zntxyu.Liaca_4.0_iphoneos-arm.deb
+Size: 10331336
+MD5sum: e7075abd1d7964be633e4789656c8203
+SHA1: 3325ae6f213067beaaa9d3fa05e6bf03835e8ca8
+SHA256: 094f20c14800137c74aa89f8f1f2b8ed49113ac8aaa7243377d12eb82e0c162b
 Section: Themes
 Description: Modern, Colourful & Carefully Design.
 Author: Devy_Design
@@ -284,21 +212,6 @@ Section: Tweaks
 Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
-
-Package: zntxyu.QQPurification
-Version: 1.4-3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 9.0)
-Replaces: netskao.qqpure
-Filename: ./debs/zntxyu.QQPurification_1.4-3_iphoneos-arm.deb
-Size: 394826
-MD5sum: 806dbe3696735c29f84c73cd64a011e0
-SHA1: a33fdebc0e376ca385964d5ad69c18885b3c8cce
-SHA256: e48f381b1599bc127c153119d9202439b2107102d412e2be78ac798a00a5ae40
-Section: Tweaks
-Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置-顶部。
-Author: Netskao
-Name: QQ净化
 
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
@@ -433,21 +346,6 @@ Priority: optional
 Description: A simplified look for the lockscreen music player!
 Author: Lightmann
 Name: Vinyl
-
-Package: zntxyu.YouQuan
-Version: 2.1.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/zntxyu.YouQuan_2.1.0_iphoneos-arm.deb
-Size: 195958
-MD5sum: e4ce751a811b9936eebde2d1b2a10e60
-SHA1: b56447d2903d951a3d0e49f9279224c13a362e4a
-SHA256: 88fb5909d0c7acf5c070c95ff0025a93642816e1ab8d19318343501591146f4a
-Section: Tweaks
-Priority: optional
-Description: 淘宝优惠券。
-Author: Mao
-Name: 淘宝优惠券
 
 Package: zntxyu.YueHei+Panton
 Version: 1.0
