@@ -143,6 +143,20 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
+Package: zntxyu.HttpCatcher.Crack
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.HttpCatcher.Crack_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4806
+MD5sum: af62e376203ef35b9382c5ea5f908db2
+SHA1: 247edfd816021be36d2e9e431d6d8a8745cfc467
+SHA256: 07b145bbbfd361b8ae9bf3d59fd279c603fe9d5ba49b3090fa244fd212578f62
+Section: Tweaks
+Description: 适用2.0.2(240)最新版，解锁完整功能。
+Author: 糖醋丶炒排骨
+Name: HttpCatcher Crack
+
 Package: zntxyu.Liaca
 Version: 4.0
 Architecture: iphoneos-arm
