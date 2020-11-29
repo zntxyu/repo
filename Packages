@@ -44,12 +44,11 @@ Name: AppSync Unified
 Package: zntxyu.AppsManager.Crack
 Version: 1.1-4
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, com.tigisoftware.appdatamanager
 Filename: ./debs/zntxyu.AppsManager.Crack_1.1-4_iphoneos-arm.deb
-Size: 15364
-MD5sum: 25950182b5dbb61597a52232206d4309
-SHA1: cf25d44f906586b487d8b1be783a40189a6102e3
-SHA256: a6696a4734d7d945c637680cf668709197cf7c8590e3981c51814f27f45124a3
+Size: 15324
+MD5sum: a01b64a1569291281e8d47c45b138756
+SHA1: 192adf2f4bed181fd94ff30af3a6f58ed41722a4
+SHA256: c20b77710f6d935bb224b51887420074d6edf9b172ff1dadac826bc4f9280fdd
 Section: Utilities
 Description: Apps Manager Crack.
 Author: Netskao
@@ -115,12 +114,11 @@ Name: CyDown
 Package: zntxyu.FilzaFile.Crack
 Version: 1.1-4
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, com.tigisoftware.filza64bit | com.tigisoftware.filza
 Filename: ./debs/zntxyu.FilzaFile.Crack_1.1-4_iphoneos-arm.deb
-Size: 16404
-MD5sum: d00f461a2cd8a8c81e51c44e770054df
-SHA1: ebf07fd2eafd1817f7a916c57a95239e49bc3275
-SHA256: f0e6ac475418ef78581a1fefe850f8304c9e2a56f9c9c0b0435bcd869ba2157f
+Size: 16360
+MD5sum: eafb234bcce23a6164b0631e0222a175
+SHA1: c1c9cef409c279508e450e5838027b031c374ffc
+SHA256: 41ea1c40834ad6490b31a3e2d5478067eb80bcc677be664df1832d8ed17a127e
 Section: Utilities
 Description: Filza File Crack.
 Author: Netskao
@@ -170,6 +168,21 @@ Section: Utilities
 Description: HTTP Catcher Crack.
 Author: 7Loopy
 Name: HTTP Catcher Crack
+
+Package: zntxyu.Instagram.NoAds
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Replaces: netskao.instagrampurification
+Filename: ./debs/zntxyu.Instagram.NoAds_1.1-1_iphoneos-arm.deb
+Size: 146260
+MD5sum: 97dac688db343ddad1ce3f9aefce59a1
+SHA1: 3968e9945e723d76c1ad343d2b268b5dd9b4cbb4
+SHA256: 4a910ebdb467538768bc3ce37468543e313cec19f4308337abd206bfb6e605b5
+Section: Utilities
+Description: Instagram NoAds.
+Author: Netskao
+Name: Instagram NoAds
 
 Package: zntxyu.Liaca
 Version: 4.1
@@ -331,6 +344,35 @@ Description: Get percentages for the sliders in the Control Center.
 Author: iOS Creatix
 Name: SugarCane
 
+Package: zntxyu.TXXW.NoAds
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/zntxyu.TXXW.NoAds_1.1-1_iphoneos-arm.deb
+Size: 106792
+MD5sum: a4c398681a633933ebfb891dbcbaa85c
+SHA1: d825735cc541053bb8eac5b16b1118bda60608cb
+SHA256: 2524079fd0067dfa4749533ddc142711267d0831e6a099246e4b768236c0ca49
+Section: Utilities
+Description: 腾讯新闻 NoAds.
+Author: Netskao
+Name: 腾讯新闻 NoAds
+
+Package: zntxyu.Twitter.NoAds
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), mobilesubstrate
+Replaces: netskao.twitterpurification
+Filename: ./debs/zntxyu.Twitter.NoAds_1.1-1_iphoneos-arm.deb
+Size: 138198
+MD5sum: 37c3ddd1b0787bfe6c5e9c513ff11bb6
+SHA1: ccd201b3e6bf057488733b517799e10bc7be398f
+SHA256: e6b95ca43addc54392af8934e202b354dee3942f0138dfd8a5d3eb78ff676c64
+Section: Utilities
+Description: Twitter NoAds.
+Author: Netskao
+Name: Twitter NoAds
+
 Package: zntxyu.VPNMaster.Crack
 Version: 2.0-1
 Architecture: iphoneos-arm
@@ -359,6 +401,20 @@ Priority: optional
 Description: A simplified look for the lockscreen music player!
 Author: Lightmann
 Name: Vinyl
+
+Package: zntxyu.WYYYY.NoAds
+Version: 1.1-3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.WYYYY.NoAds_1.1-3_iphoneos-arm.deb
+Size: 116712
+MD5sum: 62f92002bcf300e1618dae14c189131f
+SHA1: d2bbc7a442f504577498f82588c1fcc45fd08a90
+SHA256: ff972ab00b1a73fcc760e93af1386dfecbcba6806f770978caf0823b066ada2a
+Section: Utilities
+Description: 网易云音乐 NoAds.
+Author: Netskao
+Name: 网易云音乐 NoAds
 
 Package: zntxyu.YueHei+Panton
 Version: 1.0
@@ -392,12 +448,11 @@ Name: iCleaner Pro
 Package: zntxyu.iCleanerPro.Crack
 Version: 1.1-3
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, com.exile90.icleanerpro
 Filename: ./debs/zntxyu.iCleanerPro.Crack_1.1-3_iphoneos-arm.deb
-Size: 14714
-MD5sum: f487a964f84db9686bc6115d43d46f7b
-SHA1: 06d28ebbcecbff757521b694182582bd2419e9d7
-SHA256: 3827d4e9a8f4d6d7b6990c5e96e905d04375ddcaa439b5eeca21bad8acfc590b
+Size: 14684
+MD5sum: 1eeaebb4a055b96c87660b9c4600bb55
+SHA1: fe56b1678f7e6d348b476a9b119e875f8f1d3a29
+SHA256: c7420d6815dac4b05f2e1ab94c389d0bdd0b006cc0ba59ae159745ec50abd588
 Section: Utilities
 Description: iCleaner Pro Crack.
 Author: Netskao
