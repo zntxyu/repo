@@ -42,17 +42,17 @@ Author: Linus Yang, Karen/あけみ
 Name: AppSync Unified
 
 Package: zntxyu.AppsManager.Crack
-Version: 1.1-1
+Version: 1.1-4
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.AppsManager.Crack_1.1-1_iphoneos-arm.deb
-Size: 7602
-MD5sum: a07b2d2af83ad16d6750bea197439a3c
-SHA1: e502e1b415dcf0d80a7b14b750b0e024613e5115
-SHA256: 7d3e9f0d3231cee8b23dcbedb2f7095b3539e3f2aa511992b8ccff5078c439f4
+Depends: mobilesubstrate, com.tigisoftware.appdatamanager
+Filename: ./debs/zntxyu.AppsManager.Crack_1.1-4_iphoneos-arm.deb
+Size: 15364
+MD5sum: 25950182b5dbb61597a52232206d4309
+SHA1: cf25d44f906586b487d8b1be783a40189a6102e3
+SHA256: a6696a4734d7d945c637680cf668709197cf7c8590e3981c51814f27f45124a3
 Section: Utilities
 Description: Apps Manager Crack.
-Author: Ai-小苹果
+Author: Netskao
 Name: Apps Manager Crack
 
 Package: zntxyu.Axon.Reborn
@@ -113,17 +113,17 @@ Author: julioverne
 Name: CyDown
 
 Package: zntxyu.FilzaFile.Crack
-Version: 1.1-1
+Version: 1.1-4
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.FilzaFile.Crack_1.1-1_iphoneos-arm.deb
-Size: 8904
-MD5sum: 97179ad1a83e0e27f5eb0c33408d39fe
-SHA1: 52e93ef70cb8bd3e3f8553f1b64ab0501d6c1bbc
-SHA256: a0afccbcbf68f178670f12f52447bb63bfa0793b0fb1662d9faa3054ca0d7cb6
+Depends: mobilesubstrate, com.tigisoftware.filza64bit | com.tigisoftware.filza
+Filename: ./debs/zntxyu.FilzaFile.Crack_1.1-4_iphoneos-arm.deb
+Size: 16404
+MD5sum: d00f461a2cd8a8c81e51c44e770054df
+SHA1: ebf07fd2eafd1817f7a916c57a95239e49bc3275
+SHA256: f0e6ac475418ef78581a1fefe850f8304c9e2a56f9c9c0b0435bcd869ba2157f
 Section: Utilities
 Description: Filza File Crack.
-Author: Ai-小苹果
+Author: Netskao
 Name: Filza File Crack
 
 Package: zntxyu.Flex3
@@ -157,19 +157,19 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
-Package: zntxyu.HttpCatcher.Crack
-Version: 1.0.0-1+debug
+Package: zntxyu.HTTPCatcher.Crack
+Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.HttpCatcher.Crack_1.0.0-1+debug_iphoneos-arm.deb
-Size: 4746
-MD5sum: b38c43139cbaab8701f7249a931ff186
-SHA1: 2a8aedd6a79c1a3037295b95dd9d127e4ceafbaf
-SHA256: bda7152b0ed849bd2e6edbe85a6317bc530d3a4af1791d2548adba3d46dc18ef
-Section: Tweaks
-Description: HttpCatcher Crack.
-Author: 糖醋丶炒排骨
-Name: HttpCatcher Crack
+Filename: ./debs/zntxyu.HTTPCatcher.Crack_1.1-1_iphoneos-arm.deb
+Size: 68628
+MD5sum: cfe892562fa0a819049190b807d0556f
+SHA1: f89832889afb5943b0b1bfb8c0dd36635b7a9c3c
+SHA256: dc6780115121635dd4658ab75a7c6dfbeb6c297f07b204f1b92b4468cb2791b0
+Section: Utilities
+Description: HTTP Catcher Crack.
+Author: 7Loopy
+Name: HTTP Catcher Crack
 
 Package: zntxyu.Liaca
 Version: 4.1
@@ -189,11 +189,11 @@ Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
-Size: 69072
-MD5sum: c65806abbe39583596cc2cb8823731e7
-SHA1: 60c8ab68c8ba4f44d43328e2b01a09f4d940fcbb
-SHA256: 81b0356fe00b35065f882d1e52087643c014f03d557dabd4fa62cdd459e4c0fe
-Section: Tweaks
+Size: 69074
+MD5sum: d77667f20c7e346232e55e174f0248b4
+SHA1: 695f5ae20dd0885b688591db8eaaf4dca002ff5e
+SHA256: b5af8e369a446a5b05ea280e1604dc4e6d4d775cc7d3485b87235100a088e1b5
+Section: Utilities
 Description: MIX滤镜大师 Crack.
 Author: 7Loopy
 Name: MIX滤镜大师 Crack
@@ -204,10 +204,10 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
 Size: 68540
-MD5sum: a6d4fcec372ed24a26fcf459f1079efa
-SHA1: 06b4aa8d1b603a04c1066e116330d89ea57fae1e
-SHA256: 2360d4993d5b9e2cd509baebdb84384610c017730c6f3648e7eac0d37acfe173
-Section: Tweaks
+MD5sum: 0c4a87f167cde7ba7e55c3dcdbc5c09d
+SHA1: b807b1f10140b8a693a0a7201e054bd563453308
+SHA256: 0fd18495506cf413116e6028f48ff3b09aa275ce367b33caf5addc356dfde14d
+Section: Utilities
 Description: 拼图酱 Crack.
 Author: 7Loopy
 Name: 拼图酱 Crack
@@ -217,11 +217,11 @@ Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
-Size: 69176
-MD5sum: a9cd7b7e6cc297a383b38a99ea44f3bf
-SHA1: cffff72bcdb8d3d0d370ab75b21b93d83acd98a4
-SHA256: bd703c1f9ffe4985f54d19fb3bf8b35a064c31eeb5dba529b00e06f10072d54e
-Section: Tweaks
+Size: 69174
+MD5sum: f65700c08c97ea18111c1f4830fbbaf2
+SHA1: c1011594bc80c74752583f88330c0a4e983fe5af
+SHA256: b356c7c53703b6593b1c1b6dfb9dbe7d53cc6564dada896fde7ef8e54abdf2f2
+Section: Utilities
 Description: PicsArt美易 Crack.
 Author: 7Loopy
 Name: PicsArt美易 Crack
@@ -336,12 +336,12 @@ Version: 2.0-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.VPNMaster.Crack_2.0-1_iphoneos-arm.deb
-Size: 129520
-MD5sum: 38001cd0727e1aec0ff0e64b499a2784
-SHA1: 21b35069de635095ae2e42948b8be4e829bc24df
-SHA256: 8c411563437c243451d05dc83da9077162ba1f8d462b616ac14a8e7192c3cf05
-Section: Tweaks
-Description: VPN Master开启高级权限。
+Size: 129476
+MD5sum: f9174b285f42fb006f6323f6a4355e04
+SHA1: ef123875faa576f0c269b78d50379d03aaec1efe
+SHA256: d683fffec96b3b7fbfd20aaae60a6b547b5fbdee76f1f0986e51cb1285f2b019
+Section: Utilities
+Description: VPN Master Crack.
 Author: 7Loopy
 Name: VPN Master Crack
 
@@ -390,16 +390,16 @@ Author: Ivano Bilenchi
 Name: iCleaner Pro
 
 Package: zntxyu.iCleanerPro.Crack
-Version: 1.1-1
+Version: 1.1-3
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.iCleanerPro.Crack_1.1-1_iphoneos-arm.deb
-Size: 13092
-MD5sum: 33a87453947047dec1fb4d2ffcaa8a55
-SHA1: 0f9723babb5608c89289a546754597467fbcad70
-SHA256: 9f9163d0046b8229639c8fbad8cdf491276b1820fb399a7d8c4504e93ca7eec0
+Depends: mobilesubstrate, com.exile90.icleanerpro
+Filename: ./debs/zntxyu.iCleanerPro.Crack_1.1-3_iphoneos-arm.deb
+Size: 14714
+MD5sum: f487a964f84db9686bc6115d43d46f7b
+SHA1: 06d28ebbcecbff757521b694182582bd2419e9d7
+SHA256: 3827d4e9a8f4d6d7b6990c5e96e905d04375ddcaa439b5eeca21bad8acfc590b
 Section: Utilities
 Description: iCleaner Pro Crack.
-Author: Ai-小苹果
+Author: Netskao
 Name: iCleaner Pro Crack
 
