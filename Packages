@@ -41,6 +41,20 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Linus Yang, Karen/あけみ
 Name: AppSync Unified
 
+Package: zntxyu.AppsManager.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.AppsManager.Crack_1.1-1_iphoneos-arm.deb
+Size: 7602
+MD5sum: a07b2d2af83ad16d6750bea197439a3c
+SHA1: e502e1b415dcf0d80a7b14b750b0e024613e5115
+SHA256: 7d3e9f0d3231cee8b23dcbedb2f7095b3539e3f2aa511992b8ccff5078c439f4
+Section: Utilities
+Description: Apps Manager Crack.
+Author: Ai-小苹果
+Name: Apps Manager Crack
+
 Package: zntxyu.Axon.Reborn
 Version: 2.0.0
 Architecture: iphoneos-arm
@@ -98,19 +112,19 @@ Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Name: CyDown
 
-Package: zntxyu.Filza.Crack
-Version: 0.0.1-23+debug
+Package: zntxyu.FilzaFile.Crack
+Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Filza.Crack_0.0.1-23+debug_iphoneos-arm.deb
-Size: 5610
-MD5sum: e2f069214b1a745daa21f1c446c55423
-SHA1: 17ba1b7947481b60e5710eecdae2aa33bfec25f5
-SHA256: 2e9280bd485c2ef8ae80d5dc32566421007e94bdfa2af2fb67961955de66ee82
-Section: Tweaks
-Description: Filza Crack
-Author: xia0z
-Name: Filza Crack
+Filename: ./debs/zntxyu.FilzaFile.Crack_1.1-1_iphoneos-arm.deb
+Size: 8904
+MD5sum: 97179ad1a83e0e27f5eb0c33408d39fe
+SHA1: 52e93ef70cb8bd3e3f8553f1b64ab0501d6c1bbc
+SHA256: a0afccbcbf68f178670f12f52447bb63bfa0793b0fb1662d9faa3054ca0d7cb6
+Section: Utilities
+Description: Filza File Crack.
+Author: Ai-小苹果
+Name: Filza File Crack
 
 Package: zntxyu.Flex3
 Version: Beta97
@@ -148,23 +162,23 @@ Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.HttpCatcher.Crack_1.0.0-1+debug_iphoneos-arm.deb
-Size: 4806
-MD5sum: af62e376203ef35b9382c5ea5f908db2
-SHA1: 247edfd816021be36d2e9e431d6d8a8745cfc467
-SHA256: 07b145bbbfd361b8ae9bf3d59fd279c603fe9d5ba49b3090fa244fd212578f62
+Size: 4746
+MD5sum: b38c43139cbaab8701f7249a931ff186
+SHA1: 2a8aedd6a79c1a3037295b95dd9d127e4ceafbaf
+SHA256: bda7152b0ed849bd2e6edbe85a6317bc530d3a4af1791d2548adba3d46dc18ef
 Section: Tweaks
-Description: 适用2.0.2(240)最新版，解锁完整功能。
+Description: HttpCatcher Crack.
 Author: 糖醋丶炒排骨
 Name: HttpCatcher Crack
 
 Package: zntxyu.Liaca
-Version: 4.0
+Version: 4.1
 Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.Liaca_4.0_iphoneos-arm.deb
-Size: 10331336
-MD5sum: e7075abd1d7964be633e4789656c8203
-SHA1: 3325ae6f213067beaaa9d3fa05e6bf03835e8ca8
-SHA256: 094f20c14800137c74aa89f8f1f2b8ed49113ac8aaa7243377d12eb82e0c162b
+Filename: ./debs/zntxyu.Liaca_4.1_iphoneos-arm.deb
+Size: 10371398
+MD5sum: 00cf2bbb91bcf4bbfc0a4429b8259654
+SHA1: 5b4d7a3afa495e078cdd61cd123f1e51f81d04d5
+SHA256: 7d2523a3b58801adb3d94cb866c2d4c425b89d4e45930aa1b7ccfb5bb224a43a
 Section: Themes
 Description: Modern, Colourful & Carefully Design.
 Author: Devy_Design
@@ -175,12 +189,12 @@ Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
-Size: 69106
-MD5sum: 08251042ba3cfa9f378012e512885c88
-SHA1: aaa1ad2a50ba6e57c6e012828173bf3761247c09
-SHA256: 5652add5f9322afeeb395cc3f9e619b850cc67b58733bd2695b779ea544850f9
+Size: 69072
+MD5sum: c65806abbe39583596cc2cb8823731e7
+SHA1: 60c8ab68c8ba4f44d43328e2b01a09f4d940fcbb
+SHA256: 81b0356fe00b35065f882d1e52087643c014f03d557dabd4fa62cdd459e4c0fe
 Section: Tweaks
-Description: MIX滤镜大师开启全滤镜下载权限和全功能。
+Description: MIX滤镜大师 Crack.
 Author: 7Loopy
 Name: MIX滤镜大师 Crack
 
@@ -189,12 +203,12 @@ Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
-Size: 68558
-MD5sum: 399697ace885efab250c28cbff8e3348
-SHA1: 1a10edd24fd4b321002db9ae0fdd6c699b603e4e
-SHA256: 5b20c08e8a2386039def718e02bff4b62839c125cc27427a421b5614db4de769
+Size: 68540
+MD5sum: a6d4fcec372ed24a26fcf459f1079efa
+SHA1: 06b4aa8d1b603a04c1066e116330d89ea57fae1e
+SHA256: 2360d4993d5b9e2cd509baebdb84384610c017730c6f3648e7eac0d37acfe173
 Section: Tweaks
-Description: 拼图酱开启高级权限。
+Description: 拼图酱 Crack.
 Author: 7Loopy
 Name: 拼图酱 Crack
 
@@ -203,12 +217,12 @@ Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
-Size: 69198
-MD5sum: 01bf436d96a942f85aeddbba17e50055
-SHA1: d4fca141b3f1fff91490cf2dd01748e68095f143
-SHA256: fe7a7da83d41b31e24c9fe52a396fef6c8bcb9894e1e2f47379423c622abe4b7
+Size: 69176
+MD5sum: a9cd7b7e6cc297a383b38a99ea44f3bf
+SHA1: cffff72bcdb8d3d0d370ab75b21b93d83acd98a4
+SHA256: bd703c1f9ffe4985f54d19fb3bf8b35a064c31eeb5dba529b00e06f10072d54e
 Section: Tweaks
-Description: PicsArt美易开启高级权限。
+Description: PicsArt美易 Crack.
 Author: 7Loopy
 Name: PicsArt美易 Crack
 
@@ -245,17 +259,17 @@ Author: level3tjg
 Name: SlimVolumeHUD
 
 Package: zntxyu.SnowBoard
-Version: 1.4.0~Beta4
+Version: 1.4.1~Beta4
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/zntxyu.SnowBoard_1.4.0~Beta4_iphoneos-arm.deb
-Size: 2131264
-MD5sum: 6137e2e53a4130277165b15e9a10ac5e
-SHA1: b4bc5f34de007016a8815885d55572bc16b8d30f
-SHA256: b3fabd318ddf98e2bdb053708e850a9dc90fe7f7a0e34da89ee1139519e58d16
+Filename: ./debs/zntxyu.SnowBoard_1.4.1~Beta4_iphoneos-arm.deb
+Size: 2167910
+MD5sum: 506538e416f843345ff54a00273ac708
+SHA1: eecf8f41ed091c5ca07c7788ccef8eb3260b3ce0
+SHA256: 0399d581d5f09986cfdfc97fdf0071c100c11fc65c107066dbd075bc7396c746
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
@@ -374,4 +388,18 @@ Section: Utilities
 Description: The first real iOS system cleaner & optimizer.
 Author: Ivano Bilenchi
 Name: iCleaner Pro
+
+Package: zntxyu.iCleanerPro.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.iCleanerPro.Crack_1.1-1_iphoneos-arm.deb
+Size: 13092
+MD5sum: 33a87453947047dec1fb4d2ffcaa8a55
+SHA1: 0f9723babb5608c89289a546754597467fbcad70
+SHA256: 9f9163d0046b8229639c8fbad8cdf491276b1820fb399a7d8c4504e93ca7eec0
+Section: Utilities
+Description: iCleaner Pro Crack.
+Author: Ai-小苹果
+Name: iCleaner Pro Crack
 
