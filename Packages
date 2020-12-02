@@ -55,20 +55,6 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Linus Yang, Karen/あけみ
 Name: AppSync Unified
 
-Package: zntxyu.AppsManager.Crack
-Version: 1.1-4
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.AppsManager.Crack_1.1-4_iphoneos-arm.deb
-Size: 15384
-MD5sum: 359cce6a7ca7bf5af18efa3f4cfed60b
-SHA1: 3438e2b0bfff4dfc70fa2dd0bbd1cc75caae86ff
-SHA256: 133cffa2c1f0eb9a658ed83125da2aca908284518601b0934bde4102b62e1fc5
-Section: Utilities
-Description: Apps Manager破解全功能插件。
-Author: Netskao
-Name: Apps Manager Crack
-
 Package: zntxyu.Axon.Reborn
 Version: 2.0.0
 Architecture: iphoneos-arm
@@ -213,20 +199,6 @@ Description: 京东去除启动广告，增加长按商品视频评论视频保�
 Author: Netskao
 Name: 京东 NoAds
 
-Package: zntxyu.KWYY.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/zntxyu.KWYY.Crack_1.1-1_iphoneos-arm.deb
-Size: 138120
-MD5sum: c5b6f7e5e7c1ca4925e2c093aca8a175
-SHA1: a5002c0e31acfc4220afcbc70bc7185474892e6d
-SHA256: 9d97db1a54b148aa44f1aa0c954d4374927d7ae39982eb26718dc0b92c74ada0
-Section: Utilities
-Description: 酷我音乐解锁听歌VIP，去除启动广告等，增加长按MV视频保存到本地。
-Author: Netskao
-Name: 酷我音乐 Crack
-
 Package: zntxyu.Liaca
 Version: 4.1
 Architecture: iphoneos-arm
@@ -296,20 +268,6 @@ Description: 修改音量控制器位置为横屏模式，强制任何时候包�
 Author: Netskao
 Name: PerfectSBVolume
 
-Package: zntxyu.PicsArt.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
-Size: 69208
-MD5sum: eeb10ad4a4aad34e49b2caa7091c9482
-SHA1: 5f507967a067aaf141efc5beca4eda03f1fb926e
-SHA256: 4f006e54d69a77832c046a120d87ada37287aa93f129e3d71ddae8e0f1310052
-Section: Utilities
-Description: PicsArt美易开启高级权限。
-Author: 7Loopy
-Name: PicsArt美易 Crack
-
 Package: zntxyu.ReProvision
 Version: 0.5.2~EOL
 Architecture: iphoneos-arm
@@ -327,20 +285,6 @@ Description: Re-sign applications on your device
 Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
-
-Package: zntxyu.SlimVolumeHUD
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.SlimVolumeHUD_0.0.1_iphoneos-arm.deb
-Size: 3778
-MD5sum: 5e337e33bc6396e1f10068a993ac2437
-SHA1: 4632c9e6f25e1f697101325bb68b9bcfc4ccff3a
-SHA256: c368128b7665cff90b48ac12abc9403ef1f5c122283d9c142f2e750734929cf0
-Section: Tweaks
-Description: Get rid of the "fat" iOS 13 Volume HUD state.
-Author: level3tjg
-Name: SlimVolumeHUD
 
 Package: zntxyu.SnowBoard
 Version: 1.4.1~Beta4
@@ -401,20 +345,6 @@ Description: Adds a button to switch account in App Store account page on iOS 11
 Author: subdiox
 Name: StoreSwitcher 2
 
-Package: zntxyu.SugarCane
-Version: 1.1-2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.SugarCane_1.1-2_iphoneos-arm.deb
-Size: 11924
-MD5sum: 4fb1499dc7f9a1ea43b8c5054c65e8f1
-SHA1: 4b89b62f25dda897b5e423017cd58d6e080be93d
-SHA256: 19f0a76eb52efdb096b4be10b2c8e1701669961f69e4edf79315296d4f9f979a
-Section: Tweaks
-Description: Get percentages for the sliders in the Control Center.
-Author: iOS Creatix
-Name: SugarCane
-
 Package: zntxyu.TXXW.NoAds
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -458,20 +388,6 @@ Description: 推特去除信息流广告，增加长按视频保存到相册。
 Author: Netskao
 Name: Twitter NoAds
 
-Package: zntxyu.VPNMaster.Crack
-Version: 2.0-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.VPNMaster.Crack_2.0-1_iphoneos-arm.deb
-Size: 129476
-MD5sum: f9174b285f42fb006f6323f6a4355e04
-SHA1: ef123875faa576f0c269b78d50379d03aaec1efe
-SHA256: d683fffec96b3b7fbfd20aaae60a6b547b5fbdee76f1f0986e51cb1285f2b019
-Section: Utilities
-Description: VPN Master Crack.
-Author: 7Loopy
-Name: VPN Master Crack
-
 Package: zntxyu.Vinyl
 Version: 1.0.7.3
 Architecture: iphoneos-arm
@@ -486,20 +402,6 @@ Priority: optional
 Description: A simplified look for the lockscreen music player!
 Author: Lightmann
 Name: Vinyl
-
-Package: zntxyu.WPSOffice.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.WPSOffice.Crack_1.1-1_iphoneos-arm.deb
-Size: 69138
-MD5sum: f62cf12c2ac4a865a95b9a4c7e5821d7
-SHA1: b2c551aecaec07eed2f07fdbdedbbedb9bccbefe
-SHA256: 666d30f1a0e785b9a766ecc78a9f7b202561ee640903d5bbdf114bd3207554bc
-Section: Utilities
-Description: WPS Office开启一部分高级功能，但是不能下载模版。
-Author: 7Loopy
-Name: WPS Office Crack
 
 Package: zntxyu.WYYYY.NoAds
 Version: 1.1-3
