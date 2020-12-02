@@ -474,17 +474,3 @@ Description: The first real iOS system cleaner & optimizer.
 Author: Ivano Bilenchi
 Name: iCleaner Pro
 
-Package: zntxyu.iCleanerPro.Crack
-Version: 1.1-3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.iCleanerPro.Crack_1.1-3_iphoneos-arm.deb
-Size: 14744
-MD5sum: e36e169d6973d79680222b55f66514a0
-SHA1: 4d5018ecc820d29d3f89303ae1f71f3af30ae97b
-SHA256: 3ab740839e8c474d73a55d7294512ef8d18fa194d4c13bd0a5969bead6e1c435
-Section: Utilities
-Description: iCleaner Pro破解全功能插件。
-Author: Netskao
-Name: iCleaner Pro Crack
-
