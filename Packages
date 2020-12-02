@@ -431,20 +431,6 @@ Description: 微博去烦人的启动广告，去除首页信息流中广告，�
 Author: Netskao
 Name: 微博 NoAds
 
-Package: zntxyu.WeiFeng.NoAds
-Version: 1.4-6
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.WeiFeng.NoAds_1.4-6_iphoneos-arm.deb
-Size: 125770
-MD5sum: b4b81a5541cd9be9984b001987878346
-SHA1: abbcdb77a4ff068d513925d684f948aeb508b7e5
-SHA256: 7cf004a5444174e29498dd26ec52cf61b3042a3cf891e9cf8b0afcb613702382
-Section: Tweaks
-Description: 威锋完美去启动广告，贴间广告等，支持5.x-6.x版本。
-Author: Netskao
-Name: 威锋 NoAds
-
 Package: zntxyu.YueHei+Panton
 Version: 1.0
 Architecture: iphoneos-arm
