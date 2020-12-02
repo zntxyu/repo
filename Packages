@@ -58,13 +58,14 @@ Name: AppSync Unified
 Package: zntxyu.AppsManager.Crack
 Version: 1.1-4
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Filename: ./debs/zntxyu.AppsManager.Crack_1.1-4_iphoneos-arm.deb
-Size: 15324
-MD5sum: a01b64a1569291281e8d47c45b138756
-SHA1: 192adf2f4bed181fd94ff30af3a6f58ed41722a4
-SHA256: c20b77710f6d935bb224b51887420074d6edf9b172ff1dadac826bc4f9280fdd
+Size: 15384
+MD5sum: 359cce6a7ca7bf5af18efa3f4cfed60b
+SHA1: 3438e2b0bfff4dfc70fa2dd0bbd1cc75caae86ff
+SHA256: 133cffa2c1f0eb9a658ed83125da2aca908284518601b0934bde4102b62e1fc5
 Section: Utilities
-Description: Apps Manager Crack.
+Description: Apps Manager破解全功能插件。
 Author: Netskao
 Name: Apps Manager Crack
 
@@ -125,18 +126,19 @@ Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Name: CyDown
 
-Package: zntxyu.FilzaFile.Crack
+Package: zntxyu.Filza.Crack
 Version: 1.1-4
 Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.FilzaFile.Crack_1.1-4_iphoneos-arm.deb
-Size: 16360
-MD5sum: eafb234bcce23a6164b0631e0222a175
-SHA1: c1c9cef409c279508e450e5838027b031c374ffc
-SHA256: 41ea1c40834ad6490b31a3e2d5478067eb80bcc677be664df1832d8ed17a127e
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.Filza.Crack_1.1-4_iphoneos-arm.deb
+Size: 16418
+MD5sum: cacde40445a57806309a53f159a94a59
+SHA1: dd84b8b464ae48b5c82536cba22d7bdb74176fb9
+SHA256: 6854c2333b1e47c6445c30e881eb7c7018742b59898c258d2b305a5d73f58330
 Section: Utilities
-Description: Filza File Crack.
+Description: Filza破解全功能插件。
 Author: Netskao
-Name: Filza File Crack
+Name: Filza Crack
 
 Package: zntxyu.Flex3
 Version: Beta97
@@ -169,17 +171,17 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
-Package: zntxyu.HTTPCatcher.Crack
+Package: zntxyu.HttpCatcher.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/zntxyu.HTTPCatcher.Crack_1.1-1_iphoneos-arm.deb
-Size: 68628
-MD5sum: cfe892562fa0a819049190b807d0556f
-SHA1: f89832889afb5943b0b1bfb8c0dd36635b7a9c3c
-SHA256: dc6780115121635dd4658ab75a7c6dfbeb6c297f07b204f1b92b4468cb2791b0
+Filename: ./debs/zntxyu.HttpCatcher.Crack_1.1-1_iphoneos-arm.deb
+Size: 68694
+MD5sum: 968d97b5b7950c4b34de2862bfd44281
+SHA1: b8375900e8a81f7475935d286bc168f243a50ec7
+SHA256: 2778673bc12aec9f242428d4234bec90111177dd09aee0c5a5b0143ab583414c
 Section: Utilities
-Description: HTTP Catcher Crack.
+Description: HTTPCatcher解锁全功能，2.0.2当前最新版。
 Author: 7Loopy
 Name: HTTP Catcher Crack
 
@@ -211,6 +213,20 @@ Description: 京东去除启动广告，增加长按商品视频评论视频保�
 Author: Netskao
 Name: 京东 NoAds
 
+Package: zntxyu.KWYY.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/zntxyu.KWYY.Crack_1.1-1_iphoneos-arm.deb
+Size: 138120
+MD5sum: c5b6f7e5e7c1ca4925e2c093aca8a175
+SHA1: a5002c0e31acfc4220afcbc70bc7185474892e6d
+SHA256: 9d97db1a54b148aa44f1aa0c954d4374927d7ae39982eb26718dc0b92c74ada0
+Section: Utilities
+Description: 酷我音乐解锁听歌VIP，去除启动广告等，增加长按MV视频保存到本地。
+Author: Netskao
+Name: 酷我音乐 Crack
+
 Package: zntxyu.Liaca
 Version: 4.1
 Architecture: iphoneos-arm
@@ -229,40 +245,68 @@ Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
-Size: 69074
-MD5sum: d77667f20c7e346232e55e174f0248b4
-SHA1: 695f5ae20dd0885b688591db8eaaf4dca002ff5e
-SHA256: b5af8e369a446a5b05ea280e1604dc4e6d4d775cc7d3485b87235100a088e1b5
+Size: 69116
+MD5sum: cf6be935a8b78b7ed32d3ba931d777f2
+SHA1: d0a03c1ce2e0c4d545256b2cb4b1e0ced211239f
+SHA256: 6408a89dcd855b56eb9c42e32f04f261a846c24dc04385bd0fa7576dd90133ed
 Section: Utilities
-Description: MIX滤镜大师 Crack.
+Description: MIX滤镜大师开启全滤镜下载权限和全功能。
 Author: 7Loopy
 Name: MIX滤镜大师 Crack
+
+Package: zntxyu.Modules.Battery
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/zntxyu.Modules.Battery_1.0_iphoneos-arm.deb
+Size: 38308
+MD5sum: 8c5e9de06cc94dea71fc8f4756ccfabb
+SHA1: 4c76927b633617233062ce901c4d186705be3062
+SHA256: ba76659d2eb3c9092f6df06b2ba3c3c58d3dff93fe4b34c9123bac1294d2cc23
+Section: Tweaks
+Description: Modules Battery
+Author: zntxyu
+Name: Modules Battery
 
 Package: zntxyu.PTJ.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
-Size: 68540
-MD5sum: 0c4a87f167cde7ba7e55c3dcdbc5c09d
-SHA1: b807b1f10140b8a693a0a7201e054bd563453308
-SHA256: 0fd18495506cf413116e6028f48ff3b09aa275ce367b33caf5addc356dfde14d
+Size: 68570
+MD5sum: 443ee538e54e57adb7277dfab5233cbc
+SHA1: 8fb55ef4c19c4463284ddd44520974f1d0343c39
+SHA256: a00f856c6d87d168e9e2157a5840abff935babd8a99ad154f0d9967c91d5d910
 Section: Utilities
-Description: 拼图酱 Crack.
+Description: 拼图酱开启高级权限。
 Author: 7Loopy
 Name: 拼图酱 Crack
+
+Package: zntxyu.PerfectSBVolume
+Version: 1.1-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/zntxyu.PerfectSBVolume_1.1-2_iphoneos-arm.deb
+Size: 7052
+MD5sum: 1706cb067d2e9344120172b358bd5ab9
+SHA1: b0ef22e7057265adac6031c5f5e6b83021f44a19
+SHA256: 10e73dd61d18eda279a01f0eac20e3c7fe11885e930259c43f5ca90d8fd7a415
+Section: Tweaks
+Description: 修改音量控制器位置为横屏模式，强制任何时候包括拖动音量条时也保持缩小状态。
+Author: Netskao
+Name: PerfectSBVolume
 
 Package: zntxyu.PicsArt.Crack
 Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
-Size: 69174
-MD5sum: f65700c08c97ea18111c1f4830fbbaf2
-SHA1: c1011594bc80c74752583f88330c0a4e983fe5af
-SHA256: b356c7c53703b6593b1c1b6dfb9dbe7d53cc6564dada896fde7ef8e54abdf2f2
+Size: 69208
+MD5sum: eeb10ad4a4aad34e49b2caa7091c9482
+SHA1: 5f507967a067aaf141efc5beca4eda03f1fb926e
+SHA256: 4f006e54d69a77832c046a120d87ada37287aa93f129e3d71ddae8e0f1310052
 Section: Utilities
-Description: PicsArt美易 Crack.
+Description: PicsArt美易开启高级权限。
 Author: 7Loopy
 Name: PicsArt美易 Crack
 
@@ -443,6 +487,20 @@ Description: A simplified look for the lockscreen music player!
 Author: Lightmann
 Name: Vinyl
 
+Package: zntxyu.WPSOffice.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.WPSOffice.Crack_1.1-1_iphoneos-arm.deb
+Size: 69138
+MD5sum: f62cf12c2ac4a865a95b9a4c7e5821d7
+SHA1: b2c551aecaec07eed2f07fdbdedbbedb9bccbefe
+SHA256: 666d30f1a0e785b9a766ecc78a9f7b202561ee640903d5bbdf114bd3207554bc
+Section: Utilities
+Description: WPS Office开启一部分高级功能，但是不能下载模版。
+Author: 7Loopy
+Name: WPS Office Crack
+
 Package: zntxyu.WYYYY.NoAds
 Version: 1.1-3
 Architecture: iphoneos-arm
@@ -517,13 +575,14 @@ Name: iCleaner Pro
 Package: zntxyu.iCleanerPro.Crack
 Version: 1.1-3
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Filename: ./debs/zntxyu.iCleanerPro.Crack_1.1-3_iphoneos-arm.deb
-Size: 14684
-MD5sum: 1eeaebb4a055b96c87660b9c4600bb55
-SHA1: fe56b1678f7e6d348b476a9b119e875f8f1d3a29
-SHA256: c7420d6815dac4b05f2e1ab94c389d0bdd0b006cc0ba59ae159745ec50abd588
+Size: 14744
+MD5sum: e36e169d6973d79680222b55f66514a0
+SHA1: 4d5018ecc820d29d3f89303ae1f71f3af30ae97b
+SHA256: 3ab740839e8c474d73a55d7294512ef8d18fa194d4c13bd0a5969bead6e1c435
 Section: Utilities
-Description: iCleaner Pro Crack.
+Description: iCleaner Pro破解全功能插件。
 Author: Netskao
 Name: iCleaner Pro Crack
 
