@@ -1,3 +1,17 @@
+Package: ru.rj.veloxreloaded
+Version: 1.2.1k
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, com.chpwn.iconsupport
+Filename: ./debs/ru.rj.veloxreloaded_1.2.1k_iphoneos-arm.deb
+Size: 14174570
+MD5sum: 6643f2c8a5804700b37c43cbf848a814
+SHA1: c3944079a73676b2cb28a5c340cf3469fa3fb3bc
+SHA256: 2d41b194fc48b48359e6650be1f0c1accd07a2d28e1abdf3caa8f2163663ab80
+Section: Tweaks
+Description: Desktop Widgets.
+Author: ApexTweaks
+Name: Velox Reloaded
+
 Package: zntxyu.AirPods.EQE
 Version: 1.0
 Architecture: iphoneos-arm
