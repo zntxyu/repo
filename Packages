@@ -315,20 +315,20 @@ Author: jjolano
 Name: Shadow
 
 Package: zntxyu.SnowBoard
-Version: 1.4.1~Beta4
+Version: 1.4.2~Beta4
 Architecture: iphoneos-arm
+Maintainer: Spark
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/zntxyu.SnowBoard_1.4.1~Beta4_iphoneos-arm.deb
-Size: 2167910
-MD5sum: 506538e416f843345ff54a00273ac708
-SHA1: eecf8f41ed091c5ca07c7788ccef8eb3260b3ce0
-SHA256: 0399d581d5f09986cfdfc97fdf0071c100c11fc65c107066dbd075bc7396c746
+Filename: ./debs/zntxyu.SnowBoard_1.4.2~Beta4_iphoneos-arm.deb
+Size: 2167624
+MD5sum: 720dc2aaf771207fc4ff4b02ae1298a3
+SHA1: 25814f25785cde3dc9abe4b8386f06ccb4724289
+SHA256: f75d190bedcae78398d9aca26d1c1d3ce620f97c52735a8a2f3cda113c971c1c
 Section: Tweaks
 Description: Snowboard theming engine
-Author: Spark & Dennis D. Bednarz
 Name: SnowBoard
 
 Package: zntxyu.SpotiLife
