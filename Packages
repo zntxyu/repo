@@ -300,6 +300,20 @@ Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
 
+Package: zntxyu.Shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
+Size: 253234
+MD5sum: 3c60a1122372488c8582655efb143a84
+SHA1: ff253cc4db1f1650b3adb6ce23a56fd6880c2fb7
+SHA256: 87941546c3dc5c312bbf4d3bbff7775f9f78319394ea5a07213fd5449844acaf
+Section: Tweaks
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano
+Name: Shadow
+
 Package: zntxyu.SnowBoard
 Version: 1.4.1~Beta4
 Architecture: iphoneos-arm
