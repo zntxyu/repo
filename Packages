@@ -68,6 +68,20 @@ Description: Modules Battery
 Author: zntxyu
 Name: Modules Battery
 
+Package: zntxyu.PTJ.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
+Size: 68570
+MD5sum: 443ee538e54e57adb7277dfab5233cbc
+SHA1: 8fb55ef4c19c4463284ddd44520974f1d0343c39
+SHA256: a00f856c6d87d168e9e2157a5840abff935babd8a99ad154f0d9967c91d5d910
+Section: Utilities
+Description: 拼图酱开启高级权限。
+Author: 7Loopy
+Name: 拼图酱 Crack
+
 Package: zntxyu.SpotiLife
 Version: 1.3a
 Architecture: iphoneos-arm
