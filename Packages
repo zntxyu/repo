@@ -1,17 +1,3 @@
-Package: ru.rj.veloxreloaded
-Version: 1.2.1k
-Architecture: iphoneos-arm
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, com.chpwn.iconsupport
-Filename: ./debs/ru.rj.veloxreloaded_1.2.1k_iphoneos-arm.deb
-Size: 14174570
-MD5sum: 6643f2c8a5804700b37c43cbf848a814
-SHA1: c3944079a73676b2cb28a5c340cf3469fa3fb3bc
-SHA256: 2d41b194fc48b48359e6650be1f0c1accd07a2d28e1abdf3caa8f2163663ab80
-Section: Tweaks
-Description: Desktop Widgets.
-Author: ApexTweaks
-Name: Velox Reloaded
-
 Package: zntxyu.AirPods.EQE
 Version: 1.0
 Architecture: iphoneos-arm
@@ -25,64 +11,6 @@ Section: Tweaks
 Description: EQE presets.
 Author: Zntxyu
 Name: AirPods EQE Presets
-
-Package: zntxyu.AliPay.NoAds
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.AliPay.NoAds_1.1-1_iphoneos-arm.deb
-Size: 129680
-MD5sum: be19f6a2a417392c4e239ae59a917726
-SHA1: 1125d85fd3051e38bd74c13e6a62f2f7d5cbb2c6
-SHA256: f1ed325ef17cff39015d0dc745a3e55bf3b22c9a96030ea604e48d1d78667370
-Section: Tweaks
-Description: 支付宝去除首页广告，去除底部理财和口碑选项等。
-Author: Netskao
-Name: 支付宝 NoAds
-
-Package: zntxyu.AppStore++
-Version: 0.9.13-2
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/zntxyu.AppStore++_0.9.13-2_iphoneos-arm.deb
-Size: 680100
-MD5sum: adb15d2d13b6ab4a98f17399d667019a
-SHA1: 0e42f2c4f1a2f909043c516689fa772a50e562e4
-SHA256: 2f92cf5df8c99bea78692042c65fd0c8a80c853ae26308d768270ed3427e55fd
-Section: Tweaks
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
-Author: CokePokes
-Name: AppStore++
-
-Package: zntxyu.AppSync.Unified
-Version: 84.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Filename: ./debs/zntxyu.AppSync.Unified_84.0_iphoneos-arm.deb
-Size: 63822
-MD5sum: b02e612ccf939f362ca974188f554dfd
-SHA1: 203a561d3a811682f0dec5d689337da56cc054f2
-SHA256: a65629c9ff93436558dcbf1caa474c6b6c535fdf5f58bc15fe47e37beb9737fd
-Section: Tweaks
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Linus Yang, Karen/あけみ
-Name: AppSync Unified
-
-Package: zntxyu.Axon.Reborn
-Version: 2.0.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
-Conflicts: com.peterdev.grupi, me.nepeta.axon, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debs/zntxyu.Axon.Reborn_2.0.0_iphoneos-arm.deb
-Size: 194124
-MD5sum: e023100114b38fc5112a71d4e618cce5
-SHA1: 981bc16dfe9d8124c954ea920a2b3abf5a5086f3
-SHA256: 362d0bc7920d40a4b1463cfb3d7de563788441e7c92716bd2e213733195e781c
-Section: Tweaks
-Description: Priority Hub for iOS 13.
-Author: Nepeta
-Name: Axon Reborn
 
 Package: zntxyu.BetterCCxi.Fix
 Version: 1.6.0
@@ -112,51 +40,6 @@ Description: CCModules.
 Author: zntxyu
 Name: CCModules
 
-Package: zntxyu.Cydown
-Version: 7.1.1
-Architecture: iphoneos-arm
-Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/zntxyu.Cydown_7.1.1_iphoneos-arm.deb
-Size: 4357966
-MD5sum: 03f8dc368dd0157d17c2c390ba0d423e
-SHA1: 7e2dd4dd6b0dd44305ebe88badfc394f5b7136b0
-SHA256: 1dfd1e815c15bc4b2df2976e96530f7cb8addcb48eed785093e6be4886919272
-Section: Tweaks
-Description: Cydia Download Manager & Extra Features!
-Author: julioverne
-Name: CyDown
-
-Package: zntxyu.Filza.Crack
-Version: 1.1-4
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Filza.Crack_1.1-4_iphoneos-arm.deb
-Size: 16418
-MD5sum: cacde40445a57806309a53f159a94a59
-SHA1: dd84b8b464ae48b5c82536cba22d7bdb74176fb9
-SHA256: 6854c2333b1e47c6445c30e881eb7c7018742b59898c258d2b305a5d73f58330
-Section: Utilities
-Description: Filza破解全功能插件。
-Author: Netskao
-Name: Filza Crack
-
-Package: zntxyu.Flex3
-Version: Beta97
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/zntxyu.Flex3_Beta97_iphoneos-arm.deb
-Size: 14371236
-MD5sum: 4ec807baea9a9313fd25537d4fa070a3
-SHA1: 87c6def9258dce61dd93234f6856048c4b2b9e65
-SHA256: 252c8dd07b73634f556496d0334bf57c6c1200033e7511e5641bc791f39d5172
-Section: Utilities
-Description: Develop your own tweaks and share them on the Flex Community Cloud.
-Author: John Coates
-Name: Flex3
-Recommended: com.rpetrich.rocketbootstrap
-
 Package: zntxyu.GPS.Manager
 Version: 1.8.8k
 Architecture: iphoneos-arm
@@ -171,75 +54,6 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
-Package: zntxyu.HttpCatcher.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.HttpCatcher.Crack_1.1-1_iphoneos-arm.deb
-Size: 68694
-MD5sum: 968d97b5b7950c4b34de2862bfd44281
-SHA1: b8375900e8a81f7475935d286bc168f243a50ec7
-SHA256: 2778673bc12aec9f242428d4234bec90111177dd09aee0c5a5b0143ab583414c
-Section: Utilities
-Description: HTTPCatcher解锁全功能，2.0.2当前最新版。
-Author: 7Loopy
-Name: HTTP Catcher Crack
-
-Package: zntxyu.Instagram.NoAds
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.Instagram.NoAds_1.1-1_iphoneos-arm.deb
-Size: 146328
-MD5sum: 868042d317c0a4e953cc9de306dd2f85
-SHA1: d03d234ddc09643f57ecb96c06aefddf1120170b
-SHA256: 9cd3bc7ee62acb5316e52b77f8bc6d10bc5ae01d5f354c19cd39cae94b17a9f6
-Section: Tweaks
-Description: Instagram去除视图流中广告，增加双击视频或图片保存到相册。
-Author: Netskao
-Name: Instagram NoAds
-
-Package: zntxyu.JingDong.NoAds
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/zntxyu.JingDong.NoAds_1.1-1_iphoneos-arm.deb
-Size: 136106
-MD5sum: 3ccc0e6a9f22117e682e1e4199944780
-SHA1: e7d0fbca7a016bb19c165d16fe1574fc399d7ea0
-SHA256: aa82ec828f8fc28c329252a688b3f1cbe166fa30e0e9b2df758d403fb0f6bb90
-Section: Tweaks
-Description: 京东去除启动广告，增加长按商品视频评论视频保存到相册。
-Author: Netskao
-Name: 京东 NoAds
-
-Package: zntxyu.Liaca
-Version: 4.1
-Architecture: iphoneos-arm
-Filename: ./debs/zntxyu.Liaca_4.1_iphoneos-arm.deb
-Size: 10371398
-MD5sum: 00cf2bbb91bcf4bbfc0a4429b8259654
-SHA1: 5b4d7a3afa495e078cdd61cd123f1e51f81d04d5
-SHA256: 7d2523a3b58801adb3d94cb866c2d4c425b89d4e45930aa1b7ccfb5bb224a43a
-Section: Themes
-Description: Modern, Colourful & Carefully Design.
-Author: Devy_Design
-Name: Liaca
-
-Package: zntxyu.MIX.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
-Size: 69116
-MD5sum: cf6be935a8b78b7ed32d3ba931d777f2
-SHA1: d0a03c1ce2e0c4d545256b2cb4b1e0ced211239f
-SHA256: 6408a89dcd855b56eb9c42e32f04f261a846c24dc04385bd0fa7576dd90133ed
-Section: Utilities
-Description: MIX滤镜大师开启全滤镜下载权限和全功能。
-Author: 7Loopy
-Name: MIX滤镜大师 Crack
-
 Package: zntxyu.Modules.Battery
 Version: 1.0
 Architecture: iphoneos-arm
@@ -253,83 +67,6 @@ Section: Tweaks
 Description: Modules Battery
 Author: zntxyu
 Name: Modules Battery
-
-Package: zntxyu.PTJ.Crack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
-Size: 68570
-MD5sum: 443ee538e54e57adb7277dfab5233cbc
-SHA1: 8fb55ef4c19c4463284ddd44520974f1d0343c39
-SHA256: a00f856c6d87d168e9e2157a5840abff935babd8a99ad154f0d9967c91d5d910
-Section: Utilities
-Description: 拼图酱开启高级权限。
-Author: 7Loopy
-Name: 拼图酱 Crack
-
-Package: zntxyu.PerfectSBVolume
-Version: 1.1-2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/zntxyu.PerfectSBVolume_1.1-2_iphoneos-arm.deb
-Size: 7052
-MD5sum: 1706cb067d2e9344120172b358bd5ab9
-SHA1: b0ef22e7057265adac6031c5f5e6b83021f44a19
-SHA256: 10e73dd61d18eda279a01f0eac20e3c7fe11885e930259c43f5ca90d8fd7a415
-Section: Tweaks
-Description: 修改音量控制器位置为横屏模式，强制任何时候包括拖动音量条时也保持缩小状态。
-Author: Netskao
-Name: PerfectSBVolume
-
-Package: zntxyu.ReProvision
-Version: 0.5.2~EOL
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/zntxyu.ReProvision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14391648
-MD5sum: 658cf82e02f112a3138f62a698505142
-SHA1: 6717ca26feb3005ee474fc745460af2e017bc1af
-SHA256: ee674b2ab01c7224cb1d0a6680fa1691b03e0143489403b69df828c66022dd7d
-Section: Utilities
-Priority: optional
-Description: Re-sign applications on your device
-Author: Matt Clarke <matt@incendo.ws>
-Dev: Matt Clarke <matt@incendo.ws>
-Name: ReProvision
-
-Package: zntxyu.Shadow
-Version: 2.0.20
-Architecture: iphoneos-arm
-Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./debs/zntxyu.Shadow_2.0.20_iphoneos-arm.deb
-Size: 253234
-MD5sum: 3c60a1122372488c8582655efb143a84
-SHA1: ff253cc4db1f1650b3adb6ce23a56fd6880c2fb7
-SHA256: 87941546c3dc5c312bbf4d3bbff7775f9f78319394ea5a07213fd5449844acaf
-Section: Tweaks
-Description: A lightweight general jailbreak detection bypass.
-Author: jjolano
-Name: Shadow
-
-Package: zntxyu.SnowBoard
-Version: 1.4.2~Beta4
-Architecture: iphoneos-arm
-Maintainer: Spark
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/zntxyu.SnowBoard_1.4.2~Beta4_iphoneos-arm.deb
-Size: 2167624
-MD5sum: 720dc2aaf771207fc4ff4b02ae1298a3
-SHA1: 25814f25785cde3dc9abe4b8386f06ccb4724289
-SHA256: f75d190bedcae78398d9aca26d1c1d3ce620f97c52735a8a2f3cda113c971c1c
-Section: Tweaks
-Description: Snowboard theming engine
-Name: SnowBoard
 
 Package: zntxyu.SpotiLife
 Version: 1.3a
@@ -358,107 +95,6 @@ Description: Status Bar For Phone Assistant.
 Author: Zntxyu
 Name: Zntxyu Bar
 
-Package: zntxyu.StoreSwitcher2
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: subdiox
-Depends: firmware (>= 11), mobilesubstrate
-Filename: ./debs/zntxyu.StoreSwitcher2_1.0.3_iphoneos-arm.deb
-Size: 45830
-MD5sum: 2298c90d45c048fa5589a317cbb232b7
-SHA1: 52d6218ad98ca53383e056d3546dfef8abef00de
-SHA256: 74cbbbbecc29e8c144e330174c65725d8c4f3ae8d9f95b5c16ea63b33d7ec4a4
-Section: Tweaks
-Description: Adds a button to switch account in App Store account page on iOS 11+.
-Author: subdiox
-Name: StoreSwitcher 2
-
-Package: zntxyu.TXXW.NoAds
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/zntxyu.TXXW.NoAds_1.1-1_iphoneos-arm.deb
-Size: 106870
-MD5sum: f9d4ef689a5e2809994bd9c259d31e22
-SHA1: d69e1515c6aac26dbc969e4ab66c0dd583eb94b0
-SHA256: e78fb2750dd4f2b723a1718d56f56c884a25ebd10bebf2e0f994cef60570101d
-Section: Tweaks
-Description: 腾讯新闻去除启动广告，去除文章底部广告，去除评论广告，去除我的底部推荐等。
-Author: Netskao
-Name: 腾讯新闻 NoAds
-
-Package: zntxyu.Taobao.NoAds
-Version: 1.1-2
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/zntxyu.Taobao.NoAds_1.1-2_iphoneos-arm.deb
-Size: 140352
-MD5sum: 1a6343bab48d01c63eec0b230986ce1f
-SHA1: beb3154b3d85d2c98930acb9afa0ba4ba60730ca
-SHA256: 270d2244f3ed7580684d2286e537523064d429f93a18f960325609ff22b0ca14
-Section: Tweaks
-Description: 淘宝去除启动广告，增加长按商品视频评论视频保存到相册。
-Author: Netskao
-Name: 淘宝 NoAds
-
-Package: zntxyu.Twitter.NoAds
-Version: 1.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 12.0), mobilesubstrate
-Replaces: netskao.twitterpurification
-Filename: ./debs/zntxyu.Twitter.NoAds_1.1-1_iphoneos-arm.deb
-Size: 138302
-MD5sum: 82b1a641d7136058fd21b0630339b061
-SHA1: 32ee754f97059ff74f26186322f6e96ec455f316
-SHA256: 0ffe69c69ef1337035d47b3edec8691de80f3cad0fde3de98f094c6f5bf0dd44
-Section: Tweaks
-Description: 推特去除信息流广告，增加长按视频保存到相册。
-Author: Netskao
-Name: Twitter NoAds
-
-Package: zntxyu.Vinyl
-Version: 1.0.7.3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debs/zntxyu.Vinyl_1.0.7.3_iphoneos-arm.deb
-Size: 360154
-MD5sum: 74175b57895b0c7b7bf7d93414f21c89
-SHA1: 550818ee06bf07cbb9526133ec5cfae14ca146c7
-SHA256: 058a61ba81834fba294b1eb628d9b15d9395b10e4ccaccfcb1e1f6c7efa40fdd
-Section: Tweaks
-Priority: optional
-Description: A simplified look for the lockscreen music player!
-Author: Lightmann
-Name: Vinyl
-
-Package: zntxyu.WYYYY.NoAds
-Version: 1.1-3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.WYYYY.NoAds_1.1-3_iphoneos-arm.deb
-Size: 116800
-MD5sum: 0c144905da084983de5e6cbb42b5ce1e
-SHA1: 34897a2bcb5d70f63c7ddc990ea99719d36a4446
-SHA256: 953bf2082e75fbd83843cf9e62122a85a5a2e32cd5b316f5ce45c67840891059
-Section: Tweaks
-Description: 网易云音乐去除启动广告，评论广告，视频流广告等，增加长按视频保存到相册。
-Author: Netskao
-Name: 网易云音乐 NoAds
-
-Package: zntxyu.WeiBo.NoAds
-Version: 1.1-3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/zntxyu.WeiBo.NoAds_1.1-3_iphoneos-arm.deb
-Size: 145794
-MD5sum: 59ca3bfad6fa3e3e7ea6885635c6eefe
-SHA1: 769714c553f261b4483c0880e62564f0fc63490f
-SHA256: 8aba14e3fc36cc34d1ae760a7cab6460ed7474f5799bfcf25bdf936ccf235232
-Section: Tweaks
-Description: 微博去烦人的启动广告，去除首页信息流中广告，去除视频下方广告横幅，去除评论中广告等，增加长视频点击按钮保存到相册，支持720P-360P选择，短视频自身可保存。
-Author: Netskao
-Name: 微博 NoAds
-
 Package: zntxyu.YueHei+Panton
 Version: 1.0
 Architecture: iphoneos-arm
@@ -473,18 +109,4 @@ Section: System
 Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
 Author: zntxyu
 Name: Font-悦黑+Panton
-
-Package: zntxyu.iCleaner.Pro
-Version: 7.9.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Filename: ./debs/zntxyu.iCleaner.Pro_7.9.0_iphoneos-arm.deb
-Size: 6741536
-MD5sum: 736bb39b792695309b42b3502be515ef
-SHA1: ee0bab505b033e2e713520fd3b4325433849a77c
-SHA256: 8a6993fbe5aa76da312959fd09180cfd83b41cad326dad53fe11bbc90fb33f8c
-Section: Utilities
-Description: The first real iOS system cleaner & optimizer.
-Author: Ivano Bilenchi
-Name: iCleaner Pro
 
