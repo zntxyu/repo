@@ -12,6 +12,20 @@ Description: EQE presets.
 Author: Zntxyu
 Name: AirPods EQE Presets
 
+Package: zntxyu.AppsManager.Crack
+Version: 1.1-4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.AppsManager.Crack_1.1-4_iphoneos-arm.deb
+Size: 15384
+MD5sum: 359cce6a7ca7bf5af18efa3f4cfed60b
+SHA1: 3438e2b0bfff4dfc70fa2dd0bbd1cc75caae86ff
+SHA256: 133cffa2c1f0eb9a658ed83125da2aca908284518601b0934bde4102b62e1fc5
+Section: Utilities
+Description: Apps Manager破解全功能插件。
+Author: Netskao
+Name: Apps Manager Crack
+
 Package: zntxyu.BetterCCxi.Fix
 Version: 1.6.0
 Architecture: iphoneos-arm
@@ -54,6 +68,20 @@ Description: Configure APP's fake GPS location wherever you like.
 Author: chencong
 Name: GPS Manager
 
+Package: zntxyu.MIX.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
+Size: 69116
+MD5sum: cf6be935a8b78b7ed32d3ba931d777f2
+SHA1: d0a03c1ce2e0c4d545256b2cb4b1e0ced211239f
+SHA256: 6408a89dcd855b56eb9c42e32f04f261a846c24dc04385bd0fa7576dd90133ed
+Section: Utilities
+Description: MIX滤镜大师开启全滤镜下载权限和全功能。
+Author: 7Loopy
+Name: MIX滤镜大师 Crack
+
 Package: zntxyu.Modules.Battery
 Version: 1.0
 Architecture: iphoneos-arm
@@ -81,6 +109,20 @@ Section: Utilities
 Description: 拼图酱开启高级权限。
 Author: 7Loopy
 Name: 拼图酱 Crack
+
+Package: zntxyu.PicsArt.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
+Size: 69208
+MD5sum: eeb10ad4a4aad34e49b2caa7091c9482
+SHA1: 5f507967a067aaf141efc5beca4eda03f1fb926e
+SHA256: 4f006e54d69a77832c046a120d87ada37287aa93f129e3d71ddae8e0f1310052
+Section: Utilities
+Description: PicsArt美易开启高级权限。
+Author: 7Loopy
+Name: PicsArt美易 Crack
 
 Package: zntxyu.SpotiLife
 Version: 1.3a
