@@ -151,6 +151,21 @@ Description: Status Bar For Phone Assistant.
 Author: Zntxyu
 Name: Zntxyu Bar
 
+Package: zntxyu.StoreSwitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/zntxyu.StoreSwitcher2_1.0.3_iphoneos-arm.deb
+Size: 45830
+MD5sum: 2298c90d45c048fa5589a317cbb232b7
+SHA1: 52d6218ad98ca53383e056d3546dfef8abef00de
+SHA256: 74cbbbbecc29e8c144e330174c65725d8c4f3ae8d9f95b5c16ea63b33d7ec4a4
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
+
 Package: zntxyu.YueHei+Panton
 Version: 1.0
 Architecture: iphoneos-arm
